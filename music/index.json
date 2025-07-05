@@ -1,0 +1,106 @@
+[
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fist_love/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fist_love/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOCZ6QaPTld9CwjDBZu47HETssj9W8AArETAAJ8PSBVIqd_6YUmUQE2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/first_love.json",
+    "name": "First Love ( 初恋 )",
+    "singer": "Hikaru Utada",
+    "value": "First Love"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/mirai/poster.jpg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/mirai/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAODZ6WGF0j7oxIpPkgerQABaThaCeBzAAL8EgACfD0oVYm3MYkYG8qmNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/mirai.json",
+    "name": "Mirae ( 未来へ )",
+    "singer": "Kiroro",
+    "value": "Mirae"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/i_only_care_about_you/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/i_only_care_about_you/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOEZ6YbaEkWU_J0iT0HLUFVQWpyAtMAAo0WAALPSTBVNdU00n_vPPQ2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/i_only_care_about_you.json",
+    "name": "I Only Care About You ",
+    "singer": "テレサ・テン 黄昏 ",
+    "value": "I Only Care About You"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/saigono_iiwake/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/saigono_iiwake/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOFZ6i1m-WafwsJWaWpgSbMYNYJIFIAAlMVAAL5yklVMaXKTI4Kzks2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/saigono_iiwake.json",
+    "name": "Saigono iiwake",
+    "singer": "Hideaki Tokunaga",
+    "value": "Saigono iiwake"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/suzume/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/suzume/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOQZ7tLQrzQpmycuf0e-qW70NK3yVQAAmUVAALcTthV9g1SO6nm9Kc2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/suzume.json",
+    "name": "すずめ - Suzume",
+    "singer": "Radwimps (ft. Toaka)",
+    "value": "Suzume"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/tada_koe_hitotsu/banner.jpg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/tada_koe_hitotsu/poster.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOWZ87-wtomW2Dx4IouhkyZLrON3_cAAjAVAAL41HlWJ3Z93aL7N6A2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/tada_koe_hitotsu.json",
+    "name": "ただ声ーつ - tada koe hitotsu",
+    "singer": "Rokudenashi",
+    "value": "TadaKoeHitotsu"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yume_to_hazakura/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yume_to_hazakura/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAPWaAPbVb_0fxnKzpBPCQbCdsiT3MUAAj8YAALvryBUG_mEP9aoMyI2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/yume_to_hazakura.json",
+    "name": "夢と葉桜 - Yume to hazakura",
+    "singer": "Aoki Gekkoh",
+    "value": "Yume to hazakura"
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/a_little_love_song/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/a_little_love_song/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBWWgeUgUcnblN3OkUadQr5ZwxqSqlAAJuFgACcX3wVFI2uBm6duxWNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/a_little_love_song.json",
+    "name": "A little love song",
+    "singer": "amatsuki",
+    "value": "A little love song"
+  }
+]
