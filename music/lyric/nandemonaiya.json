@@ -1,0 +1,438 @@
+[
+  {
+    "time": 1000,
+    "japanese": "二人の間 通り過ぎた風は",
+    "romanized": "Futari no aida toorisugita kaze wa",
+    "hiraganaKatakana": "ふたりのあいだ とおりすぎたかぜは",
+    "myanmar": "ကိုယ်တို့၂ယောက်ကြားက ဖြတ်သန်းသွားတဲ့ လေပြေညှင်းလေးက"
+  },
+  {
+    "time": 6000,
+    "japanese": "どこから寂しさを運んできたの",
+    "romanized": "Doko kara sabishisa wo hakonde kita no",
+    "hiraganaKatakana": "どこからさびしさをはこんできたの",
+    "myanmar": "ဘယ်နေရာကနေများ အထီးကျန်မှုတွေ သယ်ဆောင်လာပါသလဲ"
+  },
+  {
+    "time": 12000,
+    "japanese": "泣いたりしたそのあとの空は",
+    "romanized": "Naitari shita sono ato no sora wa",
+    "hiraganaKatakana": "ないたりしたそのあとのそらは",
+    "myanmar": "ငိုပြီးတဲ့နောက်မှာတော့ အဲဒီကောင်းကင်ကြီးကလဲ"
+  },
+  {
+    "time": 18000,
+    "japanese": "やけに透き通っていたりしたんだ",
+    "romanized": "Yakeni sukitootte itari shitan da",
+    "hiraganaKatakana": "やけにすきとおっていたりしたんだ",
+    "myanmar": "ထူးထူးခြားခြား ကြည်လင်တောက်ပလာစမြဲပါ"
+  },
+  {
+    "time": 24000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 35000,
+    "japanese": "いつもは尖ってた父の言葉が",
+    "romanized": "Itsumo wa toga tteta chichi no kotoba ga",
+    "hiraganaKatakana": "いつもはとがってたちちのことばが",
+    "myanmar": "အမြဲလိုလို အလိုမကျဖြစ်နေတဲ့ အဖေ့ရဲ့ စကားတွေက"
+  },
+  {
+    "time": 40000,
+    "japanese": "今日は暖かく感じました",
+    "romanized": "Kyou wa atatakaku kanjimashita",
+    "hiraganaKatakana": "きょうはあたたかくかんじました",
+    "myanmar": "ဒီနေ့မှာတော့ နွေးထွေးမှုကို ခံစားခဲ့ရတယ်"
+  },
+  {
+    "time": 46000,
+    "japanese": "優しさも笑顔も夢の語り方も",
+    "romanized": "Yasashisa mo egao mo yume no katarikata mo",
+    "hiraganaKatakana": "やさしさもえがおもゆめのかたりかたも",
+    "myanmar": "ကြင်နာမှုတွေ အပြုံးတွေ စိတ်ကူးယဉ်အိမ်မက်တွေကိုလည်း"
+  },
+  {
+    "time": 52000,
+    "japanese": "知らなくて全部 君を真似たよ",
+    "romanized": "Shiranakute zenbu kimi wo maneta yo",
+    "hiraganaKatakana": "しらなくてぜんぶきみをまねたよ",
+    "myanmar": "မသိခဲ့တာကြောင့် အားလုံးကို မင်းဆီကဘဲ အတုခိုးခဲ့ရတယ်"
+  },
+  {
+    "time": 57500,
+    "japanese": "もう少しだけでいい あと少しだけでいい",
+    "romanized": "Mou sukoshi dake de ii ato sukoshi dake de ii",
+    "hiraganaKatakana": "もうすこしだけでいい あとすこしだけでいい",
+    "myanmar": "နဲနဲလောက်ဆိုရပါပြီ နောက်ထပ် နဲနဲလောက်ဆိုရပါပြီ"
+  },
+  {
+    "time": 63000,
+    "japanese": "もう少しだけでいいから",
+    "romanized": "Mou sukoshi dake de ii kara",
+    "hiraganaKatakana": "もうすこしだけでいいから",
+    "myanmar": "နောက်ထပ်နဲနဲလောက်ဆိုရင်ဘဲ အဆင်ပြေပြီမို့လို့"
+  },
+  {
+    "time": 68000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 69000,
+    "japanese": "もう少しだけでいい あと少しだけでいい",
+    "romanized": "Mou sukoshi dake de ii ato sukoshi dake de ii",
+    "hiraganaKatakana": "もうすこしだけでいい あとすこしだけでいい",
+    "myanmar": "နဲနဲလောက်ဆိုရပါပြီ နောက်ထပ် နဲနဲလောက်ဆိုရပါပြီ"
+  },
+  {
+    "time": 74000,
+    "japanese": "もう少しだけくっついていようか",
+    "romanized": "Mou sukoshi dake kuttsuite iyou ka",
+    "hiraganaKatakana": "もうすこしだけくっついていようか",
+    "myanmar": "နောက်ထပ်နဲနဲလောက် ဖြစ်ဖြစ် ဖက်တွယ်ထားကြရအောင်လား"
+  },
+  {
+    "time": 79000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 84000,
+    "japanese": "僕らタイムフライヤー 時を",
+    "romanized": "Bokura taimu furaiyaa toki wo",
+    "hiraganaKatakana": "ぼくらたいむふらいやー ときを",
+    "myanmar": "ကိုယ်တို့တွေဟာ အချိန်တွေကို ခုန်ကူးကျော်လွှားလာခဲ့တယ်"
+  },
+  {
+    "time": 87000,
+    "japanese": "駆け上がるクライマー時の",
+    "romanized": "kakeagaru kuraimaa toki no ",
+    "hiraganaKatakana": "かけあがるくらいまー ときの",
+    "myanmar": "အချိန်တွေကို ကျော်လွှားပြေးလာရင်းနဲ့"
+  },
+  {
+    "time": 90000,
+    "japanese": "かくれんぼ はぐれっこはもういやなんだ",
+    "romanized": "kakurenbo hagurekko wa mou iya nanda",
+    "hiraganaKatakana": "かくれんぼ はぐれっこはもういやなんだ",
+    "myanmar": "မင်းကို ရှာဖွေရတာတွေ မြင်ပြီး ပျောက်ကွယ်သွားတာတွေ ကိုယ်ထပ်ပြီး မခံစားချင်တော့ဘူး"
+  },
+  {
+    "time": 95000,
+    "japanese": "嬉しくて泣くのは 悲しくて笑うのは",
+    "romanized": "Ureshikute naku no wa kanashikute warau no wa",
+    "hiraganaKatakana": "うれしくてなくのは かなしくてわらうのは",
+    "myanmar": "ပျော်နေရင်း မျက်ရည်ကျလာတာတွေ ဝမ်းနည်းနေရင်း ပြုံးရယ်မိတာတွေ"
+  },
+  {
+    "time": 100000,
+    "japanese": "君の心が 君を追い越したんだよ",
+    "romanized": "Kimi no kokoro ga kimi wo oikoshitan da yo",
+    "hiraganaKatakana": "きみのこころが きみをおいこしたんだよ",
+    "myanmar": "မင်းရဲ့ နှလုံးသားလေးက မင်းကို ဉီးဆောင်လိုက်လို့ဘဲ"
+  },
+  {
+    "time": 105000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 126000,
+    "japanese": "星にまで願って 手にいれたオモチャも",
+    "romanized": "Hoshi ni made negatte te ni ireta omocha mo",
+    "hiraganaKatakana": "ほしにまでねがって てにいれたおもちゃも",
+    "myanmar": "ကြယ်တွေဆီမှာ ဆုတောင်းပြီး ရလာခဲ့တဲ့ အရုပ်လေးကလဲ"
+  },
+  {
+    "time": 132000,
+    "japanese": "部屋の隅っこに今 転がってる",
+    "romanized": "Heya no sumikko ni ima korogatteru",
+    "hiraganaKatakana": "へやのすみっこにいまころがってる",
+    "myanmar": "အခန်းထောင့်လေးမှာ အခုတော့ လဲကျနေတယ်"
+  },
+  {
+    "time": 137000,
+    "japanese": "叶えたい夢も 今日で100個できたよ",
+    "romanized": "Kanaetai yume mo kyou de hyakko dekita yo",
+    "hiraganaKatakana": "かなえたいゆめもきょうでひゃっこできたよ",
+    "myanmar": "ပြည့်မြောက်ချင်ခဲ့တဲ့ အိမ်မက်တွေကလဲ ဒီနေ့ဆို အခု တစ်ရာ ပြည့်သွားပြီ"
+  },
+  {
+    "time": 144000,
+    "japanese": "たった一つといつか 交換こしよう",
+    "romanized": "Tatta hitotsu to itsuka koukanko shiyou",
+    "hiraganaKatakana": "たったひとつといつかこうかんこしよう",
+    "myanmar": "တစ်နေ့မှာတော့ အဲအရာအားလုံးကို တောင်းဆုတစ်ခုထဲနဲ့ လဲပစ်မှာပါ"
+  },
+  {
+    "time": 150000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 155000,
+    "japanese": "いつもは喋らないあの子に今日は",
+    "romanized": "Itsumo wa shaberanai ano ko ni kyou wa",
+    "hiraganaKatakana": "いつもはしゃべらないあのこにきょうは",
+    "myanmar": "တစ်ခါမှတောင် စကားမပြောဖူးတဲ့ အဲကောင်မလေးကို ဒီနေ့တော့"
+  },
+  {
+    "time": 160000,
+    "japanese": "放課後「また明日」と声をかけた",
+    "romanized": "Houkago 'mata ashita' to koe wo kaketa",
+    "hiraganaKatakana": "ほうかご「またあした」とこえをかけた",
+    "myanmar": "ကျောင်းဆင်းတဲ့အချိန် 'မနက်ဖြန်တွေ့မယ်နော်' လို့ နှုတ်ဆက်ခဲ့တယ်"
+  },
+  {
+    "time": 166000,
+    "japanese": "慣れないこともたまにならいいね",
+    "romanized": "Narenai koto mo tama ni nara ii ne",
+    "hiraganaKatakana": "なれないこともたまにならいいね",
+    "myanmar": "ကျင့်သားမရသေးတာတွေကို တစ်ခါတစ်လေ လုပ်လိုက်တာလဲ ကောင်းပါတယ်လေ"
+  },
+  {
+    "time": 172000,
+    "japanese": "特にあなたが 隣にいたら",
+    "romanized": "Toku ni anata ga tonari ni itara",
+    "hiraganaKatakana": "とくにあなたがとなりにいたら",
+    "myanmar": "အထူးသဖြင့် ချစ်ရတဲ့မင်းလေး အနားမှာရှိနေရင်ပေါ့"
+  },
+  {
+    "time": 178000,
+    "japanese": "もう少しだけでいい あと少しだけでいい",
+    "romanized": "Mou sukoshi dake de ii ato sukoshi dake de ii",
+    "hiraganaKatakana": "もうすこしだけでいい あとすこしだけでいい",
+    "myanmar": "နဲနဲလောက်ဆိုရပါပြီ နောက်ထပ် နဲနဲလောက်ဆိုရပါပြီ"
+  },
+  {
+    "time": 183000,
+    "japanese": "もう少しだけでいいから",
+    "romanized": "Mou sukoshi dake de ii kara",
+    "hiraganaKatakana": "もうすこしだけでいいから",
+    "myanmar": "နောက်ထပ်နဲနဲလောက်ဆိုရင်ဘဲ အဆင်ပြေပြီမို့လို့"
+  },
+  {
+    "time": 189000,
+    "japanese": "もう少しだけでいい あと少しだけでいい",
+    "romanized": "Mou sukoshi dake de ii ato sukoshi dake de ii",
+    "hiraganaKatakana": "もうすこしだけでいい あとすこしだけでいい",
+    "myanmar": "နဲနဲလောက်ဆိုရပါပြီ နောက်ထပ် နဲနဲလောက်ဆိုရပါပြီ"
+  },
+  {
+    "time": 195000,
+    "japanese": "もう少しだけくっついていようよ",
+    "romanized": "Mou sukoshi dake kuttsuite iyou yo",
+    "hiraganaKatakana": "もうすこしだけくっついていようよ",
+    "myanmar": "နောက်ထပ်နဲနဲလောက် ဖြစ်ဖြစ် ဖက်တွယ်ထားကြရအောင်လေ"
+  },
+  {
+    "time": 200000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 203000,
+    "japanese": "僕らタイムフライヤー",
+    "romanized": "Bokura taimu furaiyaa",
+    "hiraganaKatakana": "ぼくらたいむふらいやー",
+    "myanmar": "ကိုယ်တို့တွေဟာ အချိန်တွေကို ခုန်ကူးကျော်လွှားလာခဲ့တယ်"
+  },
+  {
+    "time": 206000,
+    "japanese": "君を知っていたんだ",
+    "romanized": "kimi wo shitte itan da",
+    "hiraganaKatakana": "きみをしっていたんだ",
+    "myanmar": "မင်းကို ဟိုးအရင်ကထဲက သိလာခဲ့တဲ့ ကိုယ်က"
+  },
+  {
+    "time": 209000,
+    "japanese": "僕が 僕の名前を 覚えるよりずっと前に...",
+    "romanized": "Boku ga boku no namae wo oboeru yori zutto mae ni",
+    "hiraganaKatakana": "ぼくが ぼくのなまえを おぼえるよりずっとまえに...",
+    "myanmar": "ကိုယ့်နာမည်ကို မှတ်မိစေဖို့ထက်ကို ပိုပြီး ကြိုးစားခဲ့ရတဲ့အချိန်တွေထက်တောင်လေ..."
+  },
+  {
+    "time": 219000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 222000,
+    "japanese": "君のいない 世界にも 何かの意味はきっとあって",
+    "romanized": "Kimi no inai sekai ni mo nanika no imi wa kitto atte",
+    "hiraganaKatakana": "きみのいない せかいにも なにかのいみはきっとあって",
+    "myanmar": "မင်းမရှိတဲ့ လောကကြီးမှာ  ဘာအဓိပ္ပာယ်ရှိလဲလို့ မေးလာခဲ့ရင်"
+  },
+  {
+    "time": 227000,
+    "japanese": "でも君のいない 世界など",
+    "romanized": "Demo kimi no inai sekai nado",
+    "hiraganaKatakana": "でもきみのいない せかいなど",
+    "myanmar": "မင်းမရှိတဲ့လောကကြီးက"
+  },
+  {
+    "time": 230000,
+    "japanese": "夏休みのない 八月のよう",
+    "romanized": "natsu yasumi no nai hachigatsu no you",
+    "hiraganaKatakana": "なつやすみのない はちがつのよう",
+    "myanmar": "နွေရာသီပိတ်ရက်မရှိတဲ့ သြဂုတ်လလို ဖြစ်နေခဲ့မှာ"
+  },
+  {
+    "time": 233000,
+    "japanese": "君のいない 世界など",
+    "romanized": "kimi no inai sekai nado",
+    "hiraganaKatakana": "きみのいない せかいなど",
+    "myanmar": "မင်းမရှိတဲ့လောကကြီးက"
+  },
+  {
+    "time": 236000,
+    "japanese": " 笑うことない サンタのよう",
+    "romanized": "warau koto nai santa no you",
+    "hiraganaKatakana": "わらうことない さんたのよう",
+    "myanmar": "အပြုံးအရယ်မရှိတဲ့ ဆန်တာလိုမျိုး ဖြစ်နေခဲ့မှာ"
+  },
+  {
+    "time": 239000,
+    "japanese": "君のいない 世界など",
+    "romanized": "Kimi no inai sekai nado",
+    "hiraganaKatakana": "きみのいない せかいなど",
+    "myanmar": "မင်းမရှိတဲ့လောကကြီးက"
+  },
+  {
+    "time": 248000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+  {
+    "time": 272000,
+    "japanese": "僕らタイムフライヤー 時を",
+    "romanized": "Bokura taimu furaiyaa toki wo",
+    "hiraganaKatakana": "ぼくらたいむふらいやー ときを",
+    "myanmar": "ကိုယ်တို့တွေဟာ အချိန်တွေကို ခုန်ကူးကျော်လွှားလာခဲ့တယ်"
+  },
+  {
+    "time": 276000,
+    "japanese": "駆け上がるクライマー時の",
+    "romanized": "kakeagaru kuraimaa toki no ",
+    "hiraganaKatakana": "かけあがるくらいまー ときの",
+    "myanmar": "အချိန်တွေကို ကျော်လွှားပြေးလာရင်းနဲ့"
+  },
+  {
+    "time": 279000,
+    "japanese": "かくれんぼ はぐれっこはもういやなんだ",
+    "romanized": "kakurenbo hagurekko wa mou iya nanda",
+    "hiraganaKatakana": "かくれんぼ はぐれっこはもういやなんだ",
+    "myanmar": "မင်းကို ရှာဖွေရတာတွေ မြင်ပြီး ပျောက်ကွယ်သွားတာတွေ ကိုယ်ထပ်ပြီး မခံစားချင်တော့ဘူး"
+  },
+  {
+    "time": 285000,
+    "japanese": "なんでもないや やっぱりなんでもないや",
+    "romanized": "Nandemo nai ya yappari nandemo nai ya",
+    "hiraganaKatakana": "なんでもないや やっぱりなんでもないや",
+    "myanmar": "ဘာမှ မဖြစ်ပါဘူးကွာ တကယ့်ကို ဘာမှ မဖြစ်ပါဘူးကွာ"
+  },
+  {
+    "time": 289000,
+    "japanese": "今から行くよ",
+    "romanized": "Ima kara iku yo",
+    "hiraganaKatakana": "いまからいくよ",
+    "myanmar": "အခုကစပြီး လျှောက်လှမ်းသွားအုန်းမှာပါ"
+  },
+  {
+    "time": 291000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  },
+
+
+  {
+    "time": 293000,
+    "japanese": "僕らタイムフライヤー 時を",
+    "romanized": "Bokura taimu furaiyaa toki wo",
+    "hiraganaKatakana": "ぼくらたいむふらいやー ときを",
+    "myanmar": "ကိုယ်တို့တွေဟာ အချိန်တွေကို ခုန်ကူးကျော်လွှားလာခဲ့တယ်"
+  },
+  {
+    "time": 297000,
+    "japanese": "駆け上がるクライマー時の",
+    "romanized": "kakeagaru kuraimaa toki no ",
+    "hiraganaKatakana": "かけあがるくらいまー ときの",
+    "myanmar": "အချိန်တွေကို ကျော်လွှားပြေးလာရင်းနဲ့"
+  },
+  {
+    "time": 299500,
+    "japanese": "かくれんぼ はぐれっこ はもういいよ",
+    "romanized": "kakurenbo hagurekko wa mou ii yo",
+    "hiraganaKatakana": "かくれんぼ はぐれっこ はもういいよ",
+    "myanmar": "မင်းကို ရှာဖွေရတာတွေ မြင်ပြီး ပျောက်ကွယ်သွားတာတွေ ကိုယ်ထပ်ပြီး မခံစားချင်တော့ဘူး"
+  },
+  {
+    "time": 304000,
+    "japanese": "君は派手なクライヤー",
+    "romanized": "Kimi wa hade na kuraiyaa ",
+    "hiraganaKatakana": "きみははでなくらいやー",
+    "myanmar": "မင်းလေးက ကျယ်လောင်စွာ ငိုရှိုက်နေခဲ့တယ်"
+  },
+  {
+    "time": 307000,
+    "japanese": "その涙 止めてみたいな",
+    "romanized": "sono namida tomete mitai na",
+    "hiraganaKatakana": "そのなみだ とめてみたいな",
+    "myanmar": "အဲမျက်ရည်တွေကို ရပ်တန့်ပေးချင်ခဲ့တာ"
+  },
+  {
+    "time": 310000,
+    "japanese": "だけど 君は拒んだ",
+    "romanized": "Dakedo kimi wa kobanda",
+    "hiraganaKatakana": "だけど きみはこばんだ",
+    "myanmar": "ဒါပေမယ့် မင်းလေးက ငြင်းဆန်ခဲ့တယ်"
+  },
+  {
+    "time": 313000,
+    "japanese": "零れるままの涙を見てわかった",
+    "romanized": "koboreru mama no namida wo mite wakatta",
+    "hiraganaKatakana": "こぼれるままのなみだをみてわかった",
+    "myanmar": "တားလို့မရအောင် မျက်ရည်တွေကျလာခဲ့ချိန်မှာတော့ ကိုယ်နားလည်သွားခဲ့တယ်"
+  },
+  {
+    "time": 317000,
+    "japanese": "嬉しくて泣くのは 悲しくて 笑うのは",
+    "romanized": "Ureshikute naku no wa kanashikute warau no wa",
+    "hiraganaKatakana": "うれしくてなくのは かなしくてわらうのは",
+    "myanmar": "ပျော်နေရင်း မျက်ရည်ကျလာတာတွေ ဝမ်းနည်းနေရင်း ပြုံးရယ်မိတာတွေ"
+  },
+  {
+    "time": 321000,
+    "japanese": "僕の心が 僕を追い越したんだよ",
+    "romanized": "Boku no kokoro ga boku wo oikoshitan da yo",
+    "hiraganaKatakana": "ぼくのこころが ぼくをおいこしたんだよ",
+    "myanmar": "မင်းရဲ့ နှလုံးသားလေးက မင်းကို ဉီးဆောင်လိုက်လို့ဘဲ"
+  },
+  {
+    "time": 327000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  }
+]
