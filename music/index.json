@@ -1,6 +1,19 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/stay_with_me/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/stay_with_me/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBZmi7EMDbhwWp4NqhoblG8cvhQRVIAAJAIAACUYnYVcuNnPMRqqFqNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/stay_with_me.json",
+    "name": "Stay with me",
+    "singer": "Miki Matsubara",
+    "value": "Stay with me"
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/shinunoga_e_wa/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/shinunoga_e_wa/banner.jpeg",
