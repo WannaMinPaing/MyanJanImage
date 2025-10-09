@@ -1,6 +1,19 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kimi_ga_iru/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kimi_ga_iru/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBaWjn-Gz6MgVm5v9WmlNYfgOJZTLsAAIXGgACR0FAVytstXwlbdoRNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/kimi_ga_iru.json",
+    "name": "キミがいる",
+    "singer": "Galla",
+    "value": "kimi ga iru"
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/binkusu_no_sake/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/binkusu_no_sake/banner.jpeg",
