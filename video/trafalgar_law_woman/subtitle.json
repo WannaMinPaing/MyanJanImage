@@ -1,0 +1,162 @@
+[
+  {
+    "start": 6,
+    "end": 8,
+    "japanese": "出動準備 だ！ 急 げ！",
+    "romanized": "Shutsudō junbi da! Isoge!",
+    "hiraganaKatakana": "しゅつどうじゅんび だ！ いそ げ！",
+    "myanmar": "ထွက်ခွာဖို့ အဆင်သင့်ပဲ! မြန်မြန်လုပ်ကွာ!"
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "japanese": "女 ！",
+    "romanized": "On'naa!",
+    "hiraganaKatakana": "おんな ！",
+    "myanmar": "မိန်းမ!"
+  },
+  {
+    "start": 10,
+    "end": 13,
+    "japanese": "あー！キャプテン まで 女 になってる～！",
+    "romanized": "Ā! Kyaputen made on'na ni natteru~!",
+    "hiraganaKatakana": "あー！きゃぷてん まで おんな になってる～！",
+    "myanmar": "အား-! ကပ္ပတိန်က မိန်းကလေးဖြစ်သွားပြီ~!"
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "japanese": "あい！",
+    "romanized": "Ai!",
+    "hiraganaKatakana": "あい！",
+    "myanmar": "အား ဟီး...!"
+  },
+  {
+    "start": 15,
+    "end": 19,
+    "japanese": "くそ！ 力 が いつもより 出 ねえ。",
+    "romanized": "Kuso! Chikara ga itsumo yori denee.",
+    "hiraganaKatakana": "くそ！ ちから が いつもより で ねえ。",
+    "myanmar": "သေတာပဲ! အားတွေက ခါတိုင်းထက် နဲလာတာဘဲ။"
+  },
+  {
+    "start": 22,
+    "end": 26,
+    "japanese": "どうなっちまったんだ？ とにかく、 やべー！",
+    "romanized": "Dō nacchimattan da? Tonikaku, yabee!",
+    "hiraganaKatakana": "どうなっちまったんだ？ とにかく、 やべー！",
+    "myanmar": "ဘာဖြစ်သွားတာလဲ? ဘာပဲဖြစ်ဖြစ် အန္တရာယ်ရှိတယ်!"
+  },
+  {
+    "start": 27,
+    "end": 30,
+    "japanese": "可愛 いんだけど、 キャプテン！",
+    "romanized": "Kawaiin da kedo, Kyaputen!",
+    "hiraganaKatakana": "かわい いんだけど、 きゃぷてん！",
+    "myanmar": "ချစ်စရာကောင်းတယ်ဗျ၊ ကပ္ပတိန်!"
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "japanese": "はりたおすぞ オマエら！",
+    "romanized": "Hari taosu zo omaera!",
+    "hiraganaKatakana": "はりたおすぞ おまえら！",
+    "myanmar": "ငါ မင်းတို့ကို သတ်မယ်!"
+  },
+  {
+    "start": 32,
+    "end": 35,
+    "japanese": "きゃあ... それでも 可愛 い！",
+    "romanized": "Kyā! Soredemo kawaii!",
+    "hiraganaKatakana": "きゃあ... それでも かわい い！",
+    "myanmar": "အိုင်း.. ဒါပေမဲ့လည်း ချစ်ဖို့ကောင်းတယ်!"
+  },
+  {
+    "start": 36,
+    "end": 39,
+    "japanese": "ん？あー！しまった！オレまで！",
+    "romanized": "N? Ā! Shimatta! Ore made!",
+    "hiraganaKatakana": "ん？あー！しまった！おれまで！",
+    "myanmar": "ဟင်? အား-! ပြဿနာဘဲ! ငါလည်းဘဲ!"
+  },
+  {
+    "start": 40,
+    "end": 43,
+    "japanese": "あー！ 性別変 わっちまったー！",
+    "romanized": "Ā! Seibetsu kawacchimattā!",
+    "hiraganaKatakana": "あー！ せいべつか わっちまったー！",
+    "myanmar": "အား-! လိင်ပြောင်းသွားပြီ..!"
+  },
+  {
+    "start": 43,
+    "end": 45,
+    "japanese": "かかったやつに 触 れるな。",
+    "romanized": "Kakatta yatsu ni fureru na.",
+    "hiraganaKatakana": "かかったやつに ふ れるな。",
+    "myanmar": "ပြောင်းသွားတဲ့ကောင်ကို မထိနဲ့။"
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "japanese": "す、すまん。",
+    "romanized": "Su, suman.",
+    "hiraganaKatakana": "す、すまん。",
+    "myanmar": "ဆော၊ ဆောရီး။"
+  },
+  {
+    "start": 47,
+    "end": 52,
+    "japanese": "伝染 するんだ、 この 能力 は！ 性別変 わっちまうぞ！",
+    "romanized": "Densen surun da, kono nōryoku wa! Seibetsu kawacchimau zo!",
+    "hiraganaKatakana": "でんせん するんだ、 この のうりょく は！ せいべつか わっちまうぞ！",
+    "myanmar": "ကူးစက်တယ်ဗျ၊ ဒီစွမ်းရည်က! လိင်ပြောင်းသွားမယ်!"
+  },
+  {
+    "start": 54,
+    "end": 60,
+    "japanese": "だが... ヨンコ 戦 で 学ん だ... 破 れるはずだ！",
+    "romanized": "Daga... Yonko-sen de mananda... Yabureru hazu da!",
+    "hiraganaKatakana": "だが... よんこ せん で まなん だ... やぶ れるはずだ！",
+    "myanmar": "ဒါပေမယ့်... ရိုကိုစစ်ပွဲမှာ သင်ယူခဲ့တယ်... (ငါ)ချိုးဖျက်နိုင်တယ်!"
+  },
+  {
+    "start": 61,
+    "end": 65,
+    "japanese": "過剰 な 覇気 に、 能力 は 通 じねえ！",
+    "romanized": "Kajō na haki ni, nōryoku wa tsūjinee!",
+    "hiraganaKatakana": "かじょう な はき に、 のうりょく は つう じねえ！",
+    "myanmar": "ကြီးမားတဲ့ ဟာကီနဲ့ဆို၊ စွမ်းရည်တွေက အလုပ်မဖြစ်ဘူး!"
+  },
+  {
+    "start": 70,
+    "end": 92,
+    "japanese": "う、うあああ！",
+    "romanized": "U, uaaa!",
+    "hiraganaKatakana": "う、うあああ！",
+    "myanmar": "အ၊ အားー!"
+  },
+  {
+    "start": 94,
+    "end": 96,
+    "japanese": "海上 です、 キャプテン！",
+    "romanized": "Kaijō desu, Kyaputen!",
+    "hiraganaKatakana": "かいじょう です、 きゃぷてん！",
+    "myanmar": "ပင်လယ်ပေါ်မှာပါ၊ ကပ္ပတိန်!"
+  },
+  {
+    "start": 97,
+    "end": 99,
+    "japanese": "お、お、やったー！",
+    "romanized": "O, o, yattā!",
+    "hiraganaKatakana": "お、お、やったー！",
+    "myanmar": "အို၊ အို၊ အောင်မြင်သွားပြီー!"
+  },
+  {
+    "start": 100,
+    "end": 102,
+    "japanese": "男 に 戻 ってれえー！",
+    "romanized": "Otoko ni modotte ree!",
+    "hiraganaKatakana": "おとこ に もど ってれえー！",
+    "myanmar": "ယောင်္ကျားပြန်ဖြစ်သွားပြီကွာー!"
+  }
+]
