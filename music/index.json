@@ -1,4 +1,16 @@
-[
+[{
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/rage_your_dream/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/rage_your_dream/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBamjty19JbYWluu4WMHu34dmoA74TAALbGgACOIlwVywOlAkuy541NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/rage_your_dream.json",
+    "name": "Rage your dream",
+    "singer": "Yuri Masuda & Mototaka Segawa",
+    "value": "Rage your dream"
+  },
   {
     "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kimi_ga_iru/poster.jpeg",
