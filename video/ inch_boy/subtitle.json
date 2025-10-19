@@ -1,0 +1,690 @@
+[
+  {
+    "start": 4,
+    "end": 10,
+    "japanese": "むかし むかし の お 話 です。あるところに おじいさん と おばあさんが いました。",
+    "romanized": "Mukashi mukashi no ohanashi desu. Aru tokoro ni ojiisan to obaasan ga imashita.",
+    "hiraganaKatakana": "むかし むかし の お はなし です。あるところに おじいさん と おばあさんが いました。",
+    "myanmar": "ဟိုးရှေ့ရှေ့တုန်းက ပုံပြင်တစ်ပုဒ်ပါ။ တစ်နေရာတော့မှာ အဖိုးနဲ့ အဖွားက ရှိခဲ့ကြတယ်။"
+  },
+  {
+    "start": 10,
+    "end": 16,
+    "japanese": "とても 仲良く 暮 らしていましたが、 二人 に は 子供 が いませんでした。",
+    "romanized": "Totemo nakayoku kurashiteimashita ga, futari ni wa kodomo ga imasendeshita.",
+    "hiraganaKatakana": "とても なかよく く らしていましたが、 ふたり に は こども が いませんでした。",
+    "myanmar": "အရမ်းချစ်ခင်စွာ နေထိုင်ခဲ့ကြသော်လည်း သူတို့နှစ်ဦးမှာ ကလေးမရှိခဲ့ပါ။"
+  },
+  {
+    "start": 16,
+    "end": 22,
+    "japanese": "どうか 子供 を お 授 けください。どんな 子 でも いい、 それは それは  可愛 がります から。",
+    "romanized": "Dōka kodomo o osazuke kudasai. Donna ko demo ii, sore wa sore wa kawaigarimasu kara.",
+    "hiraganaKatakana": "どうか こども を お さず けください。どんな こ でも いい、 それは それは  かわい がります から。",
+    "myanmar": "ကျေးဇူးပြုပြီး ကလေးတစ်ဦး ပေးပါ။ ဘယ်လိုကလေးဖြစ်ဖြစ် ရပါတယ်၊ အရမ်းအရမ်း ချစ်ခင်ကြင်နာချင်တာကြောင့်"
+  },
+  {
+    "start": 22,
+    "end": 29,
+    "japanese": "おじいさん と おばあさん は、 毎日 毎日、神様 に お 祈 りしていました。",
+    "romanized": "Ojiisan to obaasan wa, mainichi mainichi, kamisama ni oinori shiteimashita.",
+    "hiraganaKatakana": "おじいさん と おばあさん は、 まいにち まいにち、かみさま に お いの りしていました。",
+    "myanmar": "အဖိုးနဲ့အဖွားဟာ၊ နေ့တိုင်း နေ့တိုင်း ဘုရားသခင်ထံ ဆုတောင်းနေခဲ့ကြသည်။"
+  },
+  {
+    "start": 29,
+    "end": 33,
+    "japanese": "そして ある 日 、 願 いが 叶 って 赤 ちゃんが 生 まれました。",
+    "romanized": "Soshite aru hi, negai ga kanatte akachan ga umaremashita.",
+    "hiraganaKatakana": "そして ある ひ 、 ねが いが かな って あか ちゃんが う まれました。",
+    "myanmar": "တစ်နေ့တော့ ဆုတောင်းပြည့်သွားပြီးတော့  ကလေးတစ်ဦး မွေးဖွားလာခဲ့တယ်။"
+  },
+  {
+    "start": 33,
+    "end": 40,
+    "japanese": "それは 大人 の 親指 ほど の 小さな 小さな 男 の 子 でした。",
+    "romanized": "Sore wa otona no oyayubi hodo no chiisana chiisana otoko no ko deshita.",
+    "hiraganaKatakana": "それは おとな の おやゆび ほど の ちいさな ちいさな おとこ の こ でした。",
+    "myanmar": "အဲ့ဒီကလေးကတော့ လူကြီးလက်မအရွယ်ဘဲရှိတဲ့ သေးငယ်လှတဲ့ ကောင်လေးဖြစ်ခဲ့တယ်။"
+  },
+  {
+    "start": 40,
+    "end": 47,
+    "japanese": "なんと 可愛 らしい 赤子 じゃ。 神様 の おかげじゃ。 よかったのう、 おじいさん。",
+    "romanized": "Uwā, nanto kawairashii akago ja. Kamisama no okage ja. Yokatta no u, ojiisan.",
+    "hiraganaKatakana": "なんと かわい らしい あかご じゃ。 かみさま の おかげじゃ。 よかったのう、 おじいさん。",
+    "myanmar": "ဘယ်လောက်တောင် ချစ်စရာကောင်းတဲ့ ကလေးလဲ။ ဘုရားသခင်ကျေးဇူးကြောင့်။ တော်သေးတာပေါ့ အဖိုးကြီးရေ။"
+  },
+  {
+    "start": 47,
+    "end": 51,
+    "japanese": "この 可愛 い 子 は 一寸法師 と 名付 けられました。",
+    "romanized": "Kono kawaii ko wa Issunbōshi to nazukeraremashita.",
+    "hiraganaKatakana": "この かわい い こ は いっすんぼうし と なづ けられました。",
+    "myanmar": "ဒီချစ်စရာကောင်းတဲ့ကလေးကို ငလက်မလေးလို့ နာမည်ပေးခဲ့တယ်"
+  },
+  {
+    "start": 51,
+    "end": 58,
+    "japanese": "一寸法師 は すくすく と 育 ち、 野山 を 駆 け 回 る 元気 な 子 になりました。",
+    "romanized": "Issunbōshi wa sukusuku to sodachi, noyama o kakemawaru genki na ko ni narimashita.",
+    "hiraganaKatakana": "いっすんぼうし は すくすく と そだ ち、 のやま を か け まわ る げんき な こ になりました。",
+    "myanmar": "ငလက်မလေးဟာ ကျန်းမာသန်စွမ်းစွာကြီးပြင်းလာပြီး တောတောင်တွေမှာ ပြေးလွှားသန်မာ လာခဲ့တယ်"
+  },
+  {
+    "start": 58,
+    "end": 65,
+    "japanese": "ところが、 あんまり 体 が 小 さいので、 村 の 子供 たちと は 一緒に 遊 べません。",
+    "romanized": "Tokoroga, anmari karada ga chiisai node, mura no kodomotachi to wa issho ni asobemasen.",
+    "hiraganaKatakana": "ところが、 あんまり からだ が ちい さいので、 むら の こども たちと は いっしょに あそ べません。",
+    "myanmar": "ဒါပေမဲ့ အရမ်း ခန္ဓာသေးတာကြောင့် ကျေးရွာကကလေးတွေနဲ့ အတူတူ မကစားနိုင်ပါ။"
+  },
+  {
+    "start": 65,
+    "end": 70,
+    "japanese": "こんなに ご飯 食 べてる のに 大 きくならねえとは 不思議 だのう。",
+    "romanized": "Konna ni gohan tabeteru noni ōkiku naranee to wa fushigi da nō. ",
+    "hiraganaKatakana": "こんなに ごはん た べてる のに おお きくならねえとは ふしぎ だのう。",
+    "myanmar": "ဒီလောက် ထမင်းစားပေမယ့် မကြီးလာတာ အံ့သြစရာပဲနော်"
+  },
+  {
+    "start": 70,
+    "end": 76,
+    "japanese": "元気 で 育 っているんですもの。 いいじゃありませんか。 ほっほっほ。",
+    "romanized": "Genki de sodatte iru n desu mono. Ii ja arimasen ka. Hohoho.",
+    "hiraganaKatakana": "げんき で そだ っているんですもの。 いいじゃありませんか。 ほっほっほ。",
+    "myanmar": "ကျန်းမာသန်စွမ်းစွာဖြင့် ကြီးပြင်းနေတယ်ဆိုတော့ ကောင်းတာဘဲ မဟုတ်ဘူးလား။ ဟဲဟဲ"
+  },
+  {
+    "start": 76,
+    "end": 80,
+    "japanese": "このままで、 あの 子 は 幸 せになれるんじゃろうか。",
+    "romanized": "Kono mama de, ano ko wa shiawase ni nareru n jarou ka.",
+    "hiraganaKatakana": "このままで、 あの こ は しあわ せになれるんじゃろうか。",
+    "myanmar": "ဒီလိုနဲ့ အဲ့ဒီကလေးဟာ ပျော်ရွှင်နိုင်မလားနော်။"
+  },
+  {
+    "start": 80,
+    "end": 82,
+    "japanese": "そんな ある 日 の こと",
+    "romanized": "Kono mama de, ano ko wa shiawase ni nareru n jarou ka.",
+    "hiraganaKatakana": "そんな ある ひ の こと",
+    "myanmar": "ဒီလိုနဲ့ တစ်နေ့မှာတော့။"
+  },
+  {
+    "start": 82,
+    "end": 86,
+    "japanese": "おじいさん、 おばあさん、 お 願 いがあります。",
+    "romanized": "Ojiisan, obaasan, onegai ga arimasu.",
+    "hiraganaKatakana": "おじいさん、 おばあさん、 お ねが いがあります。",
+    "myanmar": "အဖိုးနဲ့ အဖွား၊ တောင်းဆိုချင်တာရှိပါတယ်"
+  },
+  {
+    "start": 86,
+    "end": 91,
+    "japanese": "こ、 これ、 法師 や。 改 まって 一体 どうしたのじゃ。",
+    "romanized": "Ko, kore, Hōshi ya. Aratamatte ittai dō shita no ja.",
+    "hiraganaKatakana": "こ、 これ、 ほうし や。 あらた まって いったい どうしたのじゃ。",
+    "myanmar": "အဲ.. အဲ ငလက်မလေး တော်တော်လေး စိုးရိမ်ပြီး ဘာဖြစ်လာတာလဲ။"
+  },
+  {
+    "start": 91,
+    "end": 93,
+    "japanese": "私 を 都 へ 行 かせてください。",
+    "romanized": "Watashi o Miyako e ikasete kudasai.",
+    "hiraganaKatakana": "わたし を みやこ へ い かせてください。",
+    "myanmar": "ကျွန်တော်ကို မြို့သို့ သွားခွင့်ပေးပါ။"
+  },
+  {
+    "start": 93,
+    "end": 100,
+    "japanese": "広 い 世 の 中 を 見て、 いろいろ 学 んで、 立派 な 人 になりたいんです。",
+    "romanized": "Hiroi yo no naka o mite, iroiro manande, rippa na hito ni naritai n desu.",
+    "hiraganaKatakana": "ひろ い よ の なか を みて、 いろいろ まな んで、 りっぱ な ひと になりたいんです。",
+    "myanmar": "ကျယ်ပြောသော ကမ္ဘာကြီးကို ကြည့်ပြီး အမျိုးမျိုး သင်ယူပြီး ကြီးမြတ်တဲ့ လူ ဖြစ်ချင်သည်။"
+  },
+  {
+    "start": 100,
+    "end": 107,
+    "japanese": "うーん。 都 は とても 遠 いのよ。 ましてや 小 さな お 前 の 足 で は どれほどかかるか。",
+    "romanized": "Ūn. Miyako wa totemo tōi no yo. Mashite ya chiisana omae no ashi de wa dore hodo kakaru ka.",
+    "hiraganaKatakana": "うーん。 みやこ は とても とお いのよ。 ましてや ちい さな お まえ の あし で は どれほどかかるか。",
+    "myanmar": "ဟင်း… မြို့ကြီးက အရမ်းဝေးပါတယ်နော်။ နောက်ပြီး မင်းခြေထောက်သေးသေးလေးနဲ့ဆိုရင် ဘယ်လောက်ကြာမလဲ။"
+  },
+  {
+    "start": 107,
+    "end": 113,
+    "japanese": "大丈夫 です。 川 を 下 っていけば 都 に 着 けると、 鳥 が 教 えてくれました。",
+    "romanized": "Daijōbu desu. Kawa o kudatte ikeba Miyako ni tsukeru to, tori ga oshiete kuremashita.",
+    "hiraganaKatakana": "だいじょうぶ です。 かわ を くだ っていけば みやこ に つ けると、 とり が おし えてくれました。",
+    "myanmar": "အဆင်ပြေပါတယ်။ မြစ်ကိုစုန်ဆင်းရင် မြို့ကြီးသို့ ရောက်နိုင်ကြောင်း ငှက်က ပြောပြခဲ့ပါတယ်။"
+  },
+  {
+    "start": 113,
+    "end": 116,
+    "japanese": "そりゃあ そう だけど、 お 前 ...",
+    "romanized": "Soryā sō da kedo, omae...",
+    "hiraganaKatakana": "そりゃあ そう だけど、 お まえ ...",
+    "myanmar": "ဟုတ်ပါတယ်၊ ဒါပေမယ့် မင်း…"
+  },
+  {
+    "start": 116,
+    "end": 121,
+    "japanese": "よーし、 望 みどおり 行 ってきなさい。 立派 に なった 姿 を 見 せておくれ。",
+    "romanized": "Yōshi, nozomi dōri ittekinasai. Rippa ni natta sugata o misete okure.",
+    "hiraganaKatakana": "よーし、 のぞ みどおり い ってきなさい。 りっぱ に なった すがた を み せておくれ。",
+    "myanmar": "ကောင်းပြီ၊ မင်းဆန္ဒအတိုင်း သွားပါ။ ကြီးပြင်းလာတဲ့ မင်းပုံစံကို မြင်ချင်ပါတယ်။"
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "japanese": "はい！",
+    "romanized": "Hai!",
+    "hiraganaKatakana": "はい！",
+    "myanmar": "ဟုတ်ကဲ့!"
+  },
+  {
+    "start": 124,
+    "end": 127,
+    "japanese": "旅立 ち の 日 が 来 ました。",
+    "romanized": "Tabidachi no hi ga kimashita.",
+    "hiraganaKatakana": "たびだ ち の ひ が き ました。",
+    "myanmar": "ခရီးစတင်သည့်နေ့ကို ရောက်လာပါပြီ။"
+  },
+  {
+    "start": 127,
+    "end": 134,
+    "japanese": "一寸法師 は、 縫 い 針 の 刀 を 腰 に 刺 し、 お 椀 を 船 に、 箸 を 貝 にして、 都 へ 行 くことにしました。",
+    "romanized": "Issunbōshi wa, nuibari no katana o koshi ni sashi, owan o fune ni, hashi o kai ni shite, Miyako e iku koto ni shimashita.",
+    "hiraganaKatakana": "いっすんぼうし は、 ぬ い ばり の かたな を こし に さ し、 お わん を ふね に、 はし を かい にして、 みやこ へ い くことにしました。",
+    "myanmar": "ငလက်မလေးက ပင်အပ်ဓားကို ခါးမှာထိုးပြီး၊ ပန်းကန်ကို သင်္ဘောအဖြစ် သုံးပြီး  မြို့ကြီးသို့ သွားရန် စီစဉ်ခဲ့သည်။"
+  },
+  {
+    "start": 134,
+    "end": 137,
+    "japanese": "体 に 気 を つけてね。",
+    "romanized": "Karada ni ki o tsukete ne.",
+    "hiraganaKatakana": "からだ に き を つけてね。",
+    "myanmar": "ဂရုစိုက်ပါနော်။"
+  },
+  {
+    "start": 137,
+    "end": 142,
+    "japanese": "はい、 行 ってきます。",
+    "romanized": "Hai, ittekimasu.",
+    "hiraganaKatakana": "はい、 い ってきます。",
+    "myanmar": "ဟုတ်ကဲ့၊ သွားပါတော့မယ်။"
+  },
+  {
+    "start": 142,
+    "end": 145,
+    "japanese": "気 を つけるん じゃぞー。",
+    "romanized": "Ki o tsukerun ja zō.",
+    "hiraganaKatakana": "き を つけるん じゃぞー。",
+    "myanmar": "ဂရုစိုက်ပါနော်၊ နားလည်လား!"
+  },
+  {
+    "start": 145,
+    "end": 156,
+    "japanese": "一寸法師 は 元気 に 川 を 進 みました。 雨 の 降 る 日 も、 風 の 強 い 日 も ありました。",
+    "romanized": "Issunbōshi wa genki ni kawa o susumimashita. Ame no furu hi mo, kaze no tsuyoi hi mo arimashita.",
+    "hiraganaKatakana": "いっすんぼうし は げんき に かわ を すす みました。 あめ の ふ る ひ も、 かぜ の つよ い ひ も ありました。",
+    "myanmar": "ငလက်မလေး ဟာ ဂရုတစိုက် မြစ်ကို ဖြတ်သန်းခဲ့သည်။ မိုးရွာရက်တွေရော၊ လေပြင်းရက်တွေလည်း ရှိခဲ့တယ်"
+  },
+  {
+    "start": 156,
+    "end": 159,
+    "japanese": "危 ない 目 に 遭 ったこともありましたが、",
+    "romanized": "Abunai me ni atta koto mo arimashita ga,",
+    "hiraganaKatakana": "あぶ ない め に あ ったこともありましたが、",
+    "myanmar": "အန္တရာယ်ကြုံတွေ့ခဲ့ရပေမယ့်"
+  },
+  {
+    "start": 159,
+    "end": 166,
+    "japanese": "それでも どんどん 川 を 進 んでいきますと、 行 く 手 に 大 きな 橋 が 見 えてきました。",
+    "romanized": "soredemo dondon kawa o susunde ikimasu to, yukute ni ōkina hashi ga miete kimashita.",
+    "hiraganaKatakana": "それでも どんどん かわ を すす んでいきますと、 ゆ く て に おお きな はし が み えてきました。",
+    "myanmar": "ဒါနဲ့ စဉ်ဆက်မပြတ် မြစ်ကို ဖြတ်သန်းသွားပြီး လမ်းရှေ့မှာ တံတားကြီးကြီးကို မြင်လာခဲ့တယ်"
+  },
+  {
+    "start": 166,
+    "end": 170,
+    "japanese": "ついに 都 に 着 いたのです。",
+    "romanized": "Tsuini Miyako ni tsuita no desu.",
+    "hiraganaKatakana": "ついに みやこ に つ いたのです。",
+    "myanmar": "နောက်ဆုံးတော့ မြို့ကြီးသို့ ရောက်သွားပါပြီ။"
+  },
+  { 
+    "start": 174,
+    "end": 181,
+    "japanese": "わぁ、にぎやかだなあ。 村 とは 全然違 うなあ。",
+    "romanized": "Wā, nigiyaka da nā. Mura to wa zenzen chigau nā.",
+    "hiraganaKatakana": "わぁ、にぎやかだなあ。 むら とは ぜんぜんちが うなあ。",
+    "myanmar": "ဝါး.. စည်ကားနေတာပဲ။ ကျေးရွာနဲ့ လုံးဝ မတူဘူးနော်။"
+  },
+  {
+    "start": 182,
+    "end": 190,
+    "japanese": "一寸法師 は、 たくさん の 人 の 間 を 踏 まれないように すり 抜 け、 大通 り を 歩 いていきました。",
+    "romanized": "Issunbōshi wa, takusan no hito no aida o fumarenai yō ni surinuke, ōdōri o aruite ikimashita.",
+    "hiraganaKatakana": "いっすんぼうし は、 たくさん の ひと の あいだ を ふ まれないように すり ぬ け、 おおどお り を ある いていきました。",
+    "myanmar": "ငလက်မလေးက လူအများကြားမှာ မနင်းမိအောင် ဖြတ်ကျော်ပြီး၊ လမ်းကြီးပေါ်ကို လျှောက်သွားခဲ့သည်။"
+  },
+  {
+    "start": 189,
+    "end": 193,
+    "japanese": "まずは 偉 い 人 の ところに 行 こう。",
+    "romanized": "Mazu wa erai hito no tokoro ni ikou.",
+    "hiraganaKatakana": "まずは えら い ひと の ところに い こう。",
+    "myanmar": "အရင်ဆုံးတော့ အကြီးအကဲရှိတဲ့နေရာကို သွားမယ်"
+  },
+  {
+    "start": 193,
+    "end": 202,
+    "japanese": "と、 歩 き 回 るうち、 ある 大 きな 御殿 の 前 に 出 ました。 それは、 大臣 の お 屋敷 でした。",
+    "romanized": "To, arukimawaru uchi, aru ōkina goden no mae ni demashita. Sore wa, daijin no oyashiki deshita.",
+    "hiraganaKatakana": "と、 ある き まわ るうち、 ある おお きな ごでん の まえ に で ました。 それは、 だいじん の お やしき でした。",
+    "myanmar": "လမ်းလျှောက်နေရင် တစ်ခုထဲသော ကြီးမားတဲ့ အိမ်ရှေ့ကို ရောက်သွားခဲ့တယ်။ အဲ့ဒါက ဝန်ကြီးရဲ့ အိမ်ကြီး ဖြစ်နေခဲ့တယ်။"
+  },
+  {
+    "start": 202,
+    "end": 208,
+    "japanese": "たのむー！たのむー！",
+    "romanized": "Tanomu! Tanomu!",
+    "hiraganaKatakana": "たのむー！たのむー！",
+    "myanmar": "ကူညီပါလား! ကူညီပါလား!"
+  },
+  {
+    "start": 210,
+    "end": 213,
+    "japanese": "うーん？ 誰 もおらぬ。 妙 じゃな。",
+    "romanized": "Ūn? Dare mo oranu. Myō ja na.",
+    "hiraganaKatakana": "うーん？ だれ もおらぬ。 みょう じゃな。",
+    "myanmar": "ဟင်…? ဘယ်သူမှ မရှိဘူး။ ထူးဆန်းတယ်နော်။"
+  },
+  {
+    "start": 213,
+    "end": 216,
+    "japanese": "ここです、ここです。",
+    "romanized": "Koko desu, koko desu.",
+    "hiraganaKatakana": "ここです、ここです。",
+    "myanmar": "ဒီမှာပါ၊ ဒီမှာပါ။"
+  },
+  {
+    "start": 215,
+    "end": 216,
+    "japanese": "うおー！",
+    "romanized": "Uō!",
+    "hiraganaKatakana": "うおー！",
+    "myanmar": "အိုး!"
+  },
+  {
+    "start": 216,
+    "end": 222,
+    "japanese": "私 は 一寸法師 と 申 します。 ここ の ご 主人 に 会 わせて ください。",
+    "romanized": "Watashi wa Issunbōshi to mōshimasu. Koko no goshujin ni awasete kudasai.",
+    "hiraganaKatakana": "わたし は いっすんぼうし と もう します。 ここ の ご しゅじん に あ わせて ください。",
+    "myanmar": "ကျွန်တော်ကို ငလက်မ လို့ ခေါ်ပါတယ်။ ဒီနေရာရဲ့ အိမ်ရှင်နဲ့ တွေ့ခွင့်ပြုပေးပါ။"
+  },
+  {
+    "start": 222,
+    "end": 227,
+    "japanese": "一寸法師 か。 珍 しい 子 じゃのう。 よし、 案内 してあげよう。",
+    "romanized": "Issunbōshi ka. Mezurashii ko ja nō. Yoshi, annai shite ageyō.",
+    "hiraganaKatakana": "いっすんぼうし か。 めずら しい こ じゃのう。 よし、 あんない してあげよう。",
+    "myanmar": "ငလက်မလား။ ထူးခြားတဲ့ကလေးနော်။ ကောင်းပြီ၊ လမ်းပြပေးမယ်။"
+  },
+  {
+    "start": 227,
+    "end": 232,
+    "japanese": "家来 は びっくりして、 一寸法師 を 大臣 の 前 に 連 れて 行 きました。",
+    "romanized": "Kerai wa bikkuri shite, Issunbōshi o daijin no mae ni tsurete ikimashita. ",
+    "hiraganaKatakana": "けらい は びっくりして、 いっすんぼうし を だいじん の まえ に つ れて い きました。",
+    "myanmar": "အလုပ်သမားက အံ့သြပြီး ငလက်မကို ဝန်ကြီးရဲ့အရှေ့သို့ ယူသွားကြသည်။"
+  },
+  {
+    "start": 232,
+    "end": 241,
+    "japanese": "大臣 も こんな 小 さな 人間 を 見 るのは 初 めてです。 じーっと 一寸法師 を 見 つめました。",
+    "romanized": " Daijin mo konna chiisana ningen o miru no wa hajimete desu. Jī tto Issunbōshi o mitsumemashita.",
+    "hiraganaKatakana": "だいじん も こんな ちい さな にんげん を み るのは はじ めてです。 じーっと いっすんぼうし を み つめました。",
+    "myanmar": "ဝန်ကြီးလည်း ဒီလောက်သေးငယ်တဲ့ လူကို ကြည့်ဖူးတာ ပထမဆုံးပါ။ စေ့စပ်စွာ ငလက်မကို ကြည့်နေခဲ့တယ်။"
+  },
+  {
+    "start": 241,
+    "end": 245,
+    "japanese": "私 は、 体 は 小 さいですが、 他 の 人 に 負 けないように 働 きます",
+    "romanized": "Watashi wa, karada wa chiisai desu ga, hoka no hito ni makenai yō ni hatarakimasu.",
+    "hiraganaKatakana": "わたし は、 からだ は ちい さいですが、 ほか の ひと に ま けないように はたら きます。",
+    "myanmar": "ကျွန်တော် ခန္ဓာကိုယ်သေးငယ်ပေမယ့် အခြားလူများဆီမှာ မယှဉ်နိုင်အောင် အလုပ်လုပ်မယ်။"
+  },
+  {
+    "start": 245,
+    "end": 250,
+    "japanese": "どうか、 こちらで 勉強 させてください。",
+    "romanized": "Dōka, kochira de benkyō sasete kudasai.",
+    "hiraganaKatakana": "どうか、 こちらで べんきょう させてください。",
+    "myanmar": "ကျေးဇူးပြု၍ ဒီနေရာမှာ သင်ကြားခွင့်ပေးပါ။"
+  },
+  {
+    "start": 250,
+    "end": 257,
+    "japanese": "うーん、 一寸法師 とやら、 小 さいが、 志 はしっかりして いるようじゃな。",
+    "romanized": "Ūn, Issunbōshi to yara, chiisai ga, kokorozashi wa shikkari shite iru yō ja na.",
+    "hiraganaKatakana": "うーん、 いっすんぼうし とやら、 ちい さいが、 こころざし はしっかりして いるようじゃな。",
+    "myanmar": "ဟင်း… ငလက်မက သေးငယ်ပေမဲ့ ရည်မှန်းချက်ခိုင်မာတယ်နော်။"
+  },
+  {
+    "start": 257,
+    "end": 263,
+    "japanese": "大臣 は すっかり 気 に 入 って、 一寸法師 を 屋敷 に 置 くことにしました。",
+    "romanized": "Daijin wa sukkari ki ni itte, Issunbōshi o yashiki ni oku koto ni shimashita.",
+    "hiraganaKatakana": "だいじん は すっかり き に い って、 いっすんぼうし を やしき に お くことにしました。",
+    "myanmar": "ဝန်ကြီးက အရမ်းကြိုက်နှစ်သက်ပြီး ငလက်မကို အိမ်မှာထားဖို့ဆုံးဖြတ်သည်။"
+  },
+  {
+    "start": 263,
+    "end": 273,
+    "japanese": "一寸法師 は 一生懸命 に 働き、 読 み 書 きを 習 ったり、 剣術 も 学 びました。",
+    "romanized": "Issunbōshi wa isshōkenmei ni hataraki, yomikaki o narattari, kenjutsu mo manabimashita.",
+    "hiraganaKatakana": "いっすんぼうし は いっしょうけんめい に はたらき、 よ み か きを なら ったり、 けんじゅつ も まな びました。",
+    "myanmar": "ငလက်မက ကြိုးစားပြီး အလုပ်လုပ်တယ်, စာရေးဖတ် သင်ယူတယ် ဓားသုံးနည်းလည်း သင်ယူခဲ့သည်။"
+  },
+  {
+    "start": 274,
+    "end": 282,
+    "japanese": "大臣 の お 姫様 は 一寸法師 を 特 に かわいがって、 いつも そばに 置 いて 和歌 を 教 えたりしました。",
+    "romanized": "IDaijin no ohimesama wa Issunbōshi o toku ni kawaigatte, itsumo soba ni oite waka o oshietari shimashita.",
+    "hiraganaKatakana": "だいじん の お ひめさま は いっすんぼうし を とく に かわいがって、 いつも そばに お いて わか を おし えたりしました。",
+    "myanmar": "ဝန်ကြီးရဲ့ သမီးမလေးက ငလက်မကို အရမ်းချစ်ပြီး အမြဲ အနားမှာထား၍ ဝကာ(ဂျပန်စာချုံး)သင်ပေးခဲ့သည်။"
+  },
+  {
+    "start": 282,
+    "end": 294,
+    "japanese": "こうして 何年 かの 月日 が 流 れました。 一寸法師 は 体 こそ 小 さいままでしたが、 大臣 からも 頼 りにされる 家来 となっていました。",
+    "romanized": " Kōshite nan nen ka no tsukihi ga nagaremashita. Issunbōshi wa karada koso chiisai mama deshita ga, daijin kara mo tayori ni sareru kerai to natte imashita.",
+    "hiraganaKatakana": "こうして なんねん かの つきひ が なが れました。 いっすんぼうし は からだ こそ ちい さいままでしたが、 だいじん からも たよ りにされる けらい となっていました。",
+    "myanmar": "ဒီလိုနဲ့ နှစ်ပေါင်းများစွာ ကုန်လွန်သွားခဲ့သည်။ ငလက်မက ခန္ဓာကိုယ် သေးသေးလေး ဖြစ်နေခဲ့ပေမဲ့ ဝန်ကြီးကလည်း အားထားရတဲ့ ဝန်ထမ်းဖြစ်လာခဲ့တယ်"
+  },
+  {
+    "start": 294,
+    "end": 302,
+    "japanese": "そんなある 晴 れた 春 の 日、 お 姫様 が 清水 の 観音様 に お 参 りすることになりました。",
+    "romanized": " Sonna aru hareta haru no hi, ohimesama ga Kiyomizu no Kannon-sama ni omairi suru koto ni narimashita.",
+    "hiraganaKatakana": "そんなある は れた はる の ひ、 お ひめさま が きよみず の かんのんさま に お まい りすることになりました。",
+    "myanmar": "ဒီလိုနဲ့ နေသာတဲ့ နွေဦးနေ့မှာ မင်းသမီးလေးက ကိယိုမစ်ဇုကန်မိုစမ(နာမည်ကြီးဘုရားကျောင်း) သွားလည်ဖို့ ဆုံးဖြတ်ခဲ့တယ်။"
+  },
+  {
+    "start": 302,
+    "end": 314,
+    "japanese": "一寸法師 も お 供 をして お 参 りが 終 わり、 石段 を 降 りてくると、 空 には 黒雲 が 湧 き、 嫌 な 風 が 吹 いてきたのです。",
+    "romanized": " Issunbōshi mo otomo o shite omairi ga owari, ishidann o orite kuru to, sora ni wa kokun kumo ga waki, iya na kaze ga fuite kita no desu.",
+    "hiraganaKatakana": "いっすんぼうし も お とも をして お まい りが お わり、 いしだん を お りてくると、 そら には こくんくも が わ き、 いや な かぜ が ふ いてきたのです。",
+    "myanmar": "ငလက်မလည်း အတူသွားကာ ဘုရားဖူးပြီးတဲ့နောက် ကျောက်လှေကားဆင်းတော့ မိုးကောင်းကင်မှာ အနက်ရောင်မိုးတိမ်တွေ ပေါ်လာပြီး မကောင်းတဲ့လေတွေ ထန်လာခဲ့တယ်။"
+  },
+  {
+    "start": 314,
+    "end": 317,
+    "japanese": "どうした こと でしょう、 こ の 風。",
+    "romanized": "Dō shita koto deshō, kono kaze.",
+    "hiraganaKatakana": "どうした こと でしょう、 こ の かぜ。",
+    "myanmar": "ဘာဖြစ်တာလဲ ဒီလေက?"
+  },
+  {
+    "start": 317,
+    "end": 325,
+    "japanese": "お 姫様 が ふと 見上 げると、 お 寺 の 屋根 の 上 で 二匹 の 鬼 が 金棒 を 振 り 回 しているのです。",
+    "romanized": "Ohimesama ga futo miageru to, otera no yane no ue de nihiki no oni ga kanabō o furimawashite iru no desu.",
+    "hiraganaKatakana": "お ひめさま が ふと みあ げると、 お てら の やね の うえ で にひき の おに が かなぼう を ふ り まわ しているのです。",
+    "myanmar": "မင်းသမီးက မျှော်ကြည့်လိုက်သောအခါတွင် ဘုရားကျောင်းရဲ့အမိုးပေါ်မှာ နတ်ဆိုးနှစ်ကောင်က သံတုတ်ကြီးကို ဝှေ့ယမ်းနေတယ်။"
+  },
+  {
+    "start": 325,
+    "end": 327,
+    "japanese": "鬼 だ！ 鬼 が 出 た！",
+    "romanized": "Oni da! Oni ga deta!",
+    "hiraganaKatakana": "おに だ！ おに が で た！",
+    "myanmar": "နတ်ဆိုးဘဲ! နတ်ဆိုးထွက်လာပြီ!"
+  },
+  {
+    "start": 327,
+    "end": 333,
+    "japanese": "ハハハハハハハハハハハ!",
+    "romanized": "Hahahahahahaha!",
+    "hiraganaKatakana": "",
+    "myanmar": "ဟားဟားဟားဟားဟား!"
+  },
+  {
+    "start": 335,
+    "end": 340,
+    "japanese": "わしら は その 美 しい 姫 を もらいに 来 た。",
+    "romanized": "Washira wa sono utsukushii hime o morai ni kita.",
+    "hiraganaKatakana": "わしら は その うつく しい ひめ を もらいに き た。",
+    "myanmar": "ငါတို့က ဒီလှပတဲ့မင်းသမီးကို ယူဖို့ လာခဲ့တာဘဲ။"
+  },
+  {
+    "start": 340,
+    "end": 342,
+    "japanese": "さあ こっち へ 来 い！",
+    "romanized": "Sā kocchi e koi!",
+    "hiraganaKatakana": "さあ こっち へ こ い！",
+    "myanmar": "ဒီဘက်ကို လာစမ်း"
+  },
+  {
+    "start": 342,
+    "end": 345,
+    "japanese": "おにども... あっ あ っちへ いけえ~~~っ。",
+    "romanized": "Onidomo... a, acchi e ikee~~~!",
+    "hiraganaKatakana": "おにども... あっ あ っちへ いけえ~~~っ。",
+    "myanmar": "ဟေ့ကောင်တွေ ဝေး ဝေးဝေးသွား"
+  },
+  {
+    "start": 345,
+    "end": 349,
+    "japanese": "わしらに 向 かって 生意気 な。",
+    "romanized": "Washira ni mukatte namaiki na.",
+    "hiraganaKatakana": "わしらに む かって なまいき な。",
+    "myanmar": "ငါတို့ကို ဒီလိုပြောရဲတယ်။"
+  },
+  {
+    "start": 353,
+    "end": 356,
+    "japanese": "ワン! なさけない やつらだ!",
+    "romanized": "Wan! Nasakenai yatsura da!",
+    "hiraganaKatakana": "わん! なさけない やつらだ!",
+    "myanmar": "ဝူး! ဘယ်လောက်တောင် သနားစရာကောင်းတဲ့ လူတွေလဲ"
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "japanese": "待 て。",
+    "romanized": "Mate.",
+    "hiraganaKatakana": "ま て。",
+    "myanmar": "နေအုန်း"
+  },
+  {
+    "start": 357,
+    "end": 359,
+    "japanese": "ん？",
+    "romanized": "N?",
+    "hiraganaKatakana": "ん？",
+    "myanmar": "အမ်?"
+  },
+  {
+    "start": 359,
+    "end": 363,
+    "japanese": "お 姫様 には 指一本触 れさせないぞ。",
+    "romanized": "Ohimesama ni wa yubi ippon furesasenai zo.",
+    "hiraganaKatakana": "お ひめさま には ゆびいっぽんふ れさせないぞ。",
+    "myanmar": "မင်းသမီးကိုတော့ လက်တစ်ချောင်းနဲ့မှ ထိခိုက်ခွင့်မပေးဘူး။"
+  },
+  {
+    "start": 363,
+    "end": 373,
+    "japanese": "お？ 今 声 を 出 したのはお 前 か。 そんな 豆粒 みたいなお 前 に 何 ができる？",
+    "romanized": "O? Ima koe o dashita no wa omae ka. Sonna mamebutsu mitai na omae ni nani ga dekiru?",
+    "hiraganaKatakana": "お？ いま こえ を だ したのはお まえ か。 そんな まめぶつ みたいなお まえ に なに ができる？。",
+    "myanmar": "အို? အခု အသံထွက်တာ မင်းလား? ဒီလောက် ပဲစေ့လောက်လေးက ဘာလုပ်နိုင်မှာလဲ။"
+  },
+  {
+    "start": 377,
+    "end": 394,
+    "japanese": "あんな ちっこい 体 で わしら を 倒 せるわけがなかろう。 あはははははははははははははは。 ん？ んん？ いたたたたたたたた！",
+    "romanized": "Anna chikkoi karada de washira o taoseru wake ga nakarou. Ahahahahahahahahaha. N? Nn? Itatatatatata!",
+    "hiraganaKatakana": "あんな ちっこい からだ で わしら を たお せるわけがなかろう。 あはははははははははははははは。 ん？ んん？ いたたたたたたたた！",
+    "myanmar": "ဒီခန္ဓာကိုယ်သေးသေးလေးနဲ့ ငါတို့ကို အနိုင်ယူနိုင်မှာ မဟုတ်ဘူး. အဟာဟာဟာဟာ အင်? အင်းအင်း? နာနာနာနာနာနာ!"
+  },
+  {
+    "start": 398,
+    "end": 406,
+    "japanese": "飲 み 込 まれた 一寸法師 は、 青鬼 の お 腹 の 中 を 針 の 刀 で 刺 していたのです。",
+    "romanized": "Nomikomareta Issunbōshi wa, Ao Oni no onaka no naka o hari no katana de sashite ita no desu.",
+    "hiraganaKatakana": "の み こ まれた いっすんぼうし は、 あおおに の お なか の なか を はり の かたな で さ していたのです。",
+    "myanmar": "မျိုချခံရတဲ့နောက် ငလက်မလေးက အပြာရောင်နတ်ဆိုးရဲ့ အူအတွင်းကို ပင်အပ်ဓားနဲ့ ထိုးနေခဲ့တာပါ။"
+  },
+  {
+    "start": 406,
+    "end": 419,
+    "japanese": "あー、 痛 い。 やめて。 やめてくれ。 痛 い。 痛 い。 痛 いよ。 痛 い。 痛 い。 痛 い。",
+    "romanized": "Ā, itai. Yamete. Yamete kure. Itai. Itai. Itai yo. Itai. Itai. Itai.",
+    "hiraganaKatakana": "あー、 いた い。 やめて。 やめてくれ。 いた い。 いた い。 いた いよ。 いた い。 いた い。 いた い。",
+    "myanmar": "အာ… နာတယ်။ ရပ်ပါ။ ရပ်ပေးပါ။ နာတယ်။ နာတယ်။ နာတယ်။ နာတယ်။ နာတယ်။ နာတယ်။"
+  },
+  {
+    "start": 421,
+    "end": 430,
+    "japanese": "青鬼 は 針 の 痛 さ に 堪 えきれず、 とうとう 一寸法師 を 吐 き 出 してしまいました。",
+    "romanized": "Ao Oni wa hari no itasa ni taekirezu, tōtō Issunbōshi o hakidashite shimaimashita.",
+    "hiraganaKatakana": "あおおに は はり の いた さ に た えきれず、 とうとう いっすんぼうし を は き だ してしまいました。",
+    "myanmar": "အပြာရောင်နတ်ဆိုးက ဆူးနဲ့ထိုးခံရတဲ့နာကျင်မှုကို မခံနိုင်ဘဲ အဆုံးမှာ ငလက်မကို ထုတ်လိုက်ရသည်။"
+  },
+  {
+    "start": 439,
+    "end": 442,
+    "japanese": "やめてくれー。 あ 痛 ったー。",
+    "romanized": "Yamete kure! A itta!",
+    "hiraganaKatakana": "やめてくれー。 あ いた ったー。",
+    "myanmar": "ရပ်ပေးပါ! အား… နာတယ်!"
+  },
+  {
+    "start": 442,
+    "end": 446,
+    "japanese": "もう、 お 姫様 を さらいに 来 ないか？",
+    "romanized": "Mō, ohimesama o sarai ni konai ka?",
+    "hiraganaKatakana": "もう、 お ひめさま を さらいに こ ないか？",
+    "myanmar": "နောက်ထပ် မင်းသမီးကို ဖမ်းယူဖို့ မလာတော့ဘူးမလား?"
+  },
+  {
+    "start": 446,
+    "end": 452,
+    "japanese": "来 ません。 来 ません。 もう 二度 とさらいになど、 きませんよ。",
+    "romanized": "Kimasen. Kimasen. Mō nido to sarai ni nado, kimasen yo.",
+    "hiraganaKatakana": "き ません。 き ません。 もう にど とさらいになど、 きませんよ。",
+    "myanmar": "မလာပါဘူး။ မလာပါဘူး။ ဘယ်တော့မှ လာဖမ်းမှာ မဟုတ်တော့ပါဘူး။။"
+  },
+  {
+    "start": 452,
+    "end": 458,
+    "japanese": "よし、 それなら 許 してやる。 もう 人間界 に 来 て 悪 さをするなよ。",
+    "romanized": "Yoshi, sore nara yurushite yaru. Mō ningenkai ni kite warusa o suru na yo.",
+    "hiraganaKatakana": "よし、 それなら ゆる してやる。 もう にんげんかい に き て わる さをするなよ。",
+    "myanmar": "ကောင်းပြီ အဲဒါဆိုရင် ခွင့်လွှတ်ပေးမယ်။ နောက်ထပ် လူ့ပြည်ကို လာပြီး မကောင်းတာမလုပ်နဲ့။"
+  },
+  {
+    "start": 458,
+    "end": 462,
+    "japanese": "はいー。",
+    "romanized": "hai.",
+    "hiraganaKatakana": "はいー。",
+    "myanmar": "ဟုတ်…"
+  },
+  {
+     "start": 463,
+    "end": 466,
+    "japanese": "ありがとう、 法師。 お 姫様 が ご 無事 で 何 よりです。",
+    "romanized": "",
+    "hiraganaKatakana": "ありがとう、 ほうし。 お ひめさま が ご ぶじ で なに よりです。",
+    "myanmar": "ကျေးဇူးတင်ပါတယ်  ကယ်တင်ရှင်။ မင်းသမီးလေး ဘေးကင်းလုံခြုံဖို့ အရေးကြီးဆုံးဘဲ။"
+  },
+  {
+    "start": 466,
+    "end": 471,
+    "japanese": "お 姫様 が ご 無事 で 何 よりです。 鬼 たちがあんなものを 置 いていきました。",
+    "romanized": "Ohimesama ga gobuji de nani yori desu. Onitachi ga anna mono o oite ikimashita.",
+    "hiraganaKatakana": "お ひめさま が ご ぶじ で なに よりです。 おに たちがあんなものを お いていきました。",
+    "myanmar": "မင်းသမီး ဒဏ်ရာမရတာ ကောင်းတာပဲ။ နတ်ဆိုးတွေက အဲ့ဒီအရာကို ချန်သွားခဲ့တယ်။"
+  },
+  {
+    "start": 471,
+    "end": 481,
+    "japanese": "まあ あれは 打 ち 出 の 小槌 という 宝物 です。 あれを 振 れば どんな 願 い 事 も 叶 うのですよ。",
+    "romanized": "Maa are wa uchide no kozuchi to iu takaramono desu. Are o fureba donna negaigoto mo kanau no desu yo.",
+    "hiraganaKatakana": "まあ あれは う ち で の こづち という たからもの です。 あれを ふ れば どんな ねが い ごと も かな うのですよ。",
+    "myanmar": "ဟေး၊ အဲဒါက မှော်မောင်းတုတ် လို့ခေါ်တဲ့ ရတနာပါ။ အဲ့ဒါကို လှည့်ရင် မည်သည့်ဆန္ဒမဆို ပြည့်ပါလိမ့်မယ်။"
+  },
+  {
+     "start": 481,
+    "end": 484,
+    "japanese": "ぼうし、 あなた の 願 い は 何 です？",
+    "romanized": "",
+    "hiraganaKatakana": "ぼうし、 あなた の ねが い は なん です？",
+    "myanmar": "ကယ်တင်ရှင် မင်းဆုတောင်းက ဘာလဲ။"
+  },
+  {
+     "start": 484,
+    "end": 490,
+    "japanese": "うーん。 もし 願 いが 叶 うなら、 体 が 大 きくなりたいです。",
+    "romanized": "",
+    "hiraganaKatakana": "うーん。 もし ねが いが かな うなら、 からだ が おお きくなりたいです。",
+    "myanmar": "အေး... ဆုတောင်းက ဖြစ်နိုင်ရင် ကိုယ်ခန္ဓာကို ကြီးချင်တယ်။"
+  },
+  {
+    "start": 490,
+    "end": 499,
+    "japanese": "一寸法師、 大 きくなあれ。 一寸法師、 大 きくなあれ。",
+    "romanized": "",
+    "hiraganaKatakana": "いっすんぼうし、 おお きくなあれ。 いっすんぼうし、 おお きくなあれ。",
+    "myanmar": "ငလက်မလေး ကြီးလာပါစေ။ ငလက်မလေး ကြီးလာပါစေ။"
+  },
+  {
+    "start": 503,
+    "end": 510,
+    "japanese": "一寸法師 は みる みる 大 きくなり、 頼 もしい 青年 の 姿 になりました",
+    "romanized": "",
+    "hiraganaKatakana": "いっすんぼうし は みる みる おお きくなり、 たの もしい せいねん の すがた になりました。",
+    "myanmar": "ငလက်မလေးက မြန်မြန်ကြီးလာပြီး သတ္တိရှိတဲ့ လူငယ်တစ်ယောက်ဖြစ်လာခဲ့တယ်။"
+  },
+  {
+    "start": 510,
+    "end": 518,
+    "japanese": "大 きくなった 一寸法師 は 一層 よく 働 き、 みんなから 尊敬 される 立派 な 人 になりました。",
+    "romanized": "",
+    "hiraganaKatakana": "おお きくなった いっすんぼうし は いっそう よく はたら き、 みんなから そんけい される りっぱ な ひと になりました。",
+    "myanmar": "ကြီးလာတဲ့ ငလက်မလေးက ပိုမိုကြိုးစားပြီး အလုပ်လုပ်သလို အားလုံးဆီမှ လေးစားရတဲ့ လူတစ်ယောက် ဖြစ်လာတယ်။"
+  },
+  {
+    "start": 517,
+    "end": 524,
+    "japanese": "大臣 は 大喜 びで 一寸法師 を お 姫様 の お 婿 さんに 決 めました。",
+    "romanized": "",
+    "hiraganaKatakana": "だいじん は おおよろこ びで いっすんぼうし を お ひめさま の お むこ さんに き めました。",
+    "myanmar": "ဝန်ကြီးက အလွန်ဝမ်းသာစွာဖြင့် ငလက်မကို မင်းသမီးရဲ့ ခင်ပွန်းအဖြစ် ဆုံးဖြတ်လိုက်သည်(လက်ထက်လိုက်တယ်)။"
+  },
+  {
+    "start": 524,
+    "end": 532,
+    "japanese": "それから 間 もなく、 一寸法師 は お 姫様 と 一緒に おじいさん と おばあさん に 会 いに 行 きました",
+    "romanized": "",
+    "hiraganaKatakana": "それから ま もなく、 いっすんぼうし は お ひめさま と いっしょに おじいさん と おばあさん に あ いに い きました。",
+    "myanmar": "အဲ့နောက် မကြာခင် ငလက်မလေးက မင်းသမီးနဲ့အတူ အဖိုးနှင့် အဖွားကို တွေ့ဖို့ သွားခဲ့သည်။"
+  },
+  {
+    "start": 532,
+    "end": 543,
+    "japanese": "そして、 おじいさん おばあさん を 都 に 呼 んで、 いつまでも みんな 幸 せに 暮 らしたということです。",
+    "romanized": "",
+    "hiraganaKatakana": "そして、 おじいさん おばあさん を みやこ に よ んで、 いつまでも みんな しあわ せに く らしたということです。",
+    "myanmar": "နောက်တော့ အဖိုး အဖွားကို မြို့ကို ခေါ်လာပြီး အားလုံး တစ်သက်လုံး ပျော်ရွှင်စွာ နေထိုင်ခဲ့ကြတယ်။"
+  }
+]
