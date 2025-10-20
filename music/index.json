@@ -1,4 +1,18 @@
-[{
+[
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/blue_bird/poster.png",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/blue_bird/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBa2j2aTu9O6G-s8-ed4nnMLnpfL4UAAKeHwACBruxV4_OzYRTkZQPNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/blue_bird.json",
+    "name": "Blue Bird",
+    "singer": "ikimonogakari",
+    "value": "Blue Bird"
+  },
+  {
     "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/rage_your_dream/poster.jpeg",
     "image":
