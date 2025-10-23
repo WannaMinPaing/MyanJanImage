@@ -1,0 +1,98 @@
+[
+    {
+        "start": 2,
+        "end": 5,
+        "japanese": "Ace",
+        "romanized": "",
+        "hiraganaKatakana": "",
+        "myanmar": "အေ့စ်"
+    },
+    {
+        "start": 7,
+        "end": 10,
+        "japanese": "ごめんな、Luffy",
+        "romanized": "Gomena, Luffy",
+        "hiraganaKatakana": "ごめんな、Luffy",
+        "myanmar": "တောင်းပန်ပါတယ် လူဖီ။ "
+    },
+    {
+        "start": 11,
+        "end": 21,
+        "japanese": "あんなに 無茶 させちまったってのに、 ちゃんと 助 けてもらえなくてよー。 すまなかった。",
+        "romanized": "Anna ni mucha sasetchimatta tte no ni, chanto tasukete moraenakute yō. Sumanakatta.",
+        "hiraganaKatakana": "あんなに むちゃ させちまったってのに、 ちゃんと たす けてもらえなくてよー。 すまなかった。",
+        "myanmar": "အဲလောက်အထိ ရူးရူးမိုက်မိုက်လုပ်ခိုင်းခဲ့မိတာတောင် သေသေချာချာ ကယ်တင်ပေးခွင့်မရခဲ့လို့ တောင်းပန်ပါတယ်။"
+    },
+    {
+        "start": 23,
+        "end": 27,
+        "japanese": "なに 言 ってんだよ。 馬鹿 なこと 言 うな。",
+        "romanized": "Nani itten da yo. Baka na koto iu na.",
+        "hiraganaKatakana": "なに い ってんだよ。 ばか なこと い うな。",
+        "myanmar": "ဘာတွေပြောနေတာလဲလို့။ အဓိပ္ပါယ်မရှိတာတွေ မပြောနဲ့။"
+    },
+    {
+        "start": 28,
+        "end": 32,
+        "japanese": "自分 の 命 の 終 わりくらいわかる",
+        "romanized": "Jibun no inochi no owari kurai wakaru",
+        "hiraganaKatakana": "じぶん の い の ち の お わりくらいわかる",
+        "myanmar": "ငါ့ဘဝရဲ့ အဆုံးသတ်ကို သိနေပြီ"
+    },
+    {
+        "start": 33,
+        "end": 44,
+        "japanese": "そんなこと。 約束 したじゃねえかよ。 お 前 、 絶対死 なねえって。",
+        "romanized": "Sonna koto. Yakusoku shita ja nē ka yo. Omae, zettai shinanē tte.",
+        "hiraganaKatakana": "そんなこと。 やくそく したじゃねえかよ。 お まえ 、 ぜったいし なねえって。",
+        "myanmar": "လက်မခံဘူး၊ ကတိပေးခဲ့တယ်မဟုတ်ဘူးလား။ မင်း ဘယ်တော့မှ မသေဘူးလို့။"
+    },
+    {
+        "start": 44,
+        "end": 52,
+        "japanese": "そうだ、 お 前、 いつか ダダン に 会 ったらよろしく 言 っといてくれよ。",
+        "romanized": "Sō da, omae, itsuka Dadan ni attara yoroshiku itte oite kure yo.",
+        "hiraganaKatakana": "そうだ、 お まえ、 いつか ダダン に あ ったらよろしく い っといてくれよ。",
+        "myanmar": "ဟုတ်သားဘဲ၊ မင်း ဒါဒန်နဲ့ တွေ့တဲ့အချိန်ကျရင် နှုတ်ဆက်တယ်လို့ ပြောပေးပါနော်။"
+    },
+    {
+        "start": 53,
+        "end": 55,
+        "japanese": "だから！ 死ぬ なんて！",
+        "romanized": "Dakara! Shinu nante!",
+        "hiraganaKatakana": "だから！ しぬ なんて！",
+        "myanmar": "အဲဒါကြောင့်ပဲ! မသေပါနဲ့!"
+    },
+    {
+        "start": 56,
+        "end": 63,
+        "japanese": "だけど、 お 前 なら 必 ずやれる。 俺 の 弟 だ。",
+        "romanized": "Dakedo, omae nara kanarazu yareru. Ore no otōto da.",
+        "hiraganaKatakana": "だけど、 お まえ なら かなら ずやれる。 おれ の おとうと だ。",
+        "myanmar": "ဒါပေမယ့် မင်းဆိုရင် တကယ် လုပ်နိုင်မှာပါ။ ငါရဲ့ ညီဖြစ်လို့။"
+    },
+    {
+        "start": 64,
+        "end": 69,
+        "japanese": "嘘 だ ！ 嘘 つき！",
+        "romanized": "Uso da! Usotsuki!",
+        "hiraganaKatakana": "うそ だ ！ うそ つき！",
+        "myanmar": "အလိမ်အညာတွေ! လူလိမ်!"
+    },
+    {
+        "start": 70,
+        "end": 83,
+        "japanese": "嘘 じゃねえ。 俺 がこれから 言 うことを、 後 からみんなに 伝 えてくれ。 ありがとう。",
+        "romanized": "Uso ja nē. Ore ga kore kara iu koto o, ato kara minna ni tsutaete kure. Arigatō.",
+        "hiraganaKatakana": "うそ じゃねえ。 おれ がこれから い うことを、 あと からみんなに つた えてくれ。 ありがとう。",
+        "myanmar": "မလိမ်ပါဘူး။ ငါ အခုကစပြီး ပြောမယ့်စကားကို နောက်ကျ အားလုံးကို ပြောပြပေးပါ။ ကျေးဇူးတင်ပါတယ်။"
+    },
+    {
+        "start": 92,
+        "end": 113,
+        "japanese": "ああ。ああ。ああ。ああ！",
+        "romanized": "Aa. Aa. Aa. Aa!",
+        "hiraganaKatakana": "ああ。ああ。ああ。ああ！",
+        "myanmar": "အာ… အာ… အာ… အာ！"
+    }
+]
