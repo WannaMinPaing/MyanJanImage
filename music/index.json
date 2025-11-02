@@ -1,6 +1,19 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/demon_slayer_ost1%20/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/demon_slayer_ost1%20/banner.png",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBbWkHCF3lJzOM_A2wfW1RlRpV_MXIAAIJGwACqSQ4VC72MqyCD88tNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/demon_slayer_ost1.json",
+    "name": "竈門炭治郎のうた",
+    "singer": "Nami Nakagawa",
+    "value": "Kamado Tan Jiro no uta"
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/oddloop/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/oddloop/banner.jpeg",
