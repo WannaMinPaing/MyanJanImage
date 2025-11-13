@@ -1,0 +1,506 @@
+ [
+  {
+    "start": 6,
+    "end": 9,
+    "japanese": "今日 は 大晦日。 ",
+    "romanized": "Kyō wa Ōmisoka. ",
+    "hiraganaKatakana": "きょう は おおみそか。",
+    "myanmar": "ဒီနေ့က နှစ်ကုန်နေ့(နှစ်သစ်ကူးနေ့)ပါ။"
+  },
+  {
+    "start": 9,
+    "end": 13,
+    "japanese": "この 家 には 貧 しい おじいさん と おばあさんが 住 んでいました。",
+    "romanized": "Kono ie ni wa mazushii ojiisan to obaasan ga sunde imashita.",
+    "hiraganaKatakana": "この いえ には まず しい おじいさん と おばあさんが す んでいました。",
+    "myanmar": "ဒီအိမ်မှာ ဆင်းရဲသော အဖိုးနဲ့ အဖွားနေခဲ့ကြတယ်။"
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "japanese": "明日 は お 正月 だというのに、 家 にはお 餅 をつくためのお 米 すらありませんでした。",
+    "romanized": "Ashita wa Oshōgatsu da to iu noni, ie ni wa omochi o tsuku tame no okome sura arimasen deshita.",
+    "hiraganaKatakana": "あした は お しょうがつ だというのに、 いえ にはお も ちをつくためのお こめ すらありませんでした。",
+    "myanmar": "မနက်ဖြန်က နှစ်သစ်ကူးဖြစ်ပေမဲ့ မိုချီ(ဂျပန်နှစ်သစ်ကူးအတွက် အထူးအစားအစာ) ပြုလုပ်ဖို့အတွက် ဆန်တောင်မရှိပါဘူး။"
+  },
+  {
+    "start": 20,
+    "end": 29,
+    "japanese": "このままでは お 正月 が 迎 えられませんね。 これを 売 って お 金 に 換 えましょう。",
+    "romanized": "Kono mama de wa Oshōgatsu ga mukaeraremasen ne. Kore o utte okane ni kaemashou.",
+    "hiraganaKatakana": "このままでは お しょうがつ が む かえられませんね。 これを う って お かね に か えましょう。",
+    "myanmar": "ဒီအတိုင်းနဲ့ဆိုရင်တော့ နှစ်သစ်ကူး မကျင်းပနိုင်တော့ဘူးနော်။ ဒီဟာကို ရောင်းပြီး ငွေအဖြစ် ပြောင်းကြရအောင်။"
+  },
+  {
+    "start": 29,
+    "end": 32,
+    "japanese": "しかたねえべか。",
+    "romanized": "Shikata nee be ka.",
+    "hiraganaKatakana": "しかたねえべか。",
+    "myanmar": "မလုပ်လို့မရဘူးလား။"
+  },
+  {
+    "start": 33,
+    "end": 38,
+    "japanese": "おじいさんは 古着 を 町 へ 売 りに 行 くことになりました。",
+    "romanized": "Ojiisan wa furugi o machi e uri ni iku koto ni narimashita.",
+    "hiraganaKatakana": "おじいさんは ふるぎ を まち へ う りに い くことになりました。",
+    "myanmar": "အဖိုးက အဝတ်အဟောင်းတွေကို မြို့သို့ ရောင်းဖို့ ဆုံးဖြတ်လိုက်တယ်။"
+  },
+  {
+    "start": 38,
+    "end": 41,
+    "japanese": "じゃあ、 行 ってくるよ。",
+    "romanized": "Jaa, itte kuru yo.",
+    "hiraganaKatakana": "じゃあ、 い ってくるよ。",
+    "myanmar": "ကဲ သွားလိုက်ဉီးမယ်။"
+  },
+  {
+    "start": 41,
+    "end": 47,
+    "japanese": "おじいさん、 気 をつけてね。 いってらっしゃい。",
+    "romanized": "Ojiisan, ki o tsukete ne. Itterasshai.",
+    "hiraganaKatakana": "おじいさん、 き をつけてね。 いってらっしゃい。",
+    "myanmar": "အဘိုးကြီးရေ ဂရုစိုက်နော်။ ကောင်းကောင်းသွားနော်။"
+  },
+  {
+    "start": 48,
+    "end": 52,
+    "japanese": "おじいさんは 町 へ 向 け 出発 しました。",
+    "romanized": "Ojiisan wa machi e muke shuppatsu shimashita. ",
+    "hiraganaKatakana": "おじいさんは まち へ む け しゅっぱつ しました。",
+    "myanmar": "အဖိုးဟာ မြို့သို့ ဦးတည်ပြီး ထွက်လာခဲ့တယ်။"
+  },
+  {
+    "start": 60,
+    "end": 62,
+    "japanese": "村外 れまでたどり 着 いた おじいさん。",
+    "romanized": "Murahazure made tadoritsuita ojiisan. ",
+    "hiraganaKatakana": "むらはず れまでたどり つ いたおじいさん。",
+    "myanmar": "ကျေးရွာအဆုံးနားထိ ရောက်လာတဲ့ အဖိုးဟာ"
+  },
+  {
+    "start": 62,
+    "end": 69,
+    "japanese": "そこには、 この 村 を 見守 っている 七人 の お 地蔵様 がいました。",
+    "romanized": "Soko ni wa, kono mura o mimamotte iru shichinin no Ojizō-sama ga imashita.",
+    "hiraganaKatakana": "そこには、 この むら を みまも っている しちにん の お じぞうさま がいました。",
+    "myanmar": "တစ်နေရာမှာတော့ ဒီကျေးရွာကို ကာကွယ်စောင့်ရှောက်နေတဲ့ ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား) ခုနှစ်ပါးရှိခဲ့တယ်။"
+  },
+  {
+    "start": 70,
+    "end": 78,
+    "japanese": "この 雪 の 中、 かわいそうに。 さぞかし 寒 かったでしょう。",
+    "romanized": "Kono yuki no naka, kawaisou ni. Sazokashi samukatta deshou.",
+    "hiraganaKatakana": "この ゆき の なか、 かわいそうに。 さぞかし さむ かったでしょう。",
+    "myanmar": "ဒီနှင်းထဲမှာ  သနားစရာဘဲ။ အရမ်း အေးနေလိမ့်မယ်။"
+  },
+  {
+    "start": 79,
+    "end": 83,
+    "japanese": "お 供 えするものが 何 もなくて、 申 し 訳 ありません。",
+    "romanized": "Osonae suru mono ga nanimo nakute, moushiwake arimasen.",
+    "hiraganaKatakana": "お そな えするものが なに もなくて、 もう し わけ ありません。",
+    "myanmar": "လှူဒိန်းစရာ ပစ္စည်း မရှိလို့ တကယ်တောင်းပန်ပါတယ်"
+  },
+  {
+    "start": 84,
+    "end": 91,
+    "japanese": "おじいさんは そう 言 って お 辞儀 をすると、 雪 の 中 を また 進 んで 行 きました。",
+    "romanized": "Ojiisan wa sou itte ojigi o suru to, yuki no naka o mata susunde ikimashita.",
+    "hiraganaKatakana": "おじいさんは そう い って お じぎ をすると、 ゆき の なか を また すす んで い きました。",
+    "myanmar": "အဖိုးက အဲ့လို ပြောပြီး ဦးညွှတ်ဂါရဝပြုပြီးနောက် နှင်းတွေကြားထဲ ဆက်လျှောက်သွားတယ်။"
+  },
+  {
+    "start": 105,
+    "end": 110,
+    "japanese": "そして とうとう 町 に たどり 着 きました。",
+    "romanized": "Soshite toutou machi ni tadoritsukimashita.",
+    "hiraganaKatakana": "そして とうとう まち に たどり つ きました。",
+    "myanmar": "နောက်ဆုံးတော့ မြို့သို့ ရောက်လာခဲ့တယ်။"
+  },
+  {
+    "start": 121,
+    "end": 129,
+    "japanese": "さあ さあ、 着物 は いかがですか。 いかがですか？",
+    "romanized": "Saasaa, kimono wa ikaga desu ka? Ikaga desu ka? ",
+    "hiraganaKatakana": "さあ さあ、 きもの は いかがですか。 いかがですか？",
+    "myanmar": "ကဲ ကဲ၊ ကီမိုနို ဝတ်စုံတွေ ဝယ်ပါဦးနော် ဝယ်ပါဦးနော်။"
+  },
+  {
+    "start": 130,
+    "end": 139,
+    "japanese": "古 いものですが、 丈夫 で 暖 かいですよ。 さあさあ、 手 に 取 ってみてください。",
+    "romanized": "Furui mono desu ga, joubu de atatakai desu yo. Saasaa, te ni totte mite kudasai.",
+    "hiraganaKatakana": "ふる いものですが、 じょうぶ で あたた かいですよ。 さあさあ、 て に と ってみてください。",
+    "myanmar": "အဟောင်းတွေပေမဲ့ ခိုင်ခိုင်ခံ့ခံ့နဲ့ နွေးထွေးပါတယ်နော်။ ကဲ ကဲ လက်နဲ့ ယူပြီးစမ်းကြည့်လိုက်ပါ။"
+  },
+  {
+    "start": 139,
+    "end": 146,
+    "japanese": "しかし、 大晦日 の 忙 しい 中、 おじいさん の 声 に 振 り 向 いてくれる 人 はいません。",
+    "romanized": "Shikashi, Ōmisoka no isogashii naka, ojiisan no koe ni furimuite kureru hito wa imasen.",
+    "hiraganaKatakana": "しかし、 おおみそか の いそが しい なか、 おじいさん の こえ に ふ り む いてくれる ひと はいません。",
+    "myanmar": "ဒါပေမဲ့ နှစ်သစ်ကူးနေ့ရဲ့ အလုပ်ရှုပ်တဲ့အချိန်မှာတော့ အဖိုးရဲ့ အသံကို လှည့်ကြည့်ပေးတဲ့သူ တစ်ယောက်မှ မရှိပါ"
+  },
+  {
+    "start": 152,
+    "end": 159,
+    "japanese": "そして、 あっと いう 間 に 日 が 暮 れましたが、 古着 は 一着 も 売 れませんでした。",
+    "romanized": "Soshite, atto iu ma ni hi ga kuremashita ga, furugi wa icchaku mo uremasen deshita.",
+    "hiraganaKatakana": "そして、 あっと いう ま に ひ が く れましたが、 ふるぎ は いっちゃく も う れませんでした。",
+    "myanmar": "နောက်တော့ တစ်ခဏလေးအတွင်းမှာ နေဝင်သွားခဲ့ပေမဲ့ အဝတ်ဟောင်းတစ်ထည်တောင် မရောင်းနိုင်ခဲ့ပါ။"
+  },
+  {
+    "start": 160,
+    "end": 168,
+    "japanese": "はあ、 お 米 が 買 えんかったなぁ。 おばあさん ガッカリ するだろうなぁ。",
+    "romanized": "Haa, okome ga kaen katta naa. Obaasan gakkari suru darou naa.",
+    "hiraganaKatakana": "はあ、 お こめ が か えんかったなぁ。 おばあさん がっかり するだろうなぁ。",
+    "myanmar": "ဟာ၊ ဆန်မဝယ်နိုင်တော့ဘူး။ အဖွား စိတ်ပျက်သွားမယ်ထင်တယ်နော်။"
+  },
+  {
+    "start": 168,
+    "end": 171,
+    "japanese": "なあ、あんた。",
+    "romanized": "Naa, anta.",
+    "hiraganaKatakana": "なあ、あんた。",
+    "myanmar": "ဟို ဟေး။"
+  },
+  {
+    "start": 171,
+    "end": 175,
+    "japanese": "そこに、 傘売 りが 声 をかけてきました。",
+    "romanized": "Soko ni, kasauri ga koe o kakete kimashita.",
+    "hiraganaKatakana": "そこに、 かさう りが こえ をかけてきました。",
+    "myanmar": "အဲဒီအချိန်မှာ ခမောက်ရောင်းသူတစ်ဦးက စကားပြောလာခဲ့တယ်။"
+  },
+  {
+    "start": 175,
+    "end": 180,
+    "japanese": "いい 古着 じゃあないか。 売 れなかったのかい？",
+    "romanized": "Ii furugi ja nai ka. Urenakatta no kai?",
+    "hiraganaKatakana": "いい ふるぎ じゃあないか。 う れなかったのかい？",
+    "myanmar": "ကောင်းတဲ့ အဝတ်ဟောင်းတွေပါလား။ မရောင်းရဘူးလား။"
+  },
+  {
+    "start": 180,
+    "end": 183,
+    "japanese": "全然  だめだったよ。",
+    "romanized": "Zenzen dame datta yo.",
+    "hiraganaKatakana": "ぜんぜん だめだったよ。",
+    "myanmar": "လုံးဝ မရောင်းနိုင်ခဲ့ဘူး။"
+  },
+  {
+    "start": 183,
+    "end": 190,
+    "japanese": "そうかい。 なら、 どうだろう。 わしの 傘 と あんたの 古着、 交換 しないかい？",
+    "romanized": "Soukai. Nara, dou darou. Washi no kasa to anta no furugi, koukan shinai kai?",
+    "hiraganaKatakana": "そうかい。 なら、 どうだろう。 わしの かさ と あんたの ふるぎ、 こうかん しないかい？",
+    "myanmar": "ဟုတ်လား ဒါဆိုရင် ဘယ်လိုလဲ။ ငါ့ခမောက်နဲ့ မင်းအဝတ်အဟောင်းကို လဲလှယ်ကြမလား။"
+  },
+  {
+    "start": 191,
+    "end": 195,
+    "japanese": "たくさん 作 り 過 ぎて、 売 れ 残 っちまったんだ。",
+    "romanized": "Takusan tsukuri sugite, urenokocchimatta n da.",
+    "hiraganaKatakana": "たくさん つく り す ぎて、 う れ のこ っちまったんだ。",
+    "myanmar": "အများကြီး ပြုလုပ်ပြီး ရောင်းမကောင်းတော့ ကျန်နေခဲ့တာ။"
+  },
+  {
+    "start": 197,
+    "end": 199,
+    "japanese": "うーん、 傘 か。",
+    "romanized": "Uun, kasa ka.",
+    "hiraganaKatakana": "うーん、 かさ か。",
+    "myanmar": "အင်း ခမောက်လား။"
+  },
+{
+  "start": 199,
+  "end": 206,
+  "japanese": "おじいさんは 悩 みました。 お 米 ならまだしも、 傘 は おじいさんの 欲 しいものではありません。",
+  "romanized": "Ojiisan wa nayamimashita. Okome nara mada shimo, kasa wa ojiisan no hoshii mono dewa arimasen. ",
+  "hiraganaKatakana": "おじいさんは なや みました。 お こめ ならまだしも、 かさ は おじいさんの ほ しいものではありません。",
+  "myanmar": "အဘိုးက စဉ်းစားနေခဲ့တယ်။ ဆန်ဆိုရင် အဆင်ပြေပေမဲ့ ခမောက်ကတော့ အဘိုးလိုချင်တာ မဟုတ်ဘူး။"
+},
+{
+  "start": 206,
+  "end": 214,
+  "japanese": "しかし、 傘屋 さんの 困 った 顔 を 見 ているうちに、 おじいさん の 気持 ちも 変 わってきました。",
+  "romanized": "Shikashi, kasaya-san no komatta kao o mite iru uchi ni, ojiisan no kimochi mo kawatte kimashita.",
+  "hiraganaKatakana": "しかし、 かさや さんの こま った かお を み ているうちに、 おじいさん の きも ちも か わってきました。",
+  "myanmar": "ဒါပေမဲ့ ခမောက်ရောင်းသူရဲ့ စိုးရိမ်နေတဲ့ မျက်နှာကို မြင်နေပြီးနောက် အဘိုးရဲ့ စိတ်က ပြောင်းလာခဲ့တယ်။"
+},
+{
+  "start": 216,
+  "end": 222,
+  "japanese": "わかった。 わしの 古着 と あんたの 傘、 交換 しよう。",
+  "romanized": "Wakatta. Washi no furugi to anta no kasa, koukan shiyou.",
+  "hiraganaKatakana": "わかった。 わしの ふるぎ と あんたの かさ、 こうかん しよう。",
+  "myanmar": "ကောင်းပြီ။ ငါ့အဝတ်ဟောင်းနဲ့ မင်း ခမောက်, လဲကြစို့။"
+},
+{
+  "start": 222,
+  "end": 226,
+  "japanese": "そうかい。 ありがとう。 助 かるよ。",
+  "romanized": "Soukai. Arigatou. Tasukaru yo.",
+  "hiraganaKatakana": "そうかい。 ありがとう。 たす かるよ。",
+  "myanmar": "ဟုတ်လား။ ကျေးဇူးတင်ပါတယ်။ ကူညီပေးတာပေါ့(လဲတာပေါ့)။"
+},
+{
+  "start": 229,
+  "end": 233,
+  "japanese": "どっこいしょ。 それでは、 良 いお 年 をな。",
+  "romanized": "Dokkoi sho. Sore dewa, yoi otoshi o na.",
+  "hiraganaKatakana": "どっこいしょ。 それでは、 よ いお とし をな。",
+  "myanmar": "အိုးဟူး(どっこいしょ = အားစိုက်ထုတ်ရာတွင် ထွက်ပေါ်လာသော အသံ) ဒါဆိုရင် နှစ်သစ်ကောင်းပါစေနော်။"
+},
+{
+  "start": 233,
+  "end": 236,
+  "japanese": "帰 り 道、 気 をつけなされよ。",
+  "romanized": "Kaerimichi, ki o tsukenasare yo.",
+  "hiraganaKatakana": "かえ り みち、 き をつけなされよ。",
+  "myanmar": "အပြန်လမ်းမှာ ဂရုစိုက်ပါနော်။"
+},
+{
+  "start": 236,
+  "end": 238,
+  "japanese": "うん。",
+  "romanized": "Un.",
+  "hiraganaKatakana": "うん。",
+  "myanmar": "အင်း။"
+},
+{
+  "start": 243,
+  "end": 250,
+  "japanese": "そうして、 おじいさんは 傘 を 背負 って、 来 た 道 を 引 き 返 していきました。",
+  "romanized": "Soushite, ojiisan wa kasa o seotte, kita michi o hikikaeshite ikimashita. ",
+  "hiraganaKatakana": "そうして、 おじいさんは かさ を せお って、 き た みち を ひ き かえ していきました。",
+  "myanmar": "ဒီလိုနဲ့ အဘိုးက ထီးတွေကို အနောက်ဘက်မှာ တင်ပြီး လာခဲ့တဲ့လမ်းကို ပြန်သွားသည်။ "
+},
+{
+  "start": 256,
+  "end": 265,
+  "japanese": "しばらく 吹雪 の 中 を 歩 いているうちに、 さっき の お 地蔵様 の 前 まで 来 ました。",
+  "romanized": "Shibaraku fubuki no naka o aruite iru uchi ni, a, sakki no ojizousama no mae made kimashita.",
+  "hiraganaKatakana": "しばらく ふぶき の なか を ある いているうちに、 さっき の お じぞうさま の まえ まで き ました。",
+  "myanmar": "ခဏလောက် နှင်းတောထဲ လမ်းလျှာက်ပြီးနောက် အရင်က ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား) ရှေ့အထိ ရောက်လာခဲ့တယ်။"
+},
+{
+  "start": 266,
+  "end": 278,
+  "japanese": "ほぉ、 こんなに 雪 まみれで、 えー、 さぞかし、 お 寒 かったことでしょう。 おかわいそうに。 ああ、 そうだ。",
+  "romanized": "Hoo, konna ni yuki mamire de, ee, sazokashi, osamukatta koto deshou. Okawaisou ni. Aa, sou da.",
+  "hiraganaKatakana": "ほぉ、 こんなに ゆき まみれで、 えー、 さぞかし、 お さむ かったことでしょう。 おかわいそうに。 ああ、 そうだ。",
+  "myanmar": "ဟိုး၊ အဲလောက်ထိ နှင်းဖုံးနေတော့ အဲ တော်တော် အေးခဲ့မယ်ထင်ပါတယ်။ ဝမ်းနည်းပါတယ် အို၊ ဟုတ်ပြီ။"
+},
+{
+  "start": 281,
+  "end": 287,
+  "japanese": "はい。 これでもう、 雪 を 凌 げますよ。",
+  "romanized": "Hai. Kore de mou, yuki o shinogemasu yo.",
+  "hiraganaKatakana": "はい。 これでもう、 ゆき を しの げますよ。",
+  "myanmar": "ဟုတ်။ ဒီလိုဆိုရင် နှင်းကို ရှောင်ရှားနိုင်ပါပြီ။"
+},
+{
+  "start": 287,
+  "end": 293,
+  "japanese": "おじいさんは、 一人 ひとり の お 地蔵様 に、 傘 を かぶせていきました。",
+  "romanized": "Ojiisan wa, hitori hitori no ojizousama ni, kasa o kabusete ikimashita.",
+  "hiraganaKatakana": "おじいさんは、 ひとり ひとり の お じぞうさま に、 かさ を かぶせていきました。",
+  "myanmar": "အဘိုးက ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား)တစ်ဉီးချင်းဆီ ခမောက်ကို ဆောင်းပေးသွားခဲ့တယ်။"
+},
+{
+  "start": 295,
+  "end": 311,
+  "japanese": "よし、 これで 最後。 傘 が 足 りて 良 かった。 おや？ これはしまった。 一 つ 足 りないぞ。",
+  "romanized": "Yoshi, kore de saigo. Kasa ga tarite yokatta. Oya? Kore wa shimatta. Hitotsu tarinai zo.",
+  "hiraganaKatakana": "よし、 これで さいご。 かさ が た りて よ かった。 おや？ これはしまった。 ひと つ た りないぞ。",
+  "myanmar": "ကောင်းပြီ၊ ဒီဟာက နောက်ဆုံးဘဲ။ ခမောက် လုံလောက်တာ တော်သေးတာပေါ့။ အို? မှားသွားပြီး တစ်ခုလိုနေတယ်"
+},
+{
+  "start": 313,
+  "end": 327,
+  "japanese": "そうだ。 すみませんが、 私 の 傘 で 我慢 してください。 それでは。",
+  "romanized": "sou da. Sumimasen ga, watashi no kasa de gaman shite kudasai. Sore dewa.",
+  "hiraganaKatakana": "そうだ。 すみませんが、 わたし の かさ で がまん してください。 それでは。",
+  "myanmar": "ဟုတ်သားဘဲ စိတ်တော့မရှိပါနဲ့ ကျွန်တော်ရဲ့ ခမောက်နဲ့ သည်းခံပေးပါ။ ဒါဆိုရင်"
+},
+{
+  "start": 341,
+  "end": 348,
+  "japanese": "おじいさん、 傘 はどうしたんです？ さぞ 寒 かったでしょう。",
+  "romanized": "Ojiisan, kasa wa dou shita n desu? Sazo samukatta deshou.",
+  "hiraganaKatakana": "おじいさん、 かさ はどうしたんです？ さぞ さむ かったでしょう。",
+  "myanmar": "အဘိုးရေ၊ ခမောက်က ဘယ်လိုဖြစ်သွားတာလဲ။ အရမ်း အေးနေလိမ့်မယ်။"
+},
+{
+  "start": 348,
+  "end": 350,
+  "japanese": "いやあ、まいった まいった。",
+  "romanized": "Iyaa, maitta maitta.",
+  "hiraganaKatakana": "いやあ、まいった まいった。",
+  "myanmar": "အင်း မလွယ်ဘူး မလွယ်ဘူး"
+},
+{
+  "start": 350,
+  "end": 355,
+  "japanese": "おじいさんは、 おばあさんに、 これまでのことを 話 しました。",
+  "romanized": "Ojiisan wa, obaasan ni, kore made no koto o hanashimashita.",
+  "hiraganaKatakana": "おじいさんは、 おばあさんに、 これまでのことを はな しました。",
+  "myanmar": "အဘိုးက အဖွားကို ဖြစ်ပွားခဲ့တဲ့အကြောင်းအရာအားလုံး ပြောပြခဲ့တယ်။"
+},
+{
+  "start": 355,
+  "end": 358,
+  "japanese": "いいじゃありませんか。",
+  "romanized": "Ii ja arimasen ka.",
+  "hiraganaKatakana": "いいじゃありませんか。",
+  "myanmar": "ကောင်းတာဘဲမဟုတ်လား။"
+},
+{
+  "start": 358,
+  "end": 360,
+  "japanese": "ええ？",
+  "romanized": "Ee?",
+  "hiraganaKatakana": "ええ？",
+  "myanmar": "ဟင်?"
+},
+{
+  "start": 360,
+  "end": 365,
+  "japanese": "お 地蔵様 が 温 かく 過 ごしてくだされば、 十分 じゃありませんか。",
+  "romanized": "Ojizousama ga atatakaku sugoshite kudasareba, juubun ja arimasen ka.",
+  "hiraganaKatakana": "お じぞうさま が あたた かく す ごしてくだされば、 じゅうぶん じゃありませんか。",
+  "myanmar": "ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား)တွေကို နွေးထွေးအောင် ဆောင်ရွက်ပေးတာနဲ့ဘဲ လုံလောက်ပါတယ်မဟုတ်လား။"
+},
+{
+  "start": 367,
+  "end": 370,
+  "japanese": "おお、ばあさん。",
+  "romanized": "Oo, baasaan.",
+  "hiraganaKatakana": "おお、ばあさん。",
+  "myanmar": "အို၊ အဖွားကြီးရေ။"
+},
+{
+  "start": 373,
+  "end": 377,
+  "japanese": "そして 夜 も 深 まり、 除夜 の 鐘 が 鳴 り 始 めました。",
+  "romanized": "Soshite yoru mo fukamari, joya no kane ga nari hajimemashita.  ",
+  "hiraganaKatakana": "そして よる も ふか まり、 じょや の かね が な り はじ めました。",
+  "myanmar": "ဆက်လက်ပြီး ညနက်လာသည်နှင့်အမျှ နှစ်သစ်ကူးအကြို ခေါင်းလောင်းသံများ စတင်မြည်လာသည်။"
+},
+{
+  "start": 377,
+  "end": 382,
+  "japanese": "あとわずかで、 新 しい 年 の 始 まりです。",
+  "romanized": "Ato wazuka de, atarashii toshi no hajimari desu. ",
+  "hiraganaKatakana": "あとわずかで、 あたら しい とし の はじ まりです。",
+  "myanmar": "နောက်(မိနစ်)အနဲငယ်အတွင်း နှစ်သစ်စတင်တော့မယ်။"
+},
+{
+  "start": 383,
+  "end": 389,
+  "japanese": "おじいさん と おばあさんが 床 について、 しばらくたったときです。",
+  "romanized": "Ojiisan to obaasan ga toko ni tsuite, shibaraku tatta toki desu.",
+  "hiraganaKatakana": "おじいさん と おばあさんが とこ について、 しばらくたったときです。",
+  "myanmar": "အဖိုးနဲ့ အဖွား အိပ်ရာဝင်ပြီး အချိန်အနည်းငယ် ကြာသွားချိန်ပါ။"
+},
+  {
+    "start": 398,
+    "end": 400,
+    "japanese": "なんだろうね？",
+    "romanized": "Nandarou ne?",
+    "hiraganaKatakana": "なんだろうね？",
+    "myanmar": "ဘာဖြစ်တာလဲနော်။"
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "japanese": "さあ？",
+    "romanized": "Saa?",
+    "hiraganaKatakana": "さあ？",
+    "myanmar": "မသိဘူး။"
+  },
+  {
+    "start": 401,
+    "end": 422,
+    "japanese": "じい さま の 家 はどこだ？ じい さま の 家 はどこだ？ じい さま の 家 はどこだ？ じい さま の 家 はどこだ？",
+    "romanized": "Jiisama no ie wa doko da? Jiisama no ie wa doko da? Jiisama no ie wa doko da? Jiisama no ie wa doko da?",
+    "hiraganaKatakana": "じい さま の いえ はどこだ？ じい さま の いえ はどこだ？ じい さま の いえ はどこだ？ じい さま の いえ はどこだ？",
+    "myanmar": "အဘိုးရဲ့အိမ်က ဘယ်မှာလဲ။ အဘိုးရဲ့အိမ်က ဘယ်မှာလဲ။ အဘိုးရဲ့အိမ်က ဘယ်မှာလဲ။ အဘိုးရဲ့အိမ်က ဘယ်မှာလဲ။"
+  },
+  {
+    "start": 422,
+    "end": 426,
+    "japanese": "じい さま の 家 は ここだ！",
+    "romanized": "Jiisama no ie wa koko da!",
+    "hiraganaKatakana": "じい さま の いえ は ここだ！",
+    "myanmar": "အဘိုးအိမ်က ဒီမှာပါ။"
+  },
+  {
+    "start": 447,
+    "end": 450,
+    "japanese": "一体 何 が 起 こったんだろう？",
+    "romanized": "Ittai nani ga okottan darou?",
+    "hiraganaKatakana": "いったい なに が お こったんだろう？",
+    "myanmar": "အဲဒါ ဘာဖြစ်သွားတာလဲနော်။"
+  },
+  {
+    "start": 451,
+    "end": 453,
+    "japanese": "うおお！",
+    "romanized": "Uoo!",
+    "hiraganaKatakana": "うおお！",
+    "myanmar": "အိုး..."
+  },
+  {
+    "start": 463,
+    "end": 468,
+    "japanese": "こりゃ 一体。 もしかして。",
+    "romanized": "Korya ittai. Moshikashite.",
+    "hiraganaKatakana": "こりゃ いったい。 もしかして。",
+    "myanmar": "ဒီဟာ ဘာလဲ။ ဖြစ်နိုင်တာက။"
+  },
+  {
+    "start": 479,
+    "end": 483,
+    "japanese": "そうか、 お 地蔵様 は 傘 の お 礼 に。",
+    "romanized": "Sou ka, ojizousama wa kasa no orei ni.",
+    "hiraganaKatakana": "そうか、 お じぞうさま は かさ の お れい に。",
+    "myanmar": "ဟုတ်ပြီ ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား)က ခမောက်အတွက် ကျေးဇူးပြုတာလား။"
+  },
+  {
+    "start": 504,
+    "end": 510,
+    "japanese": "そうして、 おじいさん と おばあさんは、 もらった お 米 で お 餅 を つきました。",
+    "romanized": "Soushite, ojiisan to obaasan wa, moratta okome de omochi o tsukimashita.",
+    "hiraganaKatakana": "そうして、 おじいさん と おばあさんは、 もらった お こめ で お もち を つきました。",
+    "myanmar": "နောက်တော့ အဘိုးနဲ့ အဘွားက ရခဲ့တဲ့ ဆန်နဲ့ မိုချီ(ဂျပန်နှစ်သစ်ကူးအတွက် အထူးအစားအစာ)ကို ပြုလုပ်ခဲ့ကြတယ်။"
+  },
+  {
+    "start": 515,
+    "end": 525,
+    "japanese": "おかげ 様 で 素晴 らしい お 正月 が 迎 えられました。 本当 に。 ありがとうございました。",
+    "romanized": "Okagesama de subarashii oshougatsu ga mukaeraremashita. Hontou ni. Arigatou gozaimashita.",
+    "hiraganaKatakana": "おかげ さま で、 すば らしい お しょうがつ が むか えられました。 ほんとう に。 ありがとうございました。",
+    "myanmar": "အကူအညီကြောင့်  ပျော်ရွှင်ဖွယ်ကောင်းတဲ့ နှစ်သစ်ကူးကို ကြိုဆိုနိုင်ခဲ့တယ်။ တကယ်ပဲ ကျေးဇူးတင်ပါတယ်။"
+  },
+   {
+    "start": 525,
+    "end": 530,
+    "japanese": "それからも 二人 は お 地蔵様 を 大切 にしました。",
+    "romanized": "Sorekara mo futari wa ojizousama o taisetsu ni shimashita. ",
+    "hiraganaKatakana": "それからも ふたり は お じぞうさま を たいせつ にしました。",
+    "myanmar": "ထိုအချိန်မှစ၍ ၂ယောက်သား ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား)ကို ဂရုစိုက်ခဲ့ကြသည်။"
+  },
+  {
+    "start": 530,
+    "end": 540,
+    "japanese": "お 地蔵様 の おかげで、 おじいさん と おばあさんは 病気 一つ せず、 仲良 く 幸 せに 暮 らしましたとさ。",
+    "romanized": "Ojizousama no okage de, ojiisan to obaasan wa byouki hitotsu sezu, nakayoku shiawase ni kurashimashita to sa.",
+    "hiraganaKatakana": "お じぞうさま の おかげで、 おじいさん と おばあさんは びょうき ひとつ せず、 なかよ く しあわ せに く らしましたとさ。",
+    "myanmar": "ဂျီဇိုနတ်ဘုရား(ဂျပန်ဘုရား) ကျေးဇူးကြောင့် အဘိုးနဲ့ အဘွားဟာ ရောဂါတစ်ခုမျှမဖြစ်ဘဲ ပျော်ရွှင်စွာနေထိုင်သွားခဲ့ကြတယ်။"
+  }
+]
