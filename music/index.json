@@ -1,6 +1,19 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kokoro_no_tomo/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kokoro_no_tomo/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBbmkYEXY68HmeSgkLtg8ew6TsRFqOAAKFGAACx_7AVMZHw8EZ1tcNNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/demon_slayer_ost1.json",
+    "name": "こころの友 - cover",
+    "singer": "Rina Aoi",
+    "value": "kokoro no tomo"
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/demon_slayer_ost1%20/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/demon_slayer_ost1%20/banner.png",
