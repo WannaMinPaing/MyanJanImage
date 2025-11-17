@@ -1,0 +1,345 @@
+[
+    {
+        "time": 7000,
+        "japanese": "もしも 君が 望むなら",
+        "romanized": "Moshimo kimi ga nozomu nara",
+        "hiraganaKatakana": "もしも きみが のぞむなら",
+        "myanmar": "တကယ်လို့ မင်းလေးက မျှော်လင့်တယ်ဆို(ရင်)"
+    },
+    {
+        "time": 11000,
+        "japanese": "もしも 君が 望むなら",
+        "romanized": "Moshimo kimi ga nozomu nara",
+        "hiraganaKatakana": "もしも きみが のぞむなら",
+        "myanmar": "တကယ်လို့ မင်းလေးက မျှော်လင့်တယ်ဆို(ရင်)"
+    },
+    {
+        "time": 16000,
+        "japanese": "僕らはきっとまたひとつになる",
+        "romanized": "Bokura wa kitto mata hitotsu ni naru",
+        "hiraganaKatakana": "ぼくらは きっと また ひとつに なる",
+        "myanmar": "ငါတို့ သေချာပါက် နောက်ထပ် နီးစပ်ဖို့ ဖြစ်လာမယ်"
+    },
+    {
+        "time": 22000,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 25000,
+        "japanese": "その人は言った",
+        "romanized": "Sono hito wa itta",
+        "hiraganaKatakana": "その ひとは いった",
+        "myanmar": "သူ(အဲလူ) ပြောခဲ့တဲ့"
+    },
+    {
+        "time": 27000,
+        "japanese": "君は 僕の 言葉の意味 わかってないだろね",
+        "romanized": "Kimi wa boku no kotoba no imi wakattenai daro ne",
+        "hiraganaKatakana": "きみは ぼくの ことばの いみ わかってない だろね",
+        "myanmar": "မင်းက ကိုယ့်စကားလုံးတွေရဲ့ဓိပ္ပါယ်ကို မနားလည်ဘူး"
+    },
+    {
+        "time": 34000,
+        "japanese": "辞書で  引いたって 出てこないのさ",
+        "romanized": "Jisho de hiitatte detekonai no sa",
+        "hiraganaKatakana": "じしょで ひいたって でてこない のさ",
+        "myanmar": "အဘိဓာန်မှာ ရှာဖွေရင်တောင် မထွက်လာနိုင်ဘူး"
+    },
+
+    {
+        "time": 39000,
+        "japanese": "あの人は泣いた",
+        "romanized": "Ano hito wa naita",
+        "hiraganaKatakana": "あの ひとは ないた",
+        "myanmar": "အဲဒီသူတော့ ငိုကြွေးခဲ့တယ်"
+    },
+    {
+        "time": 40000,
+        "japanese": "言い訳ばかりしないでよ",
+        "romanized": "Iiwake bakari shinaide yo",
+        "hiraganaKatakana": "いいわけばかり しないでよ",
+        "myanmar": "အကြောင်းပြချက်တွေချည်းဘဲ မလုပ်ပါနဲ့(မပေးပါနဲ့)"
+    },
+    {
+        "time": 44000,
+        "japanese": "どうして分かってくれないの",
+        "romanized": "Doushite wakatte kurenai no",
+        "hiraganaKatakana": "どうして わかって くれないの",
+        "myanmar": "ဘာကြောင့်များ နားမလည်နိုင်တာလဲ"
+    },
+    {
+        "time": 48000,
+        "japanese": "だいっきらい あなたは私をきっと愛してなんかないの",
+        "romanized": "Daikkirai anata wa watashi o kitto aishite nanka nai no",
+        "hiraganaKatakana": "だいっきらい あなたは わたしを きっと あいしてなんか ないの",
+        "myanmar": "အရမ်းမုန်းတယ် မင်းကငါကို သေချာပေါက် မချစ်တာ ဖြစ်နိုင်တယ်"
+    },
+
+    {
+        "time": 57000,
+        "japanese": "ただ気持ちと向きあって欲しかった僕らは",
+        "romanized": "Tada kimochi to mukiatte hoshikatta bokura wa",
+        "hiraganaKatakana": "ただ きもちと むきあって ほしかった ぼくらは",
+        "myanmar": "ခံစားချက်တွေနဲ့ဘဲ ရင်ဆိုင်ဖြေရှင်းချင်ခဲ့တဲ့ ငါတို့ဟာ"
+    },
+    {
+        "time": 61000,
+        "japanese": "傷つけてもホントはね 抱きしめて欲しかった",
+        "romanized": "Kizutsukete mo honto wa ne dakishimete hoshikatta",
+        "hiraganaKatakana": "きずつけても ほんとはね だきしめて ほしかった",
+        "myanmar": "နာကျင်ရင်တောင် တကယ်တော့ ပွေ့ဖက်ထားချင်ခဲ့တာပါ"
+    },
+    {
+        "time": 65000,
+        "japanese": "言葉を 話すことを 選んでしまった僕らは",
+        "romanized": "Kotoba o hanasu koto o erande shimatta bokura wa",
+        "hiraganaKatakana": "ことばを はなすことを えらんで しまった ぼくらは",
+        "myanmar": "စကားလုံးတွေ ပြောထွက်ဖို့ ရွေးချယ်ပြီးတဲ့ ငါတို့ဟာ"
+    },
+    {
+        "time": 70000,
+        "japanese": "どんな 動物よりも 無口だ",
+        "romanized": "Donna doubutsu yori mo mukuchi da",
+        "hiraganaKatakana": "どんな どうぶつよりも むくち だ",
+        "myanmar": "တခြားသက်ရှိတိရိစ္ဆာန်တွေထက် ပိုတိတ်ဆိတ်ခဲ့တယ်နော်။"
+    },
+
+    {
+        "time": 74000,
+        "japanese": "もしも 言葉がなければ",
+        "romanized": "Moshimo kotoba ga nakereba",
+        "hiraganaKatakana": "もしも ことばが なければ",
+        "myanmar": "အကယ်လို့ စကားလုံးတွေ မရှိဘူးဆိုရင်"
+    },
+    {
+        "time": 78000,
+        "japanese": "もしも プライドがなければ",
+        "romanized": "Moshimo puraido ga nakereba",
+        "hiraganaKatakana": "もしも ぷらいどが なければ",
+        "myanmar": "အကယ်လို့ မာနတွေ မရှိဘူးဆိုရင်"
+    },
+    {
+        "time": 83000,
+        "japanese": "もしも もう一度会えるのなら",
+        "romanized": "Moshimo mou ichido aeru no nara",
+        "hiraganaKatakana": "もしも もういちど あえるのなら",
+        "myanmar": "အကယ်လို့ ထပ်မံ တွေ့ဆုံနိုင်မယ်ဆိုရင်"
+    },
+    {
+        "time": 88000,
+        "japanese": "もしも 名前がなければ",
+        "romanized": "Moshimo namae ga nakereba",
+        "hiraganaKatakana": "もしも なまえが なければ",
+        "myanmar": "အကယ်လို့ နာမည်တွေ မရှိဘူးဆိုရင်"
+    },
+    {
+        "time": 92000,
+        "japanese": "もしも カラダがなければ",
+        "romanized": "Moshimo karada ga nakereba",
+        "hiraganaKatakana": "もしも からだが なければ",
+        "myanmar": "အကယ်လို့ ခန္ဓာတွေ မရှိခဲ့ကြရင်"
+    },
+    {
+        "time": 96000,
+        "japanese": "僕らどれだけひとつになれるだろう",
+        "romanized": "Bokura dore dake hitotsu ni nareru darou",
+        "hiraganaKatakana": "ぼくら どれだけ ひとつに なれるだろう",
+        "myanmar": "ငါတို့ ဘယ်လောက်ထိ နီးစပ်နိုင်မလဲ"
+    },
+    {
+        "time": 105000,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 124000,
+        "japanese": "僕らが ずっと 握りしめているものを 手放そう",
+        "romanized": "Bokura ga zutto nigirishimete iru mono o tebanasou",
+        "hiraganaKatakana": "ぼくらが ずっと にぎりしめている ものを てばなそう",
+        "myanmar": "ငါတို့ အမြဲတမ်း ဖက်တွယ်ထားတဲ့ အရာတွေကို လွှတ်လိုက်ရအောင်"
+    },
+    {
+        "time": 129000,
+        "japanese": "そこには 花の香り 太陽の日差しも 存在しないのさ",
+        "romanized": "Soko ni wa hana no kaori taiyou no hizashi mo sonzai shinai no sa",
+        "hiraganaKatakana": "そこには はなの かおり たいようの ひざしも そんざいしない のさ",
+        "myanmar": "အဲဒီနေရာမှာ ပန်းရနံ့တွေ နေရောင်ခြည်တွေလည်း မရှိဘူးနော်"
+    },
+    {
+        "time": 138000,
+        "japanese": "抱きしめて 初めて本当に分かることがある",
+        "romanized": "Dakishimete hajimete hontou ni wakaru koto ga aru",
+        "hiraganaKatakana": "だきしめて はじめて ほんとうに わかることが ある",
+        "myanmar": "ဖက်တွယ်ပြီးမှသာ တကယ်နားလည်နိုင်တဲ့အရာတွေ ရှိတယ်"
+    },
+    {
+        "time": 143000,
+        "japanese": "そう まだみぬ未来へ",
+        "romanized": "Sou mada minu mirai e",
+        "hiraganaKatakana": "そう まだみぬ みらいへ",
+        "myanmar": "ဟုတ်တယ်၊ မလာသေးတဲ့အနာဂတ်ဆီမှာ"
+    },
+
+    {
+        "time": 148000,
+        "japanese": "Ooh 僕らは 世界で 一人しかいないの",
+        "romanized": "Ooh bokura wa sekai de hitori shika inai no",
+        "hiraganaKatakana": "おお ぼくらは せかいで ひとりしか いないの",
+        "myanmar": "အို ငါတို့က ကမ္ဘာပေါ်မှာ (မင်း)တစ်ယောက်ကလွဲပြီး မရှိဘူးနော်"
+    },
+
+    {
+        "time": 155000,
+        "japanese": "何千万のすれ違いを繰り返した僕らは",
+        "romanized": "Nan zenman no surechigai o kurikaeshita bokura wa",
+        "hiraganaKatakana": "なんぜんまんの すれちがいを くりかえした ぼくらは",
+        "myanmar": "သိန်းသန်းမက မဆုံနိုင်မှုတွေကို ထပ်ခါထပ်ခါ ခံကြရတဲ့ ငါတို့"
+    },
+    {
+        "time": 160000,
+        "japanese": "まだ懲りず体温のないメッセージを送り合う",
+        "romanized": "Mada korizu taion no nai messeeji o okuriau",
+        "hiraganaKatakana": "まだ こりず たいおんのない めっせーじを おくりあう",
+        "myanmar": "အမှားတွေကို သင်ခန်းစာမယူသေးဘဲ မနွေးထွေးတဲ့ စာတွေကို ပို့နေဆဲ"
+    },
+    {
+        "time": 164000,
+        "japanese": "言葉を話すことを選んでしまった僕らは",
+        "romanized": "Kotoba o hanasu koto o erande shimatta bokura wa",
+        "hiraganaKatakana": "ことばを はなすことを えらんで しまった ぼくらは",
+        "myanmar": "ဆက်သွယ်ပြောဆိုခြင်းတွေ အဆုံးသတ်ဖို့ရွေးချယ်လိုက်တဲ့ ငါတို့ဟာ"
+    },
+    {
+        "time": 169000,
+        "japanese": "どんな 動物 よりも 孤独だ",
+        "romanized": "Donna doubutsu yori mo kodoku da",
+        "hiraganaKatakana": "どんな どうぶつよりも こどく だ",
+        "myanmar": "မည်သည့်သက်ရှိတိရစ္ဆာန်တွေထက်မဆို ပို၍ အထီးကျန်နေတယ်"
+    },
+    {
+        "time": 173000,
+        "japanese": "もしも 歴史が なければ",
+        "romanized": "Moshimo rekishi ga nakereba",
+        "hiraganaKatakana": "もしも れきしが なければ",
+        "myanmar": "အကယ်လို့ အတိတ်သမိုင်းတွေ မရှိခဲ့ဘူးဆိုရင်"
+    },
+    {
+        "time": 178000,
+        "japanese": "もしも 国境が なければ",
+        "romanized": "Moshimo kokkyou ga nakereba",
+        "hiraganaKatakana": "もしも こっきょうが なければ",
+        "myanmar": "အကယ်လို့ နိုင်ငံနယ်နိမိတ်တွေ မရှိခဲ့ဘူးဆိုရင်"
+    },
+    {
+        "time": 182000,
+        "japanese": "もしも まだ やり直せるなら",
+        "romanized": "Moshimo mada yarinaoseru nara",
+        "hiraganaKatakana": "もしも まだ やりなおせるなら",
+        "myanmar": "အကယ်လို့ နောက်ထပ် အမှားတွေ ပြင်ဆင်နိုင်ခွင့်ရှိမယ်ဆိုရင်"
+    },
+
+    {
+        "time": 187000,
+        "japanese": "もしも 君が 望むなら",
+        "romanized": "Moshimo kimi ga nozomu nara",
+        "hiraganaKatakana": "もしも きみが のぞむなら",
+        "myanmar": "တကယ်လို့ မင်းလေးက မျှော်လင့်တယ်ဆို(ရင်)"
+    },
+    {
+        "time": 191000,
+        "japanese": "もしも 君が 望むなら",
+        "romanized": "Moshimo kimi ga nozomu nara",
+        "hiraganaKatakana": "もしも きみが のぞむなら",
+        "myanmar": "တကယ်လို့ မင်းလေးက မျှော်လင့်တယ်ဆို(ရင်)"
+    },
+    {
+        "time": 195000,
+        "japanese": "僕らはきっとまたひとつになる",
+        "romanized": "Bokura wa kitto mata hitotsu ni naru",
+        "hiraganaKatakana": "ぼくらは きっと また ひとつに なる",
+        "myanmar": "ငါတို့ သေချာပါက် နောက်ထပ် နီးစပ်ဖို့ ဖြစ်လာမယ်"
+    },
+    {
+        "time": 202000,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 204000,
+        "japanese": "もしも 君が いなければ",
+        "romanized": "Moshimo kimi ga inakereba",
+        "hiraganaKatakana": "もしも きみが いなければ",
+        "myanmar": "တကယ်လို့ မင်းလေး မရှိတော့ဘူးဆို(ရင်)"
+    },
+    {
+        "time": 209000,
+        "japanese": "もしも 君が いなければ",
+        "romanized": "Moshimo kimi ga inakereba",
+        "hiraganaKatakana": "もしも きみが いなければ",
+        "myanmar": "တကယ်လို့ မင်းလေး မရှိတော့ဘူးဆို(ရင်)"
+    },
+    {
+        "time": 213000,
+        "japanese": "もしも 君が いなければ",
+        "romanized": "Moshimo kimi ga inakereba",
+        "hiraganaKatakana": "もしも きみが いなければ",
+        "myanmar": "တကယ်လို့ မင်းလေး မရှိတော့ဘူးဆို(ရင်)"
+    },
+    {
+        "time": 218000,
+        "japanese": "生きていけないよ",
+        "romanized": "ikite ikenai yo",
+        "hiraganaKatakana": "いきていけないよ",
+        "myanmar": "အသက်ရှင်နိုင်မယ် မဟုတ်ဘူးနော်"
+    },
+
+     {
+        "time": 223000,
+        "japanese": "もしも あの海を 越えて",
+        "romanized": "Moshimo Ano umi o koete ",
+        "hiraganaKatakana": "もしも あの うみを こえて",
+        "myanmar": "တကယ်လို့ အဲဒီပင်လယ်ကို ကျော်ဖြတ်နိုင်ရင်"
+    },
+    {
+        "time": 227000,
+        "japanese": "もしも あの虹を 越えて",
+        "romanized": "Moshimo ano niji o koete",
+        "hiraganaKatakana": "もしも あの にじを こえて",
+        "myanmar": "တကယ်လို့ အဲဒီသက်တံကို ကျော်ဖြတ်နိုင်ရင်"
+    },
+    {
+        "time": 231000,
+        "japanese": "僕らはきっとまたひとつになる",
+        "romanized": "Bokura wa kitto mata hitotsu ni naru",
+        "hiraganaKatakana": "ぼくらは きっと また ひとつに なる",
+        "myanmar": "ငါတို့ သေချာပါက် နောက်ထပ် နီးစပ်ဖို့ ဖြစ်လာမယ်"
+    },
+    {
+        "time": 236000,
+        "japanese": "もしも 抱きしめ合うんだ",
+        "romanized": "Moshimo dakishimeaun da",
+        "hiraganaKatakana": "もしも だきしめあうんだ",
+        "myanmar": "တကယ်လို့ အတူတူ ဖက်ထားခဲ့ရင်"
+    },
+    {
+        "time": 240000,
+        "japanese": "もしも 笑いあえるんだ",
+        "romanized": "Moshimo waraiaeru n da",
+        "hiraganaKatakana": "もしも わらいあえるんだ",
+        "myanmar": "တကယ်လို့ အတူတူ ရယ်မောခဲ့ကြရင်"
+    },
+    {
+        "time": 245000,
+        "japanese": "僕らは いつまでも ひとつになる",
+        "romanized": "Bokura wa itsumademo hitotsu ni naru",
+        "hiraganaKatakana": "ぼくらは いつまでも ひとつに なる",
+        "myanmar": "ငါတို့ အမြဲတမ်း ဆုံဆည်းဖို့ ဖြစ်လာမယ်"
+    }
+]
