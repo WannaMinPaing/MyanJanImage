@@ -1,0 +1,502 @@
+[
+    {
+        "time": 500,
+        "japanese": "無敵 の 笑顔で 荒らす メディア",
+        "romanized": "Muteki no egao de arasu media",
+        "hiraganaKatakana": "むてきの えがおで あらす メディア",
+        "myanmar": "ပြိုင်ဘက်ကင်း အပြုံးလေးကြောင့် မှင်သက်သွားသော မီဒီယာများ"
+    },
+    {
+        "time": 3000,
+        "japanese": "知りたい その秘密 ミステリアス",
+        "romanized": "Shiritai sono himitsu misuteriasu",
+        "hiraganaKatakana": "しりたい その ひみつ ミステリアス",
+        "myanmar": "သိချင်ကြတဲ့ အဲဒီလျှို့ဝှက်ချက်က ဆန်းကြယ်လှတယ်"
+    },
+    {
+        "time": 6000,
+        "japanese": "抜けてる とこ さえ 彼女 の エリア",
+        "romanized": "Nuketeru toko sae kanojo no eria",
+        "hiraganaKatakana": "ぬけてる とこ さえ かのじょの エリア",
+        "myanmar": "မပြည့်စုံတဲ့အချက်လေးတောင် သူမရဲ့ ဧရိယာ (ခမ်းနားမှု) ဖြစ်နေတယ်"
+    },
+    {
+        "time": 9000,
+        "japanese": "完璧で 嘘つきな 君は",
+        "romanized": "Kanpeki de usotsuki na kimi wa",
+        "hiraganaKatakana": "かんぺきで うそつきな きみは",
+        "myanmar": "ပြီးပြည့်စုံစွာ လိမ်ညာတတ်တဲ့ မင်းလေးက"
+    },
+    {
+        "time": 11000,
+        "japanese": "天才的な アイドル 様",
+        "romanized": "Tensaiteki na aidoru-sama",
+        "hiraganaKatakana": "てんさいてきな アイドルさま",
+        "myanmar": "ထူးချွန်လှတဲ့ အိုင်ဒေါ ဆရာမကြီးဘဲ"
+    },
+    {
+        "time": 14000,
+        "japanese": "Oh, my savior, you're my saving grace",
+        "romanized": "",
+        "hiraganaKatakana": "",
+        "myanmar": ""
+    },
+    {
+        "time": 17000,
+        "japanese": "今日 何食べた?",
+        "romanized": "Kyou nani tabeta?",
+        "hiraganaKatakana": "きょう なに たべた?",
+        "myanmar": "ဒီနေ့ ဘာစားခဲ့လဲ?"
+    },
+    {
+        "time": 18000,
+        "japanese": "好きな 本は?",
+        "romanized": "Suki na hon wa?",
+        "hiraganaKatakana": "すきな ほんは?",
+        "myanmar": "နှစ်သက်တဲ့ စာအုပ်ကရော?"
+    },  
+    {
+        "time": 20000,
+        "japanese": "遊びに 行くならどこに 行くの?",
+        "romanized": "Asobi ni iku nara doko ni iku no?",
+        "hiraganaKatakana": "あそびに いくなら どこに いくの?",
+        "myanmar": "လျောက်လည်မယ်ဆို ဘယ်ကို သွားမလဲ?"
+    },
+    {
+        "time": 23000,
+        "japanese": "何も 食べてない",
+        "romanized": "Nani mo tabetenai",
+        "hiraganaKatakana": "なにも たべてない",
+        "myanmar": "ဘာမှ မစားရသေးဘူး"
+    },
+    {
+        "time": 24000,
+        "japanese": "それは 内緒",
+        "romanized": "Sore wa naisho",
+        "hiraganaKatakana": "それは ないしょ",
+        "myanmar": "အဲဒါက လျှို့ဝှက်ချက်လေ"
+    },
+    {
+        "time": 26000,
+        "japanese": "何を 聞かれても のらりくらり",
+        "romanized": "Nani o kikarete mo norari kurari",
+        "hiraganaKatakana": "なにを きかれても のらりくらり",
+        "myanmar": "ဘာတွေဘဲမေးမေး ရှောင်ထွက်သွားမယ်"
+    },
+    {
+        "time": 29000,
+        "japanese": "そう淡々と だけど燦々と",
+        "romanized": "Sou tantan to dakedo sansan to",
+        "hiraganaKatakana": "そう たんたんと だけど さんさんと",
+        "myanmar": "အဲဒီလို တည်ငြိမ်တယ်ဆိုပေမယ့် အထာနပ်နေရမယ်"
+    },
+    {
+        "time": 31000,
+        "japanese": "見えそうで 見えない 秘密は 蜜の味",
+        "romanized": "Miesou de mienai himitsu wa mitsu no aji",
+        "hiraganaKatakana": "みえそうで みえない ひみつは みつの あじ",
+        "myanmar": "မြင်ရတယ်ဆိုပေမယ့် မမြင်နိုင်တဲ့ လျှို့ဝှက်ချက်က ပျားရည်လိုဘဲ"
+    },
+
+    {
+        "time": 34000,
+        "japanese": "あれも ない ない ない",
+        "romanized": "Are mo nai nai nai",
+        "hiraganaKatakana": "あれも ない ない ない",
+        "myanmar": "အဲဒါလည်း မဟုတ် မဟုတ် မဟုတ်"
+    },
+    {
+        "time": 35000,
+        "japanese": "これも ないないない",
+        "romanized": "Kore mo nai nai nai",
+        "hiraganaKatakana": "これも ない ない ない",
+        "myanmar": "ဒီဟာလည်း မဟုတ် မဟုတ် မဟုတ်"
+    },
+    {
+        "time": 37000,
+        "japanese": "好きな タイプは? 相手は? さあ 答えて",
+        "romanized": "Suki na taipu wa? Aite wa? Saa kotaete",
+        "hiraganaKatakana": "すきな タイプは? あいては? さあ こたえて",
+        "myanmar": "သဘောကျတဲ့ ပုံစံလေးက? ချစ်သူရှိလား? ကဲ ဖြေပါဉီးနော်"
+    },
+    {
+        "time": 40000,
+        "japanese": "誰かを 好きに なることなんて 私 分からなくてさ",
+        "romanized": "Dareka o suki ni naru koto nante watashi wakaranakute sa",
+        "hiraganaKatakana": "だれかを すきに なることなんて わたし わからなくてさ",
+        "myanmar": "တစ်ယောက်ယောက်ကို ချစ်ရတဲ့ကိစ္စကိုတော့ ကျွန်မနားမလည်ဘူးနော်"
+    },
+    {
+        "time": 46000,
+        "japanese": "嘘か 本当か 知り得ない",
+        "romanized": "Uso ka hontou ka shirie nai",
+        "hiraganaKatakana": "うそか ほんとうか しりえない",
+        "myanmar": "လိမ်နေတာလား အမှန်လား မသိနိုင်ဘူး"
+    },
+    {
+        "time": 49000,
+        "japanese": "そんな言葉に また 一人 堕ちる",
+        "romanized": "Sonna kotoba ni mata hitori ochiru",
+        "hiraganaKatakana": "そんな ことばに また ひとり おちる",
+        "myanmar": "အဲဒီစကားလုံးတွေအောက် နောက်တစ်ယောက်တော့ ကျဆုံးသွားပြန်ပြီ"
+    },
+    {
+        "time": 52000,
+        "japanese": "また 好きにさせる",
+        "romanized": "Mata suki ni saseru",
+        "hiraganaKatakana": "また すきに させる",
+        "myanmar": "ထပ်ပြီး ချစ်လာအောင် လုပ်ပြန်ပြီ"
+    },
+    {
+        "time": 55000,
+        "japanese": "誰もが 目を 奪われていく",
+        "romanized": "Daremo ga me o ubawarete iku",
+        "hiraganaKatakana": "だれもが めを うばわれていく",
+        "myanmar": "အားလုံးရဲ့ အကြည့်ကို ဖမ်းစားလိုက်ပြန်ပြီး"
+    },
+    {
+        "time": 57000,
+        "japanese": "君は 完璧で 究極 の アイドル",
+        "romanized": "Kimi wa kanpeki de kyuukyoku no aidoru",
+        "hiraganaKatakana": "きみは かんぺきで きゅうきょくの アイドル",
+        "myanmar": "မင်းလေးက ပြည့်စုံလှတဲ့ ထိပ်တန်း အိုင်ဒေါလ်လေးဘဲ"
+    },
+    {
+        "time": 60000,
+        "japanese": "金輪際現れない",
+        "romanized": "Konrinzai arawarenai",
+        "hiraganaKatakana": "こんりんざい あらわれない",
+        "myanmar": "(မင်းလိုမျိုး) ဘယ်တော့မှ မပေါ်လာနိုင်တော့ဘူး"
+    },
+    {
+        "time": 63000,
+        "japanese": "一番星の 生まれ変わり",
+        "romanized": "Ichibanboshi no umarekawari",
+        "hiraganaKatakana": "いちばんぼしの うまれかわり",
+        "myanmar": "အလင်းလက်ဆုံး ကြယ်လေးတစ်လုံး ပြန်လည် မွေးဖွားလာသလို"
+    },
+    {
+        "time": 66000,
+        "japanese": "Ah その笑顔で 愛してるで",
+        "romanized": "Ah sono egao de aishiteru de",
+        "hiraganaKatakana": "あー その えがおで あいしてるで",
+        "myanmar": "အာ.. အဲ့ဒီ အပြုံးလေးနဲ့ 'ချစ်တယ်' လို့"
+    },
+    {
+        "time": 70000,
+        "japanese": "誰も彼も 虜にしていく",
+        "romanized": "Daremo karemo toriko ni shite iku",
+        "hiraganaKatakana": "だれも かれも とりこに していく",
+        "myanmar": "အားလုံးကို ဖမ်းစားလိုက်ပြန်ပြီ"
+    },
+    {
+        "time": 72000,
+        "japanese": "その 瞳が その 言葉が",
+        "romanized": "Sono hitomi ga sono kotoba ga",
+        "hiraganaKatakana": "その ひとみが その ことばが",
+        "myanmar": "အဲဒီ မျက်လုံးတွေ၊ အဲဒီ စကားလေးတွေက"
+    },
+    {
+        "time": 75000,
+        "japanese": "嘘でも それは 完全な アイ",
+        "romanized": "Uso demo sore wa kanzen na ai",
+        "hiraganaKatakana": "うそでも それは かんぜん な アイ",
+        "myanmar": "လိမ်ညာထားရင်တောင် အဲဒါက အပြစ်မရှိတဲ့ ချစ်ခြင်းမေတ္တာလေးဘဲ"
+    },
+
+    {
+        "time": 78000,
+        "japanese": "はい はい あの子は 特別です",
+        "romanized": "Hai hai ano ko wa tokubetsu desu",
+        "hiraganaKatakana": "はいはい あのこは とくべつです",
+        "myanmar": "ဟုတ်ပြီ ဟုတ်ပြီ အဲဒီကလေးက ထူးခြားပါတယ်"
+    },
+    {
+        "time": 81000,
+        "japanese": "我々は はなから おまけです",
+        "romanized": "Wareware wa hana kara omake desu",
+        "hiraganaKatakana": "われわれは はなから おまけです",
+        "myanmar": "ငါတို့က အစကတည်းက ရှုံးပြီးသားဘဲ"
+    },
+    {
+        "time": 84000,
+        "japanese": "お星様の 引き立て役 B です",
+        "romanized": "Ohoshi-sama no hikitate yaku B desu",
+        "hiraganaKatakana": "おほしさまの ひきたてやく Bです",
+        "myanmar": "ကြယ်ပွင့်လေးကို ကူပေးရတဲ့ B အဆင့်တွေပါ"
+    },
+    {
+        "time": 87000,
+        "japanese": "全てが あの子のお陰な わけない",
+        "romanized": "Subete ga ano ko no okage na wake nai",
+        "hiraganaKatakana": "すべてが あのこの おかげ なわけない",
+        "myanmar": "အကုန်လုံးတော့ အဲဒီကောင်မလေးရဲ့ ကျေးဇူးကြောင့်တော့ မဆိုနိုင်ဘူး"
+    },
+    {
+        "time": 90000,
+        "japanese": "洒落臭い 妬み嫉妬なんてないわけがない",
+        "romanized": "Sharekusai netami shitto nante nai wake ga nai",
+        "hiraganaKatakana": "しゃれくさい ねたみ しっと なんて ないわけがない",
+        "myanmar": "လက်လန်တယ် မနာလိုဖြစ်စရာအကြောင်း မရှိဘူး"
+    },
+    {
+        "time": 93000,
+        "japanese": "これはネタじゃない からこそ許せない",
+        "romanized": "Kore wa neta janai kara koso yurusenai",
+        "hiraganaKatakana": "これは ねた じゃない からこそ ゆるせない",
+        "myanmar": "ဒီဟာက ဟာသမဟုတ်တာကြောင့် ခွင့်လွှတ်လို့ မရဘူး"
+    },
+    {
+        "time": 95000,
+        "japanese": "完璧じゃない 君じゃ許せない 自分を許せない",
+        "romanized": "Kanpeki janai kimi ja yurusenai jibun o yurusenai",
+        "hiraganaKatakana": "かんぺきじゃない きみじゃ ゆるせない じぶんを ゆるせない",
+        "myanmar": "ပြီးပြည့်စုံမနေတဲ့ မင်းကို ခွင့်မလွှတ်နိုင်သလို၊ ငါကိုငါလည်း ခွင့်မလွှတ်နိုင်ဘူး"
+    },
+    {
+        "time": 98000,
+        "japanese": "誰よりも 強い 君以外は 認めない",
+        "romanized": "Dare yori mo tsuyoi kimi igai wa mitomenai",
+        "hiraganaKatakana": "だれよりも つよい きみ いがいは みとめない",
+        "myanmar": "တခြားသူတွေထက် သန်မာတဲ့မင်းကလွဲလို့ တခြားဘယ်သူ့ကိုမှ လက်မခံဘူး"
+    },
+
+    {
+        "time": 100000,
+        "japanese": "誰もが 信じ 崇めてる",
+        "romanized": "Daremo ga shinji agameteru",
+        "hiraganaKatakana": "だれもが しんじ あがめてる",
+        "myanmar": "လူတိုင်း ယုံကြည် ကိုးကွယ်နေတဲ့"
+    },
+    {
+        "time": 104000,
+        "japanese": "まさに 最強で 無敵の アイドル",
+        "romanized": "Masani saikyou de muteki no aidoru",
+        "hiraganaKatakana": "まさに さいきょうで むてきの アイドル",
+        "myanmar": "တကယ့်ကို အကောင်းဆုံးဖြစ်ပြီးတော့ အနှိုင်းမဲ့ အိုင်ဒေါလ်ဘဲ"
+    },
+    {
+        "time": 107000,
+        "japanese": "弱点なんて 見当たらない",
+        "romanized": "Jakuten nante miataranai",
+        "hiraganaKatakana": "じゃくてん なんて みあたらない",
+        "myanmar": "အားနည်းချက်တွေလဲ မတွေ့ရဘူး"
+    },
+    {
+        "time": 109000,
+        "japanese": "一番星を 宿している",
+        "romanized": "Ichibanboshi o yadoshiteiru",
+        "hiraganaKatakana": "いちばんぼしを やどしている",
+        "myanmar": "အလင်းလက်ဆုံးကြယ်ကို ဆုပ်ကိုင်ထားသလိုဘဲ"
+    },
+    {
+        "time": 112000,
+        "japanese": "弱いとこなんて 見せちゃ だめ だめ",
+        "romanized": "Yowai toko nante misecha dame dame",
+        "hiraganaKatakana": "よわい とこ なんて みせちゃ だめ だめ",
+        "myanmar": "အားနည်းချက်ကိုလဲ ပြလိုက်လို့ မရဘူး မရဘူး"
+    },
+    {
+        "time": 115000,
+        "japanese": "知りたくないとこは 見せずに",
+        "romanized": "Shiritaku nai toko wa misezu ni",
+        "hiraganaKatakana": "しりたくない とこは みせずに",
+        "myanmar": "မသိချင်တဲ့ အရာတွေကို မပြဘဲ"
+    },
+    {
+        "time": 118000,
+        "japanese": "唯一無二 じゃなくちゃ いやいや",
+        "romanized": "Yuiitsu muni janakucha iya iya",
+        "hiraganaKatakana": "ゆいいつむに じゃなくちゃ いやいや",
+        "myanmar": "တစ်ပုံစံအတိုင်း မဟုတ်ရင် မကြိုက်ဘူး မကြိုက်ဘူး"
+    },
+    {
+        "time": 121000,
+        "japanese": "それ こそ本物 の アイ",
+        "romanized": "Sore koso honmono no Ai",
+        "hiraganaKatakana": "それこそ ほんものの アイ",
+        "myanmar": "အဲဒါမှ တကယ့်အစစ်အမှန် အချစ်ဘဲ"
+    },
+    {
+        "time": 124000,
+        "japanese": "得意 の 笑顔で 沸かす メディア",
+        "romanized": "Tokui no egao de wakasu media",
+        "hiraganaKatakana": "とくいの えがおで わかす メディア",
+        "myanmar": "ကျွမ်းကျင်လှတဲ့ ရွှင်ပြုံးမျက်နှာလေးကြောင့် ပွက်လောရိုက်နေသော မီဒီယာများ"
+    },
+    {
+        "time": 127000,
+        "japanese": "隠しきる この 秘密だけは",
+        "romanized": "Kakushikiru kono himitsu dake wa",
+        "hiraganaKatakana": "かくしきる この ひみつ だけは",
+        "myanmar": "ဖုံးကွယ်ထားတဲ့ အဲဒီလျှို့ဝှက်ချက်လေးက"
+    },
+    {
+        "time": 131000,
+        "japanese": "愛してるって 嘘で 積む キャリア",
+        "romanized": "Aishiteru tte uso de tsumu kyaria",
+        "hiraganaKatakana": "あいしてるって うそで つむ キャリア",
+        "myanmar": "'ချစ်တယ်' လို့လိမ်ပြောရင်း တည်ဆောက်လာတဲ့ career လေးဘဲ"
+    },
+    {
+        "time": 134000,
+        "japanese": "これこそ 私なり の 愛 だ",
+        "romanized": "Kore koso watashi nari no ai da",
+        "hiraganaKatakana": "これこそ わたしなりの あいだ",
+        "myanmar": "ဒီဟာက ကျွန်မပုံစံ ချစ်ခြင်းမေတ္တာဘဲ"
+    },
+    {
+        "time": 137000,
+        "japanese": "流れる 汗も 綺麗な アクア",
+        "romanized": "Nagareru ase mo kirei na Akua",
+        "hiraganaKatakana": "ながれる あせも きれいな アクア",
+        "myanmar": "စီးဆင်းလာတဲ့ ချွေးတွေကလည်း လှပစင်ကြယ်တဲ့ Aqua(ရေ) ရယ်"
+    },
+    {
+        "time": 140000,
+        "japanese": "ルビーを 隠した この瞼",
+        "romanized": "Rubii o kakushita kono mabuta",
+        "hiraganaKatakana": "ルビーを かくした この まぶた",
+        "myanmar": "ပတ္တမြားကို နစ်မြုပ်ထားတဲ့ ဒီမျက်ခုံး"
+    },
+    {
+        "time": 144000,
+        "japanese": "歌い 踊り 舞う 私は マリア",
+        "romanized": "Utai odori mau watashi wa Maria",
+        "hiraganaKatakana": "うたい おどり まう わたしは マリア",
+        "myanmar": "သီချင်းဆိုကာ လည်ပတ်ကခုန်နေတဲ့ ကျွန်မက မာရီယာ"
+    },
+    {
+        "time": 146000,
+        "japanese": "そう 嘘は とびきりの 愛だ",
+        "romanized": "Sou uso wa tobikiri no ai da",
+        "hiraganaKatakana": "そう うそは とびきりの あいだ",
+        "myanmar": "ဟုတ်တယ်၊ လိမ်ညာခြင်းက ချစ်ခြင်းမေတ္တာရဲ့အဆုံးစွန်ဘဲ"
+    },
+    {
+        "time": 151000,
+        "japanese": "誰かに 愛されたことも",
+        "romanized": "Dareka ni aisareta koto mo",
+        "hiraganaKatakana": "だれかに あいされた ことも",
+        "myanmar": "တစ်စုံတစ်ယောက်၏ ချစ်ခြင်းမေတ္တာကို ခံရမျိုး"
+    },
+    {
+        "time": 154000,
+        "japanese": "誰かのこと 愛したことも ない",
+        "romanized": "Dareka no koto aishita koto mo nai",
+        "hiraganaKatakana": "だれかのこと あいした こともない",
+        "myanmar": "တစ်ယောက်ယောက်ကို ချစ်ခဲ့တာမျိုးလည်း မရှိဘူး"
+    },
+    {
+        "time": 158000,
+        "japanese": "そんな 私の嘘が いつか 本当に なること",
+        "romanized": "Sonna watashi no uso ga itsuka hontou ni naru koto",
+        "hiraganaKatakana": "そんな わたしの うそが いつか ほんとうに なること",
+        "myanmar": "ဒီလိုနဲ့ ကျွန်မရဲ့ လိမ်ညာက တစ်နေ့မှာ တကယ်ဖြစ်လာမယ်ဆိုတာ"
+    },
+    {
+        "time": 163000,
+        "japanese": "信じてる",
+        "romanized": "Shinjiteru",
+        "hiraganaKatakana": "しんじてる",
+        "myanmar": "ယုံကြည်နေတယ်"
+    },
+    {
+        "time": 165000,
+        "japanese": "いつか きっと 全部手に 入れる",
+        "romanized": "Itsuka kitto zenbu te ni ireru",
+        "hiraganaKatakana": "いつか きっと ぜんぶ てに いれる",
+        "myanmar": "တစ်နေ့ကျ ကျိန်းသေ အားလုံးကို ပိုင်ဆိုင်ရမယ်"
+    },
+    {
+        "time": 168000,
+        "japanese": "私は そう欲張りな アイドル",
+        "romanized": "Watashi wa sou yokubari na aidoru",
+        "hiraganaKatakana": "わたしは そう よくばりな アイドル",
+        "myanmar": "ကျွန်မက အဲလို လောဘကြီးတဲ့ အိုင်ဒေါလ်ဘဲ"
+    },
+    {
+        "time": 171000,
+        "japanese": "等身大で みんなのこと",
+        "romanized": "Toushindai de minna no koto",
+        "hiraganaKatakana": "とうしんだいで みんなのこと",
+        "myanmar": "ကိုယ့်ပုံစံအတိုင်း အားလုံးကို"
+    },
+    {
+        "time": 173000,
+        "japanese": "ちゃんと 愛したいから",
+        "romanized": "Chanto aishitai kara",
+        "hiraganaKatakana": "ちゃんと あいしたいから",
+        "myanmar": "သေသေချာချာ ချစ်ပေးချင်တာကြောင့်"
+    },
+    {
+        "time": 176000,
+        "japanese": "今日も 嘘をつくの",
+        "romanized": "Kyou mo uso o tsuku no",
+        "hiraganaKatakana": "きょうも うそを つくの",
+        "myanmar": "ဒီနေ့လည်း လိမ်ညာအုန်းမှာပါ"
+    },
+    {
+        "time": 179000,
+        "japanese": "この言葉が いつか 本当になる 日を 願って",
+        "romanized": "Kono kotoba ga itsuka hontou ni naru hi o negatte",
+        "hiraganaKatakana": "このことばが いつか ほんとうに なる ひを ねがって",
+        "myanmar": "ဒီစကားတွေက တစ်နေ့မှာ တကယ်ဖြစ်လာမယ့်နေ့ကို ဆုတောင်းရင်း"
+    },
+    {
+        "time": 183000,
+        "japanese": "それでも まだ",
+        "romanized": "Soredemo mada",
+        "hiraganaKatakana": "それでも まだ",
+        "myanmar": "ဒါတောင် နောက်ထပ်"
+    },
+    {
+        "time": 184000,
+        "japanese": "君 と 君にだけは 言えずに いたけど",
+        "romanized": "Kimi to kimi ni dake wa iezu ni ita kedo",
+        "hiraganaKatakana": "きみと きみに だけは いえずに いたけど",
+        "myanmar": "မင်းနဲ့ မင်းလေးကိုတော့ ပြောမရဘူးဆိုပေမယ့်"
+    },
+    {
+        "time": 188000,
+        "japanese": "Ah やっと言えた",
+        "romanized": "Ah yatto ieta",
+        "hiraganaKatakana": "あー やっと いえた",
+        "myanmar": "အာ… နောက်ဆုံးတော့ ပြောနိုင်ပြီ"
+    },
+    {
+        "time": 190000,
+        "japanese": "これは 絶対嘘じゃない 愛してる",
+        "romanized": "Kore wa zettai uso janai aishiteru",
+        "hiraganaKatakana": "これは ぜったい うそじゃない あいしてる",
+        "myanmar": "ဒီတစ်ခါတော့ လုံးဝ မလိမ်ဘူး  'ချစ်တယ်'"
+    },
+    {
+        "time": 194000,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 205000,
+        "japanese": "Oh, my savior, my true savior",
+        "romanized": "",
+        "hiraganaKatakana": "",
+        "myanmar": ""
+    },
+    {
+        "time": 209000,
+        "japanese": "My saving grace",
+        "romanized": "",
+        "hiraganaKatakana": "",
+        "myanmar": ""
+    },
+    {
+        "time": 211000,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    }
+]
