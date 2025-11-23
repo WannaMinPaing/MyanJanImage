@@ -1,0 +1,643 @@
+[
+  {
+    "start": 5,
+    "end": 9,
+    "japanese": "むかし むかしの お 話 です。",
+    "romanized": "Mukashi mukashi no ohanashi desu.",
+    "hiraganaKatakana": "むかし むかしの お はなし です。",
+    "myanmar": "ဟိုးရှေ့ရှေ့တုန်းက ပုံပြင်ပါ။"
+  },
+  {
+    "start": 9,
+    "end": 15,
+    "japanese": "都 の 近 くに 竹取 の 翁 と 呼 ばれる おじいさんが 住 ん でいました。",
+    "romanized": "Miyako no chikaku ni Taketori no okina to yobareru ojiisan ga sunde imashita.",
+    "hiraganaKatakana": "みやこ の ちか くに たけとり の おきな と よ ばれる おじいさんが す ん でいました。",
+    "myanmar": "မြို့တော်အနီးမှာ ဝါးခုတ်သမား လို့ခေါ်ကြတဲ့ အဖိုးကြီးတစ်ဦး နေထိုင်ခဲ့သည်။"
+  },
+  {
+    "start": 15,
+    "end": 25,
+    "japanese": "おじいさんは、 毎日 山 へ 出 かけては 竹 を 取 ってきて、 ざるや 籠 を 作 り、 細々 と 暮 らしていました。",
+    "romanized": "Ojiisan wa, mainichi yama e dekakete wa take o totte kite, zaru ya kago o tsukuri, hosoboso to kurashite imashita.",
+    "hiraganaKatakana": "おじいさんは、 まいにち やま へ で かけては たけ を と ってきて、 ざるや かご を つく り、 ほそぼそ と く らしていました。",
+    "myanmar": "အဖိုးကြီးက နေ့တိုင်း တောင်တက်ပြီး ဝါးကို ယူပြီး ခြင်းတွေ တောင်းတွေ လုပ်ကာ ပင်ပန်းဆင်းရဲစွာ နေထိုင်ခဲ့တယ်။"
+  },
+  {
+    "start": 25,
+    "end": 34,
+    "japanese": "ある 日、 おじいさんが いつものように 竹 やぶに 入 ると、 根元 が ぼうっと 光 る 竹 が 一本 ありました。",
+    "romanized": "Aru hi, ojiisan ga itsumo no you ni takeyabu ni hairu to, nemoto ga boo tto hikaru take ga ippon arimashita.",
+    "hiraganaKatakana": "ある ひ、 おじいさんが いつものように たけ やぶに はい ると、 ねもと が ぼうっと ひか る たけ が いっぽん ありました。",
+    "myanmar": "တစ်နေ့တော့ အဖိုးကြီးက ပုံမှန်လိုပဲ ဝါးသစ်တောသို့ ဝင်ရောက်သွားရာ အမြစ်အရင်းက လင်းလက်တောက်ပနေတဲ့ ဝါးတစ်ချောင်းကို တွေ့လိုက်သည်။"
+  },
+  {
+    "start": 34,
+    "end": 42,
+    "japanese": "不思議 に 思 い、 その 竹 を 切 ってみると、 中 には 小 さくて かわいい 女 の 子 が 入 っていました。",
+    "romanized": "Fushigi ni omoi, sono take o kitte miru to, naka ni wa chiisakute kawaii onna no ko ga haitte imashita.",
+    "hiraganaKatakana": "ふしぎ に おも い、 その たけ を き ってみると、 なか には ちい さくて かわいい おんな の こ が はい っていました。",
+    "myanmar": "ထူးဆန်းတယ် အထင်နဲ့ အဲဒီဝါးကို ဖြတ်ကြည့်လိုက်တော့ အထဲမှာ သေးငယ်ပြီး ချစ်စရာကောင်းသော မိန်းကလေးက ရှိနေခဲ့ပါတယ်။"
+  },
+  {
+    "start": 42,
+    "end": 54,
+    "japanese": "おじいさんは 驚 きながら、 「 おお、 きっと この 子 は 神様 が 授 けてくれたに 違 いない 」 と、 家 に 連 れて 帰 りました。",
+    "romanized": "Ojiisan wa odoroki nagara, 'Oo, kitto kono ko wa kamisama ga sazukete kureta ni chigai nai' to, ie ni tsurete kaerimashita.",
+    "hiraganaKatakana": "おじいさんは おどろ きながら、 「 おお、 きっと この こ は かみさま が さず けてくれたに ちが いない 」 と、 いえ に つ れて かえ りました。",
+    "myanmar": "အဖိုးကြီးက အံ့ဩသွားလျက် “အို… သေချာပေါက် ဒီကလေးလေးက ဘုရားပေးတဲ့ ကလေး မလွဲဧကန်ဘဲ” လို့ ပြောကာ အိမ်သို့ ခေါ်ဆောင်ပြီး ပြန်သွားပါတယ်"
+  },
+  {
+    "start": 54,
+    "end": 58,
+    "japanese": "かわいい 女 の 子 を 見 て、 おばあさんも 大喜 びです。",
+    "romanized": "Kawaii onna no ko o mite, obaasan mo ooyorokobi desu.",
+    "hiraganaKatakana": "かわいい おんな の こ を み て、 おばあさんも おおよろこ びです。",
+    "myanmar": "ချစ်စရာကောင်းတဲ့ မိန်းကလေးကို မြင်တော့ အဖွားလည်း အရမ်းအရမ်း ဝမ်းသာနေပါတယ်။"
+  },
+  {
+    "start": 58,
+    "end": 68,
+    "japanese": "子供 のいない 二人 は、 女 の 子 に かぐや 姫 と 名前 を 付 け、 大切 に 育 てることにしました。",
+    "romanized": "Kodomo no inai futari wa, onna no ko ni Kaguya-hime to namae o tsuke, taisetsu ni sodateru koto ni shimashita.",
+    "hiraganaKatakana": "こども のいない ふたり は、 おんな の こ に かぐや ひめ と なまえ を つ け、 たいせつ に そだ てることにしました。",
+    "myanmar": "ကလေးမရှိတဲ့ သူတို့နှစ်ယောက်ဟာ မိန်းကလေးကို “ကာဂုယားမင်းသမီး” လို့ နာမည်ပေးပြီး ဂရုတစိုက်နဲ့ ပြုစုပျိုးထောင်ဖို့ ဆုံးဖြတ်ကြသည်။"
+  },
+  {
+    "start": 68,
+    "end": 78,
+    "japanese": "それからも 不思議 なことは 続 き、 おじいさんが 竹 を 切 るたびに、 中 から 小判 が ざくざく と 出 てきました。",
+    "romanized": "Sorekara mo fushigi na koto wa tsuzuki, ojiisan ga take o kiru tabi ni, naka kara koban ga zakuzaku to dete kimashita.",
+    "hiraganaKatakana": "それからも ふしぎ なことは つづ き、 おじいさんが たけ を き るたびに、 なか から こばん が ざくざく と で てきました。",
+    "myanmar": "အဲဒီနောက်လည်း ထူးဆန်းတဲ့ကိစ္စတွေ ဆက်လက်ဖြစ်ပြီး အဖိုးကြီးက ဝါးကိုဖြတ်လိုက်တိုင်း အထဲကနေ ရွှေဒင်္ဂါးတွေက မြောက်မြောက်များများ ထွက်လာကြသည်။"
+  },
+  {
+    "start": 79,
+    "end": 84,
+    "japanese": "おじいさんは お 金持 ちになり、 大 きな 屋敷 を 建 てました。",
+    "romanized": "Ojiisan wa okanemochi ni nari, ookina yashiki o tatemashita.",
+    "hiraganaKatakana": "おじいさんは お かねも ちになり、 おお きな やしき を た てました。",
+    "myanmar": "အဖိုးကြီးက ပိုက်ဆံကြွယ်ဝသူဖြစ်လာပြီး ကြီးမားတဲ့ အိမ်ကြီးကို တည်ဆောက်နိုင်ခဲ့သည်။"
+  },
+  {
+    "start": 84,
+    "end": 94,
+    "japanese": "小 さかった かぐや 姫 も みるみる 大 きくなり、 三ヶ月 も 経 つ 頃 には 美 しい 娘 に 育 ちました。",
+    "romanized": "Chiisakatta Kaguya-hime mo mirumiru ookiku nari, sankagetsu mo tatsu koro ni wa utsukushii musume ni sodatemashita.",
+    "hiraganaKatakana": "ちい さかった かぐや ひめ も みるみる おお きくなり、 さんかげつ も た つ ころ には うつく しい むすめ に そだ ちました。",
+    "myanmar": "သေးသေးလေးဖြစ်တဲ့ ကာဂုယားမင်းသမီးလည်း မြန်မြန်ဆန်ဆန် အရွယ်ရောက်လာပြီး သုံးလတောင် ကုန်သွားတဲ့အချိန်မှာတော့ လှပတဲ့ မိန်းကလေးပျိုလေး အဖြစ်သို့ ကြီးပြင်းလာခဲ့တယ်။"
+  },
+  {
+    "start": 94,
+    "end": 101,
+    "japanese": "その 美 しさは 輝 くほどで、 屋敷 の 周 りにまで 澄 んだ 光 が 満 ちあふれ。",
+    "romanized": "Sono utsukushisa wa kagayaku hodo de, yashiki no mawari ni made sunda hikari ga michiafure.",
+    "hiraganaKatakana": "その うつく しさは かがや くほどで、 やしき の まわ りにまで す んだ ひかり が み ちあふ。",
+    "myanmar": "အဲဒီ(သူမရဲ့) လှပမှုက တောက်ပနေသဖြင့် အိမ်ကြီးရဲ့ပတ်ဝန်းကျင်အထိတောင် ကြည်လင်သောအလင်းရောင်များဖြင့် ပြည့်နေသည်။"
+  },
+  {
+    "start": 101,
+    "end": 107,
+    "japanese": "おじいさん と おばあさんは、 かぐや 姫 の そばに いるだけで 心 が 安 らぎました。",
+    "romanized": "Ojiisan to obaasan wa, Kaguya-hime no soba ni iru dake de kokoro ga yasuragimashita.",
+    "hiraganaKatakana": "おじいさん と おばあさんは、 かぐや ひめ の そばに いるだけで こころ が やす らぎました。",
+    "myanmar": "အဖိုးနဲ့ အဖွားတို့က ကာဂုယားမင်းသမီး ဘေးမှာ ရှိရုံနဲ့ပဲ စိတ်အေးချမ်းမှုကို ခံစားရခဲ့ပါတယ်။"
+  },
+  {
+    "start": 107,
+    "end": 116,
+    "japanese": "かぐや 姫 の 噂 は 遠 くまで 広 まり、 何人 もの 男 の 人 が かぐや 姫 を お 嫁 にしたいと 屋敷 にやって 来 ました。",
+    "romanized": "Kaguya-hime no uwasa wa tooku made hiromari, nannin mo no otoko no hito ga Kaguya-hime o oyome ni shitai to yashiki ni yatte kimashita.",
+    "hiraganaKatakana": "かぐや ひめ の うわさ は とお くまで ひろ まり、 なんにん もの おとこ の ひと が かぐや ひめ を お よめ にしたいと やしき にやって き ました。",
+    "myanmar": "ကာဂုယားမင်းသမီးရဲ့သတင်းက အဝေးဆုံးထိ ကျယ်ပြန့်လာပြီး တော်တော်များများသော ယောက်ျားလေးတွေက ကာဂုယားမင်းသမီးကို ဇနီးမယားအဖြစ် လက်ထပ်ချင်လို့ အိမ်ကြီးသို့ ရောက်လာခဲ့ကြသည်။"
+  },
+  {
+    "start": 116,
+    "end": 124,
+    "japanese": "しかし、 かぐや 姫 は 姿 を 見 せません。 誰 とも 結婚 する 気 はなかったのです。",
+    "romanized": "Shikashi, Kaguya-hime wa sugata o misemasen. Dare to mo kekkon suru ki wa nakatta no desu.",
+    "hiraganaKatakana": "しかし、 かぐや ひめ は すがた を み せません。 だれ とも けっこん する き はなかったのです。",
+    "myanmar": "သို့ပေမယ့် ကာဂုယားမင်းသမီးက သူမရဲ့ ပုံရိပ်ကို မပြသခဲ့ပါ။ ဘယ်သူနဲ့မှလည်း လက်ထပ်ဖို့ စိတ်မရှိခဲ့ပါဘူး။"
+  },
+  {
+    "start": 124,
+    "end": 130,
+    "japanese": "それでも 諦 めない 五人 の 身分 の 高 い 男 たちがいました。",
+    "romanized": "Sore demo akiramenai gonin no mibun no takai otoko-tachi ga imashita.",
+    "hiraganaKatakana": "それでも あきら めない ごにん の みぶん の たか い おとこ たちがいました。",
+    "myanmar": "သို့သော်လည်း လက်လျော့မသွားသော အဆင့်မြင့်(ရာထူးကြီး) ယောကျ်ားကြီး ငါးယောက်ရှိခဲ့ကြသည်။"
+  },
+  {
+    "start": 130,
+    "end": 136,
+    "japanese": "五人 が あまりに 熱心 なので、 かぐや 姫 は 仕方 なく 会 うことにしました。",
+    "romanized": "Gonin ga amari ni nesshin na node, Kaguya-hime wa shikata naku au koto ni shimashita.",
+    "hiraganaKatakana": "ごにん が あまりに ねっしん なので、 かぐや ひめ は しかた なく あ うことにしました。",
+    "myanmar": "(အဲ့)လူငါးယောက်က အလွန်ကြိုးစားတာကြောင့် ကာဂုယားမင်းသမီးက တွေ့ဖို့ကလွဲလို့ မရှိလို့ တွေ့ဖို့ ဆုံးဖြတ်လိုက်ရပါတယ်။"
+  },
+  {
+    "start": 136,
+    "end": 142,
+    "japanese": "かぐや 姫 の 美 しさに ため 息 を つく 五人 に かぐや 姫 は こう 言 いました。",
+    "romanized": "Kaguya-hime no utsukushisa ni tameiki o tsuku gonin ni Kaguya-hime wa kou iimashita.",
+    "hiraganaKatakana": "かぐや ひめ の うつく しさに ため いき を つく ごにん に かぐや ひめ は こう い いました。",
+    "myanmar": "ကာဂုယားမင်းသမီးရဲ့ အလှကြောင့် ရူးမတတ်(နှလုံးပူဆွေးဝမ်းနည်း)ဖြစ်နေတဲ့ ငါးယောက်ကို  ကာဂုယားမင်းသမီးက ဒီလို ပြောလိုက်ပါတယ်။"
+  },
+  {
+    "start": 142,
+    "end": 148,
+    "japanese": "私 が 頼 んだものを 見 つけてきたら、 その 人 の 妻 になりましょう。",
+    "romanized": "“Watashi ga tanonda mono o mitsukete kitara, sono hito no tsuma ni narimashou.”",
+    "hiraganaKatakana": "わたし が たの んだものを み つけてきたら、 その ひと の つま になりましょう。",
+    "myanmar": "“ကျွန်မ တောင်းထားတဲ့ အရာတွေကို ရှာပြီးယူလာနိုင်ရင် ထိုလူရဲ့ဇနီး ဖြစ်ပါ့မယ်။”"
+  },
+  {
+    "start": 148,
+    "end": 155,
+    "japanese": "それは どれも 探 してくる ことが とても 難 しいものでした。",
+    "romanized": "Sore wa dore mo sagashite kuru koto ga totemo muzukashii mono deshita.",
+    "hiraganaKatakana": "それは どれも さが してくる ことが とても むずか しいものでした。",
+    "myanmar": "အဲအရာတွေ အားလုံးကို ရှာတွေ့ပြီး ယူလာဖို့က အရမ်းခက်ခဲခဲ့ပါတယ်။"
+  },
+  {
+    "start": 155,
+    "end": 161,
+    "japanese": "かぐや 姫 は 五人 が 諦 めてくれるのを 望 んでいたのです。",
+    "romanized": "Kaguya-hime wa gonin ga akiramete kureru no o nozonde ita no desu.",
+    "hiraganaKatakana": "かぐや ひめ は ごにん が あきら めてくれるのを のぞ んでいたのです。",
+    "myanmar": "ကာဂုယားမင်းသမီးက (ထို့)လူ ၅ ယောက်ကို လက်လျော့သွားမယ်လို့ မျှော်လင့်ထားခဲ့တာပါ။"
+  },
+  {
+    "start": 161,
+    "end": 169,
+    "japanese": "一人目 の 石造 りの 巫女 は、 天竺 に ある という お 釈迦様 が 使 われた 石 の 鉢 を 頼 まれました。",
+    "romanized": "Hitori-me no ishizukuri no miko wa, Tenjiku ni aru to iu Oshakasama ga tsukawareta ishi no hachi o tanomaremashita.",
+    "hiraganaKatakana": "ひとりめ の いしづく りの みこ は、 てんじく に ある という お しゃかさま が つか われた いし の はち を たの まれました。",
+    "myanmar": "ပထမတစ်ယောက်က ကျောက်ဖြင့် ဆောက်ထားသော နတ်ကွန်းက အိန္ဒိယမှာရှိတယ်ဆိုတဲ့ မြတ်စွာဘုရား အသုံးပြုခဲ့တဲ့ ကျောက်သပိတ်ကို တောင်းခံရသည်။"
+  },
+  {
+    "start": 169,
+    "end": 181,
+    "japanese": "しかし、 はるか 遠 い 天竺 まで 行 けるはずがないと 旅 へ 出 たふりをして 身 を 隠 し、 どこかの 山寺 にあった 古 い 石 の 鉢 を 持 ってきました。",
+    "romanized": "Shikashi, haruka tooi Tenjiku made ikeru hazu ga nai to tabi e deta furi o shite mi o kakushi, dokoka no yamadera ni atta furui ishi no hachi o mottekimashita.",
+    "hiraganaKatakana": "しかし、 はるか とお い てんじく まで い けるはずがないと たび へ で たふりをして み を かく し、 どこかの やまでら にあった ふる い いし の はち を も ってきました。",
+    "myanmar": "ဒါပေမဲ့ အလွန်ဝေးသောအိန္ဒိယအထိ သွားနိုင်ခြင်းမရှိလို့ ခရီးသွားသလို ဟန်ဆောင်ပြီး တစ်နေရာရာက တောင်ပေါ်ဘုရားကျောင်းတွင်ရှိသော ကျောက်သပိတ်အဟောင်းကို ယူလာခဲ့ပါတယ်။"
+  },
+  {
+    "start": 181,
+    "end": 187,
+    "japanese": "これこそ、 お 釈迦様 の 使 われた 鉢 です。",
+    "romanized": "Kore koso, Oshakasama no tsukawareta hachi desu.",
+    "hiraganaKatakana": "これこそ、 お しゃかさま の つか われた はち です。",
+    "myanmar": "ဒီဟာက မြတ်စွာဘုရား သုံးခဲ့တဲ့ ပန်းကန်ပါ။"
+  },
+  {
+    "start": 187,
+    "end": 191,
+    "japanese": "その 鉢 を 見 て、 かぐや 姫 は 首 を 横 に 振 りました。",
+    "romanized": "Sono hachi o mite, Kaguya-hime wa kubi o yoko ni furimashita.",
+    "hiraganaKatakana": "その はち を み て、 かぐや ひめ は くび を よこ に ふ りました。",
+    "myanmar": "အဲ့ဒီပန်းကန်ကို ကြည့်ပြီး ကာဂုယားမင်းသမီးက လည်ပင်းကို ဘေးဘက်သို့ လှည့်လိုက်သည်။(ငြင်းလိုက်သည်)"
+  },
+  {
+    "start": 191,
+    "end": 202,
+    "japanese": "お 釈迦様 の 鉢 は 光 って いる はずです。 一体 どこの 山寺 にこんな 見事 にすすけた 鉢 が あったのでございますか？",
+    "romanized": "Oshakasama no hachi wa hikatte iru hazu desu. Ittai doko no yamadera ni konna migoto ni susuketa hachi ga atta no de gozaimasu ka?",
+    "hiraganaKatakana": "お しゃかさま の はち は ひか って いる はずです。 いったい どこの やまでら にこんな みごと にすすけた はち が あったのでございますか？",
+    "myanmar": "မြတ်စွာဘုရား သုံးခဲ့တဲ့ ပန်းကန်က တောက်ပရမယ်။ တကယ်တော့ ဘယ်တောင်ပေါ်ကဘုရားကျောင်းမှာ ဒီလို အံ့အားသင့်စွာ ပျက်စီးခြောက်ကပ်နေတဲ့ ပန်းကန်တွေ ရှိခဲ့တာလဲ?"
+  },
+  {
+    "start": 202,
+    "end": 209,
+    "japanese": "簡単 に 嘘 を 見破 られてしまい、 石造 りの 皇子 はすごすごと 帰 っていきました。",
+    "romanized": "Kantan ni uso o mi yaburarete shimai, ishizukuri no koushi wa sugosugo to kaette ikimashita.",
+    "hiraganaKatakana": "かんたん に うそ を みやぶ られてしまい、 いしづく りの こうし はすごすごと かえ っていきました。",
+    "myanmar": "လွယ်လွယ်ကူကူ လိမ်ညာမှုကို ဖော်ထုတ်ခံရပြီး ကျောက်မင်းသားသည် ရှက်စိတ်ဖြင့် ပြန်သွားခဲ့သည်။"
+  },
+  {
+    "start": 209,
+    "end": 216,
+    "japanese": "二人目 の 倉持 の 皇子 は、 蓬莱山 に あると いう 玉 の 枝 を 頼 まれました。",
+    "romanized": "Futari-me no Kuramochi no koushi wa, Hourai-san ni aru to iu tama no eda o tanomaremashita.",
+    "hiraganaKatakana": "ふたりめ の くらもち の こうし は、 ほうらいさん に あると いう たま の えだ を たの まれました。",
+    "myanmar": "ဒုတိယတယောက် ကုန်စည်မင်းသားကို ဟူရိုင်တောင်မှာ ရှိတယ်ဆိုတဲ့ ကျောက်စိမ်းသစ်ကိုင်း တောင်းခံခဲ့ရပါတယ်။"
+  },
+  {
+    "start": 216,
+    "end": 222,
+    "japanese": "根 が 銀、 茎 が 金 で 真珠 の 実 がなる 木 の 枝 です。",
+    "romanized": "Ne ga gin, kuki ga kin de shinju no mi ga naru ki no eda desu.",
+    "hiraganaKatakana": "ね が ぎん、 くき が きん で しんじゅ の み がなる き の えだ です。",
+    "myanmar": "အမြစ်က ငွေ၊ ပင်စည်က ရွှေဖြစ်ပြီး ပုလဲအသီး ပေါက်တဲ့ သစ်ပင်ရဲ့ အကိုင်းအခက်ပါ။"
+  },
+  {
+    "start": 222,
+    "end": 231,
+    "japanese": "倉持 の 皇子 は 舟 に 乗 り、 遠 い 蓬莱山 へ 行 ったように 見 せかけて、 腕 のいい 職人 に 偽物 を 作 らせました。",
+    "romanized": "Kuramochi no koushi wa fune ni nori, tooi Hourai-san e itta you ni misekakete, ude no ii shokunin ni nisemono o tsukurasemashita.",
+    "hiraganaKatakana": "くらもち の こうし は ふね に の り、 とお い ほうらいさん へ い ったように み せかけて、 うで のいい しょくにんに に せもの を つく らせました。",
+    "myanmar": "ကုန်စည်မင်းသားက သင်္ဘောစီးပြီး ဝေးလံသော ဟူရိုင်တောင်ကို သွားသလို ဟန်ဆောင်ကာ ကျွမ်းကျင်သော လက်သမားဆရာကို အတုလုပ်ခိုင်းခဲ့သည်။"
+  },
+  {
+    "start": 231,
+    "end": 241,
+    "japanese": "本物 そっくりな 枝 が 出来上 がると、 さも 旅 から 帰 ってきた ばかりの ような 姿 で かぐや 姫 の 家 に やってきました。",
+    "romanized": "Honmono sokkuri na eda ga dekiagaru to, samo tabi kara kaette kita bakari no you na sugata de Kaguya-hime no ie ni yattekimashita.",
+    "hiraganaKatakana": "ほんもの そっくりな えだ が できあ がると、 さも たび から かえ ってきた ばかりの ような すがた で かぐや ひめ の いえ に やってきました。",
+    "myanmar": "အစစ်အမှန်လို တူတဲ့ သစ်အကိုင်းအခက်ပြီးစီးသည့်အခါ အမှန်တကယ် ခရီးမှ ပြန်လာသကဲ့သို့ ပုံစံဖြင့် ကာဂုယားမင်းသမီး၏ အိမ်သို့ ရောက်လာခဲ့သည်"
+  },
+
+  {
+    "start": 241,
+    "end": 249,
+    "japanese": "その 玉 の 枝 が あまりにも 見事 だったので、 かぐや 姫 は 結婚 を 断 れず 困 ってしまいました。",
+    "romanized": "Sono tama no eda ga amari ni mo migoto datta node, Kaguya-hime wa kekkon o kotowarezu komatte shimaimashita.",
+    "hiraganaKatakana": "その たま の えだ が あまりにも みごと だったので、 かぐや ひめ は けっこん を ことわ れず こま ってしまいました。",
+    "myanmar": "အဲ့ဒီကျောက်စိမ်းသစ်ကိုင်းက အရမ်းလှပတာကြောင့် ကာဂုယားမင်းသမီးက မင်္ဂလာဆောင်ဖို့ ငြင်းဆိုလို့မရဘဲ စိတ်ရှုပ်နေခဲ့ရသည်။"
+  },
+  {
+    "start": 249,
+    "end": 259,
+    "japanese": "さらに、 倉持 の 皇子 が 玉 の 枝 を 取 ってくるのが いかに 大変 だったかを 話 していると、 職人 たちが 押 しかけてきました。",
+    "romanized": "Sarane, Kuramochi no koushi ga tama no eda o totte kuru no ga ikan ni taihen datta ka o hanashite iru to, shokunin-tachi ga oshikakete kimashita.",
+    "hiraganaKatakana": "さらに、 くらもち の こうし が たま の えだ を と ってくるのが いかに たいへん だったかを はな していると、 しょくにん たちが お しかけてきました。",
+    "myanmar": "ထို့နောက် ကုန်စည်မင်းသားက ကျောက်စိမ်းသစ်ကိုင်းကို ယူလာရ ဘယ်လောက်တောင် ခက်ခဲကြောင်း ပြောနေချိန်မှာ လက်သမားဆရာတွေ တန်းတူ အစုလိုက်အပြုံလိုက်လာခဲ့သည်။"
+  },
+  {
+    "start": 259,
+    "end": 269,
+    "japanese": "皇子 が 残 りの お 金 を 払 わないので 取 りに 来 たのです。 これで 全 て 嘘 だということが わかってしまいました。",
+    "romanized": "Koushi ga nokori no okane o harawanai node tori ni kita no desu. Kore de subete uso da to iu koto ga wakatte shimaimashita.",
+    "hiraganaKatakana": "こうし が のこ りの お かね を はら わないので と りに き たのです。 これで すべ て うそ だということが わかってしまいました。",
+    "myanmar": "မင်းသားက ကျန်ရှိသောပိုက်ဆံကို မပေးချေသေးတာကြောင့် ယူဖို့လာခဲ့ကြတယ်။ အဲမှာဘဲ အကုန်လုံးက အလိမ်အညာဆိုတာ သဘောပေါက်သွားခဲ့ပါသည်။"
+  },
+  {
+    "start": 270,
+    "end": 278,
+    "japanese": "三人目 の 阿部 の 右大臣 は、 唐 の 国 にあると 言 われる 火 ねずみ の 皮衣 を 頼 まれました。",
+    "romanized": "Sannin-me no Abe no Udaijin wa, Kara no kuni ni aru to iwareru Hinezumi no kawagoromo o tanomaremashita.",
+    "hiraganaKatakana": "さんにんめ の あべ の うだいじん は、 から の くに にあると い われる ひ ねずみ の かわごろも を たの まれました。",
+    "myanmar": "တတိယအဖြစ် အာဘေးရဲ့ ညာလက်ရုန်းဝန်ကြီးက တရုတ်နိုင်ငံမှာ ရှိတယ်ဆိုတဲ့ မီးကြွက်သားရေအဝတ်အစားကို တောင်းခံရပါတယ်။"
+  },
+  {
+    "start": 278,
+    "end": 287,
+    "japanese": "右大臣 は 大変 な お 金持 ちでしたので、 唐 の 国 へ 行 く 商人 に お 金 を 払 い 買 ってくるように 頼 みました。",
+    "romanized": "Udaijin wa taihen na okanemochi deshita node, Kara no kuni e iku shounin ni okane o harai katte kuru you ni tanomimashita.",
+    "hiraganaKatakana": "うだいじん は たいへん な お かねも ちでしたので、 から の くに へ い く しょうにん に お かね を はら い か ってくるように たの みました。",
+    "myanmar": "ညာလက်ရုန်းဝန်ကြီးက အလွန်ချမ်းသာတာကြောင့် တရုတ်နိုင်ငံသို့ သွားမယ့် ကုန်သည်ကို ငွေပေးပြီး ဝယ်ယူလာဖို့ အမိန့်ပေးခဲ့သည်။"
+  },
+  {
+    "start": 287,
+    "end": 295,
+    "japanese": "しばらくして、 皮衣 を 手 に 入 れた 右大臣 は 大喜 びで かぐや 姫 の 家 に 向 かいました。",
+    "romanized": "Shibaraku shite, kawagoromo o te ni ireta Udaijin wa oyorokobi de Kaguya-hime no ie ni mukaimashita.",
+    "hiraganaKatakana": "しばらくして、 かわごろも を て に い れた うだいじん は おおよろこ びで かぐや ひめ の いえ に む かいました。",
+    "myanmar": "အချိန်အနည်းငယ်အကြာတွင် သားရေအဝတ်အစားကို လက်ဝယ်ရရှိခဲ့သော ညာလက်ရုန်းဝန်ကြီးသည် အလွန်ဝမ်းသာပျော်ရွှင်စွာ ကာဂုယားမင်းသမီးရဲ့အိမ်ဆီ သွားခဲ့သည်။"
+  },
+  {
+    "start": 295,
+    "end": 304,
+    "japanese": "それを 見 た かぐや 姫 は、 本物 なら、 ' 火 にくべても 燃 えないはずです ' と 言 って 火 の 中 に 入 れました",
+    "romanized": "Sore o mita Kaguya-hime wa, honmono nara, hi ni kubete mo moenai hazu desu. To itte hi no naka ni iremashita. ",
+    "hiraganaKatakana": "それを み た かぐや ひめ は、 ほんもの なら、 ' ひ にくべても も えないはずです ' と い って ひ の なか に い れました。",
+    "myanmar": "အဲတာကို မြင်ပြီး ကာဂုယားမင်းသမီးက ပစ္စည်းအစစ်ဆိုရင် မီးထဲထည့်လည်း မလောင်သင့်ပါ လို့ပြောပြီ မီးထဲထည့်လိုက်သည်"
+  },
+  {
+    "start": 304,
+    "end": 310,
+    "japanese": "すると、 皮衣 は めらめら と 燃 え、 灰 になってしまいました。",
+    "romanized": "Suruto, (hi ga moeru oto) kawagoromo wa meramera to moe, hai ni natte shimaimashita.",
+    "hiraganaKatakana": "すると、 かわごろも は めらめら と も え、 はい になってしまいました。",
+    "myanmar": "ထို့နောက် သားရေအဝတ်အစားက မီးအလျှံ နဲ့ လောင်ပြီး ပြာဖြစ်သွားသည်။"
+  },
+  {
+    "start": 310,
+    "end": 316,
+    "japanese": "恥 を かいた 右大臣 は がっかりして 帰 っていきました。",
+    "romanized": "Haji o kaita Udaijin wa gakkari shite kaette ikimashita.",
+    "hiraganaKatakana": "はじ を かいた うだいじん は がっかりして かえ っていきました。",
+    "myanmar": "အရှက်ရသွားသော ညာလက်ရုန်းဝန်ကြီးသည် စိတ်မကောင်းဖြစ်လျက် ပြန်သွားခဲ့သည်။"
+  },
+  {
+    "start": 316,
+    "end": 325,
+    "japanese": "四人目 の 大納言大伴御行 は、 竜 の 首 にあるという 五色 に 光 る 玉 を 頼 まれました。",
+    "romanized": "Yoninme no Dainagon Otomo no Mikoto wa, ryū no kubi ni aru to iu goshiki ni hikaru tama o tanomaremashita.",
+    "hiraganaKatakana": "よにんめ の だいなごんおおとものみゆき は、 りゅう の くび にあるという ごしき に ひか る たま を たの まれました。",
+    "myanmar": "လေးယောက်မြောက် အကြီးအကဲဝန်ကြီး အိုသူမို မိယုကီသည် နဂါးလည်ပင်းမှာ ရှိတယ်လို့ ပြောကြတဲ့ အရောင်ငါးမျိုး လင်းလက်တောက်ပတဲ့ ရတနာကို ယူလာပေးဖို့ တောင်းခံခဲ့ရသည်။"
+  },
+  {
+    "start": 325,
+    "end": 336,
+    "japanese": "大納言 は 自分 の 力 で 取 りに 行 こうと 船 に 乗 り 海 に 出 ましたが、 途中 でひどい 嵐 になり、 船 は 木 の 葉 のように 揺 れて 沈 みそうになりました。",
+    "romanized": "Dainagon wa jibun no chikara de tori ni ikou to fune ni nori umi ni demashita ga, tochū de hidoi arashi ni nari, fune wa konoha no yō ni yurete shizumisō ni narimashita.",
+    "hiraganaKatakana": "だいなごん は じぶん の ちから で と りに い こうと ふね に の り うみ に で ましたが、 とちゅう でひどい あらし になり、 ふね は こ の は のように ゆ れて しず みそうになりました。",
+    "myanmar": "အကြီးအကဲဝန်ကြီးသည် ကိုယ်တိုင်အင်အားဖြင့် သွားယူကြည့်ရန် သင်္ဘောစီးပြီး ပင်လယ်ထဲ ထွက်သွားခဲ့ပေမယ့် ခရီးလမ်းတွင် မုန်တိုင်းဖြစ်လာပြီး, သင်္ဘောသည် သစ်ရွက်လို လှုပ်ခတ်တုန်ခါကာ နစ်မြုပ်လုမတတ် ဖြစ်လာသည်"
+  },
+  {
+    "start": 336,
+    "end": 341,
+    "japanese": "もう、 竜 を つかまえたりしないから、 嵐 を 鎮 めてください!",
+    "romanized": "Mō, ryū o tsukamaetari shinai kara, arashi o shizumete kudasai!",
+    "hiraganaKatakana": "もう、 りゅう を つかまえたりしないから、 あらし を しず めてください!",
+    "myanmar": "နောက်ထပ် နဂါးကို မဖမ်းတော့တာကြောင့် မုန်တိုင်းကို ပျောက်ကင်းအောင်လုပ်ပေးပါ!”"
+  },
+  {
+    "start": 341,
+    "end": 345,
+    "japanese": "大納言 は 思 わず 手 を 合 わせて 叫 びました。",
+    "romanized": "Dainagon wa omowazu te o awasete sakebimashita.",
+    "hiraganaKatakana": "だいなごん は おも わず て を あ わせて さけ びました。",
+    "myanmar": "အကြီးအကဲဝန်ကြီးသည် မထင်မှတ်လောက်အောင် လက်အုပ်ချီပြီး အော်လိုက်သည်"
+  },
+  {
+    "start": 345,
+    "end": 348,
+    "japanese": "船 は やっとのことで 港 へたどり 着 きました。",
+    "romanized": "Fune wa yatto no koto de minato e tadoritsukimashita.",
+    "hiraganaKatakana": "ふね は やっとのことで みなと へたどり つ きました。",
+    "myanmar": "သင်္ဘောသည် နောက်ဆုံးတော့ အခက်အခဲကြားကနေ ဆိပ်ကမ်းကို ရောက်လာနိုင်ခဲ့သည်"
+  },
+  {
+    "start": 348,
+    "end": 354,
+    "japanese": "大納言 は それっきり かぐや 姫 の ところへは 行 きませんでした。",
+    "romanized": "Dainagon wa sorekkiri Kaguya-hime no tokoro e wa ikimasen deshita.",
+    "hiraganaKatakana": "だいなごん は それっきり かぐや ひめ の ところへは い きませんでした。",
+    "myanmar": "အကြီးအကဲဝန်ကြီးသည် အဲ့ဒီနောက်ပိုင်း ကာဂုယားမင်းသမီးရဲ့အရပ်သို့ မသွားတော့ပါ။"
+  },
+  {
+    "start": 354,
+    "end": 362,
+    "japanese": "五人目 の 石上中納言 が 頼 まれたものは、 燕 の 巣 の 中 に あるという 子安貝 です。",
+    "romanized": "Goninme no Ishigami Chūnagon ga tanomareta mono wa, tsubame no su no naka ni aru to iu koyasukai desu.",
+    "hiraganaKatakana": "ごにんめ の いしがみちゅうなごん が たの まれたものは、 つばめ の す の なか に あるという こやすがい です。",
+    "myanmar": "ငါးယောက်မြောက် အီရှီဂမိ အလယ်တန်းဝန်ကြီးကို တောင်းတဲ့အရာက ပျံလွှားအသိုက်အတွင်းရှိတယ်လို့ဆိုတဲ့ ခရုံခွံ ဖြစ်သည်။"
+  },
+  {
+    "start": 362,
+    "end": 370,
+    "japanese": "中納言 は 一人 で 籠 に 乗 り、 燕 の 巣 が ある 高 いところへ 登 っていきました。",
+    "romanized": "Chūnagon wa hitori de kago ni nori, tsubame no su ga aru takai tokoro e nobotte ikimashita.",
+    "hiraganaKatakana": "ちゅうなごん は ひとり で かご に の り、 つばめ の す が ある たか いところへ のぼ っていきました。",
+    "myanmar": "အလယ်တန်းဝန်ကြီးသည် တစ်ယောက်တည်း တောင်းစီးပြီး ပျံလွှားအသိုက် ရှိတဲ့ မြင့်မားတဲ့နေရာသို့ တက်သွားခဲ့သည်။"
+  },
+  {
+    "start": 371,
+    "end": 373,
+    "japanese": "見 つかったぞ。 早 く 籠 を 下 ろして!",
+    "romanized": "Mitsukatta zo! Hayaku kago o oroshite!",
+    "hiraganaKatakana": "み つかったぞ。 はや く かご を お ろして!",
+    "myanmar": "ရှာတွေ့ပြီ! မြန်မြန် တောင်းကို အောက်ချလိုက်"
+  },
+  {
+    "start": 373,
+    "end": 381,
+    "japanese": "家来 たちが 慌 てて 綱 を 引 いた 途端、 籠 がひっくり 返 り、 中納言 は 真 っ 逆 さまに 落 ちてしまいました。",
+    "romanized": "Kerai-tachi ga awatete tsuna o hiita totan, kago ga hikkurikaeri, Chūnagon wa massakasama ni ochite shimaimashita.",
+    "hiraganaKatakana": "けらい たちが あわ てて つな を ひ いた とたん、 かご がひっくり かえ り、 ちゅうなごん は ま っ さか さまに お ちてしまいました。",
+    "myanmar": "အလုပ်သမားတွေက အလျင်အမြန် ကြိုးကို ဆွဲလိုက်တဲ့အခါ တောင်းက လှန်ပြီး အလယ်တန်းဝန်ကြီးသည် တစ်ပြိုင်တည်းအောက်ကျသွားခဲ့သည်။"
+  },
+  {
+    "start": 381,
+    "end": 385,
+    "japanese": "それでも 子安貝 らしきものは 離 しません。",
+    "romanized": "Soredemo koyasukai rashiki mono wa hanashimasen.",
+    "hiraganaKatakana": "それでも こやすがい らしきものは はな しません。",
+    "myanmar": "ထိုသို့ဖြစ်သော်လည်း ခရုံခွံလိုအရာကို လွှတ်မချခဲ့ပါ။"
+  },
+  {
+    "start": 385,
+    "end": 389,
+    "japanese": "でも よく 見 たら それは 燕 の 糞 でした。",
+    "romanized": "Demo yoku mitara sore wa tsubame no fun deshita.",
+    "hiraganaKatakana": "でも よく み たら それは つばめ の ふん でした。",
+    "myanmar": "ဒါပေမဲ့ မှန်ကန်စွာကြည့်မိတော့ အဲဒါက ပျံလွှားငှက်ရဲ့အညစ်အကြေးသာ ဖြစ်တယ်။"
+  },
+  {
+    "start": 389,
+    "end": 394,
+    "japanese": "中納言 は 大怪我 を して 寝込 んでしまいました。",
+    "romanized": "Chūnagon wa ōkega o shite nekonde shimaimashita.",
+    "hiraganaKatakana": "ちゅうなごん は おおけが を して ねこ んでしまいました。",
+    "myanmar": "အလယ်တန်းဝန်ကြီးသည် ထိခိုက်ဒဏ်ရာကြီးကြီး ရရှိပြီး အိပ်ယာပေါ်မှ လဲကျသွားခဲ့သည်။"
+  },
+  {
+    "start": 394,
+    "end": 400,
+    "japanese": "気 の 毒 に 思 った かぐや 姫 は お 見舞 いの 手紙 を 送 りました。",
+    "romanized": "Ki no doku ni omotta Kaguya-hime wa omimai no tegami o okurimashita.",
+    "hiraganaKatakana": "き の どく に おも った かぐや ひめ は お みま いの てがみ を お くりました。",
+    "myanmar": "စိတ်မကောင်းဖြစ်သွားတဲ့ ကာဂုယားမင်းသမီးလေးသည် အနာရောဂါအတွက်အားပေးသော စာကို ပို့လိုက်သည်။"
+  },
+  {
+    "start": 400,
+    "end": 407,
+    "japanese": "こうして 結局、 誰 も かぐや 姫 を お 嫁 にすることは できませんでした。",
+    "romanized": "Koushite kekkyoku, dare mo Kaguya-hime o oyome ni suru koto wa dekimasen deshita.",
+    "hiraganaKatakana": "こうして けっきょく、 だれ も かぐや ひめ を お よめ にすることは できませんでした。",
+    "myanmar": "ဒီနည်းနဲ့ နောက်ဆုံးတွင် မည်သူမျှ ကာဂုယားမင်းသမီးလေးကို လက်မထပ်နိုင်ခဲ့ပါဘူး။"
+  },
+  {
+    "start": 407,
+    "end": 412,
+    "japanese": "かぐや 姫 の 噂 は 時 の 帝 にまで 届 きました。",
+    "romanized": "Kaguya-hime no uwasa wa toki no mikado ni made todokimashita.",
+    "hiraganaKatakana": "かぐや ひめ の うわさ は とき の みかど にまで とど きました。",
+    "myanmar": "ကာဂုယားမင်းသမီး၏ သတင်းသည် ဧကရာဇ်မင်းထံအထိ ကြားရောက်လာခဲ့တယ်။"
+  },
+  {
+    "start": 412,
+    "end": 421,
+    "japanese": "帝 は 使 いを 出 し、 かぐや 姫 が 帝 に お 仕 えすれば、 おじいさんを 身分 の 高 い 貴族 にすると 伝 えました。",
+    "romanized": "Mikado wa tsukai o dashi, Kaguya-hime ga mikado ni otsukae sureba, ojiisan o mibun no takai kizoku ni suru to tsutaemashita. ",
+    "hiraganaKatakana": "みかど は つか いを だ し、 かぐや ひめ が みかど に お つか えすれば、 おじいさんを みぶん の たか い きぞく にすると つた えました。",
+    "myanmar": "ဧကရာဇ်မင်းသည် သံတမန် စေလွှတ်ပြီး ကာဂုယားမင်းသမီးက ဧကရာဇ်မင်းဆီ အမှုတော်ထမ်းမယ်ဆိုရင် အဖိုးကို အဆင့်အတန်းမြင့်သော လူတန်းစားအဖြစ် ခန့်အပ်မယ်လို့ ပြောကြားခဲ့တယ်။"
+  },
+  {
+    "start": 421,
+    "end": 425,
+    "japanese": "話 を 聞 いた かぐや 姫 は 泣 き 出 してしまいました。",
+    "romanized": "Hanashi o kiita Kaguya-hime wa nakidashite shimaimashita.",
+    "hiraganaKatakana": "はなし を き いた かぐや ひめ は な き だ してしまいました。",
+    "myanmar": "စကားကို ကြားပြီး ကာဂုယားမင်းသမီးသည် စတင်ငိုကြွေးလာသည်"
+  },
+  {
+    "start": 425,
+    "end": 434,
+    "japanese": "私 は、 この 家 を 離 れたくありません。 少 しでも 長 くお 二人 のそばに いさせてください。",
+    "romanized": "Watashi wa, kono ie o hanaretaku arimasen. Sukoshi demo nagaku ofutari no soba ni isasete kudasai.",
+    "hiraganaKatakana": "わたし は、 この いえ を はな れたくありません。 すこ しでも なが くお ふたり のそばに いさせてください。",
+    "myanmar": "ကျွန်မ ဒီအိမ်က မထွက်သွားချင်ပါဘူး။ နည်းနည်းလောက်ဖြစ်ဖြစ် မင်းတို့နှစ်ယောက်(အဖိုးအဖွား)အနားမှာ တတ်နိုင်သမျှ နေချင်ပါတယ်။"
+  },
+  {
+    "start": 434,
+    "end": 441,
+    "japanese": "どこにも やりは しない。 わしらは お 前 の 幸 せだけを 願 っておるのじゃ。",
+    "romanized": "Doko ni mo yari wa shinai. Washira wa omae no shiawase dake o negatte oru no ja.",
+    "hiraganaKatakana": "どこにも やりは しない。 わしらは お まえ の しあわ せだけを ねが っておるのじゃ。",
+    "myanmar": "အဘယ်နေရာကိုမျှ ပေးပို့မှာမဟုတ်ဘူး။ ငါတို့က မင်းပျော်ရွှင်ဖို့ပဲ ဆုတောင်းနေကြတာပါ။"
+  },
+  {
+    "start": 441,
+    "end": 453,
+    "japanese": "おじいさんは、 帝 からの 申 し 出 を 断 りました。 帝 は 余計 に 会 いたくなり、 狩 りの 帰 りに かぐや 姫 の 家 に 立 ち 寄 ることにしました。",
+    "romanized": "Ojiisan wa, mikado kara no moushide o kotowarimashita. Mikado wa yokei ni aitaku nari, kari no kaeri ni Kaguya-hime no ie ni tachiyoru koto ni shimashita. ",
+    "hiraganaKatakana": "おじいさんは、 みかど からの もう し で を ことわ りました。 みかど は よけい に あ いたくなり、 か りの かえ りに かぐや ひめ の いえ に た ち よ ることにしました。",
+    "myanmar": "အဖိုးကြီးသည် ဧကရာဇ်မင်းထံမှ တောင်းဆိုချက်ကို ငြင်းဆိုခဲ့တယ်။ ဧကရာဇ်မင်းက ပိုပြီး တွေ့ချင်လာပြီး  အမဲလိုက်ရာမှ ပြန်လာသောလမ်းတွင်  ကာဂုယားမင်းသမီးရဲ့အိမ်တွင် ရပ်ရန်  ဆုံးဖြတ်ခဲ့သည်။"
+  },
+  {
+    "start": 453,
+    "end": 465,
+    "japanese": "姫 の 美 しさは 思 った 以上 で、 そばにいるだけで 心 まで 清 らかになるようです。 帝 は かぐや 姫 に すっかり 心 を 奪 われました。",
+    "romanized": "Hime no utsukushisa wa omotta ijou de, soba ni iru dake de kokoro made kiyoraka ni naru you desu. Mikado wa Kaguya-hime ni sukkari kokoro o ubaware mashita.",
+    "hiraganaKatakana": "ひめ の うつく しさは おも った いじょう で、 そばにいるだけで こころ まで きよ らかになるようです。 みかど は かぐや ひめ に すっかり こころ を うば われました。",
+    "myanmar": "မင်းသမီးရဲ့အလှအပသည် ထင်ထားတာထက်ပိုပြီး ကျော်လွန်ကာ (သူ့မ)အနီးတွင် ရှိနေရုံမျှဖြင့် နှလုံးသားကို သန့်စင်စေသလို ခံစားရသည်။ ဧကရာဇ်မင်းဟာ ကာဂုယားမင်းသမီးကို အပြည့်အဝ မေတ္တာသက်ဝင်ချစ်မြတ်နိုးသွားခဲ့တယ်။"
+  },
+  {
+    "start": 465,
+    "end": 470,
+    "japanese": "さあ、 私 と 一緒 に 都 へ 行 こう。",
+    "romanized": "Saa, watashi to issho ni miyako e ikou.",
+    "hiraganaKatakana": "さあ、 わたし と いっしょ に みやこ へ い こう。",
+    "myanmar": "လာ၊ ကျွန်တော်နဲ့အတူ မြို့တော်သို့ သွားကြစို့။"
+  },
+  {
+    "start": 470,
+    "end": 474,
+    "japanese": "私 は、 この 国 の 者 では ございません。",
+    "romanized": "Watashi wa, kono kuni no mono de wa gozaimasen.",
+    "hiraganaKatakana": "わたし は、 この くに の もの では ございません。",
+    "myanmar": "ကျွန်မက ဒီနယ်မြေရဲ့လူမျိုး မဟုတ်ပါဘူး။"
+  },
+  {
+    "start": 474,
+    "end": 480,
+    "japanese": "たとえ 帝 の お 言葉 でも、 それは できない ことでございます。",
+    "romanized": "Tatoe mikado no okotoba demo, sore wa dekinai koto de gozaimasu.",
+    "hiraganaKatakana": "たとえ みかど の お ことば でも、 それは できない ことでございます。",
+    "myanmar": "ဧကရာဇ်မင်း၏အမိန့်ဖြစ်သော်လည်း အဲဒါက မဖြစ်နိုင်တဲ့ အရာပါ။"
+  },
+  {
+    "start": 480,
+    "end": 491,
+    "japanese": "それでも 帝 は かぐや 姫 の ことが 忘 れられず、 手紙 を 送 り 続 けました。 かぐや 姫 も 心 を 込め て 返事 を 出 しました。",
+    "romanized": "Soredemo mikado wa Kaguya-hime no koto ga wasurerarezu, tegami o okuri tsuzukemashita. Kaguya-hime mo kokoro o komete henji o dashimashita. ",
+    "hiraganaKatakana": "それでも みかど は かぐや ひめ の ことが わす れられず、 てがみ を おく り つづ けました。 かぐや ひめ も こころ を こめ て へんじ を だ しました。",
+    "myanmar": "ဒါပေမဲ့ ဧကရာဇ်မင်းက ကာဂုယားမင်းသမီးကို မမေ့နိုင်ဘဲ စာတွေ ဆက်ပို့နေခဲ့တယ်။ ကာဂုယားမင်းသမီးကလည်း စိတ်ရင်းစေတနာနဲ့ ပြန်စာပို့ခဲ့တယ်။"
+  },
+  {
+    "start": 493,
+    "end": 505,
+    "japanese": "やがて 三年 の 月日 が 流 れ、 その 年 の 春 の 終 わり 頃 から、 かぐや 姫 は 月 を 見 てはため 息 を つきながら 涙 ぐむようになりました。",
+    "romanized": "Yagate san-nen no tsukihi ga nagare, sono toshi no haru no owari goro kara, Kaguya-hime wa tsuki o mite wa tameiki o tsukinagara namida gumu yō ni narimashita.",
+    "hiraganaKatakana": "やがて さんねん の つきひ が なが れ、 その とし の はる の お わり ごろ から、 かぐや ひめ は つき を み てはため いき を つきながら なみだ ぐむようになりました。",
+    "myanmar": "သုံးနှစ်ကြာပြီးနောက် အဲ့ဒီနှစ် နွေဦးရာသီအကုန်တွင် ကာဂုယားမင်းသမီးက လကို ကြည့်ပြီး သက်ပြင်းချကာ မျက်ရည်ကျလာခဲ့သည်။"
+  },
+  {
+    "start": 505,
+    "end": 517,
+    "japanese": "心配 した おじいさん と おばあさんが 訳 を 尋 ねても 答 えません。 やがて、 八月 の 十五夜 が 近 くなり、 やっと 口 を 開 きました。",
+    "romanized": "Shinpai shita ojiisan to obaasan ga wake o tazunete mo kotaemasen. Yagate, hachigatsu no juugoya ga chikaku nari, yatto kuchi o hirakimashita.",
+    "hiraganaKatakana": "しんぱい した おじいさん と おばあさんが わけ を たず ねても こた えません。 やがて、 はちがつ の じゅうごや が ちか くなり、 やっと くち を ひら きました。",
+    "myanmar": "စိုးရိမ်နေသော အဘိုးအဘွားတို့က အကြောင်းရင်းကို မေးပေမယ့် မဖြေခဲ့ပါ။ နောက်ဆုံး သြဂုတ်လ ၁၅ ရက်နေ့(လပြည့်နေ့)က နီးလာပြီနောက်  စကားပြောလာခဲ့တယ်။"
+  },
+  {
+    "start": 517,
+    "end": 526,
+    "japanese": "私 は、 月 の 国 のものです。 次 の 十五夜 に、 月 の 都 から 迎 えが 来 ることになりました。",
+    "romanized": "Watashi wa, tsuki no kuni no mono desu. Tsugi no juugoya ni, tsuki no miyako kara mukae ga kuru koto ni narimashita. ",
+    "hiraganaKatakana": "わたし は、 つき の くに のものです。 つぎ の じゅうごや に、 つき の みやこ から むか えが く ることになりました。",
+    "myanmar": "ကျွန်မက လတိုင်းပြည်ရဲ့ သက်ဆိုင်သူပါ။ လာမည့် ၁၅ ရက်(လပြည့်နေ့)မှာ လမြို့(လနတ်နန်းတော်)ထံမှ လာရောက် ခေါ်ဆောင်တာ ခံရတော့မယ်။"
+  },
+  {
+    "start": 526,
+    "end": 532,
+    "japanese": "私 は、 おじいさん と おばあさんに お 別 れするのが 悲 しくて。",
+    "romanized": "Watashi wa, ojiisan to obaasan ni owakare suru no ga kanashikute.",
+    "hiraganaKatakana": "わたし は、 おじいさん と おばあさんに お わか れするのが かな しくて。",
+    "myanmar": "ကျွန်မ အဖိုးနဲ့ အဖွားကို နှုတ်ဆက်ရတာ ဝမ်းနည်းမိတယ်။"
+  },
+  {
+    "start": 532,
+    "end": 540,
+    "japanese": "おじいさん と おばあさんは、 嘆 き 悲 しみました。 そして とうとう 十五夜 になりました。",
+    "romanized": "Ojiisan to obaasan wa, nageki kanashimimashita. Soshite toutou juugoya ni narimashita. ",
+    "hiraganaKatakana": "おじいさん と おばあさんは、 なげ き かな しみました。 そして とうとう じゅうごや になりました。",
+    "myanmar": "အဖိုးနဲ့ အဖွားက ဝမ်းနည်းငိုကြွေးကြလေသည်။ နောက်ဆုံးတော့ ၁၅ ရက်နေ့ ရောက်လာခဲ့သည်။"
+  },
+  {
+    "start": 540,
+    "end": 548,
+    "japanese": "おじいさんは 帝 に お 願 いして、 屋敷 の 周 りを 二千人 の 兵士 で 守 ってもらいました。",
+    "romanized": "Ojiisan wa mikado ni onegai shite, yashiki no mawari o nisen-nin no heishi de mamotte moraimashita.",
+    "hiraganaKatakana": "おじいさんは みかど に お ねが いして、 やしき の まわ りを にせんにん の へいし で まも ってもらいました。",
+    "myanmar": "အဖိုးက ဧကရာဇ်မင်းဆီ အကူအညီတောင်းပြီး အိမ်ပတ်လည်ကို စစ်သား ၂,၀၀၀ ဖြင့် ကာကွယ်စေခဲ့သည်။"
+  },
+  {
+    "start": 548,
+    "end": 556,
+    "japanese": "かぐや 姫 は 屋敷 の 一番 奥 の 部屋 にいて、 おじいさん と おばあさんが しっかり 守 りました。",
+    "romanized": "Kaguya-hime wa yashiki no ichiban oku no heya ni ite, ojiisan to obaasan ga shikkari mamorimashita. ",
+    "hiraganaKatakana": "かぐや ひめ は やしき の いちばん おく の へや にいて、 おじいさん と おばあさんが しっかり まも りました。",
+    "myanmar": "ကာဂုယားမင်းသမီးက နေအိမ်၏ အနက်ဆုံးအခန်းမှာ နေရပြီး အဖိုးနဲ့ အဖွားက တင်းတင်းကျပ်ကျပ် ကာကွယ်ခဲ့ကြသည်။"
+  },
+  {
+    "start": 557,
+    "end": 565,
+    "japanese": "やがて 真夜中 になり、 眩 しい 光 と 共 に 天女 たちが 舞 い 降 りてきました。",
+    "romanized": "Yagate mayonaka ni nari, mabushii hikari to tomo ni tennyo-tachi ga maiorite kimashita.",
+    "hiraganaKatakana": "やがて まよなか になり、 まぶ しい ひかり と とも に てんにょ たちが ま い お りてきました。",
+    "myanmar": "မကြာခင်တွင် ညလယ်ခေါင်ဖြစ်လာပြီး တောက်ပသော အလင်းရောင်နှင့်အတူ ကောင်းကင်နတ်သမီးများ ဆင်းသက်လာကြသည်"
+  },
+  {
+    "start": 565,
+    "end": 575,
+    "japanese": "兵士 たちは 弓 を 構 えましたが、 誰 も 動 くことすらできません。 その 時、 澄 み 切 った 声 が 響 き 渡 りました。",
+    "romanized": "Heishi-tachi wa yumi o kamaemashita ga, dare mo ugoku koto sura dekimasen. Sono toki, sumikitta koe ga hibikiwatari mashita.",
+    "hiraganaKatakana": "へいし たちは ゆみ を かま えましたが、 だれ も うご くことすらできません。 その とき、 す み き った こえ が ひび き わた りました。",
+    "myanmar": "စစ်သည်များသည် လေးကို အဆင်သင့်ပြင်ထားသော်လည်း မည်သူမျှ လှုပ်ရှားခြင်းမပြုနိုင်တော့ပါ။ ထိုအချိန်တွင် ပြတ်သားသော အသံတစ်ခု ထွက်ပေါ်လာသည်"
+  },
+  {
+    "start": 575,
+    "end": 590,
+    "japanese": "竹取大 きな 長 い 間 かぐや 姫 を 育 てて くれてありがたく 思 っています。 でも もう かぐや 姫 は 月 の 都 へ 帰 らなくてはならないのです。",
+    "romanized": "Taketori no oki, nagai aida Kaguya-hime o sodate te kurete arigataku omotte imasu. Demo mou Kaguya-hime wa tsuki no miyako e kaeranakute wa naranai no desu.",
+    "hiraganaKatakana": "たけとりのお きな が い あいだ かぐや ひめ を そだ てて くれてありがたく おも っています。 でも もう かぐや ひめ は つき の みやこ へ かえ らなくてはならないのです。",
+    "myanmar": "ဝါးဖြတ်သမားအဘိုးရေ ဒီတလျောက် ကာဂုယားမင်းသမီးကို ပြုစုပျိုးထောင်ပေးလို့ အထူးကျေးဇူးတင်ပါသည်။ ဒါပေမယ့် အခုတော့ ကာဂုယားမင်းသမီးသည် လပြည်သို့ ပြန်သွားရန် အချိန်ကျနေပါပြီ"
+  },
+  {
+    "start": 590,
+    "end": 607,
+    "japanese": "すると、 閉 め 切 っていた 戸 が 音 もなく 開 き、 かぐや 姫 は 引 き 寄 せられるように 外 へ 出 ました。 おじいさん と おばあさんは 引 き 止 めることもできず、 ただじっと 姫 を 見上 げているだけでした。",
+    "romanized": "Suruto, shimekitte ita to ga oto mo naku hiraki, Kaguya-hime wa hikiyoserareru you ni soto e demashita. Ojiisan to obaasan wa hikitomeru koto mo dekinizu, tada jitto hime o miagete iru dake deshita.",
+    "hiraganaKatakana": "すると、 し め き っていた と が おと もなく ひら き、 かぐや ひめ は ひ き よ せられるように そと へ で ました。 おじいさん と おばあさんは ひ き と めることもできず、 ただじっと ひめ を みあ げているだけでした。",
+    "myanmar": "အဲဒီအချိန်မှာပဲ ပိတ်ထားသော တံခါးက အသံတစ်ချက်တောင် မရှိဘဲ(မထွက်ဘဲ) ပွင့်သွားပြီး ကာဂုယားမင်းသမီးသည် ဆွဲအားကြောင့် အပြင်သို့ထွက်လာခဲ့သည်။ အဖိုးနဲ့ အဖွားက မတားနိုင်ဘဲ မင်းသမီးကို ငြိမ်ငြိမ်လေးဘဲ စိုက်ကြည့်နေနိုင်ခဲ့သည်"
+  },
+  {
+    "start": 607,
+    "end": 616,
+    "japanese": "お 待 ちください。 羽衣 を 着 ると、 もう 地上 の 人 の 心 がわからなくなってしまいます。 その 前 に。",
+    "romanized": "Omachi kudasai. Hagoromo o kiru to, mou chijou no hito no kokoro ga wakaranaku natte shimaimasu. Sono mae ni.",
+    "hiraganaKatakana": "お ま ちください。 はごろも を き ると、 もう ちじょう の ひと の こころ がわからなくなってしまいます。 その まえ に。",
+    "myanmar": "ခဏစောင့်ကြပါဉီး။ နတ်အဝတ်ကို ဝတ်ဆင်လိုက်မယ်ဆိုရင် ထပ်ပြီး လူသားများရဲ့စိတ်ခံစားချက်ကို မခံစားရတော့ဘူး။ အဲ့မတိုင်မီ…"
+  },
+  {
+    "start": 616,
+    "end": 627,
+    "japanese": "かぐや 姫 は、 おじいさん と おばあさんに 今 まで 育 てて くれたお 礼 を 言 い、 帝 への 別 れの 手紙 を 渡 しました。",
+    "romanized": "Kaguya-hime wa, ojiisan to obaasan ni ima made sodatete kureta orei o ii, mikado e no wakare no tegami o watashimashita. ",
+    "hiraganaKatakana": "かぐや ひめ は、 おじいさん と おばあさんに いま まで そだ てて くれたお れい を い い、 みかど への わか れの てがみ を わた しました。",
+    "myanmar": "ကာဂုယားမင်းသမီးသည် အဖိုးနှင့်အဖွားကို ယခုအထိ ပြုစုစောင့်ရှောက်ပေးလာတဲ့ ကျေးဇူးများကို ပြောဆိုပြီး ဧကရာဇ်မင်းဆီ နှုတ်ဆက်စာတစ်စောင် ပို့ပေးလိုက်သည်။"
+  },
+  {
+    "start": 627,
+    "end": 645,
+    "japanese": "そして 羽衣 を 着 ると、 振 り 向 きもせずに 空 を 飛 ぶ 車 に 乗 り 込 みました。 月 へ 行 く 車 を おじいさん と おばあさんは いつまでも いつまでも 見送 っていました。",
+    "romanized": "Soshite hagoromo o kiru to, furimuki mo sezu ni sora o tobu kuruma ni norikomi mashita. Tsuki e iku kuruma o ojiisan to obaasan wa itsumademo itsumademo miokutte imashita.",
+    "hiraganaKatakana": "そして はごろも を き ると、 ふ り む きもせずに そら を と ぶ くるま に の り こ みました。 つき へ い く くるま を おじいさん と おばあさんは いつまでも いつまでも みおく っていました。",
+    "myanmar": "ထို့ကြောင့် နတ်အဝတ်ကို ဝတ်လိုက်ပြီး နောက်ကို မလှည့်တော့ဘဲ နတ်ဝေါ်ယာဉ် စီးထွက်သွားသည်။ လဆီသို့ သွားသော နတ်ဝေါ်ယာဉ်ကို အဖိုးနဲ့ အဖွား က တစ်စိမ့်စိမ့်ကြည့်တာ ကျန်ခဲ့ရသည်။"
+  }
+]
