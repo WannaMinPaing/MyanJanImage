@@ -1,0 +1,250 @@
+[
+  {
+    "start": 2,
+    "end": 5,
+    "japanese": "鳥 の みじ",
+    "romanized": "Tori no miji. ",
+    "hiraganaKatakana": "とり の みじ",
+    "myanmar": "ငှက်ကလေးမီဂျီ"
+  },
+  {
+    "start": 7,
+    "end": 15,
+    "japanese": "昔、 あるところに おじいさん と おばあさんが いました。",
+    "romanized": "Mukashi, aru tokoro ni ojiisan to obaasan ga imashita. ",
+    "hiraganaKatakana": "むかし、 あるところに おじいさん と おばあさんが いました。",
+    "myanmar": "ဟိုးအရင်က တစ်နေရာတစ်ခုမှာ အဖိုးနဲ့ အဖွားနေကြတယ်။"
+  },
+  {
+    "start": 16,
+    "end": 28,
+    "japanese": "おばあさんは 長 いこと 病気 で 寝込 んでいたので、 おじいさんは 毎日 おばあさん の 看病 を していました。",
+    "romanized": "Obaasan wa nagai koto byouki de nekonde ita node, ojiisan wa mainichi obaasan no kanbyou o shiteimashita.",
+    "hiraganaKatakana": "おばあさんは なが いこと びょうき で ねこ んでいたので、 おじいさんは まいにち おばあさん の かんびょう を していました。",
+    "myanmar": "အဖွားက နာတာရှည်ရောဂါဖြင့် အိပ်ရာထဲလဲနေခဲ့တာကြောင့် အဖိုးက နေ့တိုင်း အဖွားကိုပြုစုစောင့်ရှောက်တယ်။"
+  },
+  {
+    "start": 28,
+    "end": 40,
+    "japanese": "ある 時 、おじいさんは とても 疲 れていたので、 畑仕事 の 手 を 休 め 空 を 眺 めていました。",
+    "romanized": "Aru toki, ojiisan wa totemo tsukarete ita node, hatake shigoto no te o yasume sora o nagamete imashita. ",
+    "hiraganaKatakana": "ある とき 、おじいさんは とても つか れていたので、 はたけしごと の て を やす め そら を なが めていました。",
+    "myanmar": "တစ်နေ့မှာ အဖိုးဟာ အလွန် ပင်ပန်းလွန်းတာကြောင့် လယ်အလုပ် မလုပ်ဘဲ မိုးကောင်းကင်ကို ကြည့်နေတယ်။"
+  },
+    {
+    "start": 41,
+    "end": 48,
+    "japanese": "すると、 とても きれいな 鳥 の 鳴 き 声 が 響 いてきました。",
+    "romanized": " Suruto, totemo kirei na tori no nakigoe ga hibii te kimashita.",
+    "hiraganaKatakana": "すると、 とても きれいな とり の な き ごえ が ひび いてきました。",
+    "myanmar": "ထိုအခါ အလွန်သာယာတဲ့ ငှက်တေးသံကို ကြားလိုက်ရတယ်။"
+  },
+  {
+    "start": 49,
+    "end": 66,
+    "japanese": "耳 を 澄 ませて 聞 いてみると。 ' アヤチョウチョウ。 コヤチョウチョウ。 コガネサラサラビビラビンザーン。 コロリン。' と 聞 こえました。",
+    "romanized": "Mimi o sumasete kiite miru to, 'Ayachouchou. Koyachouchou. Kogane sarasara bibirabinzaan. Kororin'. to kikoemashita.",
+    "hiraganaKatakana": "みみ を す ませて き いてみると。 ' アヤチョウチョウ。 コヤチョウチョウ。 コガネサラサラビビラビンザーン。 コロリン。' と き こえました。",
+    "myanmar": "နားစိုက်ပြီး နားထောင်ကြည့်လိုက်တော့ “အယချိုချို ကိုယချိုချို ကိုဂနေ–စရာစရာ–ဗီဗီ–ရဘိန်း–ဇန်း ကိုရိုရင်” လို့ကြားလိုက်ရတယ်"
+  },
+  {
+    "start": 67,
+    "end": 76,
+    "japanese": "なんていい 声 だろう。 わしは 耳 が 遠 いから、 もっと そばで 鳴 いてくれたらいいのに。",
+    "romanized": "Nante ii koe darou. Washi wa mimi ga tooi kara, motto soba de naite kuretare ii noni. ",
+    "hiraganaKatakana": "なんていい こえ だろう。 わしは みみ が とお いから、 もっと そばで な いてくれたらいいのに。",
+    "myanmar": "ဘယ်လောက်တောင် သာယာလိုက်တဲ့ အသံလဲ။ ကျွန်တော်နားက ဝေး(လေး)တာကြောင့် ပိုပြီး အနားမှာ အော်ပေးရင် ကောင်းမှာပဲ။"
+  },
+  {
+    "start": 77,
+    "end": 96,
+    "japanese": "おじいさんが そう 言 うと、 鳥 は くわ の 柄 に 止 まり、 ' アヤチョウチョウ。 コヤチョウチョウ。 コガネキラキラ。 ビビラビンザーン。 コロリン。' と 鳴 きました。",
+    "romanized": "Ojiisan ga sou iu to, tori wa kuwa no e ni tomari, 'Ayachouchou, koyachouchou, kogane kirakira, bibirabinzaan, kororin' to nakimashita.",
+    "hiraganaKatakana": "おじいさんが そう い うと、 とり は くわ の え に と まり、 ' アヤチョウチョウ。 コヤチョウチョウ。 コガネキラキラ。 ビビラビンザーン。 コロリン。' と な きました。",
+    "myanmar": "အဖိုးက အဲလိုပြောလိုက်တော့ ငှက်ကလေးက ပေါက်ပြားပေါက်ကိုင်မှာ နား(တတ်)၍ “အယချိုချို ကိုယချိုချို ကိုဂနေ–စရာစရာ–ဗီဗီ–ရဘိန်း–ဇန်း ကိုရိုရင်” လို့ အော်ပေးခဲ့တယ်"
+  },
+  {
+    "start": 97,
+    "end": 110,
+    "japanese": "こりゃ 人懐 っこい 鳥 だ。 こんな きれいな 声 を 婆 さんにも 聞 かせたいなと 思 い、 おじいさんは 舌 を 出 しました。",
+    "romanized": "Korya hitonatsukkoi tori da. Konna kirei na koe o baasannimo kikasetai na to omoi, ojiisan wa shita o dashimashita. ",
+    "hiraganaKatakana": "こりゃ ひとなつ っこい とり だ。 こんな きれいな こえ を ばあ さんにも き かせたいなと おも い、 おじいさんは した を だ しました。",
+    "myanmar": "တကယ့်ကို လူယဉ်တဲ့ ငှက်ကလေးဘဲ။ ဒီလောက် သာယာတဲ့ အသံကို အဖွားကိုလည်း ကြားစေချင်တယ်လို့ တွေးပြီး အဖိုးက လျှာကိုထုတ်လိုက်တယ်။"
+  },
+  {
+    "start": 110,
+    "end": 123,
+    "japanese": "すると 鳥 は おじいさん の 舌 の 先 にちょこんと 止 まり、' アヤチョウチョウ、 コヤチョウチョウ ' と 鳴 きました。",
+    "romanized": "Suruto tori wa ojiisan no shita no saki ni chokon to tomari, 'Ayachouchou, koyachouchou' to nakimashita.",
+    "hiraganaKatakana": "すると とり は おじいさん の した の さき にちょこんと と まり、' アヤチョウチョウ、 コヤチョウチョウ ' と な きました。",
+    "myanmar": "ထိုအခါ ငှက်ကလေးက အဖိုးရဲ့လျှာအစွန်းမှာ နား(တတ်)လိုက်ပြီး 'အယချိုချို ကိုယချိုချို' လို့ အော်လိုက်တယ်"
+  },
+  {
+    "start": 123,
+    "end": 133,
+    "japanese": "そ の 時 、 おじいさんが 大き な 息 をしたので、 鳥 は お 腹 の 中 に 吸 い 込 まれてしまいました。",
+    "romanized": "Sono toki, ojiisan ga ooki na iki o shita node, tori wa onaka no naka ni suikomarete shimaimashita. ",
+    "hiraganaKatakana": "そ の とき 、 おじいさんが おおき な いき をしたので、 とり は お なか の なか に す い こ まれてしまいました。",
+    "myanmar": "အဲ့ဒီအချိန်မှာ အဖိုးက အသက်ပြင်းပြင်းရှုလိုက်တာကြောင့် ငှက်ကလေးဟာ ဗိုက်ထဲသို့ ဆွဲယူခံလိုက်ရပါသည်"
+  },
+  {
+    "start": 133,
+    "end": 141,
+    "japanese": "すると、 おじいさん の 脇 の 下 から 鳥 の 羽 が 生 えました。",
+    "romanized": "Suruto, ojiisan no waki no shita kara tori no hane ga haemashita.",
+    "hiraganaKatakana": "すると、 おじいさん の わき の した から とり の はね が は えました。",
+    "myanmar": "ထိုအခါ အဖိုး၏ လက်အောက်ကနေ ငှက်တောင်ပံက ထွက်ပေါက်လာခဲ့သည်။"
+  },
+  {
+    "start": 141,
+    "end": 156,
+    "japanese": "ひゃー。 鳥 が 腹 の 中 へ 入 ったら、 こんなところに 羽 が 出 てきてしまって 困 ったなあと。 その 羽 を 引 っ 張 りました。",
+    "romanized": "Hyaa. Tori ga hara no naka e haittara, konna tokoro ni hane ga detekite shimatte komattanā  sono hane o hipparimashita. ",
+    "hiraganaKatakana": "ひゃー。 とり が はら の なか へ はい ったら、 こんなところに はね が で てきてしまって こま ったなあと。 その はね を ひ っ ぱ りました。",
+    "myanmar": "ဟား.. ငှက်ကလေးက ဗိုက်ထဲဝင်သွားခဲ့တာကြောင့် ဒီလိုနေရာလေးမှာ တောင်ပံကထွက်လာတော့ ဒုက္ခရောက်ပြီလို့(တွေးကာ) တောင်ပံကို ဆွဲထုတ်လိုက်တယ်"
+  },
+  {
+    "start": 156,
+    "end": 163,
+    "japanese": "すると 今度 は ' アヤチョウチョウ ' 鳥 が お 腹 の 中 から いい 声 で 鳴 きました。",
+    "romanized": "Suruto kondo wa 'Ayachouchou'. Tori ga onaka no naka kara ii koe de nakimashita.",
+    "hiraganaKatakana": "すると こんど は ' アヤチョウチョウ ' とり が お なか の なか から いい こえ で な きました。",
+    "myanmar": "ထို့နောက် ဒီတစ်ကြိမ်မှာတော့ 'အယချိုချို' ငှက်ကလေးက ဗိုက်ထဲကနေ သာယာသော အသံဖြင့် အော်မြည်ခဲ့တယ်။"
+  },
+  {
+    "start": 164,
+    "end": 172,
+    "japanese": "こりゃ このまま 家 へ 行 けば、 婆 さんにも この 鳥 の 声 を 聞 かせてやれる。",
+    "romanized": "Korya kono mama ie e ikeba, baasanni mo kono tori no koe o kikasete yareru. ",
+    "hiraganaKatakana": "こりゃ このまま いえ へ い けば、 ばあ さんにも この とり の こえ を き かせてやれる。",
+    "myanmar": "ဒီလိုဆိုရင်တော့ ဒီပုံအတိုင်း အိမ်သို့သွားမယ်ဆိုရင် အဖွားကိုလည်း ဒီငှက်လေးရဲ့အသံကို နားဆင်စေမယ်။"
+  },
+  {
+    "start": 172,
+    "end": 180,
+    "japanese": "おじいさんは 畑仕事 を 止 めて、 大急 ぎで 家 へ 帰 りました。",
+    "romanized": "Ojiisan wa hatake shigoto o yamete, ooisogi de ie e kaerimashita.",
+    "hiraganaKatakana": "おじいさんは はたけしごと を や めて、 おおいそ ぎで いえ へ か え りました。",
+    "myanmar": "“အဖိုးက လယ်အလုပ်ကို ရပ်ပြီး မြန်မြန်ဆန်ဆန် အိမ်သို့ ပြန်သွားခဲ့တယ်။"
+  },
+  {
+    "start": 182,
+    "end": 190,
+    "japanese": "おじいさんは それから 毎日 おばあさんに 鳥 の 声 を 聞 かせました。",
+    "romanized": "Ojiisan wa sorekara mainichi obaasan ni tori no koe o kikasemashita. ",
+    "hiraganaKatakana": "おじいさんは それから まいにち おばあさんに とり の こえ を き かせました。",
+    "myanmar": "အဖိုးက အဲကစပြီး နေ့တိုင်း အဖွားကို ငှက်တေးသံ နားဆင်စေခဲ့တယ်"
+  },
+  {
+    "start": 192,
+    "end": 200,
+    "japanese": "ある 晩、 おじいさん の 夢 に 鳥 が 現 れて 言 いました。",
+    "romanized": "Aru ban, ojiisan no yume ni tori ga arawarete iimashita.",
+    "hiraganaKatakana": "ある ばん、 おじいさん の ゆめ に とり が あらわ れて い いました。",
+    "myanmar": "တစ်ညမှာတော့ အဖိုး၏ အိပ်မက်ထဲမှာ ငှက်ကလေးက ပေါ်လာပြီး ပြောခဲ့တယ်"
+  },
+  {
+    "start": 201,
+    "end": 210,
+    "japanese": "お 前 は 若 い 時 から とても 良 い 人 だった。 人 を 助 けたり、 親切 にしてきた。",
+    "romanized": "Omae wa wakai toki kara totemo yoi hito datta. Hito o tasuketari, shinsetsu ni shite kita.",
+    "hiraganaKatakana": "お まえ は わか い とき から とても よ い ひと だった。 ひと を たす けたり、 しんせつ にしてきた。",
+    "myanmar": "မင်းက ငယ်ငယ်ကတည်းက အလွန်ကောင်းတဲ့လူဖြစ်ခဲ့တယ်။ လူတွေကို ကူညီပေးလေ့ရှိပြီ အမြဲကြင်နာတတ်ခဲ့တယ်"
+  },
+  {
+    "start": 211,
+    "end": 219,
+    "japanese": "生 き 物 たちも 大事 にしてくれたから、 その 恩返 しに 良 いことを 教 えよう。",
+    "romanized": "Ikimono-tachi mo daiji ni shitekureta kara, sono ongaeshi ni yoi koto o oshieyou.",
+    "hiraganaKatakana": "い き もの たちも だいじ にしてくれたから、 その おんがえ しに よ いことを おし えよう。",
+    "myanmar": "တိရစ္ဆာန်တွေကိုလည်း ဂရုစိုက်ပေးခဲ့တာကြောင့် ကျေးဇူးပြန်ဆပ်တဲ့အနေနဲ့ ကောင်းမွန်တဲ့အရာတစ်ခု သင်ပေးမယ်"
+  },
+  {
+    "start": 219,
+    "end": 227,
+    "japanese": "お 宮 の 縁日 で 私 の 声 を 村人 たちにも 聞 かせなさい。",
+    "romanized": "Omiya no ennichi de watashi no koe o murabitotachi ni mo kikasenasai. ",
+    "hiraganaKatakana": "お みや の えんにち で わたし の こえ を むらびと たちにも き かせなさい。",
+    "myanmar": "ဘုရားကျောင်းပွဲနေ့မှာ ကျွန်မရဲ့အသံကို ကျေးရွာလူတွေကိုလည်း နားဆင်စေပါ"
+  },
+  {
+    "start": 228,
+    "end": 237,
+    "japanese": "おじいさんは 目 を 覚 まし、' あぁ、 不思議 な 夢 を 見 た ' と 思 いました。",
+    "romanized": "Ojiisan wa me o samashi, 'Aa, fushigi na yume o mita' to omoimashita.",
+    "hiraganaKatakana": "おじいさんは め を さ まし、' あぁ、 ふしぎ な ゆめ を み た ' と おも いました。",
+    "myanmar": "အဖိုးက နိုးလာတော့ 'အာ.. ထူးဆန်းတဲ့ အိမ်မက် မက်ခဲ့တယ်' လို့ တွေးခဲ့တယ်"
+  },
+  {
+    "start": 237,
+    "end": 248,
+    "japanese": "鳥 の 言 う 通 り、 お 宮 の 縁日 に 出 かけていき、 大勢 の 人 の 前 で 脇 の 下 の 羽 を 引 っ 張 りました。",
+    "romanized": "Tori no iu toori, omi ya no ennichi ni dekakete, oozei no hito no mae de waki no shita no hane o hipparimashita. ",
+    "hiraganaKatakana": "とり の い う とお り、 お みや の えんにち に で かけていき、 おおぜい の ひと の まえ で わき の した の はね を ひ っ ぱ りました。",
+    "myanmar": "ငှက်ကလေးပြောခဲ့တဲ့အတိုင်း ဘုရားကျောင်းပွဲနေ့မှာ အပြင်သို့ထွက်သွားခဲ့ပြီး လူအများရှေ့မှာ လက်အောက်မှ တောင်ပံကို ဆွဲထုတ်လိုက်တယ်"
+  },
+  {
+    "start": 248,
+    "end": 260,
+    "japanese": "すると そのたびに ' アヤチョウチョウ、 コヤチョウチョウ、 コガネキラキラ ビビラビンザーン、 コロリン ' と 鳥 の 鳴 き 声 が 響 くので みんな びっくりしましたが",
+    "romanized": "Suruto sono tabi ni 'Ayachouchou, koyachouchou, kogane zakuzaku, bibirabinzaan, kororin' to tori no nakigoe ga hibiku node minna bikkuri shimashita ga",
+    "hiraganaKatakana": "すると そのたびに ' アヤチョウチョウ、 コヤチョウチョウ、 コガネキラキラ ビビラビンザーン、 コロリン ' と とり の な き ごえ が ひび くので みんな びっくりしましたが",
+    "myanmar": "အဲဒီအခါ (တောင်ပံထုတ်တဲ့)အချိန်တိုင်း 'အယချိုချို၊ ကိုယချိုချို၊ ကိုဂနေဇာ့ဇာ့၊ ဗီဗီရဘိန်းဇန်း၊ ကိုရိုရင်' လို့ ငှက်ကလေးရဲ့အသံက ပဲ့တင်ထပ်နေတာကြောင့် လူတိုင်းအံ့သြသွားကြလို့"
+  },
+  {
+    "start": 269,
+    "end": 278,
+    "japanese": "楽 しくて 面白 くて 誰 もが 笑 いだし、 不思議 と 元気 になりました。",
+    "romanized": "tanoshikute omoshirokute daremo ga waraidashi, fushigi to genki ni narimashita.",
+    "hiraganaKatakana": "たの しくて おもしろ くて だれ もが わら いだし、 ふしぎ と げんき になりました。",
+    "myanmar": "ပျော်ပြီး စိတ်ဝင်စားနေတဲ့ မည်သူမဆို ရယ်မောကြပြီး ထူးဆန်းစွာ တတ်ကြွလာလာခဲ့ကြတယ်"
+  },
+  {
+    "start": 279,
+    "end": 285,
+    "japanese": "村 の 人 たちは 喜 んで、 お 金 を たくさん おじいさんに くれました。",
+    "romanized": "Mura no hitotachi wa yorokonde, okane o takusan ojiisan ni kuremashita. ",
+    "hiraganaKatakana": "むら の ひと たちは よろこ んで、 お かね を たくさん おじいさんに くれました。",
+    "myanmar": "ရွာသားတွေကတော့ ဝမ်းသာပြီး ပိုက်ဆံ အများကြီး အဖိုးအိုဆီ  ပေးခဲ့ကြတယ်"
+  },
+  {
+    "start": 286,
+    "end": 300,
+    "japanese": "その 中 に 欲 の 深 い おじいさんが いて、 本当 の 鳥 なら 腹 の 中 で 鳴 くものか。 何 か 仕掛 けがあるに 違 いねえ。",
+    "romanized": "Sono naka ni yoku no fukai ojiisan ga ite, 'Hontou no tori nara hara no naka de naku monoka? Nanika shikake ga aru ni chigai nee.",
+    "hiraganaKatakana": "その なか に よく の ふか い おじいさんが いて、 ほんとう の とり なら はら の なか で な くものか。 なに か しか けがあるに ちが いねえ。",
+    "myanmar": "အဲဒီအထဲမှာ ဆိုးရွားသောအဖိုး ရှိပြီး အမှန်တကယ်ငှက်ဆိုရင် ဗိုက်ထဲမှာ အော်မလား။ တစ်ခုခုက လုပ်ကြံတာရှိတာ သေချာတယ်"
+  },
+  {
+    "start": 300,
+    "end": 313,
+    "japanese": "俺 に その 羽根引 っ 張 らせてみせろと 言 うと、 無理 やり おじいさん の 羽 を 強 く 引 っ 張 りました。",
+    "romanized": "Ore ni sono hane hipparasete misero to iu to, muriyari ojiisan no hane o tsuyoku hipparimashita.",
+    "hiraganaKatakana": "おれ に その はねひ っ ぱ らせてみせろと い うと、 むり やり おじいさん の はね を つよ く ひ っ ぱ りました。",
+    "myanmar": "“ကျွန်တော်လည်း အဲဒီတောင်ပံကို ဆွဲထုတ်ကြည့်မယ် ပြောပြီး အကြပ်အတည်းဖြင့် အဖိုးရဲ့တောင်ပံကို ဆွဲထုတ်လိုက်တယ်"
+  },
+  {
+    "start": 314,
+    "end": 324,
+    "japanese": "すると スポンと 鳥 が おじいさんから 抜 けて、 一声 も 鳴 かずに 西 の 空 へ 飛 び 去 ってしまいました。",
+    "romanized": "Suruto supon to tori ga ojiisan kara nukete, hitokoe mo nakazu ni nishi no sora e tobisatte shimaimashita.",
+    "hiraganaKatakana": "すると スポンと とり が おじいさんから ぬ けて、 ひとこえ も な かずに にし の そら へ と び さ ってしまいました。",
+    "myanmar": "ထိုအချိန်မှာ စပွန်တို(အသံ သို့မဟုတ် လုပ်ဆောင်ချက်ကို အတုခိုးသည့် စကားလုံး) ငှက်က အဖိုးထံမှ လွတ်ပြီး ထွက်သွားပြီး ဘာအသံမှမထွက်ဘဲ အနောက်ဘက်က မိုးကောင်းကင်သို့ ပျံထွက်သွားခဲ့တယ်"
+  },
+  {
+    "start": 327,
+    "end": 338,
+    "japanese": "そのご、 この 欲 の 深 い 爺 さんには バチ が 当 たり、 貧乏 になってしまった そうです。",
+    "romanized": "Sono ato, kono yoku no fukai jiisan ni wa bachi ga atari, binbou ni natte shimatta sou desu. ",
+    "hiraganaKatakana": "そのご、 この よく の ふか い じい さんには バチ が あ たり、 びんぼう になってしまった そうです。",
+    "myanmar": "ထို့နောက် ဒီဆိုးဝါးတဲ့အဖိုးဟာ ပြစ်ဒဏ်ခံရပြီး ဆင်းရဲသွားခဲ့သည်"
+  },
+  {
+    "start": 340,
+    "end": 354,
+    "japanese": "鳥 を 飲 んだ おじいさんは 村 の 人 たちから 大切 にされ、 いつまでも おばあさん と 幸 せに 暮 らしたということです。",
+    "romanized": "Tori o nonda ojiisan wa mura no hitotachi kara taisetsu ni sare, itsumademo obaasan to shiawase ni kurashita sou desu.",
+    "hiraganaKatakana": "とり を の んだ おじいさんは むら の ひと たちから たいせつ にされ、 いつまでも おばあさん と しあわ せに く らしたということです。",
+    "myanmar": "ငှက်ကိုသောက်တဲ့ အဘိုးအိုက ကျေးရွာလူတွေထံမှ  ဂရုစိုက်ခံရပြီး အမြဲ အဖွားနှင့် ပျော်ရွှင်စွာ နေထိုင်ခဲ့သည် လို့ ဆိုရမယ်"
+  }
+]
