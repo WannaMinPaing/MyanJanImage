@@ -1,6 +1,15 @@
 [
   {
     "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/tori_no_miji/image.jpeg",
+    "subtitleUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/tori_no_miji/subtitle.json",
+    "name": "ငှက်ကလေး မီဂျီ",
+    "youtube_id": "5-9CtK5Y2zk",
+    "time": "6:04"
+  },
+  {
+    "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/princess_of_moon/image.jpg",
     "subtitleUrl":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/princess_of_moon/subtitle.json",
