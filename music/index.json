@@ -1,6 +1,19 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fatal/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fatal/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBcWlBdDbjrqDgspS9KqHd67aG7WnSAALWHgACFJ4IVpcJM-dJcgxCNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/fatal.json",
+    "name": "Fatal",
+    "singer": "GEMN",
+    "value": "Fatal"
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/idol/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/idol/banner.jpeg",
