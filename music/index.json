@@ -1,6 +1,19 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yoasobi/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yoasobi/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBcmlKvIDsKdNXcWa8XJxyXdu5TyblAAKoHgAC6gpRVniiB7xYfjNuNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/yoasobi.json",
+    "name": "YOASOBI",
+    "singer": "Ikura (Lilas Ikuta)",
+    "value": "YOASOBI"
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fatal/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fatal/banner.jpeg",
