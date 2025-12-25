@@ -1,0 +1,218 @@
+[
+  {
+    "start": 1,
+    "end": 9,
+    "japanese": "我 が 輩 は 猫 である。 しかし、 ただの 猫 ではない。",
+    "romanized": "Wagahai wa neko de aru. Shikashi, tada no neko de wa nai. ",
+    "hiraganaKatakana": "わ が はい は ねこ である。 しかし、 ただの ねこ ではない。",
+    "myanmar": "ကျွန်တော်က ကြောင်ပါ။ ဒါပေမဲ့ သာမာန်ကြောင်မဟုတ်ဘူး။"
+  },
+  {
+    "start": 21,
+    "end": 30,
+    "japanese": "空前絶後 の できる 猫 である。",
+    "romanized": "Dekiru neko de aru.",
+    "hiraganaKatakana": "くうぜんぜつご の できる ねこ である。",
+    "myanmar": "ရှားရှားပါးပါး စွမ်းရည်ရှိတဲ့ ကြောင်ဘဲ။"
+  },
+  {
+    "start": 60,
+    "end": 62,
+    "japanese": "上出来。",
+    "romanized": "Jōdeki.",
+    "hiraganaKatakana": "じょうでき。",
+    "myanmar": "တော်ပြီးသားဘဲ။"
+  },
+  {
+    "start": 70,
+    "end": 80,
+    "japanese": "うーん。 ああ、 唐揚 げの 香 り。",
+    "romanized": "Uun. Aa, karaage no kaori.",
+    "hiraganaKatakana": "うーん。 ああ、 からあ げの かお り。",
+    "myanmar": "အင်း.. အာ... ကြက်ကြော်၏ အနံ့ဘဲ"
+  },
+  {
+    "start": 88,
+    "end": 92,
+    "japanese": "会社 に 来 るのやだよー！ 働 きたくないよー！ ",
+    "romanized": "Kaisha ni kuru no yada yo! Hatarakitakunai yo! ",
+    "hiraganaKatakana": "かいしゃ に く るのやだよー！ はたら きたくないよー！",
+    "myanmar": "ကုမ္ပဏီ လာ(သွား)ရတာ မကြိုက်ဘူးနော်! အလုပ်လုပ်ချင်ဘူးနော်!"
+  },
+  {
+    "start": 93,
+    "end": 98,
+    "japanese": "今日 も 朝一 から 本部長 と ミーティング なのに、 資料 が まだ できて なくて。",
+    "romanized": "Kyō mo asaichi kara honbuchou to miitingu na noni, shiryō ga mada deki te nakute.",
+    "hiraganaKatakana": "きょう も あさいち から ほんぶちょう と ミーティング なのに、 しりょう が まだ できて なくて。",
+    "myanmar": "ဒီနေ့လည်း နံနက်ကတည်းက ဌာနမှူးကြီး နဲ့ အစည်းအဝေးရှိသော်လည်း စာရွက်စာတမ်းတွေက ပြင်လို့ မပြီးသေးဘူး။"
+  },
+  {
+    "start": 98,
+    "end": 102,
+    "japanese": "っていうか、 そもそも 毎日 ミーティング する 必要 なくない？ ",
+    "romanized": "Tte iu ka, sonomoso mainichi meeting suru hitsuyō nakunai? ",
+    "hiraganaKatakana": "っていうか、 そもそも まいにち ミーティング する ひつよう なくない？",
+    "myanmar": "တကယ်တော့ အရင်ကတည်းက နေ့တိုင်း အစည်းအဝေးလုပ်ဖို့ မလိုအပ်ဘူး မဟုတ်လား?"
+  },
+  {
+    "start": 102,
+    "end": 107,
+    "japanese": "今日 も 絶対 残業 確定 だよ。 進捗 確認 しなくても 連絡 ぐらい スマホ で して くれれば よくない？",
+    "romanized": "Kyō mo zettai zangyō kakutei da yo. Shinchoku kakunin shinakute mo renraku gurai sumaho de shite kurereba yokunai?",
+    "hiraganaKatakana": "きょう も ぜったい ざんぎょう かくてい だよ。 しんちょく かくにん しなくても れんらく ぐらい スマホ で して くれれば よくない？",
+    "myanmar": "ဒီနေ့လည်း ကျိန်းသေ အချိန်ပိုလုပ်ရမှာ သေချာသွားပြီ။ တိုးတက်မှုကို မစစ်ဆေးဘူးဆိုရင်တောင် အနည်းဆုံး စမတ်ဖုန်းဖြင့် ဆက်သွယ်ပေးမယ်ဆိုရင် မကောင်းဘူးလား?"
+  },
+  {
+    "start": 107,
+    "end": 120,
+    "japanese": "それを いちいち プリント 出 て どういう こと なの？ 満員 電車 だよ？ 痛 いんだよ。 酔っ払 い も 乗 ってくるし。 ほんともうやめたい。",
+    "romanized": "Sore o ichiichi purinto dete dō iu koto nano? Man'in densha da yo? Itai n da yo. Yopparai mo notte kuru shi. Honto mō yametai.",
+    "hiraganaKatakana": "それを いちいち プリント で て どういう こと なの？ まんいん でんしゃ だよ？ いた いんだよ。 よっぱら い も の ってくるし。 ほんともうやめたい。",
+    "myanmar": "အဲဒါကို တစ်ရွက်ချင်းစီ ပရင့်ထုတ်နေရတာ ဘာအဓိပ္ပါယ်လဲ? လူကျပ်နေသော ရထားရော။ (အဆင်မပြေဘူးနော်)နာတယ်နော်။ အမူးသမားတွေလည်း တက်လာကြတယ်။ တကယ် အလုပ်ထွက်ချင်တယ်။"
+  },
+  {
+    "start": 122,
+    "end": 125,
+    "japanese": "ああ... 私 の 味方 は お 前 だ",
+    "romanized": "Aa watashi no mikata wa omae no",
+    "hiraganaKatakana": "ああ... わたし の みかた は お まえ だ",
+    "myanmar": "အာ... ငါ့ဘက်က ရပ်တည်ပေးမယ့်သူက နင်ပဲ"
+  },
+  {
+    "start": 129,
+    "end": 131,
+    "japanese": "世情 は 厳重 に。",
+    "romanized": "Sejō wa genjū ni.",
+    "hiraganaKatakana": "せじょう は げんじゅう に。",
+    "myanmar": "လောကကြီးက တင်းကျပ်တယ်။"
+  },
+  {
+    "start": 143,
+    "end": 145,
+    "japanese": "クマ、 いや、 猫 ！",
+    "romanized": "Kuma… iya, neko!",
+    "hiraganaKatakana": "クマ、 いや、 ねこ ！",
+    "myanmar": "ဝက််ဝံ? မဟုတ်ဘူး၊ ကြောင်!"
+  },
+  {
+    "start": 145,
+    "end": 149,
+    "japanese": "やだ、 私 疲 れてる。 疲労 の あまり 幻覚 見 てるだけ？",
+    "romanized": "Yada, watashi tsukareteru. Hirō no amari genkaku miteru dake?",
+    "hiraganaKatakana": "やだ、 わたし つか れてる。 ひろう の あまり げんかく み てるだけ？",
+    "myanmar": "ဟယ်… ကျွန်မ ပင်ပန်းနေပြီ။ ပင်ပန်းလွန်းလို့ ထင်ယောင်ထင်မှားတွေ မြင်နေတာလား?"
+  },
+  {
+    "start": 159,
+    "end": 162,
+    "japanese": "ここで 騒 いだら 頭 おかしいと 思 われる。",
+    "romanized": "Koko de sawaidara atama okashii to omowareru.",
+    "hiraganaKatakana": "ここで さわ いだら あたま おかしいと おも われる。",
+    "myanmar": "ဒီနေရာမှာ အော်လိုက်ရင် စိတ်မမှန်ဘူးလို့ ထင်သွားနိုင်တယ်။"
+  },
+  {
+    "start": 162,
+    "end": 173,
+    "japanese": "キャベツ の 重さ 比 べて 選 ぶ 猫 なんて いるわけないもの。 っていうか、 なんで 割烹着 ？",
+    "romanized": "Kyabetsu no omosa kurabete erabu neko nante iru wake nai mono. Tte iu ka, nande kappōgi?",
+    "hiraganaKatakana": "キャベツ の おもさ くら べて えら ぶ ねこ なんて いるわけないもの。 っていうか、 なんで かっぽうぎ ？",
+    "myanmar": "ဂေါ်ဖီထုပ်ရဲ့အလေးချိန်ကို နှိုင်းယှဉ်ပြီး ရွေးတဲ့ ကြောင်မျိုး မရှိနိုင်ဘူး။ အဲဒါနဲ့ ဘာကြောင့် မီးဖိုချောင်အင်္ကျီလဲ?"
+  },
+  {
+    "start": 182,
+    "end": 188,
+    "japanese": "今日 の 天気 は 全国 広い エリア で 日差 しが 届 く お 洗濯日和 でしょう。",
+    "romanized": "Kyō no tenki wa zenkoku hiroi eria de hizashi ga todoku osentaku biyori deshō.",
+    "hiraganaKatakana": "きょう の てんき は ぜんこく ひろい エリア で ひざ しが とど く お せんたくびより でしょう。",
+    "myanmar": "ယနေ့ မိုးလေဝသရာသီဥတုဟာ နိုင်ငံတစ်ဝန်းလုံး နေရာအနှံ့အပြား နေရောင်ခြည်ကျရောက်လို့ အဝတ်လျှော်ရန်ကောင်းသောနေ့ဖြစ်ပါသည်။"
+  },
+  {
+    "start": 193,
+    "end": 195,
+    "japanese": "お、おはよう。",
+    "romanized": "O, ohayō.",
+    "hiraganaKatakana": "お、おはよう。",
+    "myanmar": "မင်္ဂလာမနက်ခင်းပါ။"
+  },
+  {
+    "start": 205,
+    "end": 212,
+    "japanese": "やだなー。 熱 なんかないって。 珍 しく 早 起 きだからって 失礼 な。",
+    "romanized": "Yadana. Netsu nanka nai tte. Mezurashiku hayaoki dakara tte shitsurei na.",
+    "hiraganaKatakana": "やだなー。 ねつ なんかないって。 めずら しく はや お き だからって しつれい な。",
+    "myanmar": "မဟုတ်ပါဘူး အဖျားမရှိပါဘူး။ ပုံမှန်မဟုတ်ဘဲ မနက်စောစောထတာကြောင့်နဲ့"
+  },
+  {
+    "start": 215,
+    "end": 223,
+    "japanese": "あ、あれ？ おっかしいな。 ちょっと これ 壊 れてるんじゃないの？",
+    "romanized": "A, are? Okashii na. Chotto kore kowareterun janai no?",
+    "hiraganaKatakana": "あ、あれ？ おっかしいな。 ちょっと これ こわ れてるんじゃないの？",
+    "myanmar": "အို ဘာလဲ။ အံ့ဩစရာပဲ။ နေအုန်း ဒီဟာပျက်နေတာမဟုတ်လား?"
+  },
+   {
+    "start": 224,
+    "end": 226,
+    "japanese": "全然 そんな。",
+    "romanized": "Zenzen sonna.",
+    "hiraganaKatakana": "ぜんぜん そんな。",
+    "myanmar": "လုံးဝ ဒီလိုမဟုတ်ဘူး။"
+  },
+  {
+    "start": 230,
+    "end": 240,
+    "japanese": "あ、 部長、 おはようございます。 福沢 です。 はい、 はい。 すみません。 よろしく お 願 いします。",
+    "romanized": "A, buchō, ohayō gozaimasu. Fukuzawa desu. Hai, hai. Sumimasen. Yoroshiku onegaishimasu.",
+    "hiraganaKatakana": "あ、 ぶちょう、 おはようございます。 ふくざわ です。 はい、 はい。 すみません。 よろしく お ね がいします。",
+    "myanmar": "အာ မန်နေဂျာ မင်္ဂလာပါ။ ဖုကူဇဝါပါ။ ဟုတ်, ဟုတ် တောင်းပန်ပါတယ်၊ ကျေးဇူးပြုပြီး ကူညီပေးပါဦး။"
+  },
+  {
+    "start": 245,
+    "end": 254,
+    "japanese": "はあ。 半休 いただきました。 仕方 ないじゃん。 舌打 ちしないでよ。",
+    "romanized": "Haa. Hankyū itadakimashita. Shikata nai jan. Shitauchi shinaide yo.",
+    "hiraganaKatakana": "はあ。 はんきゅう いただきました。 しかた ないじゃん。 したう ちしないでよ。",
+    "myanmar": "ဟား… နေ့တစ်ဝက်ခွင့် ယူလိုက်ရပြီ။ အခြားနည်းလမ်းမရှိဘူး။ လည်ချောင်းနာတာရော။"
+  },
+  {
+    "start": 255,
+    "end": 257,
+    "japanese": "午後 までに 熱 下 げなきゃ。",
+    "romanized": "Gogo made ni netsu sagenakya.",
+    "hiraganaKatakana": "ごご までに ねつ さ げなきゃ。",
+    "myanmar": "နေ့လယ်မတိုင်ခင် အဖျားကျအောင်လုပ်ရမယ်။"
+  },
+   {
+    "start": 260,
+    "end": 267,
+    "japanese": "ううん。 やばい。 今 何時？ 会社 行 かなきゃ。",
+    "romanized": "Uun. Yabai. Ima nanji? Kaisha ikanakya.",
+    "hiraganaKatakana": "ううん。 やばい。 いま なんじ？ かいしゃ い かなきゃ。",
+    "myanmar": "အင်း... ဒုက္ခဘဲ အခု ဘယ်နာရီလဲ? ကုမ္ပဏီသွားရမယ်!"
+  },
+  {
+    "start": 272,
+    "end": 276,
+    "japanese": "だいぶ 熱、 下 がった 気 がする。",
+    "romanized": "Daibu netsu sagatta ki ga suru.",
+    "hiraganaKatakana": "だいぶ ねつ、 さ がった き がする。",
+    "myanmar": "တော်တော် အဖျားကျသွားတာဘဲ။ "
+  },
+  {
+    "start": 281,
+    "end": 285,
+    "japanese": "やっぱ まだ ちょっと しんどいか。",
+    "romanized": "Yappa mada chotto shindoi ka.",
+    "hiraganaKatakana": "やっぱ まだ ちょっと しんどいか。",
+    "myanmar": "ထင်တာတော့ နည်းနည်းပင်ပန်းလို့ထင်တယ်။"
+  },
+  {
+    "start": 294,
+    "end": 297,
+    "japanese": "結局 全休 もらった。",
+    "romanized": "Kekkyoku zankyū moratta.",
+    "hiraganaKatakana": "けっきょく ぜんきゅう もらった。",
+    "myanmar": "နောက်ဆုံးတော့  တစ်ရက်လုံးခွင့်ယူလိုက်ရတယ်။"
+  }
+]
