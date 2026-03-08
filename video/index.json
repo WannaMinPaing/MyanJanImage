@@ -6,7 +6,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/cat_of_house_husband/subtitle.json",
     "name": "အိမ်ရှင်ထီးလေး ကိုမဲကြောင်",
     "youtube_id": "e5eXtSCkchc",
-    "time": "5:00"
+    "time": "5:00",
+    "is_free": false
   },
   {
     "image":
@@ -15,7 +16,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/tori_no_miji/subtitle.json",
     "name": "ငှက်ကလေး မီဂျီ",
     "youtube_id": "5-9CtK5Y2zk",
-    "time": "6:04"
+    "time": "6:04",
+    "is_free": false
   },
   {
     "image":
@@ -24,7 +26,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/princess_of_moon/subtitle.json",
     "name": "လနတ်သမီးလေး ကာဂုယား",
     "youtube_id": "YoohVpVo7xk",
-    "time": "11:18"
+    "time": "11:18",
+    "is_free": false
   },
   {
     "image":
@@ -33,7 +36,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/heart_broken_sanji/subtitle.json",
     "name": "အသည်းကွဲသွားသော ဖွန်ကြောင်ဆန်းဂျီလေး",
     "youtube_id": "m99afGhK9H0",
-    "time": "2:37"
+    "time": "2:37",
+    "is_free": true
   },
   {
     "image":
@@ -42,7 +46,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/the_child_gods/subtitle.json",
     "name": "နတ် ဆောင်မတာ ခံရသော အဘိုးအိုတို့ဇနီးမောင်နှံ",
     "youtube_id": "3kzcFgS9BFU",
-    "time": "9:35"
+    "time": "9:35",
+    "is_free": false
   },
   {
     "image":
@@ -51,7 +56,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/my_neighbor_totoro_grandmother_farm/subtitle.json",
     "name": "အဖွားခြံသို့ အလည်သွားမယ်",
     "youtube_id": "mBtebqFjvNk",
-    "time": "1:57"
+    "time": "1:57",
+    "is_free": true
   },
   {
     "image":
@@ -60,7 +66,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/ace_and_luffy_last_scene/subtitle.json",
     "name": "ညီကို၂ယောက်၏ နောက်ဆုံးတွေ့ဆုံခန်း",
     "youtube_id": "lnEuhJiB7z8",
-    "time": "1:55"
+    "time": "1:55",
+    "is_free": true
   },
   {
     "image":
@@ -69,7 +76,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/%20inch_boy/subtitle.json",
     "name": "ငလက်မလေး ပုံပြင်",
     "youtube_id": "dJ-v-pQsaX0",
-    "time": "9:36"
+    "time": "9:36",
+    "is_free": false
   },
   {
     "image":
@@ -78,7 +86,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/%20zenitsu_meet_nezuko/subtitle.json",
     "name": "နဲစုခိုလေးနှင့် ဇနတ်စု",
     "youtube_id": "9bs-E-Vv1h4",
-    "time": "1:19"
+    "time": "1:19",
+    "is_free": true
   },
   {
     "image":
@@ -87,7 +96,8 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/luffy_waiting_momo/subtitle.json",
     "name": "မိုမိုကို နှုတ်ဆက်ဖို့ စောင့်နေသော လူဖီ",
     "youtube_id": "DUrNpELYUp0",
-    "time": "1:07"
+    "time": "1:07",
+    "is_free": false
   },
   {
     "image":
@@ -96,6 +106,7 @@
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/trafalgar_law_woman/subtitle.json",
     "name": "မိန်းကလေးဖြစ်သွားသော လော",
     "youtube_id": "ify5_MUXEAc",
-    "time": "1:48"
+    "time": "1:48",
+    "is_free": false
   }
 ]
