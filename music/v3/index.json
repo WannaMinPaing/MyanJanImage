@@ -1,0 +1,338 @@
+[
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yoasobi/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yoasobi/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBcmlKvIDsKdNXcWa8XJxyXdu5TyblAAKoHgAC6gpRVniiB7xYfjNuNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/yoasobi.json",
+    "name": "たぶん",
+    "singer": "YOASOBI",
+    "value": "tabun",
+    "is_free": true
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fatal/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fatal/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBcWlBdDbjrqDgspS9KqHd67aG7WnSAALWHgACFJ4IVpcJM-dJcgxCNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/fatal.json",
+    "name": "Fatal",
+    "singer": "GEMN",
+    "value": "Fatal",
+    "is_free": true
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/idol/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/idol/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBcGkjB02zP4j7Jy6sJ8UfV_gL7JJ1AAKFHAACuf8YVTFw71dgeU_8NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/idol_song.json",
+    "name": "アイドル",
+    "singer": "YOASOBI",
+    "value": "",
+    "is_free": true
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshimo/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshimo/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBb2kbPUE87OtmIVkWHUVX-nnxmbv0AAL_GgACkoDhVM01YJbzgC4wNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/moshimo.json",
+    "name": "もしも",
+    "singer": "Ayaka Hirahara feat Win Morisaki",
+    "value": "moshimo",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kokoro_no_tomo/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kokoro_no_tomo/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBbmkYEXY68HmeSgkLtg8ew6TsRFqOAAKFGAACx_7AVMZHw8EZ1tcNNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/kokoro_no_tomo.json",
+    "name": "こころの友 - cover",
+    "singer": "Rina Aoi",
+    "value": "kokoro no tomo",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/demon_slayer_ost1%20/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/demon_slayer_ost1%20/banner.png",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBbWkHCF3lJzOM_A2wfW1RlRpV_MXIAAIJGwACqSQ4VC72MqyCD88tNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/demon_slayer_ost1.json",
+    "name": "竈門炭治郎のうた",
+    "singer": "Nami Nakagawa",
+    "value": "Kamado Tan Jiro no uta",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/oddloop/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/oddloop/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBbGj-SaaBLUSezAkRX9NmytKLTS24AAKaHAACCQn5V7AJ8bS4Elo6NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/oddloop.json",
+    "name": "oddloop",
+    "singer": "Frederic",
+    "value": "oddloop",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/blue_bird/poster.png",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/blue_bird/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBa2j2aTu9O6G-s8-ed4nnMLnpfL4UAAKeHwACBruxV4_OzYRTkZQPNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/blue_bird.json",
+    "name": "Blue Bird",
+    "singer": "ikimonogakari",
+    "value": "Blue Bird",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/rage_your_dream/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/rage_your_dream/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBamjty19JbYWluu4WMHu34dmoA74TAALbGgACOIlwVywOlAkuy541NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/rage_your_dream.json",
+    "name": "Rage your dream",
+    "singer": "Yuri Masuda & Mototaka Segawa",
+    "value": "Rage your dream",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kimi_ga_iru/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kimi_ga_iru/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBaWjn-Gz6MgVm5v9WmlNYfgOJZTLsAAIXGgACR0FAVytstXwlbdoRNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/kimi_ga_iru.json",
+    "name": "キミがいる",
+    "singer": "Galla",
+    "value": "kimi ga iru",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/binkusu_no_sake/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/binkusu_no_sake/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBaGjK6tEu6fnPSGoyj3jI49TsZD9FAAKLGgACf2tZVjwlukh8-AbsNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/binkusu_no_sake.json",
+    "name": "ビンクスの酒",
+    "singer": "onepiece",
+    "value": "binkusu no sake",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/always_with_me/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/always_with_me/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBZ2jFoHnV52Z0oycZ9B0tzSmQ6uXbAALzGwAClQsxVh30hVzvxF9vNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/always_with_me.json",
+    "name": "Always with me",
+    "singer": "Aki Azuma",
+    "value": "Always with me",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/stay_with_me/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/stay_with_me/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBZmi7EMDbhwWp4NqhoblG8cvhQRVIAAJAIAACUYnYVcuNnPMRqqFqNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/stay_with_me.json",
+    "name": "Stay with me",
+    "singer": "Miki Matsubara",
+    "value": "Stay with me",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/shinunoga_e_wa/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/shinunoga_e_wa/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBZWiz97kEuVrdATU8pvtQHoP86FBHAAI0HQAC0NCgVYe_ju_Izas8NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/shinunoga_e_wa.json",
+    "name": "死ぬのがいいわ",
+    "singer": "fujii kaze",
+    "value": "Shinu no ga ii wa",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/nandemonaiya/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/nandemonaiya/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBZGiwjPa4mK0XzRNVPFVqcQu9TfR0AAKAGwACyBCBVXfw97HcSua8NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/nandemonaiya.json",
+    "name": "なんでもないや",
+    "singer": "kiminonawa",
+    "value": "nandemonaiya",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fist_love/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/fist_love/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOCZ6QaPTld9CwjDBZu47HETssj9W8AArETAAJ8PSBVIqd_6YUmUQE2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/first_love.json",
+    "name": "First Love ( 初恋 )",
+    "singer": "Hikaru Utada",
+    "value": "First Love",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/mirai/poster.jpg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/mirai/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAODZ6WGF0j7oxIpPkgerQABaThaCeBzAAL8EgACfD0oVYm3MYkYG8qmNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/mirai.json",
+    "name": "Mirae ( 未来へ )",
+    "singer": "Kiroro",
+    "value": "Mirae",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/i_only_care_about_you/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/i_only_care_about_you/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOEZ6YbaEkWU_J0iT0HLUFVQWpyAtMAAo0WAALPSTBVNdU00n_vPPQ2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/i_only_care_about_you.json",
+    "name": "I Only Care About You ",
+    "singer": "テレサ・テン 黄昏 ",
+    "value": "I Only Care About You",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/saigono_iiwake/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/saigono_iiwake/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOFZ6i1m-WafwsJWaWpgSbMYNYJIFIAAlMVAAL5yklVMaXKTI4Kzks2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/saigono_iiwake.json",
+    "name": "Saigono iiwake",
+    "singer": "Hideaki Tokunaga",
+    "value": "Saigono iiwake",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/suzume/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/suzume/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOQZ7tLQrzQpmycuf0e-qW70NK3yVQAAmUVAALcTthV9g1SO6nm9Kc2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/suzume.json",
+    "name": "すずめ - Suzume",
+    "singer": "Radwimps (ft. Toaka)",
+    "value": "Suzume",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/tada_koe_hitotsu/banner.jpg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/tada_koe_hitotsu/poster.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAOWZ87-wtomW2Dx4IouhkyZLrON3_cAAjAVAAL41HlWJ3Z93aL7N6A2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/tada_koe_hitotsu.json",
+    "name": "ただ声ーつ - tada koe hitotsu",
+    "singer": "Rokudenashi",
+    "value": "TadaKoeHitotsu",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yume_to_hazakura/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/yume_to_hazakura/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAPWaAPbVb_0fxnKzpBPCQbCdsiT3MUAAj8YAALvryBUG_mEP9aoMyI2BA",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/yume_to_hazakura.json",
+    "name": "夢と葉桜 - Yume to hazakura",
+    "singer": "Aoki Gekkoh",
+    "value": "Yume to hazakura",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/a_little_love_song/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/a_little_love_song/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBWWgeUgUcnblN3OkUadQr5ZwxqSqlAAJuFgACcX3wVFI2uBm6duxWNgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/a_little_love_song.json",
+    "name": "A little love song",
+    "singer": "amatsuki",
+    "value": "A little love song",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/missing_you/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/missing_you/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBYmijUQsCQsEmaZH2G_2rsM9EemPEAALjHwAC6vgYVV7-3vNrxRx-NgQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/missing_you.json",
+    "name": "Missing You",
+    "singer": "Seiko Matsuda",
+    "value": "Missing You",
+    "is_free": false
+  }
+]
