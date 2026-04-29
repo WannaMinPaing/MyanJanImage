@@ -26,17 +26,17 @@
   {
     "start": 24,
     "end": 34,
-    "japanese": "ある 時、 親父様 は 重 い 病 に かかり、 日 に 日 に 弱 って いき ました。",
+    "japanese": "ある 時 、 親父様 は 重 い 病 に かかり、 日 に 日 に 弱 って いき ました。",
     "romanized": "Aru toki, oyajisama wa omoi yamai ni kakari, hini hini yowatte ikimashita.",
-    "hiraganaKatakana": "ある とき、 おやじさま は おも い やまい に かかり、 ひ に ひ に よわ って いき ました。",
+    "hiraganaKatakana": "ある とき 、 おやじさま は おも い やまい に かかり、 ひ に ひ に よわ って いき ました。",
     "myanmar": "တစ်နေ့မှာတော့ အဖေက ပြင်းထန်တဲ့ ရောဂါ ခံစားရပြီး တနေ့ထက် တနေ့ အားနည်းလာခဲ့ပါတယ်။"
   },
   {
     "start": 35,
     "end": 43,
-    "japanese": "そんな ある 日、 親父様 は なまけ 息子 を 枕元 に 呼 び ました。",
+    "japanese": "そんな ある 日 、 親父様 は なまけ 息子 を 枕元 に 呼 び ました。",
     "romanized": "Sonna aru hi, oyajisama wa namake musuko o makuramoto ni yobimashita.",
-    "hiraganaKatakana": "そんな ある ひ、 おやじさま は なまけ むすこ を まくらもと に よ び ました。",
+    "hiraganaKatakana": "そんな ある ひ 、 おやじさま は なまけ むすこ を まくらもと に よ び ました。",
     "myanmar": "ဒီလိုနဲ့ တစ်နေ့မှာတော့ အဖေက ပျင်းရိတဲ့သားကို အိပ်ရာဘေးသို့ ခေါ်လိုက်တယ်။"
   },
   {
@@ -229,10 +229,10 @@
   {
     "start": 205,
     "end": 211,
-    "japanese": "せっかく 畑 を 耕 したんだ。 これを まいて ごらん。",
-    "romanized": "Sekkaku hatake o tagayashita nda. Kore o maite goran.",
-    "hiraganaKatakana": "せっかく はたけ を たがや したんだ。 これを まいて ごらん。",
-    "myanmar": "အားစိုက်ပြီး လယ်ကို တူးဖော်ထားပြီးသားပဲ။ ဒီဟာကို ကျဲကြည့်ပါလား။"
+    "japanese": "せっかく 畑 を 耕 したんだ。 これを まいて ごらんなさい。",
+    "romanized": "Sekkaku hatake o tagayashita nda. Kore o maite gorannasai.",
+    "hiraganaKatakana": "せっかく はたけ を たがや したんだ。 これを まいて ごらんなさい。",
+    "myanmar": "အားစိုက်ပြီး လယ်ကို တူးဖော်ထားပြီးသားပဲ။ ဒီဟာကို ကျဲကြည့်ပါ။"
   },
   {
     "start": 212,
@@ -268,7 +268,7 @@
     "myanmar": "အဖေက ငါအရမ်းပျင်းရိတဲ့သူမလို့ ဒီလိုမျိူးနဲ့  အလုပ်လုပ်တတ်အောင် သင်ပေးခဲ့တာပဲ။"
  },
  {
-    "start": 235,
+    "start": 244,
     "end": 255,
      "japanese": "それから 息子 は 一生懸命 働 くように なった そうです。",
     "romanized": "Sore kara musuko wa isshoukenmei hataraku you ni natta sou desu.",
