@@ -1,0 +1,278 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "japanese": "なまけ 息子 。",
+    "romanized": "namake musuko.",
+    "hiraganaKatakana": "なまけ むすこ 。",
+    "myanmar": "ပျင်းရသော သား။"
+  },
+  {
+    "start": 5,
+    "end": 12,
+    "japanese": "昔、 たいそうな 怠 け 者 の 息子 が いました。",
+    "romanized": "Mukashi, taisou na namakemono no musuko ga imashita.",
+    "hiraganaKatakana": "むかし、 たいそうな なま け もの の むすこ が いました。",
+    "myanmar": "ရှေးရှေးတုန်းက အလွန်ပျင်းရိတဲ့ သားတစ်ယောက် ရှိခဲ့ပါတယ်။"
+  },
+  {
+    "start": 13,
+    "end": 22,
+    "japanese": "息子 は ブラブラ   散歩 する ばかりで、 親父様 が 何 を 言 っても 働 き ません。",
+    "romanized": "Musuko wa burabura sanpo suru bakari de oyajisama ga nani o itte mo hatarakimasen.",
+    "hiraganaKatakana": "むすこ は ブラブラ さんぽ する ばかりで、 おやじさま が なに を い っても はたら き ません。",
+    "myanmar": "သားက အလေလိုက် လျှောက်ဘဲလည်နေပြီးတော့  အဖေက ဘာဘဲပြောပြော အလုပ်မလုပ်ပါဘူး။"
+  },
+  {
+    "start": 24,
+    "end": 34,
+    "japanese": "ある 時、 親父様 は 重 い 病 に かかり、 日 に 日 に 弱 って いき ました。",
+    "romanized": "Aru toki, oyajisama wa omoi yamai ni kakari, hini hini yowatte ikimashita.",
+    "hiraganaKatakana": "ある とき、 おやじさま は おも い やまい に かかり、 ひ に ひ に よわ って いき ました。",
+    "myanmar": "တစ်နေ့မှာတော့ အဖေက ပြင်းထန်တဲ့ ရောဂါ ခံစားရပြီး တနေ့ထက် တနေ့ အားနည်းလာခဲ့ပါတယ်။"
+  },
+  {
+    "start": 35,
+    "end": 43,
+    "japanese": "そんな ある 日、 親父様 は なまけ 息子 を 枕元 に 呼 び ました。",
+    "romanized": "Sonna aru hi, oyajisama wa namake musuko o makuramoto ni yobimashita.",
+    "hiraganaKatakana": "そんな ある ひ、 おやじさま は なまけ むすこ を まくらもと に よ び ました。",
+    "myanmar": "ဒီလိုနဲ့ တစ်နေ့မှာတော့ အဖေက ပျင်းရိတဲ့သားကို အိပ်ရာဘေးသို့ ခေါ်လိုက်တယ်။"
+  },
+  {
+    "start": 44,
+    "end": 50,
+    "japanese": "わし は 明日 にも 死 ぬ かもしれぬ。",
+    "romanized": "Washi wa ashita ni mo shinu kamo shirenu.",
+    "hiraganaKatakana": "わし は あした にも し ぬ かもしれぬ。",
+    "myanmar": "ငါ မနက်ဖြန်လဲ သေသွားနိုင်တယ်။"
+  },
+  {
+    "start": 51,
+    "end": 54,
+    "japanese": "そんな 滅多 な こと を 言 う もん じゃない。",
+    "romanized": "Sonna metta na koto o iu mon janai.",
+    "hiraganaKatakana": "そんな めった な こと を い う もん じゃない。",
+    "myanmar": "ဒီလို မပြောသင့်တဲ့ စကားတွေ မပြောပါနဲ့။"
+  },
+  {
+    "start": 55,
+    "end": 57,
+    "japanese": "いや、 聞 いてくれ。",
+    "romanized": "Iya, kiite kure. ",
+    "hiraganaKatakana": "いや、 き いてくれ。",
+    "myanmar": "မဟုတ်ဘူး၊ နားထောင်ပါ။"
+  },
+  {
+    "start": 58,
+    "end": 68,
+    "japanese": "わしは 今 まで お 前 に 黙 って いた が 実 は 裏 の 畑 に 小金 を 埋 めた。",
+    "romanized": "Washi wa ima made omae ni damatte ita ga jitsu wa ura no hatake ni kogane o umeta.",
+    "hiraganaKatakana": "わしは いま まで お まえ に だま って いた が じつ は うら の はたけ に こがね を う めた。",
+    "myanmar": "ငါ အခုထိ မင်းကို မပြောဘဲထားခဲ့ပေမယ့် တကယ်တော့ အိမ်နောက်ဘက် လယ်ကွင်းမှာ ရွှေတွေ မြှုပ်ထားခဲ့တယ်။"
+  },
+
+  {
+    "start": 69,
+    "end": 70,
+    "japanese": "なんだって!",
+    "romanized": "nandatte!",
+    "hiraganaKatakana": "なんだって!",
+    "myanmar": "ဘာပြောတယ်!"
+  },
+  {
+    "start": 71,
+    "end": 75,
+    "japanese": "一生 食 う には 困 らぬ ほど ある。",
+    "romanized": "Isshou kuu ni wa komaranu hodo aru.",
+    "hiraganaKatakana": "いっしょう く う には こま らぬ ほど ある。",
+    "myanmar": "တစ်ဘဝလုံး စားဖို့ မခက်ခဲလောက်အောင် ရှိတယ်။"
+  },
+  {
+    "start": 75,
+    "end": 82,
+    "japanese": "わしが 死 んだら それ を 掘 り 出 し、 暮 らして いきなさい。",
+    "romanized": "Washi ga shindara sore o horidashi kurashite ikinasai.",
+    "hiraganaKatakana": "わしが し んだら それ を ほ り だ し、 く らして いきなさい。",
+    "myanmar": "ငါသေသွားရင် အဲဒါကို တူးယူပြီး နေထိုင်သွားပါ"
+  },
+  {
+    "start": 85,
+    "end": 99,
+    "japanese": "それから 間 も なくして 親父様 が 亡 くなる と、 息子 は 家 の 金 を 全部 使 って、 たいそう 立派 な お 葬式 を 出 し ました。",
+     "romanized": "Sore kara ma mo naku shite oyajisama ga nakunaru to, musuko wa ie no kane o zenbu tsukatte, taisou rippa na osoushiki o dashimashita.",
+    "hiraganaKatakana": "それから ま も なくして おやじさま が な くなる と、 むすこ は いえ の かね を ぜんぶ つか って、 たいそう りっぱ な お そうしき を だ し ました。",
+    "myanmar": "အဲဒီနောက် မကြာခင်မှာ အဖေ ဆုံးသွားတော့ သားက အိမ်ကငွေအားလုံးကို သုံးပြီး အလွန်ကြီးကျယ်ခမ်းနားတဲ့ အသုဘအခမ်းအနားကို ကျင်းပခဲ့တယ်။"
+  },
+  {
+    "start": 100,
+    "end": 114,
+    "japanese": "集 まった 村人 たち は 感心 して、 さすが の なまけ 息子 も 親父様 が 亡 くなって 心 を 入 れ 替 えた の だろう と 思 いました。",
+    "romanized": "Atsumatta murabito-tachi wa kanshin shite, sasuga no namake musuko mo oyajisama ga nakunatte kokoro o ireketa no darou to omoimashita.",
+    "hiraganaKatakana": "あつ まった むらびと たち は かんしん して、 さすが の なまけ むすこ も おやじさま が な くなって こころ を い れ か えた の だろう と おも いました。",
+    "myanmar": "စုဝေးလာတဲ့ ရွာသားတွေက အံ့သြပြီး ဒီလိုပျင်းရိတဲ့သားတောင် အဖေဆုံးသွားတာကြောင့် စိတ်ပြောင်းသွားပြီလို့ ထင်ခဲ့ကြတယ်။"
+  },
+  {
+    "start": 115,
+    "end": 127,
+    "japanese": "隣 の じい 様 が、 ' お 前 さん も ようやく 働 く 気 に なったかね ' と 声 を かけると、 なまけ 息子 は 言 いました。",
+    "romanized": "Tonari no jiisama ga, omaesan mo youyaku hataraku ki ni natta ka ne to koe o kakeru to, namake musuko wa iimashita.",
+    "hiraganaKatakana": "となり の じい さま が、 ' お まえ さん も ようやく はたら く き に なったかね ' と こえ を かけると、 なまけ むすこ は い いました。",
+    "myanmar": "ဘေးအိမ်က အဘိုးကြီးက  'မင်းလည်း နောက်ဆုံးတော့ အလုပ်လုပ်ချင်စိတ် ဖြစ်လာပြီ' လို့ လှမ်းပြောလိုက်တဲ့အခါ ပျင်းရိတဲ့သားက ပြောလိုက်တယ်။"
+  },
+  {
+    "start": 128,
+    "end": 133,
+    "japanese": "いや、 俺 は 働 かなくても 心配 ない。",
+    "romanized": "Iya, ore wa hatarakanakute mo shinpai nai.",
+    "hiraganaKatakana": "いや、 おれ は はたら かなくても しんぱい ない。",
+    "myanmar": "ဟင်အင်း ငါက အလုပ်မလုပ်လည်း စိတ်ပူစရာမလိုဘူး။"
+  },
+  {
+    "start": 134,
+    "end": 137,
+    "japanese": "裏 の 畑 に 小金 が 埋 まって いるん だ。",
+    "romanized": "Ura no hatake ni kogane ga umatte irun da.",
+    "hiraganaKatakana": "うら の はたけ に こがね が う まって いるん だ。",
+    "myanmar": "အိမ်နောက်ဘက် လယ်ကွက်မှာ ရွှေတွေ မြှုပ်ထားတာ ရှိတယ်။"
+  },
+  {
+    "start": 139,
+    "end": 142,
+    "japanese": "親父 が 亡 くなる 前 に そう 言 ったん だ",
+    "romanized": "Oyaji ga nakunaru mae ni sou ittan da.",
+    "hiraganaKatakana": "おやじ が な くなる まえ に そう い ったん だ。",
+    "myanmar": "အဖေမဆုံးခင် အဲဒီလို ပြောခဲ့တယ်။"
+  },
+  {
+    "start": 142,
+    "end": 146,
+    "japanese": "おお、そうか。",
+    "romanized": "oo souka.",
+    "hiraganaKatakana": "おお、そうか。",
+    "myanmar": "အို ဟုတ်လား။"
+  },
+  {
+    "start": 147,
+    "end": 152,
+    "japanese": "そして 35 日 も 過 ぎた 頃。",
+    "romanized": "Soshite sanjuugo-nichi mo sugita koro.",
+    "hiraganaKatakana": "そして 35 にち も す ぎた ころ。",
+    "myanmar": "ပြီးတော့ ၃၅ ရက်လောက် ကျော်လွန်ပြီးတဲ့အချိန်မှာတော့။"
+  },
+  {
+    "start": 153,
+    "end": 157,
+    "japanese": "息子 は 裏 の 畑 を 掘 り 始 め ました。",
+    "romanized": "Musuko wa ura no hatake o hori hajimemashita.",
+    "hiraganaKatakana": "むすこ は うら の はたけ を ほ り はじ め ました。",
+    "myanmar": "သားက အိမ်နောက်ဘက် လယ်ကွက်ကို စတင် တူးဖော်ပါတော့တယ်။"
+  },
+  {
+    "start": 158,
+    "end": 163,
+    "japanese": "ところが、 いくら 掘 っても 小金 は 出 て きません。",
+    "romanized": "Tokoro ga, ikura hotte mo kogane wa dete kimasen.",
+    "hiraganaKatakana": "ところが、 いくら ほ っても こがね は で て きません。",
+    "myanmar": "ဒါပေမယ့် ဘယ်လောက်ပဲ တူးတူး ရွှေတော့ မထွက်လာဘူး။"
+  },
+  {
+    "start": 165,
+    "end": 174,
+    "japanese": "なまけ 息子 は 小金 欲 しさに、 隅 から 隅 まで 畑 を 掘 り 返 しました。",
+    "romanized": "Namake musuko wa kogane hoshisa ni, sumi kara sumi made hatake o horikaeshimashita.",
+    "hiraganaKatakana": "なまけ むすこ は こがね ほ しさに、 すみ から すみ まで はたけ を ほ り かえ しました。",
+    "myanmar": "ပျင်းရိတဲ့သားက ရွှေလိုချင်စိတ်ကြောင့် ထောင့်စွန်းကနေ ထောင့်စွန်းအထိ လယ်ကွက်ကို  ပြန်လှန်ပြီး တူးဖော်လိုက်တယ်။"
+  },
+
+  {
+    "start": 176,
+    "end": 183,
+    "japanese": "とうとう 疲 れて 座 り 込 んで いると、 隣 の じい 様 が 来 て 言 いました。",
+    "romanized": "Toutou tsukarete suwarikonde iru to, tonari no jiisama ga kite iimashita.",
+    "hiraganaKatakana": "とうとう つか れて すわ り こ んで いると、 となり の じい さま が き て い いました。",
+    "myanmar": "နောက်ဆုံးတော့ ပင်ပန်းပြီး ထိုင်ချလိုက်တဲ့အချိန်မှာ ဘေးအိမ်က အဘိုးကြီး ရောက်လာပြီး ပြောလိုက်တယ်။"
+  },
+
+  {
+    "start": 184,
+    "end": 188,
+    "japanese": "お 前 さん、 よく 耕 したな。",
+    "romanized": "Omaesan, yoku tagayashita na.",
+    "hiraganaKatakana": "お まえ さん、 よく たがや したな。",
+    "myanmar": "မင်းကတော့ တော်တော်လေး တူးဖော်ပြီးပြီပဲ။"
+  },
+  {
+    "start": 188,
+    "end": 192,
+    "japanese": "ああ... だけど 小金 なんか 出 て きやしない。",
+    "romanized": "Aa... dakedo kogane nanka dete ki yashinai.",
+    "hiraganaKatakana": "ああ... だけど こがね なんか で て きやしない。",
+    "myanmar": "အာ… ဒါပေမယ့် ရွှေဆိုတာမျိုး မထွက်လာဘူး။"
+  },
+  {
+    "start": 193,
+    "end": 195,
+    "japanese": "どうして 親父 は 嘘 を ついた の だろう。",
+    "romanized": "Dou shite oyaaji wa uso o tsuita no darou.",
+    "hiraganaKatakana": "どうして おやじ は うそ を ついた の だろう。",
+    "myanmar": "ဘာကြောင့် အဖေက လိမ်ပြောခဲ့တာလဲ။"
+  },
+  {
+    "start": 198,
+    "end": 205,
+    "japanese": "なるほど。 死 んだ 親父様 は よく 考 えた ものだ。",
+    "romanized": "Naruhodo. Shinda oyajisama wa yoku kangaeta mono da.",
+    "hiraganaKatakana": "なるほど。 し んだ おやじさま は よく かんが えた ものだ。",
+    "myanmar": "ဟုတ်ပြီ ဆုံးသွားတဲ့အဖေက ကောင်းကောင်း စဉ်းစားခဲ့တာပဲ။"
+  },
+  {
+    "start": 205,
+    "end": 211,
+    "japanese": "せっかく 畑 を 耕 したんだ。 これを まいて ごらん。",
+    "romanized": "Sekkaku hatake o tagayashita nda. Kore o maite goran.",
+    "hiraganaKatakana": "せっかく はたけ を たがや したんだ。 これを まいて ごらん。",
+    "myanmar": "အားစိုက်ပြီး လယ်ကို တူးဖော်ထားပြီးသားပဲ။ ဒီဟာကို ကျဲကြည့်ပါလား။"
+  },
+  {
+    "start": 212,
+    "end": 219,
+    "japanese": "そう 言 って 隣 の じい 様 は、 なまけ 息子 に 豆 を 渡 しました。",
+    "romanized": "Sou itte tonari no jiisama wa, namake musuko ni mame o watashimashita.",
+    "hiraganaKatakana": "そう い って となり の じい さま は、 なまけ むすこ に まめ を わた しました。",
+    "myanmar": "အဲလိုပြောပြီး ဘေးအိမ်က အဘိုးက ပျင်းရိတဲ့သားကို ပဲစေ့တွေ ပေးလိုက်တယ်။"
+  },
+
+  {
+    "start": 221,
+    "end": 230,
+    "japanese": "さあ、 秋 になると 畑 一面 に 見事 な 豆 が 実 りました。",
+   "romanized": "Saa, aki ni naru to hatake ichimen ni migotona mame ga minorimashita.",
+    "hiraganaKatakana": "さあ、 あき になると はたけ いちめん に みごと な まめ が みの りました。",
+    "myanmar": "ကဲ ဆောင်းဦးရောက်လာတဲ့အခါ လယ်ကွက်တစ်ခုလုံးမှာ လှပတဲ့ပဲတွေ သီးလာခဲ့တယ်။"
+  },
+  {
+    "start": 231,
+    "end": 234,
+    "japanese": "黄金 というのは この ことか ！",
+   "romanized": "Kogane to iu no wa kono koto ka!",
+    "hiraganaKatakana": "こがね というのは この ことか ！",
+    "myanmar": "ရွှေဆိုတာ ဒါကို ပြောတာလား!"
+  },
+  {
+    "start": 235,
+    "end": 243,
+    "japanese": "親父 は 俺 が あんまり 怠 け 者 だから、 こうして 働 く こと を 教 えて くれたんだな。",
+    "romanized": "Oyaji wa ore ga anmari namakemono dakara, koushite hataraku koto o oshiete kuretan da na.",
+    "hiraganaKatakana": "おやじ は おれ が あんまり なま け もの だから、 こうして はたら く こと を おし えて くれたんだな。",
+    "myanmar": "အဖေက ငါအရမ်းပျင်းရိတဲ့သူမလို့ ဒီလိုမျိူးနဲ့  အလုပ်လုပ်တတ်အောင် သင်ပေးခဲ့တာပဲ။"
+ },
+ {
+    "start": 235,
+    "end": 255,
+     "japanese": "それから 息子 は 一生懸命 働 くように なった そうです。",
+    "romanized": "Sore kara musuko wa isshoukenmei hataraku you ni natta sou desu.",
+    "hiraganaKatakana": "それから むすこ は いっしょうけんめい はたら くように なった そうです。",
+    "myanmar": "အဲကစပြီး သားဟာ အားကြိုးမာန်တက် အလုပ်လုပ်လာခဲ့တယ်လို့ ဆိုကြတယ်။"
+ }
+]
