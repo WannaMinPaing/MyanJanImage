@@ -108,5 +108,15 @@
     "youtube_id": "ify5_MUXEAc",
     "time": "1:48",
     "is_free": false
+  },
+  {
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/lazy_son/image.png",
+    "subtitleUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/lazy_son/subtitle.json",
+    "name": "ပျင်းရိသော သား",
+    "youtube_id": "J933MVTUMsc",
+    "time": "4:25",
+    "is_free": false
   }
 ]
