@@ -43,6 +43,20 @@
   },
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshi_moshi/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshi_moshi/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBc2n0gj_dMIojwwxbLJPOqV1i0rnsAAJwHQACw_igV1L4GNsLDXUkOwQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/moshi_moshi.json",
+    "name": "もしもし",
+    "singer": "Nozomi Kitay&GAL D (feat. 百足)",
+    "value": "moshimoshi",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshimo/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshimo/banner.jpg",
