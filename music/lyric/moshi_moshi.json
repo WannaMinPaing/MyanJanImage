@@ -1,0 +1,381 @@
+[
+  {
+    "time": 0,
+    "japanese": "When you're up, up there, I know I can love you",
+    "romanized": "",
+    "hiraganaKatakana": "",
+    "myanmar": ""
+  },
+  {
+    "time": 2000,
+    "japanese": "I think you should go now, go now, go now",
+    "romanized": "",
+    "hiraganaKatakana": "",
+    "myanmar": ""
+  },
+  {
+    "time": 5000,
+    "japanese": "When you're up, up there, I know I can love you",
+    "romanized": "",
+    "hiraganaKatakana": "",
+    "myanmar": ""
+  },
+  {
+    "time": 8000,
+    "japanese": "I think you should go now",
+    "romanized": "",
+    "hiraganaKatakana": "",
+    "myanmar": ""
+  },
+  {
+    "time": 10000,
+    "japanese": "もしもし まだ I love you, baby",
+    "romanized": "Moshimoshi mada I love you, baby",
+    "hiraganaKatakana": "もしもし まだ I love you, baby",
+    "myanmar": "ဒီမှာဒီမှာ ငါ မင်းကို ချစ်နေတုန်းပဲ ကလေးရေ"
+  },
+  {
+    "time": 13000,
+    "japanese": "ときどき I'm going crazy",
+    "romanized": "Tokidoki I'm going crazy",
+    "hiraganaKatakana": "ときどき I'm going crazy",
+    "myanmar": "တစ်ခါတစ်လေ I'm going crazy"
+  },
+  {
+    "time": 16000,
+    "japanese": "懲り懲り なのに I want you",
+    "romanized": "Korikori nanoni I want you",
+    "hiraganaKatakana": "こりこり なのに I want you",
+    "myanmar": "နာကျင်နေပေမဲ့ I want you"
+  },
+  {
+    "time": 19000,
+    "japanese": "沼ってる 君の愛 独り占めさせて",
+    "romanized": "Numatteru kimi no ai hitorijime sasete",
+    "hiraganaKatakana": "ぬまってる きみのあい ひとりじめさせて",
+    "myanmar": "စွဲလမ်းနေတဲ့ မင်းလေးရဲ့ အချစ်ကို (ငါ)တစ်ယောက်တည်းပဲ ပိုင်ဆိုင်ခွင့်ပေးပါ"
+  },
+  {
+    "time": 22000,
+    "japanese": "もしもし まだ I love you, baby",
+    "romanized": "Moshimoshi mada I love you, baby",
+    "hiraganaKatakana": "もしもし まだ I love you, baby",
+    "myanmar": "ဒီမှာဒီမှာ ငါ မင်းကို ချစ်နေတုန်းပဲ ကလေးရေ"
+  },
+  {
+    "time": 24000,
+    "japanese": "ときどき I'm going crazy",
+    "romanized": "Tokidoki I'm going crazy",
+    "hiraganaKatakana": "ときどき I'm going crazy",
+    "myanmar": "တစ်ခါတစ်လေ I'm going crazy"
+  },
+  {
+    "time": 27000,
+    "japanese": "懲り懲り なのに I want you",
+    "romanized": "Korikori nanoni I want you",
+    "hiraganaKatakana": "こりこり なのに I want you",
+    "myanmar": "နာကျင်နေပေမဲ့ I want you"
+  },
+  {
+    "time": 30000,
+    "japanese": "沼ってる 君の愛 独り占めさせて",
+    "romanized": "Numatteru kimi no ai hitorijime sasete",
+    "hiraganaKatakana": "ぬまってる きみのあい ひとりじめさせて",
+    "myanmar": "စွဲလမ်းနေတဲ့ မင်းလေးရဲ့ အချစ်ကို (ငါ)တစ်ယောက်တည်းပဲ ပိုင်ဆိုင်ခွင့်ပေးပါ"
+  },
+  {
+    "time": 33000,
+    "japanese": "会えるわけもないのに また会いたい",
+    "romanized": "Aeru wake mo nai noni mata aitai",
+    "hiraganaKatakana": "あえるわけもないのに またあいたい",
+    "myanmar": "တွေ့ဖို့မဖြစ်နိုင်ပေမယ့် ထပ်ပြီး တွေ့ချင်တယ်"
+  },
+  {
+    "time": 36000,
+    "japanese": "好きなわけもないのに 好きでいたい",
+    "romanized": "Suki na wake mo nai noni suki de itai",
+    "hiraganaKatakana": "すきなわけもないのに すきでいたい",
+    "myanmar": "ချစ်စရာအကြောင်းလည်း မရှိဘူးဆိုနေပေမယ့် ချစ်ချင်တယ်"
+  },
+
+  {
+    "time": 39000,
+    "japanese": "会えるだけじゃ足りない",
+    "romanized": "Aeru dake ja tarinai",
+    "hiraganaKatakana": "あえるだけじゃたりない",
+    "myanmar": "ငေးကြည့်ရုံလေးနဲ့ မတင်းတိမ်နိုင်ဘူး"
+  },
+  {
+    "time": 41000,
+    "japanese": "止まらない君への想い 戻りたいそばに",
+    "romanized": "Tomaranai kimi e no omoi modoritai soba ni",
+    "hiraganaKatakana": "とまらないきみへのおもい もどりたいそばに",
+    "myanmar": "မရပ်တန့်နိုင်တဲ့ မင်းလေးအပေါ် ခံစားချက်တွေ၊ ပြန်လာချင်မိတယ် အနားကို"
+  },
+  {
+    "time": 44000,
+    "japanese": "'What do you wanna do, my bae?' 今更もう",
+    "romanized": "'What do you wanna do, my bae?' Imasara mou ",
+    "hiraganaKatakana": "'What do you wanna do, my bae?' いまさらもう",
+    "myanmar": "'What do you wanna do, my bae?' အခုကျမှ"
+  },
+  {
+    "time": 47000,
+    "japanese": "'I wanna do this!' なんて遅いね",
+    "romanized": "'I wanna do this!' Nante osoi ne",
+    "hiraganaKatakana": "'I wanna do this!' なんておそいね ",
+    "myanmar": "'I wanna do this!' နောက်ကျနေပြီလား"
+  },
+  {
+    "time": 50000,
+    "japanese": "「終わることはない」 そうやって甘えて",
+    "romanized": "'Owaru koto wa nai' Sou yatte amaete",
+    "hiraganaKatakana": "「おわることはない」 そうやってあまえて",
+    "myanmar": "'အဆုံးသတ်မဟုတ်ပါဘူး' ဆိုပြီး ဖြေသိမ့်ရင်း"
+  },
+  {
+    "time": 52000,
+    "japanese": "失ってしまって 後悔してる lonely night",
+    "romanized": "Ushinatte shimatte koukai shiteru lonely night",
+    "hiraganaKatakana": "うしなってしまって こうかいしてる lonely night",
+    "myanmar": "ဆုံးရှုံးသွားလို့ နောင်တရနေတဲ့ lonely night"
+  },
+  {
+    "time": 56000,
+    "japanese": "やるせない この想いも",
+    "romanized": "Yarusenai kono omoi mo",
+    "hiraganaKatakana": "やるせない このおもいも",
+    "myanmar": "ကူကယ်ရာမဲ့နေတဲ့ ဒီခံစားမှုတွေကလည်း"
+  },
+  {
+    "time": 59000,
+    "japanese": "何気ない あの道も",
+    "romanized": "Nanigenai ano michi mo",
+    "hiraganaKatakana": "なにげない あのみちも",
+    "myanmar": "လျှောက်နေကျ လမ်းလေးတောင်"
+  },
+  {
+    "time": 61000,
+    "japanese": "意味がない 他の人じゃ",
+    "romanized": "Imi ga nai hoka no hito ja",
+    "hiraganaKatakana": "いみがない ほかのひとじゃ",
+    "myanmar": "အဓိပ္ပါယ်မရှိဘူး တစ်ခြားလူနဲ့ဆို"
+  },
+  {
+    "time": 64000,
+    "japanese": "君だけなんだって!",
+    "romanized": "Kimi dake nan datte!",
+    "hiraganaKatakana": "きみだけなんだって!",
+    "myanmar": "မင်းတစ်ယောက်ထဲပဲဆိုတာ!"
+  },
+  {
+    "time": 66000,
+    "japanese": "もしもし まだ I love you, baby",
+    "romanized": "Moshimoshi mada I love you, baby",
+    "hiraganaKatakana": "もしもし まだ I love you, baby",
+    "myanmar": "ဒီမှာဒီမှာ ငါ မင်းကို ချစ်နေတုန်းပဲ ကလေးရေ"
+  },
+  {
+    "time": 69000,
+    "japanese": "ときどき I'm going crazy",
+    "romanized": "Tokidoki I'm going crazy",
+    "hiraganaKatakana": "ときどき I'm going crazy",
+    "myanmar": "တစ်ခါတစ်လေ I'm going crazy"
+  },
+  {
+    "time": 72000,
+    "japanese": "懲り懲り なのに I want you",
+    "romanized": "Korikori nanoni I want you",
+    "hiraganaKatakana": "こりこり なのに I want you",
+    "myanmar": "နာကျင်နေပေမဲ့ I want you"
+  },
+  {
+    "time": 74000,
+    "japanese": "沼ってる 君の愛 独り占めさせて",
+    "romanized": "Numatteru kimi no ai hitorijime sasete",
+    "hiraganaKatakana": "ぬまってる きみのあい ひとりじめさせて",
+    "myanmar": "စွဲလမ်းနေတဲ့ မင်းလေးရဲ့ အချစ်ကို (ငါ)တစ်ယောက်တည်းပဲ ပိုင်ဆိုင်ခွင့်ပေးပါ"
+  },
+  {
+    "time": 78000,
+    "japanese": "もしもし まだ I love you, baby",
+    "romanized": "Moshimoshi mada I love you, baby",
+    "hiraganaKatakana": "もしもし まだ I love you, baby",
+    "myanmar": "ဒီမှာဒီမှာ ငါ မင်းကို ချစ်နေတုန်းပဲ ကလေးရေ"
+  },
+  {
+    "time": 80000,
+    "japanese": "ときどき I'm going crazy",
+    "romanized": "Tokidoki I'm going crazy",
+    "hiraganaKatakana": "ときどき I'm going crazy",
+    "myanmar": "တစ်ခါတစ်လေ I'm going crazy"
+  },
+  {
+    "time": 83000,
+    "japanese": "懲り懲り なのに I want you",
+    "romanized": "Korikori nanoni I want you",
+    "hiraganaKatakana": "こりこり なのに I want you",
+    "myanmar": "နာကျင်နေပေမဲ့ I want you"
+  },
+  {
+    "time": 85000,
+    "japanese": "沼ってる 君の愛 独り占めさせて",
+    "romanized": "Numatteru kimi no ai hitorijime sasete",
+    "hiraganaKatakana": "ぬまってる きみのあい ひとりじめさせて",
+    "myanmar": "စွဲလမ်းနေတဲ့ မင်းလေးရဲ့ အချစ်ကို (ငါ)တစ်ယောက်တည်းပဲ ပိုင်ဆိုင်ခွင့်ပေးပါ"
+  },
+  {
+    "time": 89000,
+    "japanese": "電話ごし喧嘩ばっかもういい",
+    "romanized": "Denwa goshi kenka bakka mou ii",
+    "hiraganaKatakana": "でんわごし けんかばっか もういい",
+    "myanmar": "ဖုန်းထဲကနေ ရန်ဖြစ်ရတာ အမြဲဘဲ တော်လောက်ပြီ"
+  },
+  {
+    "time": 91000,
+    "japanese": "お互いにこんなにも愛してるのに",
+    "romanized": "Otagai ni konna ni mo aishiteru noni",
+    "hiraganaKatakana": "おたがいに こんなにも あいしてるのに",
+    "myanmar": "တစ်ဦးနှင့်တစ်ဦး ဒီလောက် ချစ်နေကြရဲ့သားနဲ့"
+  },
+  {
+    "time": 93000,
+    "japanese": "話すことないなら 返信もいらないし",
+    "romanized": "Hanasu koto nai nara henshin mo iranai shi",
+    "hiraganaKatakana": "はなすことないなら へんしんもいらないし",
+    "myanmar": "ပြောစရာမရှိရင် ပြန်စာလည်း မလိုဘူး"
+  },
+  {
+    "time": 96000,
+    "japanese": "君はクラブ中楽しそうにあげるストーリー",
+    "romanized": "Kimi wa kurabu juu tanoshisou ni ageru sutoorii",
+    "hiraganaKatakana": "きみはクラブじゅう たのしそうに あげるストーリー",
+    "myanmar": "မင်းကတော့ ကလပ်ထဲမှာ ပျော်ရွှင်စွာနဲ့ Story တင်နေတယ်"
+  },
+  {
+    "time": 99000,
+    "japanese": "俺より小さな君の手",
+    "romanized": "Ore yori chiisana kimi no te",
+    "hiraganaKatakana": "おれよりちいさな きみのて",
+    "myanmar": "ငါထက် သေးတဲ့ မင်းရဲ့လက်လေးက"
+  },
+  {
+    "time": 101000,
+    "japanese": "幸せごと全部 こぼさないようにね",
+    "romanized": "Shiawase goto zenbu kobosanai you ni ne",
+    "hiraganaKatakana": "しあわせごとぜんぶ こぼさないようにね",
+    "myanmar": "ပျော်ရွှင်မှုတွေ အားလုံး မလွှင့်ပျောက်စေနဲ့နော်"
+  },
+  {
+    "time": 103000,
+    "japanese": "後悔しても遅せーよって 大きくなって見せる",
+    "romanized": "Koukai shite mo osee yo tte ookiku natte miseru",
+    "hiraganaKatakana": "こうかいしても おそーよって おおきくなってみせる",
+    "myanmar": "နောင်တရလည်း နောက်ကျသွားပြီလို့ (ငါ) တိုးတတ်လာပြမယ်"
+  },
+  {
+    "time": 105000,
+    "japanese": "どっち悪いとか ばっかり気にしてた",
+    "romanized": "Docchi warui toka bakkari ki ni shiteta",
+    "hiraganaKatakana": "どっちわるいとか ばっかりきにしてた",
+    "myanmar": "ဘယ်ဟာက မှားလဲဆိုတာ အမြဲတွေးပူနေခဲ့ရတယ်"
+  },
+  {
+    "time": 108000,
+    "japanese": "離れないで欲しいなって 君が言うならいっか",
+    "romanized": "Hanarenaide hoshii natte kimi ga iu nara ikka",
+    "hiraganaKatakana": "はなれないでほしいなって きみがいうならいっか",
+    "myanmar": "ခွဲမသွားပါဘူးလို့ မင်းပြောမယ်ဆို ကောင်းမှာဘဲ"
+  },
+  {
+    "time": 110000,
+    "japanese": "もう I know 電話じゃ伝わらないから会いに行こう",
+    "romanized": "Mou I know denwa ja tsutawaranai kara ai ni ikou",
+    "hiraganaKatakana": "もう I know でんわじゃつたわらないから あいにいこう",
+    "myanmar": "တော်ပြီ I know ဖုန်းနဲ့ မထိရောက်တာကြောင့် တွေ့ဖို့ သွားကြမယ်"
+  },
+  {
+    "time": 115000,
+    "japanese": "としても返信もないしこれで最後だ",
+    "romanized": "To shite mo henshin mo nai shi kore de saigo da",
+    "hiraganaKatakana": "としても へんしんもないし これでさいごだ",
+    "myanmar": "ဘယ်လိုဘဲဖြစ်ဖြစ် ပြန်စာလည်း မရလည်း ဒီမှာဘဲ အဆုံးသတ်"
+  },
+  {
+    "time": 117000,
+    "japanese": "君に送るDM",
+    "romanized": "Kimi ni okuru DM",
+    "hiraganaKatakana": "きみにおくる DM",
+    "myanmar": "မင်းဆီ ပို့တဲ့ DM"
+  },
+  {
+    "time": 118000,
+    "japanese": "俺の声を聞いて欲しいのに 君の返事は 'いいね' oh no！",
+    "romanized": "Ore no koe wo kiite hoshii noni kimi no henji wa 'iine' oh no!",
+    "hiraganaKatakana": "おれのこえを きいてほしいのに きみのへんじは 'いいね' oh no！",
+    "myanmar": "ငါ့အသံ ကြားစေချင်ပေမယ့် မင်းရဲ့ ပြန်စာက '👍' oh no！"
+  },
+  {
+    "time": 122000,
+    "japanese": "もしもし まだ I love you baby",
+    "romanized": "Moshimoshi mada I love you baby",
+    "hiraganaKatakana": "もしもし まだ I love you baby",
+    "myanmar": "ဒီမှာဒီမှာ ငါ မင်းကို ချစ်နေတုန်းပဲ ကလေးရေ"
+  },
+  {
+    "time": 124000,
+    "japanese": "ときどき I'm going crazy",
+    "romanized": "Tokidoki I'm going crazy",
+    "hiraganaKatakana": "ときどき I'm going crazy",
+    "myanmar": "တစ်ခါတစ်လေ I'm going crazy"
+  },
+  {
+    "time": 127000,
+    "japanese": "懲り懲り なのに I want you",
+    "romanized": "Korikori nanoni I want you",
+    "hiraganaKatakana": "こりこり なのに I want you",
+    "myanmar": "နာကျင်နေပေမဲ့ I want you"
+  },
+  {
+    "time": 130000,
+    "japanese": "沼ってる 君の愛 独り占めさせて",
+    "romanized": "Numatteru kimi no ai hitorijime sasete",
+    "hiraganaKatakana": "ぬまってる きみのあい ひとりじめさせて",
+    "myanmar": "စွဲလမ်းနေတဲ့ မင်းလေးရဲ့ အချစ်ကို (ငါ)တစ်ယောက်တည်းပဲ ပိုင်ဆိုင်ခွင့်ပေးပါ"
+  },
+  {
+    "time": 132000,
+    "japanese": "もしもし まだ I love you baby",
+    "romanized": "Moshimoshi mada I love you baby",
+    "hiraganaKatakana": "もしもし まだ I love you baby",
+    "myanmar": "ဒီမှာဒီမှာ ငါ မင်းကို ချစ်နေတုန်းပဲ ကလေးရေ"
+  },
+  {
+    "time": 135000,
+    "japanese": "ときどき I'm going crazy",
+    "romanized": "Tokidoki I'm going crazy",
+    "hiraganaKatakana": "ときどき I'm going crazy",
+    "myanmar": "တစ်ခါတစ်လေ I'm going crazy"
+  },
+  {
+    "time": 138000,
+    "japanese": "懲り懲り なのに I want you",
+    "romanized": "Korikori nanoni I want you",
+    "hiraganaKatakana": "こりこり なのに I want you",
+    "myanmar": "နာကျင်နေပေမဲ့ I want you"
+  },
+  {
+    "time": 141000,
+    "japanese": "沼ってる 君の愛 独り占めさせて",
+    "romanized": "Numatteru kimi no ai hitorijime sasete",
+    "hiraganaKatakana": "ぬまってる きみのあい ひとりじめさせて",
+    "myanmar": "စွဲလမ်းနေတဲ့ မင်းလေးရဲ့ အချစ်ကို (ငါ)တစ်ယောက်တည်းပဲ ပိုင်ဆိုင်ခွင့်ပေးပါ"
+  },
+  {
+    "time": 145000,
+    "japanese": null,
+    "romanized": null,
+    "hiraganaKatakana": null,
+    "myanmar": null
+  }
+]
