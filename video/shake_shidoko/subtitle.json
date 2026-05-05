@@ -1,0 +1,331 @@
+[
+  {
+    "start": 3,
+    "end": 7,
+    "japanese": "蛇 の 子 しどこ",
+    "romanized": "Hebi no Shidoko",
+    "hiraganaKatakana": "へび の こ しどこ",
+    "myanmar": "မြွေကလေး ရှိဒိုကို"
+  },
+  {
+    "start": 7,
+    "end": 10,
+    "japanese": "むかし ある ところに",
+    "romanized": "Mukashi aru tokoro ni,",
+    "hiraganaKatakana": "むかし ある ところに",
+    "myanmar": "ဟိုးရှေ့ရှေ့တုန်းက တစ်နေရာမှာ"
+  },
+  {
+    "start": 10,
+    "end": 19,
+    "japanese": "子供 の いない おじいさん と おばあさん が 2人 寂 しく 暮 らしていました",
+    "romanized": "kodomo no inai ojiisan to obaasan ga, futari sabishiku kurashite imashita.",
+    "hiraganaKatakana": "こども の いない おじいさん と おばあさん が ふたり さび しく く らしていました",
+    "myanmar": "ကလေးမရှိတဲ့ အဖိုးနဲ့ အဖွားဟာ နှစ်ယောက်တည်း အထီးကျန်စွာ နေထိုင်နေခဲ့ကြတယ်"
+  },
+  {
+    "start": 19,
+    "end": 27,
+    "japanese": "ある 日 おじいさん は 山 で 蛇 の 子 を 拾 って 帰 りました",
+    "romanized": "Aru hi ojiisan wa, yama de hebi no ko o hirotte kaerimashita.",
+    "hiraganaKatakana": "ある ひ おじいさん は やま で へび の こ を ひろ って かえ りました",
+    "myanmar": "တစ်နေ့မှာတော့ အဖိုးကြီးဟာ တောင်ပေါ်ကနေ မြွေကလေး(တစ်ကောင်)ကို ကောက်ယူပြီး ပြန်လာခဲ့တယ်"
+  },
+  {
+    "start": 28,
+    "end": 34,
+    "japanese": "おじいさん と おばあさん は そ の 蛇 の 子 に しどこ と 名前 を 付 け",
+    "romanized": "Ojiisan to obaasan wa, sono hebi no ko ni Shidoko to namae o tsuke,",
+    "hiraganaKatakana": "おじいさん と おばあさん は そ の へび の こ に しどこ と なまえ を つ け",
+    "myanmar": "အဖိုးနဲ့ အဖွားဟာ ထိုမြွေကလေးကို ရှိဒိုကို လို့ နာမည်ပေးပြီး"
+  },
+  {
+    "start": 34,
+    "end": 44,
+    "japanese": "わら や 小鳥 の はね で 寝 どこ を つくってやり 我 が 子 の ように 大事 に 育 てました",
+    "romanized": "wara ya kotori no hane de nedoko o tsukutte yari, waga ko no yō ni daiji ni sodatemashita.",
+    "hiraganaKatakana": "わら や ことり の はね で ね どこ を つくってやり わ が こ の ように だいじ に そだ てました",
+    "myanmar": "ကောက်ရိုးတွေ ငှက်အမွှေးနဲ့ အိပ်ရာ(အသိုက်)ကို ပြုလုပ်ပြီး ကိုယ့်သားသမီးလိုမျိုး ဂရုစိုက်တစိုက် ပြုစုပျိုးထောင်ခဲ့သည်"
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "japanese": "そのうち",
+    "romanized": "Sono uchi",
+    "hiraganaKatakana": "そのうち",
+    "myanmar": "ခဏကြာပြီးနောက်"
+  },
+   {
+    "start": 45,
+    "end": 52,
+    "japanese": "おじいさん と おばあさん が しどこ しどこ と 呼 ぶと",
+    "romanized": "ojiisan to obaasan ga, Shidoko, Shidoko to yobu to",
+    "hiraganaKatakana": "おじいさん と おばあさん が しどこ しどこ と よ ぶと",
+    "myanmar": "အဖိုးနဲ့ အဖွားက ရှိဒိုကို ရှိဒိုကို လို့ ခေါ်တဲ့အခါ"
+  },
+  {
+    "start": 52,
+    "end": 59,
+    "japanese": "しどこ は おじいさん と おばあさん の 後 を ついてくる ように なりました",
+    "romanized": "Shidoko wa ojiisan to obaasan no ato o tsuite kuru yō ni narimashita.",
+    "hiraganaKatakana": "しどこ は おじいさん と おばあさん の あと を ついてくる ように なりました",
+    "myanmar": "ရှိဒိုကိုဟာ အဖိုးနဲ့ အဖွားရဲ့ နောက်ကို လိုက်လာတော့တယ်"
+  },
+
+  {
+    "start": 59,
+    "end": 75,
+    "japanese": "しどこ は だんだん 大 きく なって やがて 胴回 り が 太 い 竹 ぐらい になり 毎日 とり や いのしし を 食 べる ように なりました",
+    "romanized": "Shidoko wa dandan ōkiku natte iki, yagate dōmawari ga futoi take gurai ni nari, mainichi tori ya inoshishi o taberu yō ni narimashita.",
+    "hiraganaKatakana": "しどこ は だんだん おお きく なって やがて どうまわ り が ふと い たけ ぐらい になり まいにち とり や いのしし を た べる ように なりました",
+    "myanmar": "ရှိဒိုကိုဟာ ဖြည်းဖြည်းချင်း ကြီးလာပြီး မကြာခင်မှာ ခန္ဓာကိုယ်ပတ်လည်က ဝါးလုံးကြီးလောက် ဖြစ်လာပြီး နေ့တိုင်း ငှက်နဲ့ တောဝက်တို့ကို စားလာခဲ့သည်"
+  },
+  {
+    "start": 75,
+    "end": 84,
+    "japanese": "それでも とても 大人 しい ので おじいさん と おばあさん は しどこ は 可愛 くてた まりません",
+    "romanized": "Soredemo totemo otonashii node, ojiisan to obaasan wa, Shidoko wa kawaikute tamarimasen.",
+    "hiraganaKatakana": "それでも とても おとな しい ので おじいさん と おばあさん は しどこ は かわい くてた まりません",
+    "myanmar": "ဒါပေမယ့်လည်း အရမ်း လိမ်မာတာကြောင့် အဖိုးနဲ့ အဖွားဟာ ရှိဒိုကို ကို မချစ်ရမနေနိုင်ကြဘူး"
+  },
+  {
+    "start": 85,
+    "end": 87,
+    "japanese": "ところが ある 日",
+    "romanized": "Tokoroga aru hi",
+    "hiraganaKatakana": "ところが ある ひ",
+    "myanmar": "ဒါပေမဲ့ တစ်နေ့မှာတော့"
+  },
+   {
+    "start": 88,
+    "end": 92,
+    "japanese": "村 の 人 たち が 家 に やって きて",
+    "romanized": "mura no hitotachi ga ie ni yatte kite itte,",
+    "hiraganaKatakana": "むら の ひと たち が いえ に やって きて",
+    "myanmar": "ရွာကလူတွေ အိမ်ကို ရောက်လာပြီး…"
+  },
+  {
+    "start": 92,
+    "end": 102,
+    "japanese": "あんた の ところ の 蛇 は あんまり 大 きくなった から 村 の 子 どもに どんな 悪 さを するか 分 からん",
+    "romanized": "Anta no tokoro no hebi wa, anmari ōkiku natta kara, mura no kodomo ni donna warusa o suru ka wakaran.",
+    "hiraganaKatakana": "あんた の ところ の へび は あんまり おお きくなった から むら の こ どもに どんな わる さを するか わ からん",
+    "myanmar": "မင်းတို့ဆီက မြွေက အရမ်းကြီးလာလို့ ရွာက ကလေးတွေကို ဘယ်လိုမျိုးအန္တရာယ်ပြုမှုကို လုပ်မလဲ မသိဘူး"
+  },
+  {
+    "start": 102,
+    "end": 107,
+    "japanese": "早 く 追 い 出 してくれ と 言 いました",
+    "romanized": "Hayaku oidashite kure to iimashita.",
+    "hiraganaKatakana": "はや く お い だ してくれ と い いました",
+    "myanmar": "မြန်မြန် နှင်ထုတ်ပေးပါ လို့ ပြောကြတယ်"
+  },
+  {
+    "start": 107,
+    "end": 114,
+    "japanese": "おじいさん と おばあさん は どうしても しどこ を 追 い 出 したく ありません",
+    "romanized": "Ojiisan to obaasan wa dōshitemo Shidoko o oidashitaku arimasen.",
+    "hiraganaKatakana": "おじいさん と おばあさん は どうしても しどこ を お い だ したく ありません",
+    "myanmar": "အဖိုးနဲ့ အဖွားဟာ ဘယ်လိုပဲဖြစ်ဖြစ် ရှိဒိုကို ကို နှင်ထုတ်ချင်ကြတာ မဟုတ်ဘူး"
+  },
+  {
+    "start": 115,
+    "end": 123,
+    "japanese": "それでも 村 の 人 たちは しどこ を こわがり 何度 も 何度 も 追 い 出 すように 言 って きます",
+    "romanized": "Soredemo mura no hitotachi wa, Shidoko o kowagari, nando mo nando mo oidasu yō ni itte kimasu.",
+    "hiraganaKatakana": "それでも むら の ひと たちは しどこ を こわがり なんど も なんど も お い だ すように い って きます",
+    "myanmar": "ဒါပေမယ့်လည်း ရွာသားတွေဟာ ရှိဒိုကို ကို ကြောက်လို့ အကြိမ်ကြိမ် နှင်ထုတ်ဖို့ ပြောနေကြတယ်"
+  },
+  {
+    "start": 124,
+    "end": 133,
+    "japanese": "おじいさん と おばあさん は なくなく しどこ に 家 を 出 て 行 くように と 話 しました",
+    "romanized": "Ojiisan to obaasan wa nakunaku, Shidoko ni ie o dete iku yō ni to hanashimashita.",
+    "hiraganaKatakana": "おじいさん と おばあさん は なくなく しどこ に いえ を で て い くように と はな しました",
+    "myanmar": "အဖိုးနှင့် အဖွားဟာ ဝမ်းနည်းစွာ ရှိဒိုကို ကို အိမ်က ထွက်သွားဖို့ ပြောကြတယ်"
+  },
+  {
+    "start": 133,
+    "end": 139,
+    "japanese": "しどこ も 涙 を 流 して 悲 しみました",
+    "romanized": "Shidoko mo namida o nagashite kanashimimashita.",
+    "hiraganaKatakana": "しどこ も なみだ を なが して かな しみました",
+    "myanmar": "ရှိဒိုကိုလည်း မျက်ရည် စီးကျပြီး ဝမ်းနည်းသွားခဲ့တယ်"
+  },
+  {
+    "start": 139,
+    "end": 146,
+    "japanese": "けれども 仕方 が ないので しどこ は 家 を 出 て 行 き ました",
+    "romanized": "Keredo mo shikata ga nai node, Shidoko wa ie o dete ikimashita.",
+    "hiraganaKatakana": "けれども しかた が ないので しどこ は いえ を で て い き ました",
+    "myanmar": "ဒါပေမယ့်လည်း မဖြစ်နိုင်တော့တာကြောင့် ရှိဒိုကို ဟာ အိမ်ကနေ ထွက်သွားခဲ့တယ်"
+  },
+  {
+    "start": 149,
+    "end": 158,
+    "japanese": "おじいさん と おばあさん は しどこ は どこへ 行 く のだろう と 思 い あと を つけていきました",
+    "romanized": "Ojiisan to obaasan wa, Shidoko wa doko e iku no darō to omoi, ato o tsukete ikimashita.",
+    "hiraganaKatakana": "おじいさん と おばあさん は しどこ は どこへ い く のだろう と おも い あと を つけていきました",
+    "myanmar": "အဖိုးနဲ့ အဖွားဟာ ရှိဒိုကို ဘယ်သွားမလဲ လို့တွေးပြီး အနောက်ကို လိုက်သွားခဲ့ကြတယ်"
+  },
+  {
+    "start": 161,
+    "end": 171,
+    "japanese": "しどこ は 村 の 山 を ずんずん 登 り 山 を 越 え 森 の 中 へと ずんずん 入 っていきます",
+    "romanized": "Shidoko wa ura no yama o zunzun nobori, yama o koe, mori no naka e to zunzun haitte ikimasu.",
+    "hiraganaKatakana": "しどこ は むら の やま を ずんずん のぼ り やま を こ え もり の なか へと ずんずん はい っていきます",
+    "myanmar": "ရှိဒိုကိုဟာ ရွာကတောင်ကို မြန်မြန်ဆန်ဆန် တက်ပြီး တောင်ကိုကျော်ကာ တောထဲသို့ မြန်မြန်ဆန်ဆန် ဝင်သွားတယ်"
+  },
+  {
+    "start": 172,
+    "end": 182,
+    "japanese": "それから しばらく 行 って ひらけたところ に たどり 着 くと 土 を グリグ 掘 り 始 めました",
+    "romanized": "Sore kara shibaraku itte, hiraketa tokoro ni tadoritsuku to, tsuchi o guriguri hori hajimemashita.",
+    "hiraganaKatakana": "それから しばらく い って ひらけたところ に たどり つ くと つち を グリグ ほ り はじ めました",
+    "myanmar": "အဲ့ဒီနောက် အချိန်တစ်ခုကြာ သွားပြီး ကျယ်ပြန့်တဲ့နေရာကို ရောက်တဲ့အခါ မြေကြီးကို အားနဲ့ စတူးဖော်ပါတော့တယ်"
+  },
+  {
+    "start": 183,
+    "end": 197,
+    "japanese": "おじいさん と おばあさん は 不思議 なこと を するものだ と 思 いながら 見 ていましたが 日 が 暮 れると そ の 日 は 家 へ 帰 りました",
+    "romanized": "Ojiisan to obaasan wa fushigi na koto o suru mono da to omoinagara mite imashita ga, hi ga kureru to sono hi wa ie e kaerimashita.",
+    "hiraganaKatakana": "おじいさん と おばあさん は ふしぎ なこと を するものだ と おも いながら み ていましたが ひ が く れると そ の ひ は いえ へ かえ りました",
+    "myanmar": "အဖိုးနဲ့ အဖွားဟာ ထူးဆန်းတဲ့အရာ လုပ်နေတာပဲ တွေးရင်း ကြည့်နေကြသော်လည်း နေဝင်လာတော့ အဲ့ဒီနေ့ အိမ်ပြန်သွားကြတယ်"
+  },
+  {
+    "start": 201,
+    "end": 209,
+    "japanese": "あくる 日 おじいさん と おばあさん が また その 場所 へ 行 ってみると",
+    "romanized": "Akuru hi, ojiisan to obaasan ga, mata sono basho e itte miru to",
+    "hiraganaKatakana": "あくる ひ おじいさん と おばあさん が また その ばしょ へ い ってみると そこには",
+    "myanmar": "နောက်တစ်နေ့ အဖိုးနဲ့ အဖွားဟာ နောက်တစ်ခါ ထိုနေရာသို့ သွားကြည့်တော့"
+  },
+  {
+    "start": 209,
+    "end": 218,
+    "japanese": "そこには 大 きな 池 が できていましたが しどこ の 姿 は どこにも ありませんでした",
+    "romanized": "soko ni wa Ōkina ike ga dekite imashita ga, Shidoko no sugata wa doko ni mo arimasendeshita.",
+    "hiraganaKatakana": "そこには おお きな いけ が できていましたが しどこ の すがた は どこにも ありませんでした",
+    "myanmar": "အဲနေရာက ကြီးမားတဲ့ ရေကန် ဖြစ်ပေါ်နေခဲ့ပေမယ့် ရှိဒိုကိုရဲ့ အရိပ်အရောင် ကတော့ ဘယ်မှာမှ မရှိတော့ပါ"
+  },
+  {
+    "start": 218,
+    "end": 223,
+    "japanese": "おじいさん と おばあさん は しどこ やー",
+    "romanized": "Ojiisan to obaasan wa, Shidoko yā,",
+    "hiraganaKatakana": "おじいさん と おばあさん は しどこ やー",
+    "myanmar": "အဖိုးနဲ့ အဖွားဟာ ရှိဒိုကိုရေ"
+  },
+  {
+    "start": 224,
+    "end": 234,
+    "japanese": "しどこや と 何度 も 呼 びましたが しどこ は ついに 姿 を 見 せませんでした",
+    "romanized": "Shidoko ya to nando mo yobimashita ga, Shidoko wa tsui ni sugata o misemasen deshita.",
+    "hiraganaKatakana": "しどこや と なんど も よ びましたが しどこ は ついに すがた を み せませんでした",
+    "myanmar": "ရှိဒိုကိုရေ လို့ အကြိမ်ကြိမ် ခေါ်ကြသော်လည်း ရှိဒိုကိုဟာ အဆုံးထိ ပေါ်မလာတော့ဘူး(ကိုယ်ရုပ်ပုံရိပ် မပြခဲ့ပါ)"
+  },
+  {
+    "start": 235,
+    "end": 245,
+    "japanese": "やがって 春 になると その 池 の 周 りには とても 美 しい 花 が 咲 く ように なり",
+    "romanized": "Yagate haru ni naru to, sono ike no mawari ni wa, totemo utsukushii hana ga saku yō ni nari,",
+    "hiraganaKatakana": "やがて はる になると その いけ の まわ りには とても うつく しい はな が さ く ように なり",
+    "myanmar": "မကြာခင် နွေဦးရောက်လာတဲ့အခါ အဲ့ဒီရေကန်၏ အနားဝန်းကျင်မှာတော့ အလွန်လှပတဲ့ ပန်းတွေ ပွင့်လာတော့တယ်"
+  },
+  {
+    "start": 245,
+    "end": 254,
+    "japanese": "村 の 人 たち は 毎日 のように お 弁当 を 持 って 池 に 花見 に 行 くように なりました",
+    "romanized": "Mura no hitotachi wa mainichi no yō ni obentō o motte, ike ni hanami ni iku yō ni narimashita.",
+    "hiraganaKatakana": "むら の ひと たち は まいにち のように お べんとう を も って いけ に はなみ に い くように なりました",
+    "myanmar": "ရွာကလူတွေက နေ့တိုင်းလိုပဲ ထမင်းဘူးတွေယူပြီး ရေကန်ကို ပန်းကြည့်ဖို့ လာခဲ့ကြတယ်"
+  },
+  {
+    "start": 255,
+    "end": 265,
+    "japanese": "ところが ある 日 のこと 長者 どんの 娘 が 足 を 踏 み 外 し 池 に 落 ちて しまい ました",
+    "romanized": "Tokoro ga, aru hi no kotto, chōja-don no musume ga ashi o fumihazushi, ike ni ochite shimaimashita.",
+    "hiraganaKatakana": "ところが ある ひ のこと ちょうじゃ どんの むすめ が あし を ふ み はず し いけ に お ちて しまい ました",
+    "myanmar": "မထင်မှတ်ဘဲ တစ်နေ့မှာ ရွာသူဌေးကြီး၏သမီးဟာ ခြေချော်ပြီး ရေကန်ထဲ ကျသွားခဲ့တယ်"
+  },
+  {
+    "start": 266,
+    "end": 272,
+    "japanese": "池 は あまりに 深 く 娘 の 姿 は どこにも 見 つかりません",
+    "romanized": "Ike wa amari ni fukaku, musume no sugata wa doko ni mo mitsukarimasen.",
+    "hiraganaKatakana": "いけ は あまりに ふか く むすめ の すがた は どこにも み つかりません",
+    "myanmar": "ရေကန်က အရမ်းနက်လို့ သမီးရဲ့ အရိပ်အယောင်တောင် ဘယ်မှာမှ ရှာမတွေ့ဘူး"
+  },
+  {
+    "start": 272,
+    "end": 281,
+    "japanese": "村 の 人 たち が 大 騒 ぎ を していると 池 の 中 から しどこ が 姿 を 現 しました",
+    "romanized": "Mura no hitotachi ga ōsawagi o shite iru to ike no naka kara Shidoko ga sugata o arawashimashita.",
+    "hiraganaKatakana": "むら の ひと たち が おお さわ ぎ を していると いけ の なか から しどこ が すがた を あらわ しました",
+    "myanmar": "ရွာကလူတွေ ဆူပူနေကြတုန်း ရေကန်ထဲမှ ရှိဒိုကိုရဲ့ ပုံရိပ်က ပေါ်ထွက်လာခဲ့တယ်"
+  },
+  {
+    "start": 281,
+    "end": 287,
+    "japanese": "村 人 たち は 恐 ろしがり 逃 げ 出 そうと しました",
+    "romanized": "Murabito-tachi wa osoroshigari, nigedaso to shimashita.",
+    "hiraganaKatakana": "むら びと たち は おそ ろしがり に げ だ そうと しました",
+    "myanmar": "ရွာသူရွာသားတွေက ကြောက်လန့်ပြီး ထွက်ပြေးဖို့ ကြိုးစားကြတယ်"
+  },
+  {
+    "start": 287,
+    "end": 291,
+    "japanese": "すると しどこ は また 池 にもぐり",
+    "romanized": "Suru to Shidoko wa mata ike ni moguri,",
+    "hiraganaKatakana": "すると しどこ は また いけ にもぐり",
+    "myanmar": "အဲ့ဒီအခါ ရှိဒိုကိုဟာ တစ်ဖန် ရေကန်ထဲကို ငုတ်သွားပြီး"
+  },
+  {
+    "start": 294,
+    "end": 300,
+    "japanese": "今度 は 娘 を 助 けて また 現 れました",
+    "romanized": "kondo wa musume o tasukete mata arawaremashita.",
+    "hiraganaKatakana": "こんど は むすめ を たす けて また あらわ れました",
+    "myanmar": "ဒီတစ်ခါ ကလေးမလေးကို ကယ်တင်ပြီး ထပ်မံပေါ်လာခဲ့တယ်"
+  },
+  {
+    "start": 301,
+    "end": 305,
+    "japanese": "村 人 たち は 驚 くやら 喜 ぶやら",
+    "romanized": "Murabito-tachi wa odoroku yara yorokobu yara.",
+    "hiraganaKatakana": "むら びと たち は おどろ くやら よろこ ぶやら",
+    "myanmar": "ရွာသူရွာသားတွေက အံ့ဩလျက် ဝမ်းသာသည်"
+  },
+  {
+    "start": 305,
+    "end": 315,
+    "japanese": "長者 どん は 大喜 びで 娘 を 助 けてもらった お 礼 に しどこ に たくさん の 宝物 を 捧 げました",
+    "romanized": "Chōja-don wa ōyorokobi de, musume o tasukete moratta orei ni, Shidoko ni takusan no takaramono o sasagemashita.",
+    "hiraganaKatakana": "ちょうじゃ どん は おおよろこ びで むすめ を たす けてもらった お れい に しどこ に たくさん の たからもの を ささ げました",
+    "myanmar": "ရွာသူဌေးကြီးက အလွန်ဝမ်းသာပြီး သမီးကို ကယ်တင်ပေးတဲ့ ကျေးဇူးအဖြစ် ရှိဒိုကို များစွာသော အဖိုးတန်ပစ္စည်းတွေ ပေးခဲ့တယ်"
+  },
+  {
+    "start": 316,
+    "end": 330,
+    "japanese": "そして お 前 を 育 てた おじいさん と おばあさん は わし が 引 き 取 って 一生 世話 をするから 安心 して おくれ と 言 いました",
+    "romanized": "soshidoko, omae o sodateta ojiisan to obaasan wa, washi ga hikitotte isshō sewa o suru kara, anshin shite okure to iimashita.",
+    "hiraganaKatakana": "そして お まえ を そだ てた おじいさん と おばあさん は わし が ひ き と って いっしょう せわ をするから あんしん して おくれ と い いました",
+    "myanmar": "ထို့နောက် မင်းကို ပြုစုပျိုးထောင်ခဲ့တဲ့ အဖိုးနဲ့ အဖွားကို ငါက တာဝန်ယူပြီး တစ်သက်လုံး စောင့်ရှောက်ပေးမှာကြောင့် စိတ်ပူမနေပါနဲ့ လို့ ပြောခဲ့တယ်"
+  },
+  {
+    "start": 330,
+    "end": 338,
+    "japanese": "これ を 聞 くと しどこ は 喜 んで また どこかへ 行 ってしまいました",
+    "romanized": "Kore o kiku to, Shidoko wa yorokonde mata doko ka e itte shimaimashita.",
+    "hiraganaKatakana": "これ を き くと しどこ は よろこ んで また どこかへ い ってしまいました",
+    "myanmar": "ဒါကို ကြားတော့ ရှိဒိုကိုဟာ ဝမ်းသာပြီး နောက်ထပ် တစ်နေရာရာသို့ ထွက်သွားတော့တယ်"
+  },
+  {
+    "start": 341,
+    "end": 355,
+    "japanese": "こうして しどこ の おかげで おじいさん と おばあさん は 長者 どん の 屋敷 で 一生 安楽 に 暮 らした ということ です",
+    "romanized": "koushite, Shidoko no okage de, ojiisan to obaasan wa, chōja-don no yashiki de isshō raku ni kurashita to iu koto desu.",
+    "hiraganaKatakana": "こうして しどこ の おかげで おじいさん と おばあさん は ちょうじゃ どん の やしき で いっしょう あんらく に く らした ということ です",
+    "myanmar": "ဒီလိုနဲ့ ရှိဒိုကို ကြောင့် အဖိုးနဲ့ အဖွားဟာ ရွာသူဌေးကြီးရဲ့ အိမ်ကြီးမှာ တစ်သက်လုံး အေးအေးချမ်းချမ်း နေထိုင်ခဲ့ကြတယ် ဆိုတဲ့အကြောင်းပါ"
+  }
+]
