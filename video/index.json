@@ -1,6 +1,16 @@
 [
   {
     "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/beach_girls/image.png",
+    "subtitleUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/beach_girls/subtitle.json",
+    "name": "ကမ်းခြေ အပန်းဖြေ",
+    "youtube_id": "s3rptjJy5Pg",
+    "time": "2:07",
+    "is_free": false
+  },
+  {
+    "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/shake_shidoko/image.jpeg",
     "subtitleUrl":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/shake_shidoko/subtitle.json",
