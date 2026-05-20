@@ -43,20 +43,6 @@
   },
   {
     "backgroundImage":
-      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/baby_you/poster.jpeg",
-    "image":
-      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/baby_you/banner.jpeg",
-    "mp3_id":
-      "CQACAgUAAyEFAASH9k8OAAIBdGoEmX61lXbLkN5OqKRmU4vq6mFwAAKnHwACy8UhVHfZNrYk1W_4OwQ",
-    "lyricsUrl":
-      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/baby_you.json",
-    "name": "Baby You",
-    "singer": "Yuka",
-    "value": "Baby You",
-    "is_free": false
-  },
-  {
-    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshi_moshi/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/moshi_moshi/banner.jpeg",
@@ -67,6 +53,20 @@
     "name": "もしもし",
     "singer": "Nozomi Kitay&GAL D (feat. 百足)",
     "value": "moshimoshi",
+    "is_free": true
+  },
+  {
+    "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/baby_you/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/baby_you/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBdGoEmX61lXbLkN5OqKRmU4vq6mFwAAKnHwACy8UhVHfZNrYk1W_4OwQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/baby_you.json",
+    "name": "Baby You",
+    "singer": "Yuka",
+    "value": "Baby You",
     "is_free": false
   },
   {
