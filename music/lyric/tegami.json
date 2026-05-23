@@ -1,0 +1,398 @@
+[
+    {
+        "time":14000,
+        "japanese":"拝啓 この手紙",
+        "hiraganaKatakana": "はいけい このてがみ",
+        "myanmar": "ချစ်ရသူရေ (စာဖတ်သူရေ) ဒီပေးစာကို"
+    },
+    {
+        "time": 18000,
+        "japanese": "読んでいる あなたは",
+        "hiraganaKatakana": "よんでいる あなたは",
+        "myanmar": "ဖတ်နေချိန်မှာ မင်း"
+    },
+    {
+        "time": 22000,
+        "japanese": "どこで 何を しているのだろう",
+        "hiraganaKatakana": "どこで なにを しているのだろう",
+        "myanmar": "ဘယ်နေရာမှာ ဘာတွေလုပ်နေမလဲနော်"
+    },
+    {
+        "time": 28000,
+        "japanese": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 30000,
+        "japanese": "十五の 僕には",
+        "hiraganaKatakana": "じゅうごの ぼくには",
+        "myanmar": "အသက် ၁၅ နှစ်ရှိပြီဖြစ်တဲ့ ကိုယ့်ဆီမှာတော့" 
+    },
+    {
+        "time": 34000,
+        "japanese": "誰にも 話せない",
+        "hiraganaKatakana": "だれにも はなせない",
+        "myanmar": "ဘယ်သူ့ကိုမှ ထုတ်မပြောပြနိုင်တဲ့"
+    },
+    {
+        "time": 38000,
+        "japanese": "悩みの種が あるのです",
+        "hiraganaKatakana": "なやみのたねが あるのです",
+        "myanmar": "ပူပန်မှုသစ်စေ့လေး ရှိနေလို့ပါ"
+    },
+    {
+        "time": 45000,
+        "japanese": "未来の自分に",
+        "hiraganaKatakana": "みらいのじぶんに",
+        "myanmar": "အနာဂတ်က ကိုယ့်ကိုယ်ကိုဆီသို့"
+    },
+{
+        "time": 49000,
+        "japanese": "宛てて書く 手紙なら",
+        "hiraganaKatakana": "あててかく てがみなら",
+        "myanmar": "ရည်ရွယ်ပြီးရေးတဲ့ ပေးစာဆိုရင်"
+    },
+    {
+        "time": 53000,
+        "japanese": "きっと 素直に",
+        "hiraganaKatakana": "きっとすなおに",
+        "myanmar": "သေချာပေါက်ကို ရိုးရိုးသားသားနဲ့"
+    },
+    {
+        "time": 57000,
+        "japanese": "打ち明けられるだろう",
+        "hiraganaKatakana": "うちあけられるだろう",
+        "myanmar": "ရင်ဖွင့်နိုင်လောက်မလား.."
+    },
+    {
+        "time": 60000,
+        "japanese": "今 負けそうで 泣きそうで",
+        "hiraganaKatakana": "いま まけそうで なきそうで",
+        "myanmar": "အခုအချိန်မှာ ရှုံးတော့မလို၊ ငိုကြွေးရတော့မလို"
+    },
+    {
+        "time": 64000,
+        "japanese": "消えてしまいそうな 僕は。。",
+        "hiraganaKatakana": "きえてしまいそうな ぼくは。。",
+        "myanmar": "ပျောက်ကွယ်သွားတော့မလို ဖြစ်နေတဲ့ကိုယ်က"
+    },
+    {
+        "time": 69000,
+        "japanese": "誰の言葉を",
+        "hiraganaKatakana": "だれのことばを",
+        "myanmar": "ဘယ်သူ့ရဲ့ စကားကို"
+    },
+    {
+        "time": 72000,
+        "japanese": "信じ歩けば いいの？",
+        "hiraganaKatakana": "しんじあるけば いいの？",
+        "myanmar": "ယုံကြည်ပြီး ရှေ့ဆက်လျှောက်ရင် ကောင်းမလဲ?"
+    },
+    {
+        "time": 75000,
+        "japanese": "一つしかない この胸が",
+        "hiraganaKatakana": "ひとつしかない このむねが",
+        "myanmar": "တစ်ခုတည်းရှိတဲ့ ဒီရင်ဘတ်ဟာ"
+    },
+    {
+        "time": 79000,
+        "japanese": "何度も ばらばらに割れて",
+        "hiraganaKatakana": "なんども バラバラにわれて",
+        "myanmar": "အကြိမ်ကြိမ် တစ်စစီ ကွဲကြေပြီး"
+    },
+    {
+        "time": 84000,
+        "japanese": "苦しい中で。。",
+        "hiraganaKatakana": "くるしいなかで。。",
+        "myanmar": "နာကျင်မှုတွေရဲ့ ကြားထဲကနေ.."
+    },
+    {
+        "time": 87000,
+        "japanese": "今を生きでいる",
+        "hiraganaKatakana": "いまをいきでいる",
+        "myanmar": "အခုပစ္စုပ္ပန်မှာဘဲ ရှင်သန်နေပါတယ်"
+    },
+    {
+        "time": 91000,
+        "japanese": "今を生きでいる",
+        "hiraganaKatakana": "いまをいきでいる",
+        "myanmar": "အခုပစ္စုပ္ပန်မှာဘဲ ရှင်သန်နေပါတယ်"
+    },
+    {
+        "time": 95000,
+        "japanese": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 102000,
+        "japanese": "拝啓 ありがとう 十五のあなたに",
+        "hiraganaKatakana": "はいけい ありがとう じゅごのあなたに",
+        "myanmar": "ချစ်ရသူရေ ကျေးဇူးတင်ပါတယ်နော် ၁၅ နှစ်အရွယ်မင်းလေးကို "
+    },
+    {
+        "time": 110000,
+        "japanese": "伝えたい事が あるのです",
+        "hiraganaKatakana": "つたえたいことが あるのです",
+        "myanmar": "ပြောပြချင်တဲ့ အကြောင်းလေးရှိလို့ပါ"
+    },
+    {
+        "time": 118000,
+        "japanese": "自分とは 何で",
+        "hiraganaKatakana": "じぶんとは なにで",
+        "myanmar": "ကိုယ့်ကိုယ်ကိုယ် ဘယ်အရာနဲ့"
+    },
+    {
+        "time": 121000,
+        "japanese": "どこへ 向かうべきか",
+        "hiraganaKatakana": "どこへ むかうべきか",
+        "myanmar": "ဘယ်နေရာကို ဦးတည်သင့်လဲဆိုတာ"
+    },
+    {
+        "time": 125000,
+        "japanese": "問い続ければ 見えてくる",
+        "hiraganaKatakana": "といつづければ みえてくる",
+        "myanmar": "မေးခွန်းဆက်ထုတ်ကြည့်မယ်ဆိုရင် မြင်လာမယ်"
+    },
+    {
+        "time": 133000,
+        "japanese": "荒れた青春の",
+        "hiraganaKatakana": "あれたせいしゅんの",
+        "myanmar": "ကြမ်းတမ်းလှတဲ့ လူငယ်ဘ၀ရဲ့"
+    },
+    {
+        "time": 137000,
+        "japanese": "海は 厳しいけれど",
+        "hiraganaKatakana": "うみは きびしいけれど",
+        "myanmar": "(လောကဓံ)ပင်လယ်ပြင်က ခက်ထန်တယ်ဆိုပေမယ့်"
+    },
+    {
+        "time": 141000,
+        "japanese": "明日の岸辺へと",
+        "hiraganaKatakana": "あすのきしべへと",
+        "myanmar": "မနက်ဖြန်ဆိုတဲ့ ကမ်းစပ်ဆီကို"
+    },
+    {
+        "time": 144000,
+        "japanese": "夢の舟よ 進め",
+        "hiraganaKatakana": "ゆめのふねよ すすめ",
+        "myanmar": "အိပ်မက်သင်္ဘော(နဲ့) ရှေ့ဆက်လိုက်ပါ"
+    },
+    {
+        "time": 148000,
+        "japanese": "今 負けないで 泣かないで",
+        "hiraganaKatakana": "いま まけないで なかないで",
+        "myanmar": "အခုအချိန်မှာ အရှုံးမပေးလိုက်ပါနဲ့ မငိုကြွေးလိုက်ပါနဲ့"
+    },
+    {
+        "time": 151000,
+        "japanese": "消えてしまいそうな 時は",
+        "hiraganaKatakana": "きえてしまいそうな ときは",
+        "myanmar": "ပျောက်ကွယ်သွားတော့မလို ဖြစ်နေတဲ့အချိန်မှာလည်း"
+    },
+    {
+        "time": 156000,
+        "japanese": "自分の声を",
+        "hiraganaKatakana": "じぶんのこえを",
+        "myanmar": "ကိုယ်တိုင်ရဲ့ စကားသံကိုပဲ"
+    },
+    {
+        "time": 159000,
+        "japanese": "信じ歩けば いいの",
+        "hiraganaKatakana": "しんじあるけば いいの",
+        "myanmar": "ယုံကြည်ပြီး ရှေ့ဆက်လျှောက်လိုက်လို့ အဆင်ပြေတယ်"
+    },
+    {
+        "time": 163000,
+        "japanese": "大人の僕も",
+        "hiraganaKatakana": "おとなのぼくも",
+        "myanmar": "အရွယ်ရောက်ပြီးသားလူကြီးဖြစ်တဲ့ ကိုယ့်ဆီမှာဆိုရင်လည်း"
+    },
+    {
+        "time": 165000,
+        "japanese": "傷ついて",
+        "hiraganaKatakana": "きずついて",
+        "myanmar": "နာကျင်စရာဒဏ်ရာတွေရပြီ"
+    },
+    {
+        "time": 167000,
+        "japanese": "眠れない夜は あるけど",
+        "hiraganaKatakana": "ねむれないよるは あるけど",
+        "myanmar": "အိပ်မပျော်နိုင်တဲ့ ညတွေ ရှိပေမယ့်လည်း"
+    },
+    {
+        "time": 171000,
+        "japanese": "苦くて甘い 今を生きている",
+        "hiraganaKatakana": "にがくてあまい いまをいきている",
+        "myanmar": "ခါးသက်သက်နဲ့ ချိုမြိန်လှတဲ့ ပစ္စုပ္ပန်ကို ရှင်သန်ရင်ဆိုင်နေပါတယ်"
+    },
+    {
+        "time": 180000,
+        "japanese": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 187000,
+        "japanese": "人生の全てに 意味があるから",
+        "hiraganaKatakana": "じんせいのすべてに いみがあるから",
+        "myanmar": "လူ့လောကကြီးရဲ့ အခိုက်အတန့်အားလုံးမှာ အဓိပ္ပါယ်ကိုယ်စီရှိတာကြောင့်"
+    },
+    {
+        "time": 195000,
+        "japanese": "恐れずに",
+        "hiraganaKatakana": "おすれずに",
+        "myanmar": "ကြောက်ရွံ့တွန့်ဆုတ်မနေဘဲ"
+    },
+    {
+        "time": 198000,
+        "japanese": "あなたの夢を 育てて",
+        "hiraganaKatakana": "あなたのゆめを そだてて",
+        "myanmar": "မင်းရဲ့ စိတ်ကူးအိပ်မက်တွေကို ပုံဖော်ပျိုးထောင်လိုက်ပါ"
+    },
+    {
+        "time": 202000,
+        "japanese": "La-la-la, la-la-la, la-la-la",
+        "hiraganaKatakana": "",
+        "myanmar": ""
+    },
+    {
+        "time": 207000,
+        "japanese": "Keep on believing",
+        "hiraganaKatakana": "",
+        "myanmar": "ဆက်ပြီး ယုံကြည်ထားလိုက်ပါ"
+    },
+    {
+        "time": 209000,
+        "japanese": "La-la-la, la-la-la, la-la-la",
+        "hiraganaKatakana": "",
+        "myanmar": ""
+    },
+    {
+        "time": 215000,
+        "japanese": "Keep on believing",
+        "hiraganaKatakana": "",
+        "myanmar": "ဆက်ပြီး ယုံကြည်ထားလိုက်ပါ"
+    },
+    {
+        "time": 217000,
+        "japanese": "Keep on believing",
+        "hiraganaKatakana": "",
+        "myanmar": "ဆက်ပြီး ယုံကြည်ထားလိုက်ပါ"
+    },
+    {
+        "time": 219000,
+        "japanese": "Keep on believing",
+        "hiraganaKatakana": "",
+        "myanmar": "ဆက်ပြီး ယုံကြည်ထားလိုက်ပါ"
+    },
+    {
+        "time": 225000,
+        "japanese": "負けそうで 泣きそうで",
+        "hiraganaKatakana": "まけそうで なきそうで",
+        "myanmar": "ရှုံးတော့မလို၊ ငိုကြွေးရတော့မလို"
+    },
+    {
+        "time": 228000,
+        "japanese": "消えてしまいそうな僕は。。",
+        "hiraganaKatakana": "きえてしまいそうなぼくは。。",
+        "myanmar": "ပျောက်ကွယ်သွားတော့မလို ဖြစ်နေတဲ့ကိုယ်က..."
+    },
+    {
+        "time": 232000,
+        "japanese": "誰の言葉を",
+        "hiraganaKatakana": "だれのことばを",
+        "myanmar": "ဘယ်သူ့ရဲ့ စကားကို"
+    },
+    {
+        "time": 236000,
+        "japanese": "信じ歩けば いいの？",
+        "hiraganaKatakana": "しんじあるけば いいの？",
+        "myanmar": "ယုံကြည်ပြီး ရှေ့ဆက်လျှောက်ရင် ကောင်းမလဲ?"
+    },
+    {
+        "time": 239000,
+        "japanese": "ああ 負けないで 泣かないで",
+        "hiraganaKatakana": "ああ まけないで なかないで",
+        "myanmar": "အာ.. အရှုံးမပေးတော့ဘဲ၊ မငိုကြွေးတော့ဘဲ"
+    },
+    {
+        "time": 243000,
+        "japanese": "消えてしまいそうな時は",
+        "hiraganaKatakana": "きえてしまいそうなときは",
+        "myanmar": "ပျောက်ကွယ်သွားတော့မလို ဖြစ်နေတဲ့အချိန်မှာဆိုရင်လည်း"
+    },
+    {
+        "time": 247000,
+        "japanese": "自分の声を",
+        "hiraganaKatakana": "じぶんのこえを",
+        "myanmar": "ကိုယ်တိုင်ရဲ့ စကားသံကိုပဲ"
+    },
+    {
+        "time": 251000,
+        "japanese": "信じ歩けばいいの？",
+        "hiraganaKatakana": "しんじあるけばいいの？",
+        "myanmar": "ယုံကြည်ပြီး ရှေ့ဆက်လျှောက်ရင် ကောင်းမလား?"
+    },
+    {
+        "time": 254000,
+        "japanese": "いつの時代も 悲しみを",
+        "hiraganaKatakana": "いつのじだいも かなしみを",
+        "myanmar": "ဘယ်အချိန်ကာလမှာမဆို ကြေကွဲ၀မ်းနည်းမှုကို"
+    },
+{
+        "time": 258000,
+        "japanese": "避けては 通れないけれど",
+        "hiraganaKatakana": "さけては とおれないけれど",
+        "myanmar": "ရှောင်တိမ်းဖြတ်သန်းဖို့ကတော့ မဖြစ်နိုင်ဘူးဆိုပေမယ့်"
+    },
+    {
+        "time": 263000,
+        "japanese": "笑顔を 見せて",
+        "hiraganaKatakana": "えがおを みせて",
+        "myanmar": "အပြုံးမျက်နှာလေးကို ပြသရင်း"
+    },
+    {
+        "time": 266000,
+        "japanese": "今を 生きてゆこう",
+        "hiraganaKatakana": "いまを いきてゆこう",
+        "myanmar": "လက်ရှိပစ္စုပ္ပန်ကို ရှင်သန်သွားကြပါစို့"
+    },
+    {
+        "time": 270000,
+        "japanese": "今を 生きてゆこう",
+        "hiraganaKatakana": "いまを いきてゆこう",
+        "myanmar": "လက်ရှိပစ္စုပ္ပန်ကို ရှင်သန်သွားကြပါစို့"
+    },
+    {
+        "time": 275000,
+        "japanese": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "time": 281000,
+        "japanese": "拝啓 この手紙",
+        "hiraganaKatakana": "はいけ いこのてがみ",
+        "myanmar": "ချစ်ရသူရေ (စာဖတ်သူရေ) ဒီပေးစာကို"
+    },
+    {
+        "time": 285000,
+        "japanese": "読んでいる あなたが",
+        "hiraganaKatakana": "よんでいる あなたが",
+        "myanmar": "ဖတ်နေချိန်မှာ မင်းက"
+    },
+    {
+        "time": 289000,
+        "japanese": "幸せな事を 願います",
+        "hiraganaKatakana": "しあわせなことを ねがいます",
+        "myanmar": "ပျော်ရွှင်ချမ်းမြေ့မှုတွေနဲ့ နေထိုင်နိုင်နေဖို့ ကိုယ်ဆုတောင်းပေးပါတယ်.."
+    },
+    {
+        "time": 297000,
+        "japanese": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    } 
+]
