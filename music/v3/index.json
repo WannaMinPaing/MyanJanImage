@@ -57,6 +57,20 @@
   },
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/tegami/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/tegami/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBdWoR4O-z9NhHcIkB8u_AnMoOzL1nAALJIAACtsyRVDuHpjXYJS3oOwQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/tegami.json",
+    "name": "手紙 (てがみ ) ~ 拝啓 (はいけい) 十五 (じゅうご) の 君 (きみ) へ ",
+    "singer": "Angela Aki",
+    "value": "tegami haikei juugonokimihe",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/baby_you/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/baby_you/banner.jpeg",
