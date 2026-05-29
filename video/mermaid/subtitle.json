@@ -1,0 +1,386 @@
+[
+  {
+    "start": 1,
+    "end": 4,
+    "japanese": "人魚 の ご 馳走 。",
+    "romanized": "Ningyo no gochisou.",
+    "hiraganaKatakana": "にんぎょ の ご ちそう 。",
+    "myanmar": "ရေသူမ ရဲ့ ဧည့်ခံစားစရာ"
+  },
+  {
+    "start": 4,
+    "end": 13,
+    "japanese": "昔々 、 四軒 しか 家 のない 小 さな 村 が ありました。",
+    "romanized": "Mukashimukashi, yoken shika ie no nai chiisana mura ga arimashita.",
+    "hiraganaKatakana": "むかしむかし 、 よけん しか いえ のない ちい さな むら が ありました。",
+    "myanmar": "ရှေးရှေးတုန်းက အိမ်လေးအိမ်ကလွဲပြီး မရှိတဲ့ သေးငယ်သောရွာလေး ရှိပါသည်။"
+  },
+  {
+    "start": 13,
+    "end": 22,
+    "japanese": "村人 たちは 家族 のように いつも 仲良 く 暮 らして いました。",
+    "romanized": "Murabitotachi wa kazoku no you ni itsumo nakayoku kurashite imashita.",
+    "hiraganaKatakana": "むらびと たちは かぞく のように いつも なかよ く く らして いました。",
+    "myanmar": "ရွာသားများသည် မိသားစုကဲ့သို့ အမြဲတမ်း ချစ်ချစ်ခင်ခင် နေထိုင်ခဲ့ကြပါသည်။"
+  },
+  {
+    "start": 22,
+    "end": 35,
+    "japanese": "ある 日 、 一人 の 尼 さんが 村 に やってきて 四軒 の 家 を 回 り 仏様 を 拝 んで 帰 りました。",
+    "romanized": "Aru hi, hitori no ama sanga mura ni yatte kite yoken no ie wo mawari hotoke-sama wo ogande kaerimashita.",
+    "hiraganaKatakana": "ある ひ 、 ひとり の あま さんが むら に やってきて よけん の いえ を まわ り ほとけさま を おが んで かえ りました。",
+    "myanmar": "တစ်နေ့မှာ သီလရှင်တစ်ပါးက ရွာသို့ ရောက်လာပြီး အိမ်လေးလုံး လှည့်လည်ကာ ဗုဒ္ဓဘုရားကို ရှိခိုးပြီး ပြန်သွားခဲ့ပါသည်။"
+  },
+  {
+    "start": 35,
+    "end": 44,
+    "japanese": "それから 尼 さんは 村 へ 来 る たびに 仏様 を 拝 みました。",
+    "romanized": "Sore kara ama-san wa mura e kuru tabi ni hotoke-sama wo ogamimashita.",
+    "hiraganaKatakana": "それから あま さんは むら へ く る たびに ほとけさま を おが みました。",
+    "myanmar": "ထိုအချိန်မှစကာ သီလရှင်သည် ရွာသို့ လာတိုင်း ဗုဒ္ဓဘုရားကို ရှိခိုးပါသည်။"
+  },
+  {
+    "start": 44,
+    "end": 50,
+    "japanese": "そのうちに 村人 たちは 尼 さん と 親 しく なり。",
+    "romanized": "Sono uchi ni murabitotachi wa ama-san to shitashiku nari",
+    "hiraganaKatakana": "そのうちに むらびと たちは あま さん と した しく なり。",
+    "myanmar": "အချိန်ကြာလာတဲ့အခါ ရွာသားတွေက သီလရှင်နဲ့ ရင်းနှီးလာခဲ့ကြတယ်။"
+  },
+  {
+    "start": 50,
+    "end": 64,
+    "japanese": "ある 時 、「 私 の 家 にも いっぺん 来 て ください 」 と 招待 された ので 主人 たちが 行 く こと に なりました。",
+    "romanized": "Aru toki, 'Watashi no ie ni mo ippen kite kudasai' to shoutai sareta node, shujintachi ga iku koto ni narimashita.",
+    "hiraganaKatakana": "ある とき 、「 わたし の いえ にも いっぺん き て ください 」 と しょうたい された ので しゅじん たちが い く こと に なりました。",
+    "myanmar": "တစ်ချိန်ကျတော့ 'ကျွန်မရဲ့အိမ်ကိုလည်း တစ်ကြိမ်လောက် လာ(လည်)ပေးပါ' ဟု ဖိတ်ကြားခဲ့တာကြောင့် အိမ်ရှင်ယောက်ကျားတွေက သွားဖို့ ဖြစ်လာခဲ့တယ်”။"
+  },
+  {
+    "start": 66,
+    "end": 77,
+    "japanese": "尼 さんの 後 に ついて 行 き 山 を 越 えると 滝 が 見 えて きました。",
+    "romanized": "Ama-san no ato ni tsuite iki, yama wo koeru to taki ga miete kimashita.",
+    "hiraganaKatakana": "あま さんの あと に ついて い き やま を こ えると たき が み えて きました。",
+    "myanmar": "သီလရှင်ရဲ့နောက်မှ လိုက်သွားပြီး တောင်ကို ကျော်သောအခါ ရေတံခွန်ကို မြင်ရပါသည်။"
+  },
+  {
+    "start": 77,
+    "end": 82,
+    "japanese": "「 私 の 家 は この 滝 の 向 こう です 」",
+    "romanized": "'Watashi no ie wa kono taki no mukou desu'",
+    "hiraganaKatakana": "「 わたし の いえ は この たき の む こう です 」",
+    "myanmar": "ကျွန်မရဲ့အိမ်က ဒီရေတံခွန်ရဲ့ တစ်ဖက်ခြမ်းမှာပါ」"
+  },
+  {
+    "start": 82,
+    "end": 89,
+    "japanese": "尼 さんは そう 言 って 滝口 を 飛 び 越 しました。",
+    "romanized": "Ama-san wa sou itte takiguchi wo tobikoshimashita.",
+    "hiraganaKatakana": "あま さんは そう い って たきぐち を と び こ しました。",
+    "myanmar": "သီလရှင်က အဲဒီလိုပြောပြီး ရေတံခွန်အဝကို ခုန်ကျော်သွားခဲ့ပါသည်။"
+  },
+  {
+    "start": 89,
+    "end": 98,
+    "japanese": "主人 たちも 尼 さんの 後 から 滝口 を 飛 び 越 しました。",
+    "romanized": "Shujintachi mo ama-san no ato kara takiguchi wo tobikoshimashita.",
+    "hiraganaKatakana": "しゅじん たちも あま さんの あと から たきぐち を と び こ しました。",
+    "myanmar": "အိမ်ရှင်ယောက်ကျားတွေလည်း သီလရှင်နောက်ကနေ ရေတံခွန်ဝကို ခုန်ကျော်ခဲ့ကြပါသည်။"
+  },
+  {
+    "start": 98,
+    "end": 107,
+    "japanese": "すると 目 の 前 に 立派 な 門構 え の 家 が あります。",
+    "romanized": "Suru to me no mae ni rippa na monkamae no ie ga arimasu.",
+    "hiraganaKatakana": "すると め の まえ に りっぱ な もんがま え の いえ が あります。",
+    "myanmar": "ထိုအခါ မျက်စိရှေ့မှာ ခမ်းနားသော တံခါးဝ ရှိသည့် အိမ် ရှိပါသည်။"
+  },
+  {
+    "start": 107,
+    "end": 111,
+    "japanese": "「 さあ どうぞ、 ゆっくり して いって ください 」",
+    "romanized": "'Saa douzo, yukkuri shite itte kudasai'",
+    "hiraganaKatakana": "「 さあ どうぞ、 ゆっくり して いって ください 」",
+    "myanmar": "「ကဲ ကျေးဇူးပြု၍ သက်သောင့်သက်သာ နေပါ」"
+  },
+  {
+    "start": 111,
+    "end": 122,
+    "japanese": "中 には 若 い 娘 さんも いて 座敷 に お 膳 が ずらりと 並 べて あります。",
+    "romanized": "Naka ni wa wakai musume-san mo ite zashiki ni gochisou ga zurari to narabete arimasu.",
+    "hiraganaKatakana": "なか には わか い むすめ さんも いて ざしき に お ぜん が ずらりと なら べて あります。",
+    "myanmar": "အထဲမှာတော့ မိန်းမငယ်ကလေးလည်း ရှိပြီး အခန်းထဲမှာ စားပွဲ(အစားအသောက်တင်ထားသည့်စားပွဲ)တွေ အစီအရီ စီထားပါသည်။"
+  },
+  {
+    "start": 122,
+    "end": 128,
+    "japanese": "「 こんな ご 馳走 を 見 た こと が ない。 」",
+    "romanized": "'Konna gochisou wo mita koto ga nai.'",
+    "hiraganaKatakana": "「 こんな ご ちそう を み た こと が ない。」",
+    "myanmar": "'ဒီလောက်ကောင်းတဲ့ စားသောက်ဖွယ်တွေ မမြင်ဖူးဘူး။'"
+  },
+  {
+    "start": 128,
+    "end": 132,
+    "japanese": "「 さあ どうぞ 座 って 召 し 上 がれ 」",
+    "romanized": "'Saa douzo suwatte meshiagare'",
+    "hiraganaKatakana": "「 さあ どうぞ すわ って め し あ がれ 」",
+    "myanmar": "'ကဲ၊ ကျေးဇူးပြု၍ ထိုင်ပြီး သုံးဆောင်ပါ'"
+  },
+  {
+    "start": 132,
+    "end": 142,
+    "japanese": "主人 たちは 一口 食 べて 「 ひや、 こりゃ おいしい 」",
+    "romanized": "Shujintachi wa hitokuchi tabete 'Hiya, korya oishii'",
+    "hiraganaKatakana": "しゅじ んたちは ひとくち た べて 「 ひや、 こりゃ おいしい 」",
+    "myanmar": "အိမ်ရှင်ယောက်ကျားတွေက တစ်လုပ်လောက် စားပြီး ' ဟင်း ဒါက အရသာရှိလောက်တာ '။"
+  },
+  {
+    "start": 142,
+    "end": 146,
+    "japanese": "「 本当 に うまい、 うまい な 」",
+    "romanized": "'Hontou ni umai, umai na'",
+    "hiraganaKatakana": "「 ほんとう に うまい、 うまい な 」",
+    "myanmar": "'တကယ်ပဲ အရသာရှိတယ်၊ အရမ်းကောင်းတယ်နော်'"
+  },
+  {
+    "start": 146,
+    "end": 150,
+    "japanese": "「 私 は いつも これ を 食 べて います 」",
+    "romanized": "'Watashi wa itsumo kore wo tabete imasu'",
+    "hiraganaKatakana": "「 わたし は いつも これ を た べて います 」",
+    "myanmar": "'ကျွန်မက အမြဲ ဒါပဲ စားနေကျပါ'"
+  },
+  {
+    "start": 150,
+    "end": 156,
+    "japanese": "「 おお、 これは 何 ですか 」",
+    "romanized": "'Oo, kore wa nan desu ka'",
+    "hiraganaKatakana": "「 おお、 これは なん ですか 」",
+    "myanmar": "'အော်၊ ဒါက ဘာပါလဲ'"
+  },
+  {
+    "start": 156,
+    "end": 158,
+    "japanese": "「 人魚 の 身 です 」",
+    "romanized": "'Ningyo no mi desu'",
+    "hiraganaKatakana": "「 にんぎょ の み です 」",
+    "myanmar": "'ရေသူမ ရဲ့ အသားပါ'"
+  },
+    {
+    "start": 158,
+    "end": 161,
+    "japanese": "「 人魚 ? 」",
+    "romanized": "'Ningyo ?'",
+    "hiraganaKatakana": "「 にんぎょ ? 」",
+    "myanmar": "'ရေသူမ ?'"
+  },
+   {
+    "start": 161,
+    "end": 162,
+    "japanese": "「 はい 」",
+    "romanized": "'Hai'",
+    "hiraganaKatakana": "「 はい 」",
+    "myanmar": "'ဟုတ်ပါသည်'"
+  },
+  {
+    "start": 163,
+    "end": 170,
+    "japanese": "「 ほお、 人魚 の 身 とは うまい もの だ なあ 」 ",
+    "romanized": "'Hoo, ningyo no mi to wa umai mono da naa'",
+    "hiraganaKatakana": "「 ほお、 にんぎょ の み とは うまい もの だ なあ 」 ",
+    "myanmar": "'အို ရေသူမရဲ့ အသားဆိုတာက အရသာရှိလိုက်တာကွာ'"
+  },
+  {
+    "start": 171,
+    "end": 184,
+    "japanese": "主人 たち は 人魚 の 身 を 食 べ お 酒 を 飲 んで いる うちに いつの 間 にか みんな 眠 って しまいました。",
+    "romanized": "Shujintachi wa ningyo no mi wo tabe osake wo nonde iru uchi ni itsu no ma ni ka minna nemotte shimaimashita.",
+    "hiraganaKatakana": "しゅじん たち は にんぎょ の み を た べ お さけ を の んで いる うちに いつの ま にか みんな ねむ って しまいました。",
+    "myanmar": "အိမ်ရှင်ယောက်ကျားတွေက ရေသူမရဲ့ အသားကို စားပြီး အရက် သောက်နေကြရင်း မသိမသာနဲ့ အားလုံး အိပ်ပျော်သွားကြပါသည်။"
+  },
+  {
+    "start": 186,
+    "end": 195,
+    "japanese": "明 けがた、 一人 が ふっと 目 を 覚 まし 他 の 者 たちを 起 こしました。",
+    "romanized": "Akegata, hitori ga futto me wo samashi hoka no mono-tachi wo okoshimashita.",
+    "hiraganaKatakana": "あ けがた、 ひとり が ふっと め を さ まし ほか の もの たちを お こしました。",
+    "myanmar": "မနက်အာရုဏ်တတ်ချိန် တစ်ယောက်က ရုတ်တရက် နိုးလာပြီး အခြားလူတွေကို နှိုးလိုက်ပါသည်။"
+  },
+  {
+    "start": 195,
+    "end": 202,
+    "japanese": "「 おい、 みんな 起 きろ。 もう 朝 だ。 」",
+    "romanized": "'Oi, minna okiro. Mou asa da.'",
+    "hiraganaKatakana": "「 おい、 みんな お きろ。 もう あさ だ。 」",
+    "myanmar": "'ဟေး၊ အားလုံး ထကြတော့။ မနက်တောင် ရောက်ပြီ။'"
+  },
+  {
+    "start": 202,
+    "end": 210,
+    "japanese": "「 家 の もの が 心配 して いる に 違い ない。 さあ 早 く 帰 ろう 」",
+    "romanized": "'Ie no mono ga shinpai shite iru ni chigai nai. Saa hayaku kaerou'",
+    "hiraganaKatakana": "「 いえ の もの が しんぱい して いる に ちがい ない。 さあ はや く かえ ろう 」",
+    "myanmar": "'အိမ်ကသူတွေ စိတ်ပူနေမှာ သေချာတယ်။ ကဲ မြန်မြန် ပြန်ကြစို့」"
+  },
+  {
+    "start": 210,
+    "end": 213,
+    "japanese": "すると 尼 さんは 。",
+    "romanized": "Suru to ama wa .",
+    "hiraganaKatakana": "すると あま さんは 。",
+    "myanmar": "ထိုအခါ သီလရှင်က။"
+  },
+  {
+    "start": 213,
+    "end": 227,
+    "japanese": "「 それなら お 土産 を 差 し 上 げましょう 」 と 昨夜 の ご 馳走 を 重箱 に 入 れて 皆 に 一箱 ずつ 持 たせて くれました。",
+    "romanized": "'Sore nara omiyage wo sashiagemashou' to yuube no gochisou wo juubako ni irete mina ni hitohako zutsu motasete kuremashita.",
+    "hiraganaKatakana": "「 それなら お みやげ を さ し あ げましょう 」 と ゆうべ の ご ちそう を じゅうばこ に い れて みな に ひとはこ ずつ も たせて くれました。",
+    "myanmar": "'ဒါဆိုရင် လက်ဆောင် ပေးပါရစေ' ဟု ဆိုပြီး မနေ့ညက ဧည့်ဝတ်ကျွေးစာများကို စားစရာဗူးထဲ ထည့်ကာ အားလုံးကို တစ်ဗူးစီ ယူသွားစေခဲ့ပါသည်။"
+  },
+  {
+    "start": 227,
+    "end": 235,
+    "japanese": "さて、 村 に 戻 ると 女房 たちは 驚 いて",
+    "romanized": "Sate, mura ni modoru to nyoubou-tachi wa odoroite",
+    "hiraganaKatakana": "さて、 むら に もど ると にょうぼう たちは おどろ いて",
+    "myanmar": "အဲနောက် ရွာကို ပြန်ရောက်သောအခါ မိန်းမများသည် အံ့သြသွားကာ"
+  },
+  {
+    "start": 235,
+    "end": 243,
+    "japanese": "「 お 前 さんたち 心配 したよ。 三年 も どこへ 行 ってたん だい 」",
+    "romanized": "'Omae-san-tachi shinpai shita yo. San-nen mo doko e itte tan dai'",
+    "hiraganaKatakana": "「 お まえ さんたち しんぱい したよ。 さんねん も どこへ い ってたん だい 」",
+    "myanmar": "'ရှင်တို့ စိတ်ပူနေခဲ့ရတာ။ သုံးနှစ်လုံး ဘယ်ကိုသွားနေတာလဲ'"
+  },
+  {
+    "start": 243,
+    "end": 251,
+    "japanese": "「 いやいや、 三年 ということは ない。 たった 一晩 だ 」",
+    "romanized": "'Iya iya, san-nen to iu koto wa nai. Tatta hitoban da'",
+    "hiraganaKatakana": "「 いやいや、 さんねん ということは ない。 たった ひとばん だ 」",
+    "myanmar": "'မဟုတ်ဘူး မဟုတ်ဘူး၊ သုံးနှစ်တောင် မဟုတ်ရပါဘူး။ တစ်ညတည်းပါ'"
+  },
+  {
+    "start": 251,
+    "end": 269,
+    "japanese": "それでも 家族 の 顔 を よく 見 ると 女房 たちは 少 し 年 を 取 って いるようだし 子供 たちも 一回 り 大 きく なって います。",
+    "romanized": "Soredemo kazoku no kao wo yoku miru to nyoubou-tachi wa sukoshi toshi wo totte iru you da shi kodomotachi mo hitomawari ookiku natte imasu.",
+    "hiraganaKatakana": "それでも かぞく の かお を よく み ると にょうぼう たちは すこ し とし を と って いるようだし こども たちも ひとまわ り おお きく なって います。",
+    "myanmar": "သို့သော်လည်း မိသားစုမျက်နှာတွေကို သေချာ ကြည့်လိုက်တော့ မိန်းမတွေက အနည်းငယ် အသက်ကြီးလာသလိုဖြစ်ပြီး ကလေးတွေမှာလည်း အရွယ်ကြီးလာကြပါသည်။"
+  },
+  {
+    "start": 269,
+    "end": 273,
+    "japanese": "「 これは 不思議 な こと が ある もの だ。 」",
+    "romanized": "'Kore wa fushigi na koto ga aru mono da. '",
+    "hiraganaKatakana": "「 これは ふしぎ な こと が ある もの だ。 」",
+    "myanmar": "'ဒီလို ထူးဆန်းတဲ့ အဖြစ်အပျက်မျိုး ရှိတာပဲနော်။'"
+  },
+  {
+    "start": 273,
+    "end": 278,
+    "japanese": "「 ああ、 一晩 家 を 開 けた だけ なのに 」",
+    "romanized": "'Aa, hitoban ie wo aketa dake na no ni'",
+    "hiraganaKatakana": "「 ああ、 ひとばん いえ を あ けた だけ なのに 」",
+    "myanmar": "'ဟာ၊ တစ်ညတည်း အိမ်က ထွက်လာခဲ့တာကို'"
+  },
+  {
+    "start": 278,
+    "end": 282,
+    "japanese": "「 確 かに 何年 も 立 って いる ようだ 」",
+    "romanized": "'tashika ni nannen mo tatte iru you da'",
+    "hiraganaKatakana": "「 たし かに なんねん も た って いる ようだ 」",
+    "myanmar": "'တကယ်ပဲ နှစ်တွေအများကြီး ကြာသွားတဲ့ပုံဘဲနော်'"
+  },
+  {
+    "start": 284,
+    "end": 289,
+    "japanese": "「 ところで お 前 さん、 それは 何 だい 」",
+    "romanized": "'Tokorode omae-san, sore wa nan dai'",
+    "hiraganaKatakana": "「 ところで お まえ さん、 それは なん だい 」",
+    "myanmar": "'ဒါနဲ့ ရှင်တို့ ဟိုဟာက ဘာလဲ'"
+  },
+  {
+    "start": 289,
+    "end": 296,
+    "japanese": "「 ああ、 これは 土産 だ。 ご 馳走 を もらって きた 」",
+    "romanized": "'Aa, kore wa miyage da. Gochisou wo moratte kita'",
+    "hiraganaKatakana": "「 ああ、 これは みやげ だ。 ご ちそう を もらって きた 」",
+    "myanmar": "'အာ ဒါက လက်ဆောင်ပဲ။ အစားအသောက်တွေ ရလာတာ'"
+  },
+  {
+    "start": 296,
+    "end": 299,
+    "japanese": "「 まあ、 おいしそう 」",
+    "romanized": "'Maa, oishisou'",
+    "hiraganaKatakana": "「 まあ、 おいしそう 」",
+    "myanmar": "'အား အရသာရှိလောက်တယ်'"
+  },
+  {
+    "start": 299,
+    "end": 303,
+    "japanese": "女房 が 手 を 伸 ばした その 時",
+    "romanized": "Nyoubou ga te wo nobashita sono toki.",
+    "hiraganaKatakana": "にょうぼう が て を の ばした その とき",
+    "myanmar": "မိန်းမက လက်ကို ဆန့်ထုတ်လိုက်တဲ့ အချိန်မှာတော့။"
+  },
+  {
+    "start": 303,
+    "end": 306,
+    "japanese": "「 いかん！ これを 食 べたら いかん 」",
+    "romanized": "'Ikan! Kore wo tabetara ikan'.",
+    "hiraganaKatakana": "「 いかん！ これを た べたら いかん 」。",
+    "myanmar": "'မဖြစ်ဘူး ဒါကို စားလို့ မဖြစ်ဘူး'။"
+  },
+  {
+    "start": 306,
+    "end": 310,
+    "japanese": "ごちそうを とっと 捨 てました。",
+    "romanized": "'Gochisou o totto sutemashita .",
+    "hiraganaKatakana": "ごちそうを とっと す てました。",
+    "myanmar": "အစားအသောက်တွေကို ချက်ချင်း စွန့်ပစ်လိုက်တယ်။"
+  },
+  {
+    "start": 310,
+    "end": 319,
+    "japanese": "たった 一晩 の はずが 三年 も 経 って いる のは おかしい と 気 づいた の です。",
+    "romanized": "Tatta hitoban no hazu ga san-nen mo tatte iru no wa okashii to kizuita no desu.",
+    "hiraganaKatakana": "たった ひとばん の はずが さんねん も た って いる のは おかしい と き づいた の です。",
+    "myanmar": "တစ်ညတာဘဲ ထင်ခဲ့ပေမယ့် သုံးနှစ်တောင် ကြာသွားတယ်ဆိုတာက ထူးဆန်းတယ်လို့ သတိထားမိတာကြောင့်ဖြစ်တယ်။"
+  },
+  {
+    "start": 319,
+    "end": 328,
+    "japanese": "ところが 一軒 の 家 では 娘 が 土産 の ご 馳走 を 食 べて しまいました。",
+    "romanized": "Tokoro ga ikken no ie de wa musume ga miyage no gochisou wo tabete shimaimashita.",
+    "hiraganaKatakana": "ところが いっけん の いえ では むすめ が みやげ の ご ちそう を た べて しまいました。",
+    "myanmar": "ဒါပေမယ့် တစ်အိမ်မှာတော့ သမီးက အပြန်လက်ဆောင်အစားအစားကို စားလိုက််မိသည်။"
+  },
+  {
+    "start": 328,
+    "end": 340,
+    "japanese": "すると その 娘 は とても 綺麗 に なって 何年 経 っても ちっとも 年 を 取 りません。",
+    "romanized": "Suru to sono musume wa totemo kirei ni natte nannen tatte mo chitto mo toshi wo torimasen.",
+    "hiraganaKatakana": "すると その むすめ は とても きれい に なって なんねん た っても ちっとも とし を と りません。",
+    "myanmar": "ထိုအခါ အဲဒီမိန်းကလေးသည် အလွန် လှပလာပြီး နှစ်တွေဘယ်လောက်ကြာကြာ နဲနဲလေးမှ အိုမင်းမသွားပါ။"
+  },
+  {
+    "start": 340,
+    "end": 346,
+    "japanese": "ある 日 、 娘 は 村 から いなく なりました。",
+    "romanized": "Aru hi, musume wa mura kara inaku narimashita.",
+    "hiraganaKatakana": "ある ひ 、 むすめ は むら から いなく なりました。",
+    "myanmar": "တစ်နေ့မှာ သမီးသည် ရွာမှ ပျောက်သွားခဲ့ပါသည်။"
+  },
+  {
+    "start": 346,
+    "end": 358,
+    "japanese": "きっと あの 尼 さんの 家 に 行 った の だろう と 村人 たちは 噂 を した という こと です。",
+    "romanized": "Kitto ano ama no ie ni itta no darou to murabitotachi wa uwasa wo shita to iu koto desu.",
+    "hiraganaKatakana": "きっと あの あま さんの いえ に い った の だろう と むらびと たちは うわさ を した という こと です。",
+    "myanmar": "သေချာပေါက် အဲဒီသီလရှင်အိမ်ကို သွားတာဘဲဖြစ်လိမ့်မယ်လို့ ရွာသားတွေက ကောလဟာလ ပြောနေခဲ့ကြပါတော့သည်။"
+  }
+]
