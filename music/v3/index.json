@@ -1,6 +1,20 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/renai_circulation/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/renai_circulation/banner.png",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBd2oewvsUGV9OZ7lVgYuwkl8d3YP5AAKtHwACiy75VLbqLyiq4vQDOwQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/renai_circulation.json",
+    "name": "Renai Circulation 「恋愛サーキュレーション」",
+    "singer": "Kana Hanazawa",
+    "value": "Renai Circulation",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/niji/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/niji/banner.jpeg",
