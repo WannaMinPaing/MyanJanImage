@@ -1,18 +1,5 @@
 [
-  {
-    "backgroundImage":
-      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/akumanoko/poster.jpeg",
-    "image":
-      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/akumanoko/banner.jpeg",
-    "mp3_id":
-      "CQACAgUAAyEFAASH9k8OAAIBeWouLQwqEOHGgDyadnK8x1a-sRD6AAL6IAAD-XBV0opBl9Ixh6o8BA",
-    "lyricsUrl":
-      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/sparkle.json",
-    "name": "悪魔の子 (Akuma no Ko)",
-    "singer": "Ai Higuchi",
-    "value": "Akuma no Ko",
-    "is_free": false
-  },
+  
   {
     "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/akumanoko/poster.jpeg",
