@@ -1,6 +1,16 @@
 [
   {
     "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/kawashima_lonely_summer_break/image.jpeg",
+    "subtitleUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/kawashima_lonely_summer_break/subtitle.json",
+    "name": "ခါဝရှီမရဲ့ အထီးကျန်စရာကောင်းတဲ့ နွေရာသီပိတ်ရက်",
+    "youtube_id": "dhAVmzOhMzQ",
+    "time": "8:20",
+    "is_free": false
+  },
+  {
+    "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/mermaid/image.png",
     "subtitleUrl":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/mermaid/subtitle.json",
