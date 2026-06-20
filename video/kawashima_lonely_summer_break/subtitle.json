@@ -1,0 +1,610 @@
+[
+    {
+        "start": 41,
+        "end": 45,
+        "japanese": "夏休 みって すっごく 楽 しいけど",
+        "romanized": "natsuyasu mitte suggoku tano shiikedo",
+        "hiraganaKatakana": "なつやす みって すっごく たの しいけど",
+        "myanmar": "နွေရာသီပိတ်ရက်ဆိုတာ တကယ်ကို ပျော်စရာကောင်းတဲ့ဟာကို"
+    },
+    {
+        "start": 46,
+        "end": 47,
+        "japanese": "何 だろう",
+        "romanized": "nan darou",
+        "hiraganaKatakana": "なん だろう",
+        "myanmar": "ဘာများပါလိမ့်"
+    },
+    {
+        "start": 49,
+        "end": 52,
+        "japanese": "どっか 寂 しい",
+        "romanized": "dokka sami shii",
+        "hiraganaKatakana": "どっか さみ しい",
+        "myanmar": "ဘယ်လိုမျိုးလဲမသိဘူး အထီးကျန်စရာကြီး"
+    },
+    {
+        "start": 57,
+        "end": 60,
+        "japanese": "川島 寂 しい 夏休 み",
+        "romanized": "kawashima sami shii natsuyasu mi",
+        "hiraganaKatakana": "かわしま さみ しい なつやす み",
+        "myanmar": "ခါဝရှီမရဲ့ အထီးကျန်စရာကောင်းတဲ့ နွေရာသီပိတ်ရက်"
+    },
+    {
+        "start": 68,
+        "end": 73.9,
+        "japanese": "心 に ぽっかり 穴 が 開 いたような",
+        "romanized": "kokoro ni pokkari ana ga a itayouna",
+        "hiraganaKatakana": "こころ に ぽっかり あな が あ いたような",
+        "myanmar": "နှလုံးသားမှာအပေါက်အကျယ်ကြီး ပွင့်နေတဲ့ပုံမျိုးနဲ့"
+    },
+    {
+        "start": 77,
+        "end": 79,
+        "japanese": "あ、 柚彦",
+        "romanized": "a, yuzuhiko",
+        "hiraganaKatakana": "あ、 ゆずひこ",
+        "myanmar": "အာ ယူဇုဟိခို"
+    },
+    {
+        "start": 84,
+        "end": 87,
+        "japanese": "柚彦 に 会 いたいな",
+        "romanized": "yuzuhiko ni a itaina",
+        "hiraganaKatakana": "ゆずひこ に あ いたいな",
+        "myanmar": "ယူဇုဟိခိုနဲ့ တွေ့ချင်လိုက်တာနော်"
+    },
+    {
+        "start": 109,
+        "end": 111,
+        "japanese": "柚彦 に 会 いたい",
+        "romanized": "yuzuhiko ni a itai",
+        "hiraganaKatakana": "ゆずひこ に あ いたいな",
+        "myanmar": "ယူဇုဟိခိုနဲ့ တွေ့ချင်လိုက်တာနော်"
+    },
+    {
+        "start": 119,
+        "end": 123,
+        "japanese": "始業式 まであと 23 日",
+        "romanized": "shigyoushiki madeato 23 nichi",
+        "hiraganaKatakana": "しぎょうしき まであと 23 にち",
+        "myanmar": "ကျောင်းဖွင့်ပွဲအထိ နောက်ထပ် ၂၃ ရက်"
+    },
+    {
+        "start": 126,
+        "end": 129,
+        "japanese": "ああ 柚彦",
+        "romanized": "aa yuzuhiko",
+        "hiraganaKatakana": "ああ ゆずひこ",
+        "myanmar": "အာ ယူဇုဟိခို"
+    },
+    {
+        "start": 150,
+        "end": 155,
+        "japanese": "偶然街 で ばったりなんてこと 絶対 ないと 思 うけど",
+        "romanized": "guuzenmachi debattarinantekoto zettai naito omo ukedo",
+        "hiraganaKatakana": "ぐうぜんまち で ばったりなんてこと ぜったい ないと おも うけど",
+        "myanmar": "တိုက်တိုက်ဆိုင်ဆိုင် မြို့ထဲမှာရုတ်တရက်တွေ့မယ်ဆိုတာမျိုးကလည်း လုံးဝမဖြစ်နိုင်ဘူးလို့ထင်မိပေမယ့်"
+    },
+    {
+        "start": 158,
+        "end": 162,
+        "japanese": "柚彦 もアイス 買 いに 来 たりにして",
+        "romanized": "yuzuhiko moaisu ka ini ki tarinishite",
+        "hiraganaKatakana": "ゆずひこ もアイス か いに き たりして",
+        "myanmar": "ယူဇုဟိခိုလည်းရေခဲမုန့်ဝယ်ဖို့လာတာမျိုးဆိုရင်"
+    },
+    {
+        "start": 162,
+        "end": 166,
+        "japanese": "あ＿や。ないか",
+        "romanized": "a_ya. naika",
+        "hiraganaKatakana": "あ＿や。ないか",
+        "myanmar": "အာ မဖြစ်နိုင်ပါဘူး"
+    },
+    {
+        "start": 169,
+        "end": 174,
+        "japanese": "でも もしかして 太 すれ 違 ったり 何 てことが",
+        "romanized": "demo moshikashite fu tosure chiga ttari nan tekotoga",
+        "hiraganaKatakana": "でも もしかして ふと すれ ちが ったり なん てことが",
+        "myanmar": "ဒါပေမဲ့ တကယ်လို့များ ဘေးကပ်ရပ်ကနေဖြတ်သွားတာမျိုးလည်း"
+    },
+    {
+        "start": 174,
+        "end": 175,
+        "japanese": "ある",
+        "romanized": "aru",
+        "hiraganaKatakana": "ある",
+        "myanmar": "ဖြစ်နိုင်တယ်"
+    },
+    {
+        "start": 175,
+        "end": 178,
+        "japanese": "いや、ないね",
+        "romanized": "iya, naine",
+        "hiraganaKatakana": "いや、ないね",
+        "myanmar": "ဟင့်အင်း၊ မဖြစ်နိုင်ဘူးနော်"
+    },
+    {
+        "start": 193,
+        "end": 195,
+        "japanese": "ああ、いないかな",
+        "romanized": "aa, inaikana",
+        "hiraganaKatakana": "ああ、いないかな",
+        "myanmar": "အာ၊ မရှိဘူးလားနော်"
+    },
+    {
+        "start": 200,
+        "end": 204,
+        "japanese": "さて、 今月 の 星占 いは",
+        "romanized": "sate, kongetsu no hoshiurana iha",
+        "hiraganaKatakana": "さて、 こんげつ の ほしうらな いは",
+        "myanmar": "ကဲ ဒီလရဲ့နက္ခတ်ဗေဒင်"
+    },
+    {
+        "start": 219,
+        "end": 221,
+        "japanese": "あの、これ",
+        "romanized": "ano, kore",
+        "hiraganaKatakana": "あの、これ",
+        "myanmar": "ဟို၊ ဒါယူပါမယ်"
+    },
+    {
+        "start": 221,
+        "end": 222,
+        "japanese": "はい",
+        "romanized": "hai",
+        "hiraganaKatakana": "はい",
+        "myanmar": "ဟုတ်ကဲ့"
+    },
+    {
+        "start": 223,
+        "end": 226,
+        "japanese": "720 円 になります",
+        "romanized": "720 en ninarimasu",
+        "hiraganaKatakana": "720 えん になります",
+        "myanmar": "၇၂၀ယန်းကျပါမယ်"
+    },
+    {
+        "start": 227,
+        "end": 233,
+        "japanese": "柚彦 がよく 来 る 本屋 さんだから ちょっとだけいるかなって 思 ちゃったけど",
+        "romanized": "yuzuhiko gayoku ku ru honya sandakara chottodakeirukanatte omo chattadakedo",
+        "hiraganaKatakana": "ゆずひこ がよく く る ほんや さんだから ちょっとだけいるかなって おも ちゃったけど",
+        "myanmar": "ယူဇုဟိခိုကမကြာခဏလာတဲ့စာအုပ်ဆိုင်မိုလို့ ရှိများရှိမလားလို့တွေးခဲ့မိပေမယ့်"
+    },
+    {
+        "start": 233,
+        "end": 236,
+        "japanese": "はい、ありがとうございました",
+        "romanized": "hai, arigatougozaimashita",
+        "hiraganaKatakana": "はい、ありがとうございました",
+        "myanmar": "ဟုတ်ကဲ့၊ ကျေးဇူးတင်ပါတယ်ဗျ"
+    },
+    {
+        "start": 240,
+        "end": 247,
+        "japanese": "いないよね。 当 たり 前 だけど",
+        "romanized": "inaiyone. a tari mae dakedo",
+        "hiraganaKatakana": "いないよね。 あ たり まえ だけど",
+        "myanmar": "မရှိဘူးပဲနော်။ သာမန်ပဲဆိုပေမယ့်"
+    },
+    {
+        "start": 250,
+        "end": 254,
+        "japanese": "私 何 してんのかしら？ 会 えるわけないのに",
+        "romanized": "watashinani shitennokashira? a eruwakenainoni",
+        "hiraganaKatakana": "わたし なに してんのかしら？ あ えるわけないのに",
+        "myanmar": "ငါဘာတွေလုပ်နေတာပါလိမ့်။ တွေ့စရာအကြောင်းမရှိတာကို"
+    },
+    {
+        "start": 255,
+        "end": 259,
+        "japanese": "でも もし もしもだけど ばったり 会 えるとしたら ",
+        "romanized": "demo moshi moshimodakedo battari a erutoshitara",
+        "hiraganaKatakana": "でも もし もしもだけど ばったり あ えるとしたら",
+        "myanmar": "ဒါပေမဲ့ တကယ်လို့များ တကယ်လို့များ ရုတ်တရက်တွေ့ခဲ့မယ်ဆိုရင်"
+    },
+    {
+        "start": 259,
+        "end": 262,
+        "japanese": "どんな 風 に 会 うのが 最高 かな",
+        "romanized": "donna fuu ni a unoga saikou kana",
+        "hiraganaKatakana": "どんな ふう に あ うのが さいこう かな",
+        "myanmar": "ဘယ်လိုအငွေ့အသက်မျိုးနဲ့ ဆုံတွေ့တာက အကောင်းဆုံးဖြစ်မလဲနော်"
+    },
+    {
+        "start": 262,
+        "end": 268,
+        "japanese": "うん、そうだね。 極々自然 な 感 じで 例 えば",
+        "romanized": "un, soudane. gokugokushizen na ka njide tato eba",
+        "hiraganaKatakana": "うん、そうだね。 ごくごくしぜん な かん じで たと えば",
+        "myanmar": "အင်း၊ ဟုတ်သားပဲနော်။ တကယ့်ကိုသဘာဝကျတဲ့ပုံစံမျိုးနဲ့ ဥပမာပြောရမယ်ဆိုရင်"
+    },
+    {
+        "start": 278,
+        "end": 280,
+        "japanese": "大丈夫 ですか？ お 嬢様",
+        "romanized": "daijoubu desuka? o jousama",
+        "hiraganaKatakana": "だいじょうぶ ですか？ お じょうさま",
+        "myanmar": "အဆင်ပြေရဲ့လား မင်းသမီးလေး"
+    },
+    {
+        "start": 281,
+        "end": 282,
+        "japanese": "は、いい",
+        "romanized": "ha, ii",
+        "hiraganaKatakana": "は、いい",
+        "myanmar": "အာ အဆင်ပြေပါတယ်"
+    },
+    {
+        "start": 283,
+        "end": 284,
+        "japanese": "よかった",
+        "romanized": "yokatta",
+        "hiraganaKatakana": "よかった",
+        "myanmar": "တော်သေးတာပေါ့"
+    },
+    {
+        "start": 287,
+        "end": 290,
+        "japanese": "いや いや いや、 全然自然 じゃないし",
+        "romanized": "iya iya iya, zenzenshizen janaishi",
+        "hiraganaKatakana": "いや いや いや、 ぜんぜんしぜん じゃないし",
+        "myanmar": "ဟင့်အင်း ဟင့်အင်း ဟင့်အင်း၊ လုံးဝသဘာဝမကျဘူးပဲ"
+    },
+    {
+        "start": 306,
+        "end": 311,
+        "japanese": "待 って。 私 完全 に 柚彦 を 捜索 しちゃてるじゃない",
+        "romanized": "ma tte. watashikanzen ni yuzuhiko wo sousaku shichaterujanai",
+        "hiraganaKatakana": "ま って。 わたし かんぜん に ゆずひこ を そうさく しちゃてるじゃない",
+        "myanmar": "နေပါဦး။ ငါအတည်ကြီးယူဇုဟိခိုကို ရှာနေမိတာမဟုတ်ဘူးလား"
+    },
+    {
+        "start": 311,
+        "end": 313,
+        "japanese": "もう 帰 ろう",
+        "romanized": "mou kae rou",
+        "hiraganaKatakana": "もう かえ ろう",
+        "myanmar": "ကဲ ပြန်ကြတာပေါ့လေ"
+    },
+    {
+        "start": 317,
+        "end": 321,
+        "japanese": "柚彦 は 今頃 どこで 何 をしているのかな",
+        "romanized": "yuzuhiko ha imagoro dokode nani woshiteirunokana",
+        "hiraganaKatakana": "ゆずひこ は いまごろ どこで なに をしているのかな",
+        "myanmar": "ယူဇုဟိခိုက အခုလောက်ဆို ဘယ်မှာ ဘာတွေလုပ်နေလောက်မလဲနော်"
+    },
+    {
+        "start": 327,
+        "end": 329,
+        "japanese": "何 してんの？",
+        "romanized": "nani shitenno",
+        "hiraganaKatakana": "なに してんの？",
+        "myanmar": "ဘာလုပ်နေတာလဲ"
+    },
+    {
+        "start": 329,
+        "end": 331,
+        "japanese": "ポテチは コンソメだよな",
+        "romanized": "potechiha konsomedayona",
+        "hiraganaKatakana": "ポテチは コンソメだよな",
+        "myanmar": "အာလူးကြော်က ကွန်ဆွမ်မီအရသာပဲနော်"
+    },
+    {
+        "start": 332,
+        "end": 335,
+        "japanese": "いやいや、 何言 ってんだよ？ それじゃなくて",
+        "romanized": "iyaiya, nanii ttendayo? sorejanakute",
+        "hiraganaKatakana": "いやいや、 なにい ってんだよ？ それじゃなくて",
+        "myanmar": "ဟင့်အင်း ဟင့်အင်း၊ ဘာတွေပြောနေတာလဲ။ အဲ့တာမဟုတ်ဘဲ"
+    },
+    {
+        "start": 337,
+        "end": 343,
+        "japanese": "えっと、これこれ。1 番 うまいのはこれっしょ",
+        "romanized": "etto, korekore. 1 ban umainohakoressho",
+        "hiraganaKatakana": "えっと、これこれ。1 ばん うまいのはこれっしょ",
+        "myanmar": "အဲ...ဒီဟာ ဒီဟာ။ အရသာအရှိဆုံးက ဒီဟာလေ"
+    },
+    {
+        "start": 344,
+        "end": 347,
+        "japanese": "お 前 塩 が 好 きなの？",
+        "romanized": "o maeshio ga su kinano",
+        "hiraganaKatakana": "お まえ しお が す きなの？",
+        "myanmar": "မင်းကငန်တဲ့အရသာကြိုက်လို့လား"
+    },
+    {
+        "start": 352,
+        "end": 354,
+        "japanese": "塩 だろうかよ",
+        "romanized": "shio daroukayo",
+        "hiraganaKatakana": "しお だろうかよ",
+        "myanmar": "ငန်တဲ့အရသာမယူဘူးလား"
+    },
+    {
+        "start": 354,
+        "end": 355,
+        "japanese": "コンソメだろ",
+        "romanized": "konsomedaro",
+        "hiraganaKatakana": "コンソメだろ",
+        "myanmar": "ကွန်ဆွမ်မီအရသာလေ"
+    },
+    {
+        "start": 355,
+        "end": 356,
+        "japanese": "塩 だろ",
+        "romanized": "shio daro",
+        "hiraganaKatakana": "しお だろ",
+        "myanmar": "ငန်တဲ့အရသာလေ"
+    },
+    {
+        "start": 357,
+        "end": 359,
+        "japanese": "コンソメ 一 択",
+        "romanized": "konsomeit taku",
+        "hiraganaKatakana": "コンソメ いっ たく",
+        "myanmar": "ကွန်ဆွမ်မီက အကောင်းဆုံးရွေးချယ်မှုပဲ"
+    },
+    {
+        "start": 359,
+        "end": 363,
+        "japanese": "何 でだよ？ て、どっちも 買 わないのかよ",
+        "romanized": "nan dedayo? te, docchimo ka wanainokayo",
+        "hiraganaKatakana": "なん でだよ？ て、どっちも か わないのかよ",
+        "myanmar": "ဘာကြီးလဲ? ဟမ်၊ တစ်ခုမှမဝယ်တော့ဘူးလား"
+    },
+    {
+        "start": 364,
+        "end": 365,
+        "japanese": "じゃ、 俺本屋寄 って 帰 るから",
+        "romanized": "ja, orehonyayo tte kae rukara",
+        "hiraganaKatakana": "じゃ、 おれほんやよ って かえ るから",
+        "myanmar": "ကဲ၊ ငါစာအုပ်ဆိုင်ကို လမ်းကြုံဝင်ပြီးရင် အိမ်ပြန်တော့မှာမိုလို့"
+    },
+    {
+        "start": 366,
+        "end": 367,
+        "japanese": "マジかよ",
+        "romanized": "majikayo",
+        "hiraganaKatakana": "マジかよ",
+        "myanmar": "တကယ်ကြီးလား"
+    },
+    {
+        "start": 367,
+        "end": 368,
+        "japanese": "またな",
+        "romanized": "matana",
+        "hiraganaKatakana": "またな",
+        "myanmar": "နောက်မှတွေ့မယ်"
+    },
+    {
+        "start": 379,
+        "end": 382,
+        "japanese": "本屋 さん、 今日 2 回目",
+        "romanized": "honya san, kyou 2 kaime",
+        "hiraganaKatakana": "ほんや さん、 きょう 2 かいめ",
+        "myanmar": "စာအုပ်ဆိုင်၊ ဒီနေ့နဲ့တင် နှစ်ခါမြောက်"
+    },
+    {
+        "start": 382,
+        "end": 385,
+        "japanese": "ここに いなかったら もう 帰 ろう",
+        "romanized": "kokoni inakattara moukaerou",
+        "hiraganaKatakana": "ここに いなかったら もう かえ ろう",
+        "myanmar": "ဒီမှာမရှိဘူးဆိုရင် ပြန်ကြတာပေါ့"
+    },
+    {
+        "start": 391,
+        "end": 394,
+        "japanese": "お いた",
+        "romanized": "o ita",
+        "hiraganaKatakana": "お いた",
+        "myanmar": "အို့ ရှိတာပဲ"
+    },
+    {
+        "start": 398,
+        "end": 400.4,
+        "japanese": "どどどうしよう？",
+        "romanized": "dododoushiyou",
+        "hiraganaKatakana": "どどどうしよう？",
+        "myanmar": "ဘယ်ဘယ်ဘယ်လိုလုပ်ကြမလဲ"
+    },
+    {
+        "start": 400,
+        "end": 401,
+        "japanese": "逃 げなきゃ",
+        "romanized": "ni genakya",
+        "hiraganaKatakana": "に げなきゃ",
+        "myanmar": "မပြေးလို့မဖြစ်ဘူး"
+    },
+    {
+        "start": 402,
+        "end": 404,
+        "japanese": "あれ？ 今 の 川島 だよな",
+        "romanized": "are? ima no kawashima dayona",
+        "hiraganaKatakana": "あれ？ いま の かわしま だよな",
+        "myanmar": "အယ် အခုမြင်လိုက်ရတာ ခါဝရှီမများလား"
+    },
+    {
+        "start": 409,
+        "end": 412,
+        "japanese": "やばい。 奇跡起 きた。どうしよう",
+        "romanized": "yabai. kisekio kita. doushiyou",
+        "hiraganaKatakana": "やばい。 きせきお きた。どうしよう",
+        "myanmar": "မကောင်းတော့ဘူး။ မထင်ထားတာတွေဖြစ်ကုန်ပြီ။ ဘယ်လိုလုပ်ရမလဲ"
+    },
+    {
+        "start": 412,
+        "end": 417,
+        "japanese": "ああ、 神様、私 に 店内 に 戻 る 勇気 をください",
+        "romanized": "aa, kamisama, watashi ni tennai ni modo ru yuuki wokudasai",
+        "hiraganaKatakana": "ああ、 かみさま、わたし に てんない に もど る ゆうき をください",
+        "myanmar": "အား.. ဘုရားရေ၊ ကျွန်တော်မျိုးမကို ဆိုင်ထဲပြန်သွားဖို့ သတ္တိများပေးစွမ်းတော်မူပါ"
+    },
+    {
+        "start": 417,
+        "end": 421,
+        "japanese": "そして あの 人 と 自然 な 感 じで 合 わせてください",
+        "romanized": "soshite ano hito to shizen na kan jide a wasetekudasai",
+        "hiraganaKatakana": "そして あの ひと と しぜん な かん じで あ わせてください",
+        "myanmar": "အဲ့တာပြီးတော့ ဟိုလူနဲ့ သဘာဝဆန်ဆန်ခံစားချက်လေးနဲ့ တွေ့ဆုံခွင့်ပေးပါရှင့်"
+    },
+    {
+        "start": 422,
+        "end": 424,
+        "japanese": "例 えば こんな",
+        "romanized": "tato eba konna",
+        "hiraganaKatakana": "たと えば こんな",
+        "myanmar": "ဥပမာဆိုရင် ဒီလိုမျိုး"
+    },
+    {
+        "start": 425,
+        "end": 429,
+        "japanese": "あの 人 が 好 きそうな 棚 の 前 にいれば 偶然",
+        "romanized": "ano hito ga su kisouna tana no mae niireba guuzen",
+        "hiraganaKatakana": "あの ひと が す きそうな たな の まえ にいれば ぐうぜん",
+        "myanmar": "ဟိုလူကြိုက်လောက်မဲ့စာအုပ်စင်ရဲ့ရှေ့မှာငါရှိနေမယ်ဆိုရင် တိုက်တိုက်ဆိုင်ဆိုင်"
+    },
+    {
+        "start": 429,
+        "end": 431,
+        "japanese": "すでに 偶然 じゃないけど",
+        "romanized": "sudeni guuzen janaikedo",
+        "hiraganaKatakana": "すでに ぐうぜん じゃないけど",
+        "myanmar": "တိုက်ဆိုင်မှုတော့ မဟုတ်တော့ဘူးဆိုပေမယ့်"
+    },
+    {
+        "start": 432,
+        "end": 433,
+        "japanese": "お 川島",
+        "romanized": "o kawashima",
+        "hiraganaKatakana": "お かわしま",
+        "myanmar": "အို့ ခါဝရှီမ"
+    },
+    {
+        "start": 434,
+        "end": 435,
+        "japanese": "あ",
+        "romanized": "a",
+        "hiraganaKatakana": "あ",
+        "myanmar": "အာ"
+    },
+    {
+        "start": 435,
+        "end": 437,
+        "japanese": "川島 SF とか 好 きなの",
+        "romanized": "kawashima SF toka su kinano",
+        "hiraganaKatakana": "かわしま SF とか す きなの",
+        "myanmar": "ခါဝရှီမ SF တွေဘာတွေကြိုက်တာလား"
+    },
+    {
+        "start": 437,
+        "end": 439,
+        "japanese": "うん、ちょっとだけ",
+        "romanized": "un, chottodake",
+        "hiraganaKatakana": "うん、ちょっとだけ",
+        "myanmar": "အင်း၊ နည်းနည်းပါပဲ"
+    },
+    {
+        "start": 439,
+        "end": 440,
+        "japanese": "ええ",
+        "romanized": "ee",
+        "hiraganaKatakana": "ええ",
+        "myanmar": "အင်း"
+    },
+    {
+        "start": 440,
+        "end": 443,
+        "japanese": "ね、 立花君 が 読 んでた 本 はどれ？",
+        "romanized": "ne, tachibanakun ga yo ndeta hon hadore",
+        "hiraganaKatakana": "ね、 たちばなくん が よ んでた ほん はどれ？",
+        "myanmar": "ဟေး၊ တချိဘနဖတ်နေတဲ့စာအုပ်က ဘယ်ဟာလဲ"
+    },
+    {
+        "start": 444,
+        "end": 445,
+        "japanese": "あれは、ね",
+        "romanized": "areha, ne",
+        "hiraganaKatakana": "あれは、ね",
+        "myanmar": "အဲ့တာက.."
+    },
+    {
+        "start": 449,
+        "end": 450,
+        "japanese": "柚彦",
+        "romanized": "yuzuhiko",
+        "hiraganaKatakana": "ゆずひこ",
+        "myanmar": "ယူဇုဟိခို"
+    },
+    {
+        "start": 454,
+        "end": 456,
+        "japanese": "来 るわけないか",
+        "romanized": "ku ruwakenaika",
+        "hiraganaKatakana": "く るわけないか",
+        "myanmar": "လာစရာအကြောင်းမရှိဘူးများလား"
+    },
+    {
+        "start": 459,
+        "end": 461,
+        "japanese": "600 円 になります",
+        "romanized": "600 en ninarimasu",
+        "hiraganaKatakana": "600 えん になります",
+        "myanmar": "၆၀၀ယန်း ကျပါမယ်"
+    },
+    {
+        "start": 461,
+        "end": 463,
+        "japanese": "1000 円 お 預 かりします",
+        "romanized": "1000 en o azu karishimasu",
+        "hiraganaKatakana": "1000 えん お あず かりします",
+        "myanmar": "၁၀၀၀ယန်းယူထားပါတယ်"
+    },
+    {
+        "start": 463,
+        "end": 465,
+        "japanese": "さっきの やっぱ 川島 だよな",
+        "romanized": "sakkino yappa kawashima dayona",
+        "hiraganaKatakana": "さっきの やっぱ かわしま だよな",
+        "myanmar": "စောနတုန်းက သေချာပေါက် ခါဝရှီမပဲမဟုတ်လား"
+    },
+    {
+        "start": 472,
+        "end": 473,
+        "japanese": "いた",
+        "romanized": "ita",
+        "hiraganaKatakana": "いた",
+        "myanmar": "ရှိတာပဲ"
+    },
+    {
+        "start": 477,
+        "end": 478,
+        "japanese": "柚彦",
+        "romanized": "yuzuhiko",
+        "hiraganaKatakana": "ゆずひこ",
+        "myanmar": "ယူဇုပိ"
+    },
+    {
+        "start": 479,
+        "end": 480,
+        "japanese": "嘘 でした",
+        "romanized": "uso deshita",
+        "hiraganaKatakana": "うそ でした",
+        "myanmar": "လိမ်ညာခဲ့တာပဲ"
+    },
+    {
+        "start": 495,
+        "end": 496,
+        "japanese": "お 手振 りされた",
+        "romanized": "o tebu risareta",
+        "hiraganaKatakana": "お てぶり された",
+        "myanmar": "လက်ယမ်းပြခံလိုက်ရတယ်"
+    }
+]
