@@ -1,0 +1,1010 @@
+[
+    {
+        "start": 3,
+        "end": 7,
+        "japanese": "最近 どこに 行 っても 誰 かが 私 を 見 ている",
+        "romanized": "saikin dokoni i ttemo dare kaga watashi wo mi teiru",
+        "hiraganaKatakana": "さいきん どこに い っても だれ かが わたし を み ている",
+        "myanmar": "အခုတလော ဘယ်ကိုပဲသွားသွား၊ တစ်ယောက်ယောက်က ငါ့ကိုကြည့်နေတယ်"
+    },
+    {
+        "start": 7,
+        "end": 11,
+        "japanese": "毎日 出会 ったことのない 誰 かが 目 の 前 に 現 れて",
+        "romanized": "mainichi dea ttakotononai dare kaga me no mae ni arawa rete",
+        "hiraganaKatakana": "まいにち であ ったことのない だれ かが め の まえ に あらわ れて",
+        "myanmar": "မတွေ့ဖူးတဲ့တစ်ယောက်ယောက်က နေ့တိုင်း မျက်စိရှေ့မှာ ပေါ်ပေါ်လာပြီး"
+    },
+    {
+        "start": 12,
+        "end": 15,
+        "japanese": "何 かを 言 いたげな 顔 でじっと",
+        "romanized": "nani kawo i itagena kao dejitto",
+        "hiraganaKatakana": "なに かを い いたげな かお でじっと",
+        "myanmar": "တစ်ခုခုကို ပြောချင်နေတဲ့မျက်နှာနဲ့ စူးစိုက်ပြီးတော့"
+    },
+    {
+        "start": 15,
+        "end": 17,
+        "japanese": "私 のことを 見 ているのだ",
+        "romanized": "watashi nokotowo mi teirunoda",
+        "hiraganaKatakana": "わたし のことを み ているのだ",
+        "myanmar": "ငါ့ကိုကြည့်နေတာပဲ"
+    },
+    {
+        "start": 20,
+        "end": 22,
+        "japanese": "あの 子誰 ？ 見 たことないね",
+        "romanized": "anoko dare ? mi takotonaine",
+        "hiraganaKatakana": "あの こだれ ？ み たことないね",
+        "myanmar": "အဲ့ကလေးမက ဘယ်သူတုန်း။ မတွေ့ဖူးဘူးနော်"
+    },
+    {
+        "start": 23,
+        "end": 25,
+        "japanese": "ね、ネネは 何 を 望 んでいるの？",
+        "romanized": "ne, nenewa nani wo nozo ndeiruno?",
+        "hiraganaKatakana": "ね、ネネは なに を のぞ んでいるの？",
+        "myanmar": "ဟိတ်၊ Nene က ဘာကိုမျှော်လင့်တောင့်တနေတာလဲဟင်"
+    },
+    {
+        "start": 29,
+        "end": 32,
+        "japanese": "何 で 私 の 名前知 っているの？",
+        "romanized": "nan de watashi no namaeshi tteiruno?",
+        "hiraganaKatakana": "なん で わたし の なまえし っているの？",
+        "myanmar": "ဘာလို့ ငါ့ရဲ့နာမည်ကို သိနေတာလဲ"
+    },
+    {
+        "start": 40,
+        "end": 46,
+        "japanese": "あの、 何 かよう。。 何 かの 団体 なの 君 たちは？",
+        "romanized": "ano, nani kayou.. nani kano dantai no kimi tachiwa?",
+        "hiraganaKatakana": "あの、 なん かよう。。 なに かの だんたい なの きみ たちは？",
+        "myanmar": "ဟို၊ ဘာပါလိမ့်... ဘယ်အဖွဲ့အစည်းမျိုးလဲ နင်တို့တွေက"
+    },
+    {
+        "start": 47,
+        "end": 50,
+        "japanese": "君 たち？",
+        "romanized": "kimi tachi",
+        "hiraganaKatakana": "きみ たち？",
+        "myanmar": "နင်တို့တွေ?"
+    },
+    {
+        "start": 51,
+        "end": 52,
+        "japanese": "私",
+        "romanized": "watashi",
+        "hiraganaKatakana": "わたし",
+        "myanmar": "ငါ"
+    },
+    {
+        "start": 54,
+        "end": 57,
+        "japanese": "あ、 あの、 私 クラス 戻 るね",
+        "romanized": "a, ano, watashi kurasu modo rune",
+        "hiraganaKatakana": "あ、 あの、 わたし クラス もど るね",
+        "myanmar": "အာ၊ ဟို၊ ငါအတန်းထဲပြန်သွားတော့မယ်နော်"
+    },
+    {
+        "start": 76,
+        "end": 79,
+        "japanese": "私 一人 なんだ",
+        "romanized": "watashi hitori nanda",
+        "hiraganaKatakana": "わたし ひとり なんだ",
+        "myanmar": "ငါက တစ်ယောက်တည်းပဲ"
+    },
+    {
+        "start": 79,
+        "end": 82,
+        "japanese": "一 つ って 言 うのかな？",
+        "romanized": "itotsu tteiunokana?",
+        "hiraganaKatakana": "ひと つ って い うのかな？",
+        "myanmar": "'တစ်ခု'လို့ပြောရမလားနော်"
+    },
+    {
+        "start": 83,
+        "end": 88,
+        "japanese": "一定 時間 しか 体 を 保 てなくてどんどん 形 が 変 わっていってしまう",
+        "romanized": "ittei jikan shika karada wo tamo tenakutedondon katachi ga ka watteitteshimau",
+        "hiraganaKatakana": "いってい じかん しか からだ を たも てなくてどんどん かたち が か わっていってしまう",
+        "myanmar": "သတ်မှတ်ထားတဲ့အချိန်ကလွဲရင် ခန္ဓာကိုယ်ကို မထိန်းထားဘဲ တဖြည်းဖြည်း ပုံသဏ္ဍာန်က ပြောင်းသွားရော"
+    },
+    {
+        "start": 89,
+        "end": 93,
+        "japanese": "ね、ネネ。 君 と 話 がしたかたんだ",
+        "romanized": "ne, nene. kimi to hanashi gashitakatanda",
+        "hiraganaKatakana": "ね、ネネ。 きみ と はなし がしたかたんだ",
+        "myanmar": "ဟိတ်၊ Nene။ နင်နဲ့စကားပြောချင်ခဲ့တာ"
+    },
+    {
+        "start": 96,
+        "end": 99,
+        "japanese": "それからもその 子 は 毎日 私 に 会 いに 来 た",
+        "romanized": "sorekaramosono ko wa mainichiwatashi ni a ini ki ta",
+        "hiraganaKatakana": "それからもその こ は まいにち わたし に あ いに き た",
+        "myanmar": "အဲ့အချိန်ကစပြီး အဲ့ဒီကလေးမက နေ့တိုင်း ငါ့ကိုတွေ့ဖို့လာခဲ့တယ်"
+    },
+    {
+        "start": 100,
+        "end": 103,
+        "japanese": "クラスメイトは 毎日 違 う 子 と 話 している 私 を",
+        "romanized": "kurasumeitowa mainichichiga u ko to hana shiteiru watashi wo",
+        "hiraganaKatakana": "クラスメイトは まいにち ちが う こ と はな している わたし を",
+        "myanmar": "အတန်းဖော်တွေက နေ့တိုင်း မတူတဲ့ကလေးမနဲ့ စကားပြောနေတဲ့ငါ့ကို"
+    },
+    {
+        "start": 103,
+        "end": 106,
+        "japanese": "おかしいと 思 っているようだったけど",
+        "romanized": "okashiito omo tteiruyoudattakedo",
+        "hiraganaKatakana": "おかしいと おも っているようだったけど",
+        "myanmar": "ထူးဆန်းတယ်လို့ ထင်နေကြတဲ့ပုံပဲဆိုပေမယ့်"
+    },
+    {
+        "start": 106,
+        "end": 109,
+        "japanese": "私 は クラスで 長 らく 話 す 人 は いなかったから",
+        "romanized": "watashi wakurasude naga raku hana su hito wainakattakara",
+        "hiraganaKatakana": "わたし は クラスで なが らく はな す ひと は いなかったから",
+        "myanmar": "ငါက အတန်းထဲမှာ ခပ်ကြာကြာစကားပြောစရာလူမရှိတာမိုလို့"
+    },
+    {
+        "start": 110,
+        "end": 111,
+        "japanese": "一人 よりマシだった",
+        "romanized": "hitori yorimashidatta",
+        "hiraganaKatakana": "ひとり よりマシだった",
+        "myanmar": "တစ်ယောက်တည်းထက်စာရင်တော့ ပိုကောင်းတာပေါ့"
+    },
+    {
+        "start": 112,
+        "end": 114,
+        "japanese": "沈黙気 まずいので",
+        "romanized": "chinmokuki mazuinode",
+        "hiraganaKatakana": "ちんもくき まずいので",
+        "myanmar": "တိတ်ဆိတ်နေတာက စိတ်ကသိကအောင့်ဖြစ်ရတာမိုလို့"
+    },
+    {
+        "start": 114,
+        "end": 117,
+        "japanese": "私 はしょうもないことを 話 すようになった",
+        "romanized": "watashi washoumonaikotowo hana suyouninatta",
+        "hiraganaKatakana": "わたし はしょうもないことを はな すようになった",
+        "myanmar": "ငါက ဘာမှလုပ်မရတဲ့အကြောင်းတွေကို ပြောဖြစ်ခဲ့တယ်"
+    },
+    {
+        "start": 118,
+        "end": 122,
+        "japanese": "すると だんだん その 子 も 友達 みたいに 話 してくれるようになって",
+        "romanized": "surutodandansono ko mo tomodachi mitaini hana shitekureruyouninatte",
+        "hiraganaKatakana": "すると だんだん その こ も ともだち みたいに はな してくれるようになって",
+        "myanmar": "အဲ့လိုနဲ့ တဖြည်းဖြည်း အဲ့ဒီကလေးမလည်း သူငယ်ချင်းလိုမျိုး စကားပြန်ပြောပေးခဲ့တယ်"
+    },
+    {
+        "start": 123,
+        "end": 125,
+        "japanese": "どうしてのかは よく わからないけれど",
+        "romanized": "doushitenokawayokuwakaranaikeredo",
+        "hiraganaKatakana": "どうしてのかは よく わからないけれど",
+        "myanmar": "ဘာလို့လဲဆိုတာ သေချာနားမလည်ပေမယ့်"
+    },
+    {
+        "start": 126,
+        "end": 130,
+        "japanese": "その 子 は 初 めに 会 った 頃 より 満足 げな 顔 をするようになっていた",
+        "romanized": "sono ko wa haji meni a tta koro yori manzoku gena kao wosuruyouninatteita",
+        "hiraganaKatakana": "その こ は はじ めに あ った ころ より まんぞく げな かお をするようになっていた",
+        "myanmar": "အဲ့ဒီကလေးမက အစကတွေ့တုန်းကထက် ကျေနပ်နေတဲ့မျက်နှာ ပိုပေါ်လာခဲ့တယ်"
+    },
+    {
+        "start": 132,
+        "end": 135,
+        "japanese": "そんなある 日 、 その 子 は 私 にこいう 問 いかけた",
+        "romanized": "sonnaaru hi, sono ko wa watashi nikoui to ikaketa",
+        "hiraganaKatakana": "そんなある ひ 、 その こ は わたし にこいう と いかけた",
+        "myanmar": "အဲ့တစ်နေ့တုန်းက အဲ့ဒီကလေးမက ငါ့ကိုဒီလိုမျိုး မေးလာခဲ့တယ်"
+    },
+    {
+        "start": 136,
+        "end": 140.2,
+        "japanese": "ねえ、 私 ネネが 望 めば 何 でもなれるよ",
+        "romanized": "nee, watashi nenega nozo meba nani demonareruyo",
+        "hiraganaKatakana": "ねえ、 わたし ネネが のぞ めば なに でもなれるよ",
+        "myanmar": "ဟိတ်၊ ငါကလေ Nene သာ ဆန္ဒရှိရင် ဘာမဆိုဖြစ်လာနိုင်တယ်လေ"
+    },
+    {
+        "start": 140,
+        "end": 141,
+        "japanese": "何 が 見 たい？",
+        "romanized": "nani ga mi tai?",
+        "hiraganaKatakana": "なに が み たい？",
+        "myanmar": "ဘာမြင်ချင်လဲ"
+    },
+    {
+        "start": 143,
+        "end": 147,
+        "japanese": "何 でもって。 じゃ、 現実 には ありえないものも",
+        "romanized": "nan demotte. ja, genjitsu niwaarienaimonomo",
+        "hiraganaKatakana": "なん でもって。 じゃ、 げんじつ には ありえないものも",
+        "myanmar": "ဘာမဆိုလို့ဆိုရင် လက်တွေ့ဘဝမှာ မရှိနိုင်တဲ့အရာမျိုးရော"
+    },
+    {
+        "start": 147,
+        "end": 148,
+        "japanese": "うん、なれるよ",
+        "romanized": "un, nareruyo",
+        "hiraganaKatakana": "うん、なれるよ",
+        "myanmar": "အင်း ဖြစ်လာနိုင်တယ်လေ"
+    },
+    {
+        "start": 149,
+        "end": 152,
+        "japanese": "じゃ、 空飛 ぶ 魚 とか",
+        "romanized": "ja, sorato bu sakana toka",
+        "hiraganaKatakana": "じゃ、 そらと ぶ さかな とが",
+        "myanmar": "အဲ့တာဆို မြေရှိုးမိုးပျံငါးတွေဘာတွေ"
+    },
+    {
+        "start": 152,
+        "end": 153,
+        "japanese": "わかった",
+        "romanized": "wakatta",
+        "hiraganaKatakana": "わかった",
+        "myanmar": "နားလည်ပြီ"
+    },
+    {
+        "start": 160,
+        "end": 161,
+        "japanese": "本当 になった",
+        "romanized": "hontou ninatta",
+        "hiraganaKatakana": "ほんとう になった",
+        "myanmar": "တကယ်ကြီး ဖြစ်လာတာပဲ"
+    },
+    {
+        "start": 162,
+        "end": 164,
+        "japanese": "何 でも なれるって 言 ったでしょ",
+        "romanized": "nan demonarerutte i ttadesho",
+        "hiraganaKatakana": "なん でも なれるって い ったでしょ",
+        "myanmar": "ဘာမဆို ဖြစ်လာနိုင်တယ်လို့ ပြောခဲ့တယ်မဟုတ်လား"
+    },
+    {
+        "start": 166,
+        "end": 167,
+        "japanese": "どうしたの？",
+        "romanized": "doushitano?",
+        "hiraganaKatakana": "どうしたの？",
+        "myanmar": "ဘာဖြစ်လို့လဲ"
+    },
+    {
+        "start": 174,
+        "end": 176,
+        "japanese": "この 手 が 気 になるの？",
+        "romanized": "kono te ga ki ninaruno?",
+        "hiraganaKatakana": "この て が き になるの？",
+        "myanmar": "ဒီလက်ကို စိတ်ထဲထင့်လာလို့လား"
+    },
+    {
+        "start": 179,
+        "end": 182,
+        "japanese": "ネネ、ピアノは もう 引 かないの？",
+        "romanized": "nene, pianowamou hi kanaino?",
+        "hiraganaKatakana": "ネネ、ピアノは もう ひ かないの？",
+        "myanmar": "Nene၊ စန္ဒရားက ထပ်ပြီးမတီးနိုင်တော့ဘူးပေါ့"
+    },
+    {
+        "start": 184,
+        "end": 186,
+        "japanese": "どうして それを？",
+        "romanized": "doushitesorewo?",
+        "hiraganaKatakana": "どうして それを？",
+        "myanmar": "ဘာလို့ အဲ့တာကို?"
+    },
+    {
+        "start": 190,
+        "end": 200,
+        "japanese": "すごいね。おめでとう。おめでとう。すごいね。おめでとう",
+        "romanized": "sugoine. omedetou. omedetou. sugoine. omedetou",
+        "hiraganaKatakana": "すごいね。おめでとう。おめでとう。すごいね。おめでとう",
+        "myanmar": "တော်လိုက်တာနော်။ ဂုဏ်ပြုပါတယ်။ ဂုဏ်ပြုပါတယ်။ တော်လိုက်တာနော်။ ဂုဏ်ပြုပါတယ်"
+    },
+    {
+        "start": 205,
+        "end": 207,
+        "japanese": "ネネは ピアノを 引 きたいんでしょう",
+        "romanized": "nenewapianowo hi kitaindeshou",
+        "hiraganaKatakana": "ネネは ピアノを ひ きたいんでしょう",
+        "myanmar": "Nene က စန္ဒရားကို တီးချင်တယ်မဟုတ်လား"
+    },
+    {
+        "start": 209,
+        "end": 210,
+        "japanese": "何 言 ってるの？",
+        "romanized": "nanii tteruno?",
+        "hiraganaKatakana": "なに い ってるの？",
+        "myanmar": "ဘာတွေပြောနေတာလဲဟင်"
+    },
+    {
+        "start": 211,
+        "end": 212,
+        "japanese": "この 指 見 てよ",
+        "romanized": "kono yubimi teyo",
+        "hiraganaKatakana": "この ゆび み てよ",
+        "myanmar": "ဒီလက်ချောင်းကိုကြည့်ဦးလေ"
+    },
+    {
+        "start": 214,
+        "end": 216,
+        "japanese": "元 のようには 一生 引 けない",
+        "romanized": "moto noyouniwa isshouhi kenai",
+        "hiraganaKatakana": "もと のようには いっしょう ひ けない",
+        "myanmar": "အရင်ကလိုမျိုးက တစ်သက်လုံးတီးနိုင်တော့မှာမဟုတ်ဘူး"
+    },
+    {
+        "start": 220,
+        "end": 223,
+        "japanese": "ネネ、 私 は 何 でもなれる",
+        "romanized": "nene, watashi wa nani demonareru",
+        "hiraganaKatakana": "ネネ、 わたし は なん でもなれる",
+        "myanmar": "Nene၊ ငါက ဘာမဆိုဖြစ်လာနိုင်တယ်"
+    },
+    {
+        "start": 224,
+        "end": 228,
+        "japanese": "もしかしたら ネネ の 指 にもなれるかも",
+        "romanized": "moshikashitaraneneno yubi nimonarerukamo",
+        "hiraganaKatakana": "もしかしたら  ネネの ゆび にもなれるかも",
+        "myanmar": "Nene ရဲ့ လက်ချောင်းလည်းဖြစ်ရင်ဖြစ်လာနိုင်တယ်"
+    },
+    {
+        "start": 229,
+        "end": 232,
+        "japanese": "あなたは 形 をとめていられないんでしょう",
+        "romanized": "anatawa katachi wotometeirarenaindeshou",
+        "hiraganaKatakana": "あなたは かたち をとめていられないんでしょう",
+        "myanmar": "နင်က ပုံသဏ္ဍာန်ကို (ကြာကြာ)မထိန်းထားနိုင်ဘူးမဟုတ်လား"
+    },
+    {
+        "start": 232,
+        "end": 235,
+        "japanese": "なら、 指 になんてなれないよ",
+        "romanized": "nara, yubi ninantenarenaiyo",
+        "hiraganaKatakana": "なら、 ゆび になんてなれないよ",
+        "myanmar": "ဆိုရင်၊ လက်ချောင်းအနေနဲ့ဆိုတာမျိုးက မဖြစ်လာနိုင်ဘူးလေ"
+    },
+    {
+        "start": 241,
+        "end": 246,
+        "japanese": "何 でも なれるって 言 うならさ、 友達 に なってよ",
+        "romanized": "nan demonarerutte i unarasa, tomodachi ninatteyo",
+        "hiraganaKatakana": "なん でも なれるって い うならさ、 ともだち に なってよ",
+        "myanmar": "ဘာမဆိုဖြစ်လာနိုင်တယ်လို့ ပြောတယ်ဆိုရင်၊ သူငယ်ချင်းအနေနဲ့ ဖြစ်လာပေးလေ"
+    },
+    {
+        "start": 246,
+        "end": 247,
+        "japanese": "友達",
+        "romanized": "tomodachi",
+        "hiraganaKatakana": "ともだち",
+        "myanmar": "သူငယ်ချင်း"
+    },
+    {
+        "start": 249,
+        "end": 255,
+        "japanese": "うん、”ルカ”、そう 呼 んだら 会 いに 来 て",
+        "romanized": "un, 'Ruka', sou yo ndara a ini ki te",
+        "hiraganaKatakana": "うん、”ルカ”、そうよんだら あ いに き て",
+        "myanmar": "အင်း၊ 'Ruka'၊ အဲ့ဒီလိုခေါ်ရင် တွေ့ဖို့လာခဲ့"
+    },
+    {
+        "start": 256,
+        "end": 257,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 259,
+        "end": 260,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 261,
+        "end": 262,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 266,
+        "end": 267,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 267,
+        "end": 268,
+        "japanese": "あっち 行 こう",
+        "romanized": "acchi i kou",
+        "hiraganaKatakana": "あっち い こう",
+        "myanmar": "ဟိုကို သွားရအောင်"
+    },
+    {
+        "start": 269,
+        "end": 271,
+        "japanese": "ルカ、ちょっと 話聞 いてよ",
+        "romanized": "Ruka, chotto hanashiki iteyo",
+        "hiraganaKatakana": "ルカ、ちょっと はなしき いてよ",
+        "myanmar": "Ruka, ခဏလောက် စကားပြောကြရအောင်"
+    },
+    {
+        "start": 271,
+        "end": 272,
+        "japanese": "あそこ",
+        "romanized": "asoko",
+        "hiraganaKatakana": "あそこ",
+        "myanmar": "ဟိုနား"
+    },
+    {
+        "start": 278,
+        "end": 279,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 283,
+        "end": 286,
+        "japanese": "授業 さぼり 始 めて 何日経 った？",
+        "romanized": "jugyou sabori ha jimete nannichita tta",
+        "hiraganaKatakana": "じゅぎょう さぼり は じめて なんにちた った？",
+        "myanmar": "အတန်းလစ်တာ ဘယ်နှရက်ရှိပြီလဲ"
+    },
+    {
+        "start": 286,
+        "end": 289,
+        "japanese": "う＿ん、46 日目 だよ",
+        "romanized": "u_n, 46 nichime dayo",
+        "hiraganaKatakana": "う＿ん、46 にちめ だよ",
+        "myanmar": "အမ်၊ ၄၆ ရက််မြောက်နေ့လေ"
+    },
+    {
+        "start": 289,
+        "end": 290.9,
+        "japanese": "卒業 までは？",
+        "romanized": "sotsugyou madewa?",
+        "hiraganaKatakana": "そつぎょう までは？",
+        "myanmar": "ကျောင်းပြီးဖို့အထိက"
+    },
+    {
+        "start": 291,
+        "end": 293,
+        "japanese": "あと 134 日",
+        "romanized": "ato 134 ka",
+        "hiraganaKatakana": "あと 134 日",
+        "myanmar": "နောက်ထပ် ၁၃၄ ရက်"
+    },
+    {
+        "start": 293,
+        "end": 294,
+        "japanese": "長",
+        "romanized": "naga",
+        "hiraganaKatakana": "なが",
+        "myanmar": "ကြာချက်"
+    },
+    {
+        "start": 296,
+        "end": 300,
+        "japanese": "ネネはさ、どうしてこの 場所 には 来 るの？",
+        "romanized": "nenewasa, doushitekono basho niwa ku runo?",
+        "hiraganaKatakana": "ネネはさ、どうしてこの ばしょ には く るの？",
+        "myanmar": "Nene က ဘာလို့ဒီနေရာကိုလာတာလဲဟင်"
+    },
+    {
+        "start": 301,
+        "end": 305,
+        "japanese": "授業 に 出 ないなら 学校 に 来 なくても 一緒 でしょう",
+        "romanized": "jugyou ni de nainara gakkou ni ko nakutemo issho deshou",
+        "hiraganaKatakana": "じゅぎょう に で ないなら がっこう に こ なくても いっしょ でしょう",
+        "myanmar": "အတန်းမတက်ဘူးဆိုရင် ကျောင်းကိုမလာတာနဲ့ အတူတူပဲမဟုတ်ဘူးလား"
+    },
+    {
+        "start": 306,
+        "end": 309,
+        "japanese": "先生 も 私 の 事情 わかってくれてるし",
+        "romanized": "sensei mo watashi no jijou wakattekureterushi",
+        "hiraganaKatakana": "せんせい も わたし の じじょう わかってくれてるし",
+        "myanmar": "ဆရာမလည်း ငါ့ရဲ့အခြေအနေကို နားလည်ပေးပြီးတော့"
+    },
+    {
+        "start": 310,
+        "end": 313,
+        "japanese": "これでも 学校 にさえ 来 れば 卒業 させれくれる",
+        "romanized": "koredemo gakkou nisae ku reba sotsugyou saserekureru",
+        "hiraganaKatakana": "これでも がっこう にさえ く れば そつぎょう させれくれる",
+        "myanmar": "ဒီလိုဆိုရင်တောင် ကျောင်းကိုလာရုံပဲလာတာနဲ့တင် ဘွဲ့ယူခွင့်ပေးမှာ"
+    },
+    {
+        "start": 314,
+        "end": 315,
+        "japanese": "だからここに 来 てる",
+        "romanized": "dakarakokoni ki teru",
+        "hiraganaKatakana": "だからここに き てる",
+        "myanmar": "အဲ့တာမိုလို့ ဒီကိုလာနေတာ"
+    },
+    {
+        "start": 316,
+        "end": 318,
+        "japanese": "お 前 も そうやって 説明 したでしょう",
+        "romanized": "o mae mosouyatte setsumei shitadeshou",
+        "hiraganaKatakana": "お まえ も そうやって せつめい したでしょう",
+        "myanmar": "နင်လည်း အဲ့လိုမျိုး ရှင်းပြခဲ့တာမဟုတ်လား"
+    },
+    {
+        "start": 319,
+        "end": 320,
+        "japanese": "それだけ？",
+        "romanized": "soredake?",
+        "hiraganaKatakana": "それだけ？",
+        "myanmar": "အဲ့တာကြောင့်လေးပဲလား"
+    },
+    {
+        "start": 321,
+        "end": 323,
+        "japanese": "本当 に それだけの 理由？",
+        "romanized": "hontou nisoredakeno riyuu?",
+        "hiraganaKatakana": "ほんとう に それだけの りゆう？",
+        "myanmar": "တကယ့်ကို အဲ့ဒီလောက် အကြောင်းအရင်းလေးနဲ့လား"
+    },
+    {
+        "start": 324,
+        "end": 326,
+        "japanese": "なにか 言 いたいの？",
+        "romanized": "nanika i itaino?",
+        "hiraganaKatakana": "なにか い いたいの？",
+        "myanmar": "တစ်ခုခု ပြောချင်လို့လား"
+    },
+    {
+        "start": 327,
+        "end": 330,
+        "japanese": "ネネはさ、 離 れられないんでしょ？",
+        "romanized": "nenewasa, hana renaindesho?",
+        "hiraganaKatakana": "ネネはさ、 はな れられないんでしょ？",
+        "myanmar": "Nene ကလေ၊ လက်မလွှတ်နိုင်တာမဟုတ်လား"
+    },
+    {
+        "start": 331,
+        "end": 333,
+        "japanese": "自分 の 大切 だったものが 失 われて",
+        "romanized": "jibun no taisetsu dattamonoga ushina warete",
+        "hiraganaKatakana": "じぶん の たいせつ だったものが うしな われて",
+        "myanmar": "ကိုယ့်အတွက် တန်ဖိုးရှိတဲ့အရာကို ဆုံးရှုံးရပြီး"
+    },
+    {
+        "start": 334,
+        "end": 337,
+        "japanese": "自分 自身 さえ 失 ったような 気持 ちになって",
+        "romanized": "jibunjishin sae ushina ttayouna kimo chininatte",
+        "hiraganaKatakana": "じぶん じしん さえ うしな ったような きも ちになって",
+        "myanmar": "ကိုယ့်ကိုယ်ကိုယ်ပါ ဆုံးရှုံးလိုက်ရသလိုမျိုး ခံစားခဲ့ရပြီး"
+    },
+    {
+        "start": 338,
+        "end": 341,
+        "japanese": "だから 引 けなくてもせめてそばにいたい",
+        "romanized": "dakara ki kenakutemosemetesobaniitai",
+        "hiraganaKatakana": "だから ひ けなくてもせめてそばにいたい",
+        "myanmar": "အဲ့တာကြောင့် မတီးနိုင်လည်းပဲ အနည်းဆုံးတော့ အနားမှာရှိနေချင်တာ"
+    },
+    {
+        "start": 342,
+        "end": 344,
+        "japanese": "そう 思 っているんでしょ？",
+        "romanized": "sou omo teirundesho?",
+        "hiraganaKatakana": "そう おも っているんでしょ？",
+        "myanmar": "အဲ့လိုမျိုး တွေးနေတာမဟုတ်လား"
+    },
+    {
+        "start": 346,
+        "end": 347,
+        "japanese": "違 うよ、ルカ",
+        "romanized": "chiga uyo, Ruka",
+        "hiraganaKatakana": "ちが うよ、ルカ",
+        "myanmar": "လွဲနေပြီလေ Ruka"
+    },
+    {
+        "start": 348,
+        "end": 351,
+        "japanese": "そんなことを 言 ってもらたくて 友達 になったんじゃない",
+        "romanized": "sonnakotowo i ttemoratakute tomodach ininattanjanai",
+        "hiraganaKatakana": "そんなことを い ってもらたくて ともだち になったんじゃない",
+        "myanmar": "အဲ့လိုမျိုးအကြောင်းကို ပြောပေးခံရပြီး သူငယ်ချင်းဖြစ်လာတာမဟုတ်ဘူး"
+    },
+    {
+        "start": 356,
+        "end": 360,
+        "japanese": "ルカ、どうしたの？ 何 か 今日変 だよ",
+        "romanized": "Ruka, doushitano? nan ka kyouhen dayo",
+        "hiraganaKatakana": "ルカ、どうしたの？ なん か きょうへん だよ",
+        "myanmar": "Ruka ဘာဖြစ်လို့လဲဟင်။ ဘာမှန်းမသိ ဒီနေ့ထူးဆန်းနေတယ်နော်"
+    },
+    {
+        "start": 363,
+        "end": 364,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 376,
+        "end": 380,
+        "japanese": "ルカは どんどん 形 を 保 てる 時間 が 短 くなっていった",
+        "romanized": "Rukawadondon katachi wo tamo teru jikan ga mijika kunatteitta",
+        "hiraganaKatakana": "ルカは どんどん かたち を たも てる じかん が みじか くなっていった",
+        "myanmar": "Ruka က တဖြည်းဖြည်း ပုံသဏ္ဍာန်ကို ထိန်းသိမ်းနိုင်တဲ့အချိန်က တိုလာခဲ့တယ်"
+    },
+    {
+        "start": 381,
+        "end": 385,
+        "japanese": "言葉 は 少 なく、 表情 も 乏 しい",
+        "romanized": "kotoba wa suku naku, hyoujou mo to boshii",
+        "hiraganaKatakana": "ことば は すく なく、 ひょうじょう も と ぼしい",
+        "myanmar": "စကားနည်းလာပြီး၊ မျက်နှာအမူအရာလည်း ခပ်ရှားရှား"
+    },
+    {
+        "start": 386,
+        "end": 393,
+        "japanese": "私 は 何 ども 何 だか 彼女 の 名前 を 呼 んだ",
+        "romanized": "watashi wa nan domo nan daka kanojo no namae wo yo nda",
+        "hiraganaKatakana": "わたし は なん ども なん だか かのじょ の なまえ を よ んだ",
+        "myanmar": "ငါက ဘယ်နှခါမှန်းမသိ သူမရဲ့နာမည်ကို ခေါ်ခဲ့တယ်"
+    },
+    {
+        "start": 393,
+        "end": 398,
+        "japanese": "ルカ　ルカ　ルカ",
+        "romanized": "Ruka Ruka Ruka",
+        "hiraganaKatakana": "ルカ　ルカ　ルカ",
+        "myanmar": "Ruka Ruka Ruka"
+    },
+    {
+        "start": 399,
+        "end": 405,
+        "japanese": "何度 も 何度 も 何度 も",
+        "romanized": "nando mo nando mo nando mo",
+        "hiraganaKatakana": "なんど も なんど も なんど も",
+        "myanmar": "အကြိမ်ကြိမ် အကြိမ်ကြိမ် အကြိမ်ကြိမ်"
+    },
+    {
+        "start": 420,
+        "end": 424,
+        "japanese": "ネネ、あなたは 何 を 望 んでいるの？",
+        "romanized": "nene, anatawa nani wo nozo ndeiruno?",
+        "hiraganaKatakana": "ネネ、あなたは なに を のぞ んでいるの？",
+        "myanmar": "Nene၊ နင်က ဘာကိုမျှော်လင့်တောင့်တနေတာလဲ"
+    },
+    {
+        "start": 425,
+        "end": 429,
+        "japanese": "何 ？よく 聞 こえない",
+        "romanized": "nani ? yoku ki koenai",
+        "hiraganaKatakana": "なに ？よく き こえない",
+        "myanmar": "ဘာကြီး။ သေချာမကြားရဘူး"
+    },
+    {
+        "start": 433,
+        "end": 434,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 440,
+        "end": 441,
+        "japanese": "すごい　すごいね　すごい",
+        "romanized": "sugoi sugoine sugoi",
+        "hiraganaKatakana": "すごい　すごいね　すごい",
+        "myanmar": "တော်လိုက်တာ။ တော်လိုက်တာနော်။ တော်လိုက်တာ"
+    },
+    {
+        "start": 442,
+        "end": 444,
+        "japanese": "おめでとう 天才 おめでとう",
+        "romanized": "omedetou tensai omedetou",
+        "hiraganaKatakana": "おめでとう てんさい おめでとう",
+        "myanmar": "ဂုဏ်ပြုပါတယ်။ နတ်ပြည်ကအတိုင်းပဲ။ ဂုဏ်ပြုပါတယ်"
+    },
+    {
+        "start": 458,
+        "end": 460,
+        "japanese": "初 めまして。 私 ルカ",
+        "romanized": "ha jimemashite. watashi Ruka",
+        "hiraganaKatakana": "はじ めまして。 わたし ルカ",
+        "myanmar": "တွေ့ရတာဝမ်းသာပါတယ်။ ငါက Ruka"
+    },
+    {
+        "start": 463,
+        "end": 465,
+        "japanese": "ネネ、 授業 一緒 に 行 こう",
+        "romanized": "nene, jugyouissho ni i kou",
+        "hiraganaKatakana": "ネネ、 じゅぎょう いっしょ に い こう",
+        "myanmar": "Nene၊ အတန်းအတူတူသွားရအောင်"
+    },
+    {
+        "start": 465,
+        "end": 467,
+        "japanese": "ネネ、 今日 の 授業 さ",
+        "romanized": "nene, kyou no jugyou sa",
+        "hiraganaKatakana": "ネネ、 きょう の じゅぎょう さ",
+        "myanmar": "Nene၊ ဒီနေ့ရဲ့ အတန်းကလေ"
+    },
+    {
+        "start": 467,
+        "end": 469,
+        "japanese": "ネネ、ご 飯 一緒 に 食 べよ",
+        "romanized": "nene, go hanissho ni ta beyo",
+        "hiraganaKatakana": "ネネ、ご はん いっしょ に た べよ",
+        "myanmar": "Nene၊ ထမင်းအတူတူစားကြရအောင်"
+    },
+    {
+        "start": 474,
+        "end": 475,
+        "japanese": "コンテストの 曲？",
+        "romanized": "kontesutono kyoku?",
+        "hiraganaKatakana": "コンテストの きょく？",
+        "myanmar": "ပြိုင်ပွဲမှာတီးမဲ့ သံစဥ်လား"
+    },
+    {
+        "start": 476,
+        "end": 478,
+        "japanese": "うん、ネネも 同 じ 曲 でしょ？",
+        "romanized": "un, nenemo ona ji kyoku desho?",
+        "hiraganaKatakana": "うん、ネネも おな じ きょく でしょ？",
+        "myanmar": "အင်း၊ Nene လည်း သံစဥ်အတူတူပဲမဟုတ်လား"
+    },
+    {
+        "start": 479,
+        "end": 480,
+        "japanese": "うん、そうだよ",
+        "romanized": "un, soudayo",
+        "hiraganaKatakana": "うん、そうだよ",
+        "myanmar": "အင်း၊ ဟုတ်တယ်လေ"
+    },
+    {
+        "start": 480,
+        "end": 484,
+        "japanese": "ずるい。 今 私 の 演奏 を 盗 み 聞 きしてたんでしょう",
+        "romanized": "zurui. imawatashi no ensou wo nusu mi ki kishitedandeshou",
+        "hiraganaKatakana": "ずるい。 いま わたし の えんそう を ぬす み き きしてたんでしょう",
+        "myanmar": "မတရားဘူး။ အခုငါ့ရဲ့ တီးခတ်ဖျော်ဖြေတာကို ခိုးနားထောင်နေခဲ့တာမဟုတ်လား"
+    },
+    {
+        "start": 484,
+        "end": 485,
+        "japanese": "ネネも 聞 かせてよ",
+        "romanized": "nenemo ki kaseteyo",
+        "hiraganaKatakana": "ネネも き かせてよ",
+        "myanmar": "Nene လည်း နင်တီးခတ်တာကို နားထောင်ခိုင်းဦးလေ"
+    },
+    {
+        "start": 486,
+        "end": 488,
+        "japanese": "やだ。 恥 ずかしいもん",
+        "romanized": "yada. ha zukashiimon",
+        "hiraganaKatakana": "やだ。 は ずかしいもん",
+        "myanmar": "ဟင့်အင်း။ ရှက်စရာကြီးကို"
+    },
+    {
+        "start": 489,
+        "end": 492,
+        "japanese": "正直 自信 ないだ",
+        "romanized": "shoujikijishin naida",
+        "hiraganaKatakana": "しょうじき じしん ないだ",
+        "myanmar": "ရိုးရိုးသားသားဖြေမယ်ဆို ယုံကြည်ချက်မရှိတာပဲ"
+    },
+    {
+        "start": 492,
+        "end": 496,
+        "japanese": "自分 の 演奏 ばっかり 聞 いてさ、わかんなくなっちゃった",
+        "romanized": "jibun no ensou bakkari ki itesa, wakandakunacchatta",
+        "hiraganaKatakana": "じぶん の えんそう ばっかり き いてさ、わかんなくなっちゃった",
+        "myanmar": "ကိုယ့်ရဲ့ တီးခတ်တာချည်းပဲ နားထောင်ပြီးတော့ဆိုရင်လေ၊ နားမလည်နိုင်ဖြစ်သွားရော"
+    },
+    {
+        "start": 514,
+        "end": 517,
+        "japanese": "すごい、ルカ、おめでとう",
+        "romanized": "sugoi, Ruka, omedetou",
+        "hiraganaKatakana": "すごい、ルカ、おめでとう",
+        "myanmar": "တော်လိုက်တာ။ Ruka ဂုဏ်ပြုပါတယ်"
+    },
+    {
+        "start": 521,
+        "end": 523,
+        "japanese": "ネネ、 今日 一緒 に",
+        "romanized": "nene, kyouissho ni",
+        "hiraganaKatakana": "ネネ、 きょう いっしょ に",
+        "myanmar": "Nene၊ ဒီနေ့အတူတူ.."
+    },
+    {
+        "start": 523,
+        "end": 527,
+        "japanese": "ごめん。 私 今 から 練習 行 くから",
+        "romanized": "gomen. watashiima kara renshuui kukara",
+        "hiraganaKatakana": "ごめん。 わたし いま から れんしゅう い くから",
+        "myanmar": "ဆောရီး။ ငါဒီနေ့ကစပြီး လေ့ကျင့်ဖို့သွားတော့မှာမိုလို့"
+    },
+    {
+        "start": 536,
+        "end": 537,
+        "japanese": "違 うよ",
+        "romanized": "chiga uyo",
+        "hiraganaKatakana": "ちが うよ",
+        "myanmar": "မှားတယ်လေ"
+    },
+    {
+        "start": 540,
+        "end": 542,
+        "japanese": "ネネは どうやて 引 きたいの？",
+        "romanized": "nenewadouyatte hi kitaino?",
+        "hiraganaKatakana": "ネネは どうやて ひ きたいの？",
+        "myanmar": "Nene က ဘယ်လိုမျိုး တီးချင်တာလဲ"
+    },
+    {
+        "start": 546,
+        "end": 549,
+        "japanese": "もっと 魅力的 に 引 かなきゃだめだよ",
+        "romanized": "motto miryokuteki ni hi kinakyadamedayo",
+        "hiraganaKatakana": "もっと みりょくてき に ひ かなきゃだめだよ",
+        "myanmar": "ထပ်ပြီး ဆွဲဆောင်မှုရှိရှိနဲ့ မတီးလို့မရဘူးလေ"
+    },
+    {
+        "start": 552,
+        "end": 554,
+        "japanese": "もっと 魅力的 にならなきゃ",
+        "romanized": "motto miryokuteki ninaranakya",
+        "hiraganaKatakana": "もっと みりょくてき にならなきゃ",
+        "myanmar": "ထပ်ပြီး ဆွဲဆောင်မှုရှိရှိမဖြစ်လို့ မရဘူး"
+    },
+    {
+        "start": 554,
+        "end": 557,
+        "japanese": "もっと 練習 しなくちゃ",
+        "romanized": "motto renshuu shinakucha",
+        "hiraganaKatakana": "もっと れんしゅう しなくちゃ",
+        "myanmar": "ထပ်ပြီး မလေ့ကျင့်လို့မရဘူး"
+    },
+    {
+        "start": 558,
+        "end": 560,
+        "japanese": "もっと 輝 かなくちゃ",
+        "romanized": "motto kagaya kanakucha",
+        "hiraganaKatakana": "もっと かがや かなくちゃ",
+        "myanmar": "ထပ်ပြီး မတောက်ပလို့မရဘူး"
+    },
+    {
+        "start": 560,
+        "end": 562,
+        "japanese": "頑張 らなくちゃ",
+        "romanized": "ganba ranakucha",
+        "hiraganaKatakana": "かんば らなくちゃ",
+        "myanmar": "မကြိုးစားလို့မရဘူး"
+    },
+    {
+        "start": 562,
+        "end": 566,
+        "japanese": "頑張 らなくにならなきゃじゃないでしょ",
+        "romanized": "ganba ranakuninaranakyajanaidesho",
+        "hiraganaKatakana": "がんば らなくにならなきゃじゃないでしょ",
+        "myanmar": "မကြိုးစားတာမျိုး ဖြစ်လာလို့ မရဘူးဆိုတာမျိုးမဟုတ်ဘူးလေ"
+    },
+    {
+        "start": 568,
+        "end": 573,
+        "japanese": "ネネ、あなたは 何 を 望 んでいるの？",
+        "romanized": "nene, anatawa nani wo nozo ndeiruno?",
+        "hiraganaKatakana": "ネネ、あなたは なに を のぞ んでいるの？",
+        "myanmar": "Nene၊ နင်က ဘာကိုမျှော်လင့်တောင့်တနေတာလဲ"
+    },
+    {
+        "start": 625,
+        "end": 626,
+        "japanese": "ルカ",
+        "romanized": "Ruka",
+        "hiraganaKatakana": "ルカ",
+        "myanmar": "Ruka"
+    },
+    {
+        "start": 637,
+        "end": 638,
+        "japanese": "どうしたの？",
+        "romanized": "doushitano?",
+        "hiraganaKatakana": "どうしたの？",
+        "myanmar": "ဘာဖြစ်လို့လဲ"
+    },
+    {
+        "start": 639,
+        "end": 642,
+        "japanese": "私 のピアノ 聞 かせてあげようとおもたのに",
+        "romanized": "watashi nopiano ki kaseteageyoutoomotanoni",
+        "hiraganaKatakana": "わたし のピアノ き かせてあげようとおもたのに",
+        "myanmar": "ငါစန္ဒရားတီးတာကို နားထောင်ခိုင်းမယ်လို့တွေးနေတာကို"
+    },
+    {
+        "start": 645,
+        "end": 646,
+        "japanese": "もういいの",
+        "romanized": "moiino",
+        "hiraganaKatakana": "もういいの",
+        "myanmar": "ရပြီ"
+    },
+    {
+        "start": 648,
+        "end": 651,
+        "japanese": "もうわかったの",
+        "romanized": "mouwakattano",
+        "hiraganaKatakana": "もうわかったの",
+        "myanmar": "နားလည်သွားပြီ"
+    },
+    {
+        "start": 656,
+        "end": 661,
+        "japanese": "ね、 ルカ、 私 の ピアノを 聞 いて",
+        "romanized": "ne, Ruka, watashi nopianowo ki ite",
+        "hiraganaKatakana": "ね、 ルカ、 わたし の ピアノを き いて",
+        "myanmar": "ဟိတ်၊ Ruka၊ ငါစန္ဒရားတီးတာကို နားထောင်"
+    },
+    {
+        "start": 670,
+        "end": 675,
+        "japanese": "最近 どこにいても 何 かが 物足 りない",
+        "romanized": "saikin dokoniitemo nani kaga monota rinai",
+        "hiraganaKatakana": "さいきん どこにいても なに かがものた りない",
+        "myanmar": "အခုတလော ဘယ်မှာနေနေ တစ်ခုခုကိုမတင်းတိမ်ဘူးဖြစ်နေတယ်"
+    },
+    {
+        "start": 678,
+        "end": 680,
+        "japanese": "私 は 誰 を 持 っているんだろうか？",
+        "romanized": "watashi wa dare wo mo tteirundarouka?",
+        "hiraganaKatakana": "わたし は だれ を も っているんだろうか？",
+        "myanmar": "ငါက ဘယ်သူ့ကို ပိုင်ဆိုင်နေတာပါလိမ့်"
+    },
+    {
+        "start": 682,
+        "end": 684,
+        "japanese": "何 を 間違 えたんだろうか？",
+        "romanized": "nani wo machiga etandarouka?",
+        "hiraganaKatakana": "なに を まちが えたんだろうか？",
+        "myanmar": "ဘာကို မှားယွင်းခဲ့တာပါလိမ့်"
+    },
+    {
+        "start": 686,
+        "end": 688,
+        "japanese": "どこに 戻 ればいいのか？",
+        "romanized": "dokoni modo rebaiinoka?",
+        "hiraganaKatakana": "どこに もど ればいいのか？",
+        "myanmar": "ဘယ်ကိုပြန်သွားရင်ကောင်းမလဲ"
+    },
+    {
+        "start": 690,
+        "end": 693,
+        "japanese": "今 となっては もう わからない",
+        "romanized": "ima tonattewamouwakaranai",
+        "hiraganaKatakana": "いま となっては もう わからない",
+        "myanmar": "အခုလိုဖြစ်လာမှတော့ နားမလည်နိုင်တော့ဘူး"
+    }
+]
