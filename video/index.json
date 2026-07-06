@@ -1,4 +1,13 @@
-[
+[{
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/Luca/image.jpeg",
+    "subtitleUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/Luca/subtitle.json",
+    "name": "LUCA လူကာ",
+    "youtube_id": "8j9DKHwmXSE",
+    "time": "12:18",
+    "is_free": false
+  },
   {
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/video/kawashima_lonely_summer_break/image.jpeg",
