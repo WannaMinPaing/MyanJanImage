@@ -1,6 +1,20 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/orange/orange_poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/orange/orange_banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBfGpjiZAghnuR3UAXTKR2hbvKFHsRAAJvIwACyIcgV3KvIkVQbRNdPQQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/orange.json",
+    "name": "Orange",
+    "singer": "NANAE",
+    "value": "Orange",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/attitude/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/attitude/banner.jpeg",
