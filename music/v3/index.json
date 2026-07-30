@@ -1,6 +1,20 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/specialz/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/specialz/banner.jpeg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBfWpqywABdoLiBC8BBygtDTvU3jiEjAACziIAAkU0UVdFtRVHZUwp1D0E",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/specialz.json",
+    "name": "SPECIALZ",
+    "singer": "King Gnu",
+    "value": "SPECIALZ King Gnu",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/orange/orange_poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/orange/orange_banner.jpeg",
