@@ -1,6 +1,20 @@
 [
   {
     "backgroundImage":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kokoronashi/poster.jpeg",
+    "image":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/kokoronashi/banner.jpg",
+    "mp3_id":
+      "CQACAgUAAyEFAASH9k8OAAIBfmp1bdmkCO6CpC7-MygRlPupQgnEAAJfJAACBBSoVyaWb-TSJdarPQQ",
+    "lyricsUrl":
+      "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/lyric/kokoronashi.json",
+    "name": "心做し (Kokoronashi/ Somewhat) ",
+    "singer": "まじ娘（majiko）",
+    "value": "Kokoronashi Somewhat",
+    "is_free": false
+  },
+  {
+    "backgroundImage":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/specialz/poster.jpeg",
     "image":
       "https://raw.githubusercontent.com/WannaMinPaing/MyanJanImage/refs/heads/main/music/image/specialz/banner.jpeg",
