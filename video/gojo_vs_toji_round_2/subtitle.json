@@ -1,0 +1,698 @@
+[
+    {
+        "start": 3.1,
+        "end": 4.4,
+        "japanese": "Huh",
+        "romanized": "Huh",
+        "hiraganaKatakana": "Huh",
+        "myanmar": "ဟင်"
+    },
+    {
+        "start": 7.2,
+        "end": 9.7,
+        "japanese": "Yo, 久 しぶり",
+        "romanized": "Yo, hisa shiburi",
+        "hiraganaKatakana": "Yo, ひさ しぶり",
+        "myanmar": "မတွေ့ရတာကြာပြီနော်"
+    },
+    {
+        "start": 11.2,
+        "end": 12.5,
+        "japanese": "まじか？",
+        "romanized": "majika",
+        "hiraganaKatakana": "まじか？",
+        "myanmar": "တကယ်ကြီး"
+    },
+    {
+        "start": 12.9,
+        "end": 14.3,
+        "japanese": "うん、まじ",
+        "romanized": "un, maji",
+        "hiraganaKatakana": "うん、まじ",
+        "myanmar": "အင်း တကယ်ကြီး"
+    },
+    {
+        "start": 15.3,
+        "end": 17.8,
+        "japanese": "元気 ピンピンだよ",
+        "romanized": "genkipinpindayo",
+        "hiraganaKatakana": "げんき ピンピンだよ",
+        "myanmar": "ဒေါင်ဒေါင်မြည်ပဲလေ"
+    },
+    {
+        "start": 18.1,
+        "end": 20,
+        "japanese": "反転 術式",
+        "romanized": "hantenjutsushiki",
+        "hiraganaKatakana": "はんてん じゅつしき",
+        "myanmar": "ပြောင်းပြန်နည်းစနစ်"
+    },
+    {
+        "start": 20.2,
+        "end": 22.1,
+        "japanese": "正解",
+        "romanized": "seikai",
+        "hiraganaKatakana": "せいかい",
+        "myanmar": "အဖြေမှန်"
+    },
+    {
+        "start": 22.2,
+        "end": 24.4,
+        "japanese": "お 前 に 喉 ぶち 抜 かれた 時",
+        "romanized": "o mae ni nodo buchi nu kareta toki",
+        "hiraganaKatakana": "お まえ に のど ぶち ぬ かれた とき　",
+        "myanmar": "မင်းဆီမှာ လည်ပင်းအဖြတ်ခံခဲ့ရတဲ့အချိန်တုန်းက"
+    },
+    {
+        "start": 24.6,
+        "end": 26,
+        "japanese": "反撃 は 諦 めて",
+        "romanized": "hangeki wa akira mete",
+        "hiraganaKatakana": "はんげき は あきら めて",
+        "myanmar": "ခံစစ်တိုက်ဖို့ကို လက်လျှော့ပြီး"
+    },
+    {
+        "start": 26.2,
+        "end": 29.1,
+        "japanese": "反転 術式 に 全神機 を 注 いだ",
+        "romanized": "hantenjutsushiki ni zenshinki wo soso ida",
+        "hiraganaKatakana": "はんてん じゅつしき に ぜんしんき を そそ いだ",
+        "myanmar": "ပြောင်းပြန်နည်းစနစ်မှာ စိတ်ဝိဉာဥ်အားလုံးကိုမြှုပ်နှံထားလိုက်တယ်"
+    },
+    {
+        "start": 29.5,
+        "end": 31.5,
+        "japanese": "重力 は 負 のエネルギー",
+        "romanized": "juuryoku wa fu noenerugii",
+        "hiraganaKatakana": "じゅうりょく は ふ のエネルギー",
+        "myanmar": "ဆွဲငင်အားက အနုတ်စွမ်းအင်"
+    },
+    {
+        "start": 31.7,
+        "end": 33,
+        "japanese": "肉体 の 強化 はできても",
+        "romanized": "nikutai no kyouka wadekitemo",
+        "hiraganaKatakana": "にくたい の きょうか はできても",
+        "myanmar": "ကြွက်သားအားဖြည့်တာက လုပ်နိုင်ပေမယ့်"
+    },
+    {
+        "start": 33,
+        "end": 34.6,
+        "japanese": "再生 することはできない",
+        "romanized": "saisei surukotowadekinai",
+        "hiraganaKatakana": "さいせい することはできない",
+        "myanmar": "တဖန်ရှင်သန်တာက မလုပ်နိုင်ဘူး"
+    },
+    {
+        "start": 34.8,
+        "end": 36.6,
+        "japanese": "だから 負 のエネルギー 同士 を",
+        "romanized": "dakara fu noenerugii doushi wo",
+        "hiraganaKatakana": "だから ふ のエネルギー どうし を",
+        "myanmar": "အဲ့တာမိုလို့ အနုတ်စွမ်းအင်တွေကို"
+    },
+    {
+        "start": 36.6,
+        "end": 37.7,
+        "japanese": "掛 け 合 わせて",
+        "romanized": "ka ke a wasete",
+        "hiraganaKatakana": "か け あ わせて",
+        "myanmar": "ပေါင်းစပ်ပြီးတော့"
+    },
+    {
+        "start": 37.7,
+        "end": 39.3,
+        "japanese": "精 のエネルギーを 生 む",
+        "romanized": "sei noenerugiiwo u mu",
+        "hiraganaKatakana": "せい のエネルギーを う む",
+        "myanmar": "ဝိဉာဥ်အင်အားကိုမွေးထုတ်တယ်"
+    },
+    {
+        "start": 39.5,
+        "end": 41.4,
+        "japanese": "それが 反転 術式",
+        "romanized": "sorega hantenjitsushiki",
+        "hiraganaKatakana": "それが はんてん じゅつしき",
+        "myanmar": "အဲ့တာက ပြောင်းပြန်နည်းစနစ်"
+    },
+    {
+        "start": 41.6,
+        "end": 42.8,
+        "japanese": "言 うは 易 し",
+        "romanized": "i uwa yasa shi",
+        "hiraganaKatakana": "い うは やさ し",
+        "myanmar": "ပြောရတာကတော့ လွယ်တယ်"
+    },
+    {
+        "start": 43.3,
+        "end": 45.2,
+        "japanese": "俺 も 今 までできたことないよ",
+        "romanized": "ore mo ima madedekitakotonaiyo",
+        "hiraganaKatakana": "おれ も いま までできたことないよ",
+        "myanmar": "ငါတောင် အခုထိလုပ်နိုင်ဖူးတာမျိုး မရှိဘူးလေ"
+    },
+    {
+        "start": 45.6,
+        "end": 47.6,
+        "japanese": "まるで 唯一 できるやつは 何 。。",
+        "romanized": "marude yuiitsu dekiruyatsuwa nani ..",
+        "hiraganaKatakana": "まるで ゆいいつ できるやつは なに 。。",
+        "myanmar": "အဲ့တာကိုလုပ်နိုင်တဲ့တစ်ဦးတည်းသောလူလိုမျိုး.."
+    },
+    {
+        "start": 47.8,
+        "end": 48.9,
+        "japanese": "ペラペラと",
+        "romanized": "peraperato",
+        "hiraganaKatakana": "ペラペラと",
+        "myanmar": "ပွစိပွစိနဲ့"
+    },
+    {
+        "start": 49.2,
+        "end": 52.9,
+        "japanese": "こいつ ハイ に なってる",
+        "romanized": "koitsuhaininatteru",
+        "hiraganaKatakana": "こいつ ハイ に なってる",
+        "myanmar": "ဒီကောင် High နေတာပဲ"
+    },
+    {
+        "start": 53.2,
+        "end": 55.8,
+        "japanese": "だが 死 に 際 で 掴 んだ",
+        "romanized": "daga shi ni giwa de tsuka nda",
+        "hiraganaKatakana": "だが し に ぎわ で つか んだ",
+        "myanmar": "ဒါပေမဲ့ သေဆုံးတဲ့အချိန်မှာ ဆုပ်ကိုင်ခဲ့တယ်"
+    },
+    {
+        "start": 55.8,
+        "end": 57.5,
+        "japanese": "重力 の 確信",
+        "romanized": "juuryoku no kakushin",
+        "hiraganaKatakana": "じゅうりょく の かくしん",
+        "myanmar": "ဆွဲငင်အားရဲ့ စစ်မှန်မှု"
+    },
+    {
+        "start": 57.8,
+        "end": 59.1,
+        "japanese": "お 前 の 敗因 は",
+        "romanized": "o mae no haiin wa",
+        "hiraganaKatakana": "お まえ の はいいん は",
+        "myanmar": "မင်းရဲ့ ရှုံးကွက်က"
+    },
+    {
+        "start": 59.1,
+        "end": 61.2,
+        "japanese": "俺 を 首 チョンパしなかったことと",
+        "romanized": "ore wo kubi chonpashinakattakoto",
+        "hiraganaKatakana": "おれ を くび チョンパしなかったことと",
+        "myanmar": "ငါ့လည်ပင်းကို မဖြတ်လိုက်ခဲ့တာပဲ"
+    },
+    {
+        "start": 61.5,
+        "end": 63,
+        "japanese": "頭 を 部刺 すのに",
+        "romanized": "atama wo busa sunoni",
+        "hiraganaKatakana": "あたま を ぶさ すのに",
+        "myanmar": "ခေါင်းကိုထိုးလိုက်ရဲ့သားနဲ့"
+    },
+    {
+        "start": 63,
+        "end": 65,
+        "japanese": "あの 呪具 を 使 わなかったこと",
+        "romanized": "ano jugu wo tsuka wanakattakoto",
+        "hiraganaKatakana": "あの じゅぐ を つか わなかったこと",
+        "myanmar": "အဲ့မှော်လက်နက်ကို မသုံးခဲ့တာပဲ"
+    },
+    {
+        "start": 65.4,
+        "end": 67.3,
+        "japanese": "敗因 ？",
+        "romanized": "haiin ?",
+        "hiraganaKatakana": "はいいん ？",
+        "myanmar": "ရှုံးကွက်"
+    },
+    {
+        "start": 70.2,
+        "end": 72,
+        "japanese": "勝負 はこれからだろう",
+        "romanized": "shoubu wakorekaradarou",
+        "hiraganaKatakana": "しょうぶ はこれからだろう",
+        "myanmar": "အနိုင်အရှုံးဆုံးဖြတ်မှာက အခုမှလေ"
+    },
+    {
+        "start": 72.2,
+        "end": 74.2,
+        "japanese": "あ。。そうか？",
+        "romanized": "a.. souka?",
+        "hiraganaKatakana": "あ。。そうか？",
+        "myanmar": "အာ.. အဲ့လိုလား"
+    },
+    {
+        "start": 74.2,
+        "end": 75,
+        "japanese": "そうだな",
+        "romanized": "soudana",
+        "hiraganaKatakana": "そうだな",
+        "myanmar": "အဲ့လိုပါလား"
+    },
+    {
+        "start": 75.6,
+        "end": 77.6,
+        "japanese": "そうかもな",
+        "romanized": "soukamona",
+        "hiraganaKatakana": "そうかもな",
+        "myanmar": "အဲ့လိုများဖြစ်နေမလား"
+    },
+    {
+        "start": 90.3,
+        "end": 92.7,
+        "japanese": "術式 反転",
+        "romanized": "jutsushikihanten",
+        "hiraganaKatakana": "じゅつしき はんてん",
+        "myanmar": "ပြောင်းပြန်နည်းစနစ်"
+    },
+    {
+        "start": 94.6,
+        "end": 95.8,
+        "japanese": "赤",
+        "romanized": "aka",
+        "hiraganaKatakana": "あか",
+        "myanmar": "အနီ"
+    },
+    {
+        "start": 110.9,
+        "end": 112.5,
+        "japanese": "化 け 物 か",
+        "romanized": "ba ke mono ka",
+        "hiraganaKatakana": "ば け もの か",
+        "myanmar": "မကောင်းဆိုးဝါးလား"
+    },
+    {
+        "start": 119.1,
+        "end": 121.3,
+        "japanese": "骨 は 逝 ってねな",
+        "romanized": "hone wa i ttenena",
+        "hiraganaKatakana": "ほね は い ってねな",
+        "myanmar": "ဘယ်အရိုးမှ မကျိုးသေးဘူး"
+    },
+    {
+        "start": 121.3,
+        "end": 124.9,
+        "japanese": "今 の 衝撃 波 が 無 加減 技術",
+        "romanized": "ima no shougekiwa ga mukagengijutsu",
+        "hiraganaKatakana": "いま の しょうげき は が む かげん ぎじゅつ",
+        "myanmar": "အခုတုန်ခါမှုက အဆုံးမဲ့တဲ့နည်းစနစ်"
+    },
+    {
+        "start": 124.9,
+        "end": 126.9,
+        "japanese": "術式 反転 赤 か",
+        "romanized": "jutsushikihantenka ka",
+        "hiraganaKatakana": "じゅつしき はんてん あか か",
+        "myanmar": "ပြောင်းပြန်စနစ်အနီလား"
+    },
+    {
+        "start": 128.2,
+        "end": 130.2,
+        "japanese": "反転 術式 によって 生 まれた",
+        "romanized": "hantenjutsushiki niyotte i mareta",
+        "hiraganaKatakana": "はんてん じゅつしき によって う まれた",
+        "myanmar": "ပြောင်းပြန်နည်းစနစ်အနေနဲ့ မွေးဖွားလာခဲ့တဲ့"
+    },
+    {
+        "start": 130.2,
+        "end": 131.4,
+        "japanese": "精 のエネルギーを",
+        "romanized": "sei noenerugiiwo",
+        "hiraganaKatakana": "せい のエネルギーを",
+        "myanmar": "ဝိဉာဥ်ရဲ့အားအင်ကို"
+    },
+    {
+        "start": 131.4,
+        "end": 133,
+        "japanese": "てめえに 刻 まれた",
+        "romanized": "temeeni kiza mareta",
+        "hiraganaKatakana": "てめえに きざ まれた",
+        "myanmar": "အဲ့ကောင်ဆီမှာ အမြစ်တွယ်နေတဲ့"
+    },
+    {
+        "start": 133,
+        "end": 134,
+        "japanese": "無加減 の 術式 に",
+        "romanized": "mukagen no jutsushiki ni",
+        "hiraganaKatakana": "むかげん の じゅつしき に",
+        "myanmar": "အဆုံးမရှိတဲ့နည်းစနစ်မှာ"
+    },
+    {
+        "start": 134,
+        "end": 136.2,
+        "japanese": "流 し 込 んだってわけか",
+        "romanized": "naga shi ko ndattewakeka",
+        "hiraganaKatakana": "なが し こ んだってわけか",
+        "myanmar": "မျောပါသွားစရာလား"
+    },
+    {
+        "start": 136.9,
+        "end": 138.8,
+        "japanese": "1 。 止 める 力",
+        "romanized": "1. to meru chikara",
+        "hiraganaKatakana": "1 。 と める ちから",
+        "myanmar": "၁. ရပ်တန့်တဲ့အား"
+    },
+    {
+        "start": 138.9,
+        "end": 141,
+        "japanese": "ニュートラルな 無 加減 技術",
+        "romanized": "ryuutoraruna mukagengijutsu",
+        "hiraganaKatakana": "ニュートラルな む かげん ぎじゅつ",
+        "myanmar": "အလယ်အလတ်အဆုံးမဲ့တဲ့နည်းစနစ်"
+    },
+    {
+        "start": 142.4,
+        "end": 144.5,
+        "japanese": "2 。 引 き 寄 せる 力",
+        "romanized": "2. hi ki yo seru chikara",
+        "hiraganaKatakana": "2 。 ひ き よ せる ちから",
+        "myanmar": "၂. ဆွဲငင်အား"
+    },
+    {
+        "start": 144.6,
+        "end": 147.1,
+        "japanese": "強化 した 無 加減 技術 青",
+        "romanized": "kyouka shita mukagengijutsuao",
+        "hiraganaKatakana": "きょうか した む かげん ぎじゅつ あお",
+        "myanmar": "မြှင့်တင်ထားတဲ့အဆုံးမဲ့နည်းစနစ်အပြာ"
+    },
+    {
+        "start": 148.3,
+        "end": 151,
+        "japanese": "そして 3 。 弾 く 力",
+        "romanized": "soshite 3. haji ku chikara",
+        "hiraganaKatakana": "そして 3 。 はじ く ちから",
+        "myanmar": "အဲ့တာပြီးတော့ ၃. တွန်းကန်အား"
+    },
+    {
+        "start": 151.2,
+        "end": 152.9,
+        "japanese": "術式 反転 赤",
+        "romanized": "jutsushikihantenaka",
+        "hiraganaKatakana": "じゅつしき はんてん あか",
+        "myanmar": "ပြောင်းပြန်စနစ်အနီ"
+    },
+    {
+        "start": 155.8,
+        "end": 158.8,
+        "japanese": "全 て 問題 なし",
+        "romanized": "sube te mondai nashi",
+        "hiraganaKatakana": "すべ て もんだい なし",
+        "myanmar": "အကုန်လုံးပြဿနာမရှိ"
+    },
+    {
+        "start": 160.6,
+        "end": 161.8,
+        "japanese": "違和感",
+        "romanized": "iwakan",
+        "hiraganaKatakana": "いわかん",
+        "myanmar": "တစ်ခုခုလွဲနေတယ်"
+    },
+    {
+        "start": 167.2,
+        "end": 168.8,
+        "japanese": "違和感",
+        "romanized": "awaken",
+        "hiraganaKatakana": "いわかん",
+        "myanmar": "တစ်ခုခုလွဲနေတယ်"
+    },
+    {
+        "start": 171.7,
+        "end": 174.1,
+        "japanese": "いや、これでいい",
+        "romanized": "iya, koredeii",
+        "hiraganaKatakana": "いや、これでいい",
+        "myanmar": "ဟင့်အင်း၊ အခုတိုင်းအဆင်ပြေတယ်"
+    },
+    {
+        "start": 176.1,
+        "end": 177.6,
+        "japanese": "殺 す",
+        "romanized": "koro su",
+        "hiraganaKatakana": "ころ す",
+        "myanmar": "သတ်ပစ်မယ်"
+    },
+    {
+        "start": 197.4,
+        "end": 199.9,
+        "japanese": "ごめん、あまない",
+        "romanized": "gomen, amanai",
+        "hiraganaKatakana": "ごめん、あまない",
+        "myanmar": "တောင်းပန်ပါတယ် Amanai"
+    },
+    {
+        "start": 200.4,
+        "end": 203.7,
+        "japanese": "俺 は 今 お 前 のために 怒 ってない",
+        "romanized": "ore wa ima o mae notameni oko ttenai",
+        "hiraganaKatakana": "おれ は いま お まえ のために おこ ってない",
+        "myanmar": "ငါက အခု မင်းအတွက် စိတ်တိုမနေဘူး"
+    },
+    {
+        "start": 204.8,
+        "end": 207.2,
+        "japanese": "誰 も 憎 んじゃいない",
+        "romanized": "dare mo niku njainai",
+        "hiraganaKatakana": "だれ も にく んじゃいない",
+        "myanmar": "ဘယ်သူ့ကိုမှမုန်းတီးမနေဘူး"
+    },
+    {
+        "start": 209.2,
+        "end": 214.4,
+        "japanese": "今 はただただこの 世界 が 心地 いい",
+        "romanized": "ima watadatadakono sekai ga kokochi ii",
+        "hiraganaKatakana": "いま はただただこの せかい が ここち いい",
+        "myanmar": "အခု ဒီအတိုင်းလေး ဒီကမ္ဘာကြီးက သာယာနေတယ်"
+    },
+    {
+        "start": 231.3,
+        "end": 234.8,
+        "japanese": "天井 天下 唯我 独尊",
+        "romanized": "tenjotengeyuigadokuson",
+        "hiraganaKatakana": "てんじょ てんげ ゆいが どくそん",
+        "myanmar": "ကောင်းကင်ဘုံနဲ့ ကမ္ဘာတလွှားမှာ ငါတစ်ယောက်တည်းကပဲ ကောင်းချီးပေးခံထားရတဲ့သူ"
+    },
+    {
+        "start": 237.9,
+        "end": 240.9,
+        "japanese": "代々伝 える 相伝 の 術式 のメリットは",
+        "romanized": "daidaitsuta eru souden no jutsushiki nomeritto",
+        "hiraganaKatakana": "だいだいつた える そうでん の じゅつしき のメリットは",
+        "myanmar": "မျိုးရိုးစဥ်ဆက်လက်ဆင့်ကမ်းလာတဲ့ နည်းစနစ်အမွေတွေရဲ့ အားသာချက်က"
+    },
+    {
+        "start": 241,
+        "end": 242.8,
+        "japanese": "取説 があること",
+        "romanized": "torisetsu gaarukoto",
+        "hiraganaKatakana": "とりせつ があること",
+        "myanmar": "ညွှန်ကြားချက်လက်စွဲရှိတာ"
+    },
+    {
+        "start": 243.7,
+        "end": 245.2,
+        "japanese": "デメリットは",
+        "romanized": "demerittowa",
+        "hiraganaKatakana": "デメリットは",
+        "myanmar": "အားနည်းချက်က"
+    },
+    {
+        "start": 245.3,
+        "end": 247.7,
+        "japanese": "術式 の 情報 が 漏 れやすいこと",
+        "romanized": "jutsushiki no jouhou ga mo reyasuikoto",
+        "hiraganaKatakana": "じゅつしき の じょうほう が も れやすいこと",
+        "myanmar": "နည်းစနစ်သတင်းအချက်အလက်တွေက ပေါက်ကြားလွယ်တာ"
+    },
+    {
+        "start": 247.9,
+        "end": 250.8,
+        "japanese": "あんた 禅院家 の 人間 だろう",
+        "romanized": "anta zeninke no ningen darou",
+        "hiraganaKatakana": "あんた ぜんいんけ の にんげん だろう",
+        "myanmar": "မင်း Zenin မျိုးနွယ်ကမဟုတ်လား"
+    },
+    {
+        "start": 251.3,
+        "end": 254.9,
+        "japanese": "無 加減 技術 のことはよく 知 ってるわけだ",
+        "romanized": "mukagenjutsushiki nokotowayoku shi tteruwakeda",
+        "hiraganaKatakana": "む かげん じゅつしき のことはよく し ってるわけだ",
+        "myanmar": "အဆုံးမဲ့နည်းစနစ်အကြောင်းကို သေချာသိမှာပဲ"
+    },
+    {
+        "start": 256.4,
+        "end": 259.5,
+        "japanese": "だがこれは 五条家 の 中 でも",
+        "romanized": "dagakorewa gojouke no naka demo",
+        "hiraganaKatakana": "だがこれは ごじょうけ の なか でも",
+        "myanmar": "ဒါပေမဲ့ အခုဟာက Gojo မျိုးနွယ်ထဲမှာတောင်"
+    },
+    {
+        "start": 259.5,
+        "end": 261.8,
+        "japanese": "ごく 一部 の 人間 しか 知 らない",
+        "romanized": "goku ichibu no ningen shika shi ranai",
+        "hiraganaKatakana": "ごく いちぶ の にんげん しか し らない",
+        "myanmar": "တစ်ယောက်တလေကလွဲပြီး မသိဘူး"
+    },
+    {
+        "start": 273.2,
+        "end": 276.2,
+        "japanese": "順転 と 反転 それぞれの 無限 を",
+        "romanized": "junten to hanten sorezoreno mugen wo",
+        "hiraganaKatakana": "じゅんてん と はんてん それぞれの むげん を",
+        "myanmar": "မူလနည်းစနစ်နဲ့ ပြောင်းပြန်နည်းစနစ်အဲ့တာတွေရဲ့ အဆုံးမရှိမှုကို"
+    },
+    {
+        "start": 276.2,
+        "end": 278.2,
+        "japanese": "衝突 させることで 生成 される",
+        "romanized": "shoutotsu saserukotode seisei sareru",
+        "hiraganaKatakana": "しょうとつ させることで せいせい される",
+        "myanmar": "တိုက်မိစေတာကနေ ဖြစ်ပေါ်လာတယ်"
+    },
+    {
+        "start": 278.2,
+        "end": 281.4,
+        "japanese": "仮想 の 質量 を 押 し 出 す 旧式",
+        "romanized": "kasou no shitsuryou wo o shi da su kyuushiki",
+        "hiraganaKatakana": "かそう の しつりょう を お し だ す きゅうしき",
+        "myanmar": "ပုံရိပ်ရဲ့ အရည်အသွေးကို ထုတ်ပေးတဲ့ ပုံစံဟောင်း"
+    },
+    {
+        "start": 282,
+        "end": 283.5,
+        "japanese": "紫",
+        "romanized": "murasaki",
+        "hiraganaKatakana": "むらさき",
+        "myanmar": "ခရမ်းရောင်"
+    },
+    {
+        "start": 292.4,
+        "end": 294.3,
+        "japanese": "違和感",
+        "romanized": "awaken",
+        "hiraganaKatakana": "いわかん",
+        "myanmar": "တစ်ခုခုလွဲနေတယ်"
+    },
+    {
+        "start": 295.1,
+        "end": 297.9,
+        "japanese": "ただ 働 なんてごめんだね",
+        "romanized": "tada bataraki nantegomendane",
+        "hiraganaKatakana": "ただ ばたらき なんてごめんだね",
+        "myanmar": "\"အလကားလုပ်ပေးဖို့ရာဆိုရင်တော့ စိတ်မကောင်းပါဘူး\""
+    },
+    {
+        "start": 298.2,
+        "end": 301.4,
+        "japanese": "いつもの 俺 ならそう 言 ってとんずらこいだ",
+        "romanized": "itsumono ore narasou i ttetonzurakoida",
+        "hiraganaKatakana": "いつもの おれ ならそう い ってとんずらこいだ",
+        "myanmar": "ပုံမှန်ငါဆိုရင် အဲ့လိုပြောပြီးထွက်သွားမှာ"
+    },
+    {
+        "start": 302.3,
+        "end": 305.2,
+        "japanese": "だが 目 の 前 には 覚醒 した",
+        "romanized": "daga me no mae niwa kakusei shita",
+        "hiraganaKatakana": "だが め の まえ には かくせい した",
+        "myanmar": "ဒါပေမဲ့ မျက်စိရှေ့မှာ နိုးထလာတဲ့"
+    },
+    {
+        "start": 305.2,
+        "end": 307.1,
+        "japanese": "無 加減 技術 の 使 い 手",
+        "romanized": "mukagenjutsushiki no tsuka i te",
+        "hiraganaKatakana": "む かげん じゅつしき の つか い て",
+        "myanmar": "အဆုံးမရှိတဲ့နည်းစနစ်ရဲ့ အသုံးပြုသူ"
+    },
+    {
+        "start": 307.7,
+        "end": 310.5,
+        "japanese": "おそらく 現代 最強 となった 術師",
+        "romanized": "osoraku gendaisaikyou tonatta jutsushi",
+        "hiraganaKatakana": "おそらく げんだい さいきょう となった じゅつし",
+        "myanmar": "မျက်မှောက်ကာလရဲ့ အစွမ်းအထက်ဆုံးဖြစ်လာခဲ့တဲ့ မှော်ဆရာ"
+    },
+    {
+        "start": 311.7,
+        "end": 313.6,
+        "japanese": "否定 したくなった",
+        "romanized": "hitei shitakunatta",
+        "hiraganaKatakana": "ひてい したくなった",
+        "myanmar": "ငြင်းဆန်ချင်လာခဲ့တယ်"
+    },
+    {
+        "start": 313.6,
+        "end": 315.6,
+        "japanese": "ねじ 伏 せて 見 たくなった",
+        "romanized": "neji fu sete mi takunatta",
+        "hiraganaKatakana": "ねじ ふ せて み たくなった",
+        "myanmar": "ဇွတ်အတင်းကို အနိုင်ယူပစ်ချင်မိခဲ့တယ်"
+    },
+    {
+        "start": 315.8,
+        "end": 319.3,
+        "japanese": "俺 を 否定 した 禅院家 、 呪術会",
+        "romanized": "ore wo hitei shita zeninke , jujutsukai",
+        "hiraganaKatakana": "おれ を ひてい した ぜんいんけ 、 じゅじゅつかい",
+        "myanmar": "ငါ့ကို ငြင်းပယ်ခဲ့တဲ့ Zenin မျိုးနွယ်၊ Jujutsu အဖွဲ့အစည်း"
+    },
+    {
+        "start": 319.5,
+        "end": 324.2,
+        "japanese": "その 頂点 を 自分 を 肯定 するために",
+        "romanized": "sono chouten wo jibun wo koutei surutameni",
+        "hiraganaKatakana": "その ちょうてん を じぶん を こうてい するために",
+        "myanmar": "အဲ့ဒီထိပ်ဆုံးအမှတ်ကို ကိုယ့်ကိုယ်ကို အတည်ပြုဖို့အတွက်"
+    },
+    {
+        "start": 324.3,
+        "end": 326.8,
+        "japanese": "いつもの 自分 を 曲 げちまった",
+        "romanized": "itsumono jibun wo ma gechimatta",
+        "hiraganaKatakana": "いつもの じぶん を ま げちまった",
+        "myanmar": "ပုံမှန်ကိုယ့်ကို နှိမ့်ချပစ်ခဲ့တယ်"
+    },
+    {
+        "start": 328.2,
+        "end": 330.9,
+        "japanese": "その 時点 で 負 けていた",
+        "romanized": "sono jiten de ma keteita",
+        "hiraganaKatakana": "その じてん で ま けていた",
+        "myanmar": "အဲ့အချက်နဲ့ ရှုံးခဲ့တယ်"
+    },
+    {
+        "start": 340.6,
+        "end": 343.2,
+        "japanese": "それは 捨 てだろう",
+        "romanized": "sorewa su tedarou",
+        "hiraganaKatakana": "それは す てだろう",
+        "myanmar": "အဲ့တာက စွန့်ပစ်ခဲ့တာပါလား"
+    },
+    {
+        "start": 344.3,
+        "end": 347,
+        "japanese": "自分 も 他人 も 尊 ぶことない",
+        "romanized": "jibun mo tanin mo tatto bukotonai",
+        "hiraganaKatakana": "じぶん も たにん も たっと ぶことない",
+        "myanmar": "ကိုယ်တိုင်ရော တခြားသူရော လေးစားမှုမရှိဘူး"
+    },
+    {
+        "start": 347.5,
+        "end": 350.8,
+        "japanese": "そう 言 う 生 き 方 を 選 んだんだろうか",
+        "romanized": "sou i u i ki kata wo era ndandarouka",
+        "hiraganaKatakana": "そう い う い き かた を えら んだんだろうか",
+        "myanmar": "အဲ့လို ရှင်သန်မှုမျိုးကို ရွေးချယ်ခဲ့တာလား"
+    }
+]
