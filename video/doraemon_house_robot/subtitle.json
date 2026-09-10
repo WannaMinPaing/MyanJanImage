@@ -1,0 +1,570 @@
+[
+    {
+        "start": 29.5,
+        "end": 30.9,
+        "japanese": "のび 太君",
+        "romanized": "nobi takun",
+        "hiraganaKatakana": "のび たくん",
+        "myanmar": "Nobita Kun"
+    },
+    {
+        "start": 31.2,
+        "end": 33.3,
+        "japanese": "おめかししてどこ 行 くの？",
+        "romanized": "omekashishitedoko i kuno?",
+        "hiraganaKatakana": "おめかししてどこ い くの？",
+        "myanmar": "ဝတ်စားပြီး ဘယ်သွားမလို့လဲ"
+    },
+    {
+        "start": 33.3,
+        "end": 34.6,
+        "japanese": "連 れて 行 かないよ",
+        "romanized": "tsu rete i kanaiyo",
+        "hiraganaKatakana": "つ れて い かないよ",
+        "myanmar": "မခေါ်သွားဘူးနော်"
+    },
+    {
+        "start": 34.6,
+        "end": 36.5,
+        "japanese": "勉強 しに 行 くんだから",
+        "romanized": "benkyou shini i kundakara",
+        "hiraganaKatakana": "べんきょう しに い くんだから",
+        "myanmar": "စာလုပ်ဖို့သွားမလို့"
+    },
+    {
+        "start": 37.3,
+        "end": 39.8,
+        "japanese": "勉強 ならうち で やればいいのに",
+        "romanized": "benkyou narauchideyarebaiinoni",
+        "hiraganaKatakana": "べんきょう ならうち で やればいいのに",
+        "myanmar": "စာလုပ်တာများ အိမ်မှာလုပ်ရင်လည်းရတာကို"
+    },
+    {
+        "start": 40.7,
+        "end": 44.2,
+        "japanese": "気 のあった 友達 とでなくちゃ 楽 しくやれないよ",
+        "romanized": "ki noatta tomodachi todenakucha tano shikuyarenai",
+        "hiraganaKatakana": "き のあった ともだち とでなくちゃ たの しくやれないよ",
+        "myanmar": "စိတ်တူကိုယ်တူရှိတဲ့သူငယ်ချင်းနဲ့ လုပ်ရတာမဟုတ်ရင် ပျော်စရာမကောင်းဘူးလေ"
+    },
+    {
+        "start": 45.1,
+        "end": 47,
+        "japanese": "じゃ、 行 ってきます",
+        "romanized": "ja, i ttekimasu",
+        "hiraganaKatakana": "じゃ、 い ってきます",
+        "myanmar": "ဒါဆို သွားပါပြီ"
+    },
+    {
+        "start": 47.2,
+        "end": 48.8,
+        "japanese": "お 行儀 よくね",
+        "romanized": "o gyougi yokune",
+        "hiraganaKatakana": "お ぎょうぎ よくね",
+        "myanmar": "အိန္ဒြေရရနေနော်"
+    },
+    {
+        "start": 48.8,
+        "end": 51.5,
+        "japanese": "静香 ちゃんに 迷惑 かけちゃだめよ",
+        "romanized": "shizuka channi meiwaku kakechadameyo",
+        "hiraganaKatakana": "しずか ちゃんに めいわく かけちゃだめよ",
+        "myanmar": "Shizuka Chan ကို နှောင့်ယှက်တာမျိုးဆို မဖြစ်ဘူးနော်"
+    },
+    {
+        "start": 51.5,
+        "end": 53.1,
+        "japanese": "わかってるよ",
+        "romanized": "wakatteruyo",
+        "hiraganaKatakana": "わかってるよ",
+        "myanmar": "သိပါတယ်နော်"
+    },
+    {
+        "start": 54.1,
+        "end": 56.1,
+        "japanese": "そういうことか",
+        "romanized": "souiukotoka",
+        "hiraganaKatakana": "そういうことか",
+        "myanmar": "အဲ့လိုလား"
+    },
+    {
+        "start": 56.4,
+        "end": 59.9,
+        "japanese": "勉強 勉強 楽 しいなあ",
+        "romanized": "benkyoubenkyoutano shiinaa",
+        "hiraganaKatakana": "べんきょう べんきょう たの しいなあ",
+        "myanmar": "စာလုပ်မယ် စာလုပ်မယ် ပျော်လိုက်တာနော်"
+    },
+    {
+        "start": 60.8,
+        "end": 62.4,
+        "japanese": "嫌 な 予感",
+        "romanized": "iya na yokan",
+        "hiraganaKatakana": "いや な よかん",
+        "myanmar": "မကောင်းတဲ့ခံစားချက်"
+    },
+    {
+        "start": 62.4,
+        "end": 64,
+        "japanese": "よ のび 太",
+        "romanized": "yonobi ta",
+        "hiraganaKatakana": "よ のび た",
+        "myanmar": "ဟေ့ Nobita"
+    },
+    {
+        "start": 64,
+        "end": 66,
+        "japanese": "楽 しそうにどこ 行 くんだ",
+        "romanized": "tano shisounidoko i kunda",
+        "hiraganaKatakana": "たの しそうにどこ い くんだ",
+        "myanmar": "ပျော်နေတဲ့ပုံနဲ့ ဘယ်သွားမလို့လဲ"
+    },
+    {
+        "start": 66,
+        "end": 67.9,
+        "japanese": "ちょっと 勉強 に",
+        "romanized": "chotto benkyou ni",
+        "hiraganaKatakana": "ちょっと べんきょう に",
+        "myanmar": "ခဏ စာလုပ်ဖို့"
+    },
+    {
+        "start": 67.9,
+        "end": 70.1,
+        "japanese": "ほうそれはいいことだ",
+        "romanized": "housorewaiikotoda",
+        "hiraganaKatakana": "ほうそれはいいことだ",
+        "myanmar": "ဝိုး အဲ့တာက ကောင်းတာပဲ"
+    },
+    {
+        "start": 70.1,
+        "end": 73.8,
+        "japanese": "だったらいい 勉強 部屋 を 貸 してやろう",
+        "romanized": "dattaraii benkyouheya wo ka shiteyarou",
+        "hiraganaKatakana": "だったらいい べんきょう へや を か してやろう",
+        "myanmar": "အဲ့တာဆိုရင် စာလုပ်ခန်းကောင်းကောင်းလေး ငှားပေးမယ်လေ"
+    },
+    {
+        "start": 73.8,
+        "end": 76.1,
+        "japanese": "今日 は 町内会 の 集 まりがあって",
+        "romanized": "kyou wa chounaikai no a tsumarigaatte",
+        "hiraganaKatakana": "きょう は ちょうないかい の あ つまりがあって",
+        "myanmar": "ဒီနေ့က မြို့တွင်းအစည်းအဝေးရှိလို့"
+    },
+    {
+        "start": 76.1,
+        "end": 77.9,
+        "japanese": "うちには 誰 もいないんだ",
+        "romanized": "uchiwa dare moinainda",
+        "hiraganaKatakana": "うちには だれ もいないんだ",
+        "myanmar": "အိမ်မှာ ဘယ်သူမှမရှိတာမိုလို့"
+    },
+    {
+        "start": 77.9,
+        "end": 79.9,
+        "japanese": "勉強 し 放題 だぞ",
+        "romanized": "benkyou shi houdai dazo",
+        "hiraganaKatakana": "べんきょう し ほうだい だぞ",
+        "myanmar": "စာတဝကြီးလုပ်လို့ရတယ်"
+    },
+    {
+        "start": 80.1,
+        "end": 81.4,
+        "japanese": "いいよ",
+        "romanized": "iiyo",
+        "hiraganaKatakana": "いいよ",
+        "myanmar": "ရပါတယ်"
+    },
+    {
+        "start": 83.6,
+        "end": 85.8,
+        "japanese": "居 ないに いっぱい 部屋 もあってよ",
+        "romanized": "i nainiippai heya moatteyo",
+        "hiraganaKatakana": "い ないに いっぱい へや もあってよ",
+        "myanmar": "အိမ်ထဲမှာလည်း အခန်းတွေအများကြီးရှိသေးတယ်လေ"
+    },
+    {
+        "start": 85.6,
+        "end": 88,
+        "japanese": "何 でも 好 きなように 使 っていい",
+        "romanized": "nande mo su kinayouni tsuka tteii",
+        "hiraganaKatakana": "なん でも す きなように つか っていい",
+        "myanmar": "ကြိုက်သလိုသုံးလို့ရတယ်"
+    },
+    {
+        "start": 88,
+        "end": 89.6,
+        "japanese": "いいってば",
+        "romanized": "iitteba",
+        "hiraganaKatakana": "いいってば",
+        "myanmar": "ရပါတယ်ဆို"
+    },
+    {
+        "start": 91.7,
+        "end": 95.7,
+        "japanese": "人 の 親切 を 受 け 入 れないやつが",
+        "romanized": "hito no shinsetsu wo u ke i renaiyatsuga",
+        "hiraganaKatakana": "ひと の しんせつ を う け い れないやつが",
+        "myanmar": "လူတစ်ယောက်ရဲ့ ကြင်နာမှုကို လက်မခံတဲ့ကောင်ကို"
+    },
+    {
+        "start": 95.7,
+        "end": 99.1,
+        "japanese": "俺 は 大嫌 いなんだ",
+        "romanized": "ore wa daikira inanda",
+        "hiraganaKatakana": "おれ は だいきら いなんだ",
+        "myanmar": "ငါက တအားမုန်းတာကွ"
+    },
+    {
+        "start": 102.2,
+        "end": 103.8,
+        "japanese": "のび 太 さん",
+        "romanized": "nobi ta san",
+        "hiraganaKatakana": "のび た さん",
+        "myanmar": "Nobita San"
+    },
+    {
+        "start": 104.8,
+        "end": 106.9,
+        "japanese": "あ、 静香 ちゃん",
+        "romanized": "a, shizuka chan",
+        "hiraganaKatakana": "あ、 しずか ちゃん",
+        "myanmar": "အာ၊ Shizuka Chan"
+    },
+    {
+        "start": 106.9,
+        "end": 109.3,
+        "japanese": "あんまり 遅 いから 迎 えにきたの",
+        "romanized": "anmari oso ikara mu kaenikitano",
+        "hiraganaKatakana": "あんまり おそ いから む かえにきたの",
+        "myanmar": "တော်တော်လေးနောက်ကျနေလို့ လာကြိုတာ"
+    },
+    {
+        "start": 109.3,
+        "end": 111.8,
+        "japanese": "え、 特 に 出 かけたのに",
+        "romanized": "e, toku ni de kaketanoni",
+        "hiraganaKatakana": "え、 とく に で かけたのに",
+        "myanmar": "အဲ၊ အပြင်ထွက်သွားတာပဲကို"
+    },
+    {
+        "start": 112.4,
+        "end": 115.5,
+        "japanese": "もうどこで 道草食 ってんだろう",
+        "romanized": "moudokode michikusaku ttendarou",
+        "hiraganaKatakana": "もうどこで みちくさく ってんだろう",
+        "myanmar": "ဘယ်တွေမှာများ လမ်းသလားနေတာလဲနော်"
+    },
+    {
+        "start": 118,
+        "end": 119.7,
+        "japanese": "のび 太 さんの 声 だわ",
+        "romanized": "nobi ta sanno koe dawa",
+        "hiraganaKatakana": "のび た さんの こえ だわ",
+        "myanmar": "Nobita San ရဲ့ အသံပဲ"
+    },
+    {
+        "start": 119.7,
+        "end": 121.4,
+        "japanese": "なんで ジャイアン の 家 に",
+        "romanized": "nandejaianno ie ni",
+        "hiraganaKatakana": "なんで ジャイアン の いえ に",
+        "myanmar": "ဘာလို့ Gian ရဲ့ အိမ်မှာ"
+    },
+    {
+        "start": 129.9,
+        "end": 133.1,
+        "japanese": "ニス 場 と 掃除押 し 付 けられたか",
+        "romanized": "nisuba to soujio shitsukeraretaka",
+        "hiraganaKatakana": "ニス ば と そうじお し つ けられたか",
+        "myanmar": "သန့်ရှင်းရေး ကူလုပ်ခိုင်းထားခံရတာလား"
+    },
+    {
+        "start": 133.7,
+        "end": 138.2,
+        "japanese": "ママに 言 われたことをそっくり 押 し 付 けて 行 ったんでよ",
+        "romanized": "maman i iwaretakotowosokkuri o shi tsu kete i ttandeyo",
+        "hiraganaKatakana": "ママに い われたことをそっくり お し つ けて い ったんでよ",
+        "myanmar": "မေမေပြောလိုက်တာကို သေချာဂရုစိုက်ပြီး သွားနေတာပဲကို"
+    },
+    {
+        "start": 139.3,
+        "end": 141,
+        "japanese": "仕方 ないわね",
+        "romanized": "shikata naiwane",
+        "hiraganaKatakana": "しかた ないわね",
+        "myanmar": "ဘယ်တတ်နိုင်မလဲလေ"
+    },
+    {
+        "start": 141,
+        "end": 142.3,
+        "japanese": "手伝 うわ",
+        "romanized": "teduta uwa",
+        "hiraganaKatakana": "てづた うわ",
+        "myanmar": "ကူညီပေးမယ်"
+    },
+    {
+        "start": 142.3,
+        "end": 145.4,
+        "japanese": "その 後 一緒 にここで 勉強 しましょう",
+        "romanized": "sono atoissho nikokode benkyou shimashou",
+        "hiraganaKatakana": "その あと いっしょ にここで べんきょう しましょう",
+        "myanmar": "အဲ့တာပြီးရင် ဒီမှာစာအတူတူ လုပ်ကြစို့"
+    },
+    {
+        "start": 145.4,
+        "end": 146.9,
+        "japanese": "静香 ちゃん",
+        "romanized": "shizuka chan",
+        "hiraganaKatakana": "しずか ちゃん",
+        "myanmar": "Shizuka Chan"
+    },
+    {
+        "start": 146.9,
+        "end": 148.7,
+        "japanese": "勉強 の 用意 をしてくるわ",
+        "romanized": "benkyou no youi woshitekuruwa",
+        "hiraganaKatakana": "べんきょう の ようい をしてくるわ",
+        "myanmar": "စာလုပ်ဖို့ပြင်ဆင်စရာတွေလုပ်လာခဲ့မယ်"
+    },
+    {
+        "start": 148.8,
+        "end": 150.7,
+        "japanese": "優 しいなあ",
+        "romanized": "yasa shiinaa",
+        "hiraganaKatakana": "やさ しいなあ",
+        "myanmar": "ကြင်နာတတ်လိုက်တာနော်"
+    },
+    {
+        "start": 150.7,
+        "end": 151.6,
+        "japanese": "よし",
+        "romanized": "yoshi",
+        "hiraganaKatakana": "よし",
+        "myanmar": "ဟုတ်ပြီ"
+    },
+    {
+        "start": 151.6,
+        "end": 154.3,
+        "japanese": "家 のことは 家 にやってもらおう",
+        "romanized": "ie nokotowa ie niyattemoraou",
+        "hiraganaKatakana": "いえ のことは いえ にやってもらおう",
+        "myanmar": "အိမ်ကိစ္စကို အိမ်ကိုလုပ်ခိုင်းရအောင်"
+    },
+    {
+        "start": 156.6,
+        "end": 159.1,
+        "japanese": "ハウスロボット",
+        "romanized": "hausurobotto",
+        "hiraganaKatakana": "ハウスロボット",
+        "myanmar": "အိမ်စက်ရုပ်"
+    },
+    {
+        "start": 161.2,
+        "end": 163.4,
+        "japanese": "これは ここに 開 いてった",
+        "romanized": "korewakokoni a itetta",
+        "hiraganaKatakana": "これは ここに あ いてった",
+        "myanmar": "ဒါက ဒီမှာဖွင့်ထားမယ်"
+    },
+    {
+        "start": 168.8,
+        "end": 170.5,
+        "japanese": "え、 何々",
+        "romanized": "e, naninani",
+        "hiraganaKatakana": "え、 なになに",
+        "myanmar": "အဲ၊ ဘာကြီး ဘာကြီး"
+    },
+    {
+        "start": 174.5,
+        "end": 176.9,
+        "japanese": "これで 家 が ロボット に なった",
+        "romanized": "korede ie garobottoninatta",
+        "hiraganaKatakana": "これで いえ が ロボット に なった",
+        "myanmar": "ဒီဟာနဲ့ အိမ်ကစက်ရုပ်ဖြစ်သွားတယ်"
+    },
+    {
+        "start": 176.9,
+        "end": 178,
+        "japanese": "ロボット",
+        "romanized": "robotto",
+        "hiraganaKatakana": "ロボット",
+        "myanmar": "စက်ရုပ်"
+    },
+    {
+        "start": 178,
+        "end": 182.4,
+        "japanese": "あい、 家君 ロボット になったなら 返事 してくれ",
+        "romanized": "ai, iekun robottoninattanara henji shitekure",
+        "hiraganaKatakana": "あい、 いえくん ロボット になったなら へんじ してくれ",
+        "myanmar": "ကဲ၊ အိမ်ရေ စက်ရုပ်ဖြစ်သွားပြီဆို အကြောင်းပြန်ပေးပါ"
+    },
+    {
+        "start": 183.2,
+        "end": 186.4,
+        "japanese": "俺 この 家 ロボットになった",
+        "romanized": "ore kono ie robottoninatta",
+        "hiraganaKatakana": "おれ この いえ ロボットになった",
+        "myanmar": "ငါဒီအိမ်ပါ။ စက်ရုပ်ဖြစ်သွားပါပြီ"
+    },
+    {
+        "start": 188,
+        "end": 191.3,
+        "japanese": "ずいぶん 君 の 中 が 散 らかってるだけど",
+        "romanized": "zuibun kimi no naka ga chi rakatterudakedo",
+        "hiraganaKatakana": "ずいぶん きみ の なか が ち らかってるだけど",
+        "myanmar": "မင်းရဲ့အတွင်းစိတ်မှာ အခြေအနေတွေက အတော်လေး ရှုပ်ထွေးနေပုံရတယ်"
+    },
+    {
+        "start": 194.5,
+        "end": 195.8,
+        "japanese": "本当 だ",
+        "romanized": "hontou da",
+        "hiraganaKatakana": "ほんとう だ",
+        "myanmar": "အမှန်ပဲ"
+    },
+    {
+        "start": 195.8,
+        "end": 197.2,
+        "japanese": "恥 ずかしい",
+        "romanized": "ha zukashii",
+        "hiraganaKatakana": "は ずかしい",
+        "myanmar": "ရှက်စရာ"
+    },
+    {
+        "start": 197.2,
+        "end": 199,
+        "japanese": "すぐ 片付 ける",
+        "romanized": "sugu katatsu keru",
+        "hiraganaKatakana": "すぐ かたつ ける",
+        "myanmar": "ချက်ချင်း ရှင်းလင်းမယ်"
+    },
+    {
+        "start": 199,
+        "end": 200.2,
+        "japanese": "よろしく",
+        "romanized": "yoroshiku",
+        "hiraganaKatakana": "よろしく",
+        "myanmar": "အားကိုးပါတယ်"
+    },
+    {
+        "start": 218.9,
+        "end": 223.1,
+        "japanese": "ロボットだから 大抵 のことは 自動的 にやってくれるんだ",
+        "romanized": "robottodakara taitei nokotowa jidouteki niyattekureru",
+        "hiraganaKatakana": "ロボットだから たいてい のことは じどうてき にやってくれるんだ",
+        "myanmar": "စက်ရုပ်မိုလို့ ပုံမှန်ကိစ္စတော်တော်များများကို သူ့အလိုလိုလုပ်ပေးတယ်"
+    },
+    {
+        "start": 238.8,
+        "end": 241.1,
+        "japanese": "れっしに 掃除 してる",
+        "romanized": "resshini souji shiteru",
+        "hiraganaKatakana": "れっしに そうじ してる",
+        "myanmar": "တစိုက်မတ်မတ် သန့်ရှင်းရေးလုပ်နေတာပဲ"
+    },
+    {
+        "start": 241.1,
+        "end": 243.5,
+        "japanese": "意外 に 綺麗好 きな 家 なんだね",
+        "romanized": "igai ni kireisu kina ie nandane",
+        "hiraganaKatakana": "いがい に きれいす きな いえ なんだね",
+        "myanmar": "မထင်ထားလောက်အောင် သန့်ရှင်းသပ်ရပ်တဲ့အိမ်ပဲနော်"
+    },
+    {
+        "start": 244.9,
+        "end": 246.6,
+        "japanese": "お 邪魔 します",
+        "romanized": "o jama shimasu",
+        "hiraganaKatakana": "お じゃま します",
+        "myanmar": "ဝင်လာပါပြီ"
+    },
+    {
+        "start": 247.7,
+        "end": 249.2,
+        "japanese": "自動 ドア",
+        "romanized": "jidou doa",
+        "hiraganaKatakana": "じどう ドア",
+        "myanmar": "အော်တိုတံခါး"
+    },
+    {
+        "start": 250.2,
+        "end": 252,
+        "japanese": "静香 ちゃん おかえり",
+        "romanized": "shizuka chanokaeri",
+        "hiraganaKatakana": "しずか ちゃん おかえり",
+        "myanmar": "Shizuka Chan ကြိုဆိုပါတယ်"
+    },
+    {
+        "start": 252,
+        "end": 253.4,
+        "japanese": "こっち こっち",
+        "romanized": "kocchikocchi",
+        "hiraganaKatakana": "こっち こっち",
+        "myanmar": "ဒီဘက် ဒီဘက်"
+    },
+    {
+        "start": 273,
+        "end": 275.6,
+        "japanese": "すっかり 綺麗 になったでしょ",
+        "romanized": "sukkari kirei ninattadesho",
+        "hiraganaKatakana": "すっかり きれい になったでしょ",
+        "myanmar": "ပြောင်လက်နေအောင် သန့်ရှင်းသွားတယ််မဟုတ်လား"
+    },
+    {
+        "start": 275.6,
+        "end": 277.3,
+        "japanese": "二人 で 掃除 したの",
+        "romanized": "futari de souji shitano",
+        "hiraganaKatakana": "ふたり で そうじ したの",
+        "myanmar": "နှစ်ယောက်တည်း သန့်ရှင်းရေးလုပ်လိုက်တာလား"
+    },
+    {
+        "start": 277.3,
+        "end": 278.6,
+        "japanese": "違 うよ",
+        "romanized": "chiga uyo",
+        "hiraganaKatakana": "ちが うよ",
+        "myanmar": "မဟုတ်ပါဘူး"
+    },
+    {
+        "start": 278.6,
+        "end": 280.8,
+        "japanese": "家 が 自分 でやってくれたんだ",
+        "romanized": "ie ga jibun deyattekuretanda",
+        "hiraganaKatakana": "いえ が じぶん でやってくれたんだ",
+        "myanmar": "အိမ်က သူ့ဘာသာသူလုပ်ပေးသွားတာ"
+    },
+    {
+        "start": 281.8,
+        "end": 283.7,
+        "japanese": "静香 ちゃん いらっしゃい",
+        "romanized": "shizuka chanirasshai",
+        "hiraganaKatakana": "しずか ちゃん いらっしゃい",
+        "myanmar": "Shizuka Chan ကြိုဆိုပါတယ်"
+    },
+    {
+        "start": 283.7,
+        "end": 286.8,
+        "japanese": "たけし が いつも お 世話 になってます",
+        "romanized": "takeshigaitsumoo sewa ninattamasu",
+        "hiraganaKatakana": "たけし が いつも お せわ になってます",
+        "myanmar": "Takeshi ကို အမြဲတမ်း ဂရုစိုက်ပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်"
+    },
+    {
+        "start": 288.1,
+        "end": 291.6,
+        "japanese": "ねえ、 家君僕 たち 勉強 がしたいだけど",
+        "romanized": "nee, iekunboku tachi benkyou gashitaidakedo",
+        "hiraganaKatakana": "ねえ、 いえくんぼく たち べんきょう がしたいだけど",
+        "myanmar": "ဒါနဲ့ အိမ်ရေ၊ ငါတို့စာလုပ်ချင်လို့လေ"
+    },
+    {
+        "start": 291.6,
+        "end": 293,
+        "japanese": "わかった",
+        "romanized": "wakatta",
+        "hiraganaKatakana": "わかった",
+        "myanmar": "သိပြီ"
+    }
+]
