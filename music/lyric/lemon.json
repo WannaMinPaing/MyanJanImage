@@ -1,0 +1,444 @@
+[
+    {
+        "start": 0,
+        "end": 5,
+        "japanese": "夢ならばどれほどよかったでしょう",
+        "romanized": "",
+        "hiraganaKatakana": "ゆめならばどれほどよかったでしょう",
+        "myanmar": "အိပ်မက်သာဆိုရင် ဘယ်လောက်ကောင်းလိမ့်မလဲ",
+        "time": 2444
+    },
+    {
+        "start": 5,
+        "end": 10,
+        "japanese": "今だにあなたのことを夢にみる",
+        "romanized": "",
+        "hiraganaKatakana": "いまだにあなたのことをゆめにみる",
+        "myanmar": "အခုထိ မင်းအကြောင်းကို အိပ်မက်မက်တယ်",
+        "time": 7989
+    },
+    {
+        "start": 10,
+        "end": 15,
+        "japanese": "忘れたものを取りに帰るように",
+        "romanized": "",
+        "hiraganaKatakana": "わすれたものをとりにかえるように",
+        "myanmar": "မေ့ပျောက်ပြီးသားအရာကို ပြန်ရယူသလိုမျိုး",
+        "time": 13278
+    },
+    {
+        "start": 15,
+        "end": 20,
+        "japanese": "古びた思い出の埃を払う",
+        "romanized": "",
+        "hiraganaKatakana": "ふるびたおもいでのほこりをはらう",
+        "myanmar": "အတိတ်က အမှတ်တရဟောင်းတွေကို ပြန်ဖော်ထုတ်တယ်",
+        "time": 18880
+    },
+    {
+        "time": 23050,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "start": 20,
+        "end": 25,
+        "japanese": "戻らない幸せがあることを",
+        "romanized": "",
+        "hiraganaKatakana": "もどらないしあわせがあることを",
+        "myanmar": "ပြန်မရတော့မဲ့ ပျော်ရွှင်မှုမျိုးရှိတယ်ဆိုတာကို",
+        "time": 27221
+    },
+    {
+        "start": 25,
+        "end": 30,
+        "japanese": "最後にあなたが教えてくれた",
+        "romanized": "",
+        "hiraganaKatakana": "さいごにあなたがおしえてくれた",
+        "myanmar": "နောက်ဆုံးမှာ မင်းကပြောပြပေးသွားခဲ့တယ်",
+        "time": 32583
+    },
+    {
+        "start": 30,
+        "end": 35,
+        "japanese": "言えずに隠してた暗い過去も",
+        "romanized": "",
+        "hiraganaKatakana": "いえずにかくしてたくらいかこも",
+        "myanmar": "မပြောပြနိုင်ဘဲ လျှို့ဝှက်နေခဲ့ရတဲ့ မှောင်မိုက်တဲ့အတိတ်လည်း",
+        "time": 38192
+    },
+    {
+        "start": 35,
+        "end": 40,
+        "japanese": "あなたがいなきゃ永遠に暗いまま",
+        "romanized": "",
+        "hiraganaKatakana": "あなたがいなきゃえいえんにくらいまま",
+        "myanmar": "မင်းမရှိရင် ထာဝရ မှောင်မိုက်မြဲ",
+        "time": 43786
+    },
+    {
+        "start": 40,
+        "end": 45,
+        "japanese": "きっともうこれ以上",
+        "romanized": "",
+        "hiraganaKatakana": "きっともうこれいじょう",
+        "myanmar": "သေချာပေါက် ဒီဟာထက်",
+        "time": 49799
+    },
+    {
+        "start": 45,
+        "end": 50,
+        "japanese": "傷つくことなど",
+        "romanized": "",
+        "hiraganaKatakana": "きずつくことなど",
+        "myanmar": "ဒဏ်ရာရရတဲ့ ကိစ္စတွေ",
+        "time": 52583
+    },
+    {
+        "start": 50,
+        "end": 55,
+        "japanese": "ありはしないとわかっている",
+        "romanized": "",
+        "hiraganaKatakana": "ありはしないとわかっている",
+        "myanmar": "မရှိနိုင်ဘူးဆိုတာ သိနေတယ်",
+        "time": 55207
+    },
+    {
+        "start": 55,
+        "end": 60,
+        "japanese": "あの日の悲しみさえ",
+        "romanized": "",
+        "hiraganaKatakana": "あのひのかなしみさえ",
+        "myanmar": "အဲ့ဒီနေ့မှာ ဝမ်းနည်းခဲ့ရတာတောင်",
+        "time": 60180
+    },
+    {
+        "start": 60,
+        "end": 65,
+        "japanese": "あの日の苦しみさえ",
+        "romanized": "",
+        "hiraganaKatakana": "あのひのくるしみさえ",
+        "myanmar": "အဲ့ဒီနေ့မှာ စိတ်ပင်ပန်းဆင်းရဲခဲ့ရတာတောင်",
+        "time": 62766
+    },
+    {
+        "start": 65,
+        "end": 70,
+        "japanese": "そのすべてを愛してた あなたと共に",
+        "romanized": "",
+        "hiraganaKatakana": "そのすべてをあいしてた あなたとともに",
+        "myanmar": "အဲ့တာအားလုံးကို ချစ်မြတ်နိုးခဲ့တယ် မင်းနဲ့အတူတူ ",
+        "time": 65471
+    },
+    {
+        "start": 70,
+        "end": 75,
+        "japanese": "胸に残り離れない",
+        "romanized": "",
+        "hiraganaKatakana": "むねにのこりはなれない",
+        "myanmar": "ရင်ထဲမှာ ကျန်ရစ်နေတာ ဖျောက်ဖျက်မရဘူး",
+        "time": 70939
+    },
+    {
+        "start": 75,
+        "end": 80,
+        "japanese": "苦いレモンの匂い",
+        "romanized": "",
+        "hiraganaKatakana": "にがいれもんのにおい",
+        "myanmar": "ခါးသက်တဲ့ သံပရိုသီးရနံ့",
+        "time": 74223
+    },
+    {
+        "start": 80,
+        "end": 85,
+        "japanese": "雨が降りやむまでは帰れない",
+        "romanized": "",
+        "hiraganaKatakana": "あめがふりやむまではかえれない",
+        "myanmar": "မိုးမတိတ်ခင်အထိတော့ မပြန်နိုင်ဘူး",
+        "time": 77012
+    },
+    {
+        "start": 85,
+        "end": 90,
+        "japanese": "今でもあなたが私の光",
+        "romanized": "",
+        "hiraganaKatakana": "いまでもあなたはわたしのひかり",
+        "myanmar": "အခုအထိ မင်းက ငါ့ရဲ့အလင်းရောင်ပဲ",
+        "time": 82394
+    },
+    {
+        "time": 90693,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "start": 90,
+        "end": 95,
+        "japanese": "暗闇であなたの背をなぞった",
+        "romanized": "",
+        "hiraganaKatakana": "くらやみであなたのせをなぞった",
+        "myanmar": "အမှောင်ထဲမှာ မင်းရဲ့ကျောပြင်ကို လက်နဲ့လိုက်လံထိတွေ့ကြည့်ခဲ့တယ်",
+        "time": 98993
+    },
+    {
+        "start": 95,
+        "end": 100,
+        "japanese": "その輪郭を生命に覚えている",
+        "romanized": "",
+        "hiraganaKatakana": "そのりんかくをせんめいにおぼえている",
+        "myanmar": "အဲ့ပုံကြမ်းကို တစ်သက်လုံးမှတ်မိနေတယ်",
+        "time": 104360
+    },
+    {
+        "start": 100,
+        "end": 105,
+        "japanese": "受け止めきれないものと出会うたび",
+        "romanized": "",
+        "hiraganaKatakana": "うけとめきれないものとであうたび",
+        "myanmar": "လုံးဝလက်ခံသဘောမတူနိုင်တဲ့ အရာတွေနဲ့ ရင်ဆိုင်ရတိုင်း",
+        "time": 109842
+    },
+    {
+        "start": 105,
+        "end": 110,
+        "japanese": "溢れてやまないのは涙だけ",
+        "romanized": "",
+        "hiraganaKatakana": "あふれてやまないのはなみだだけ",
+        "myanmar": "တားဆီးမရ စီးကျနေတာက မျက်ရည်တွေပဲ",
+        "time": 115342
+    },
+    {
+        "start": 110,
+        "end": 115,
+        "japanese": "何をしていたの",
+        "romanized": "",
+        "hiraganaKatakana": "なにをしていたの",
+        "myanmar": "ဘာတွေလုပ်ခဲ့တာလဲ",
+        "time": 121165
+    },
+    {
+        "start": 115,
+        "end": 120,
+        "japanese": "何を見ていたの",
+        "romanized": "",
+        "hiraganaKatakana": "なにをみていたの",
+        "myanmar": "ဘာတွေမြင်ခဲ့တာလဲ",
+        "time": 124224
+    },
+    {
+        "start": 120,
+        "end": 125,
+        "japanese": "私の知らない横顔で",
+        "romanized": "",
+        "hiraganaKatakana": "わたしのしらないよこがおで",
+        "myanmar": "ကျွန်တော့်ရဲ့ မသိတဲ့တစ်ဖက်ခြမ်းမှာ",
+        "time": 126858
+    },
+    {
+        "start": 125,
+        "end": 130,
+        "japanese": "どこかであなたが今、私と同じような",
+        "romanized": "",
+        "hiraganaKatakana": "どこかであなたがいま、わたしとおなじような",
+        "myanmar": "တစ်နေရာရာမှာ မင်းကအခု၊ ငါ့လိုမျိုးအတိုင်း",
+        "time": 131714
+    },
+    {
+        "start": 130,
+        "end": 135,
+        "japanese": "涙に暮れ 寂しさの中にいるなら",
+        "romanized": "",
+        "hiraganaKatakana": "なみだにくれ さびしさのなかにいるなら",
+        "myanmar": "မျက်ရည်တွေနဲ့ စိတ်ဆင်းရဲဒုက္ခရောက်၊ အထီးကျန်ခြင်းတွေရဲ့ အလယ်မှာနေနေရရင်",
+        "time": 137247
+    },
+    {
+        "start": 135,
+        "end": 140,
+        "japanese": "私のことなどどうか、忘れてください",
+        "romanized": "",
+        "hiraganaKatakana": "わたしのことなどどうか、 わすれてください",
+        "myanmar": "ငါရဲ့အကြောင်းတွေ ဘာတွေကို မေ့ပစ်ပေးပါ",
+        "time": 142765
+    },
+    {
+        "start": 140,
+        "end": 145,
+        "japanese": "そんなこと心から願うほどに",
+        "romanized": "",
+        "hiraganaKatakana": "そんなことをこころからねがうほどに",
+        "myanmar": "အဲ့လိုမျိုးကို နှလုံးသားထဲကနေ တောင်းဆိုရလောက်အောင်အထိ",
+        "time": 148597
+    },
+    {
+        "start": 145,
+        "end": 150,
+        "japanese": "今でもあなたは私の光",
+        "romanized": "",
+        "hiraganaKatakana": "いまでもあなたはわたしのひかり",
+        "myanmar": "အခုထိလည်း မင်းက ငါ့ရဲ့အလင်းရောင်ပဲ",
+        "time": 154128
+    },
+    {
+        "start": 150,
+        "end": 155,
+        "japanese": "自分が思うより",
+        "romanized": "",
+        "hiraganaKatakana": "じぶんがおもうより",
+        "myanmar": "ကိုယ်တိုင်က ထင်ထားတာထက်",
+        "time": 162879
+    },
+    {
+        "start": 155,
+        "end": 160,
+        "japanese": "恋をしていたあなたに",
+        "romanized": "",
+        "hiraganaKatakana": "こいをしていたあなたに",
+        "myanmar": "ချစ်ခဲ့တဲ့မင်းကို",
+        "time": 167972
+    },
+    {
+        "start": 160,
+        "end": 165,
+        "japanese": "あれから思うように",
+        "romanized": "",
+        "hiraganaKatakana": "あれからおもうように",
+        "myanmar": "အဲ့အချိန်ကနေ တွေးထင်ထားတဲ့အတိုင်း",
+        "time": 173560
+    },
+    {
+        "start": 165,
+        "end": 170,
+        "japanese": "息ができない",
+        "romanized": "",
+        "hiraganaKatakana": "いきができない",
+        "myanmar": "အသက်မရှူနိုင်ဘူး",
+        "time": 178918
+    },
+    {
+        "start": 170,
+        "end": 175,
+        "japanese": "あんなにそばにいたのに",
+        "romanized": "",
+        "hiraganaKatakana": "あんなにそばにいたのに",
+        "myanmar": "အဲ့လောက်အထိ အနားမှာရှိနေခဲ့ရဲ့သားနဲ့",
+        "time": 184377
+    },
+    {
+        "start": 175,
+        "end": 180,
+        "japanese": "まるで嘘みたい",
+        "romanized": "",
+        "hiraganaKatakana": "まるでうそみたい",
+        "myanmar": "အလိမ်အညာတစ်ခုလိုမျိုးပဲ",
+        "time": 190539
+    },
+    {
+        "start": 180,
+        "end": 185,
+        "japanese": "とても忘れられない",
+        "romanized": "",
+        "hiraganaKatakana": "とてもわすれられない",
+        "myanmar": "အရမ်းကိုမေ့မရနိုင်ဘူး",
+        "time": 195402
+    },
+    {
+        "start": 185,
+        "end": 190,
+        "japanese": "それだけが確か",
+        "romanized": "",
+        "hiraganaKatakana": "それだけがたしか",
+        "myanmar": "အဲ့တာလေးတင်က သေချာပေါက်",
+        "time": 201007
+    },
+    {
+        "time": 206312,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "start": 190,
+        "end": 195,
+        "japanese": "あの日の悲しみさえ",
+        "romanized": "",
+        "hiraganaKatakana": "あのひのかなしみさえ",
+        "myanmar": "အဲ့ဒီနေ့မှာ ဝမ်းနည်းခဲ့ရတာတောင်",
+        "time": 211618
+    },
+    {
+        "start": 195,
+        "end": 200,
+        "japanese": "あの日の苦しみさえ",
+        "romanized": "",
+        "hiraganaKatakana": "あのひのくるしみさえ",
+        "myanmar": "အဲ့ဒီနေ့မှာ စိတ်ပင်ပန်းဆင်းရဲခဲ့ရတာတောင်",
+        "time": 214475
+    },
+    {
+        "start": 200,
+        "end": 205,
+        "japanese": "そのすべてを愛してたあなたと共に",
+        "romanized": "",
+        "hiraganaKatakana": "そのすべてをあいしてた あなたとともに",
+        "myanmar": "အဲ့တာအားလုံးကို ချစ်မြတ်နိုးခဲ့တယ် မင်းနဲ့အတူတူ ",
+        "time": 217217
+    },
+    {
+        "start": 205,
+        "end": 210,
+        "japanese": "胸に残り離れない",
+        "romanized": "",
+        "hiraganaKatakana": "むねにのこりはなれない",
+        "myanmar": "ရင်ထဲမှာ ကျန်ရစ်နေတာ ဖျောက်ဖျက်မရဘူး",
+        "time": 222742
+    },
+    {
+        "start": 210,
+        "end": 215,
+        "japanese": "苦いレモンの匂い",
+        "romanized": "",
+        "hiraganaKatakana": "にがいれもんのにおい",
+        "myanmar": "ခါးသက်တဲ့ သံပရိုသီးရနံ့",
+        "time": 225912
+    },
+    {
+        "start": 215,
+        "end": 220,
+        "japanese": "雨が降りやむまでは帰れない",
+        "romanized": "",
+        "hiraganaKatakana": "あめがふりやむまではかえれない",
+        "myanmar": "မိုးမတိတ်သေးခင်အထိကတော့ မပြန်နိုင်ဘူး",
+        "time": 228424
+    },
+    {
+        "start": 220,
+        "end": 225,
+        "japanese": "切り分けた果実の片方のように",
+        "romanized": "",
+        "hiraganaKatakana": "きりわけたかじつのかたほうのように",
+        "myanmar": "လှီးဖြတ်ထားတဲ့ အသီးတခြမ်းလိုမျိုး",
+        "time": 234316
+    },
+    {
+        "start": 225,
+        "end": 230,
+        "japanese": "今でもあなたは私の光",
+        "romanized": "",
+        "hiraganaKatakana": "いまでもあなたはわたしのひかり",
+        "myanmar": "အခုထိလည်း မင်းက ငါ့ရဲ့အလင်းရောင်ပဲ",
+        "time": 239426
+    },
+    {
+        "time": 242426,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    }
+]
