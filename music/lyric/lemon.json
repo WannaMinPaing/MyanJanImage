@@ -36,7 +36,7 @@
         "time": 18880
     },
     {
-        "time": 23050,
+        "time": 24624,
         "japanese": null,
         "romanized": null,
         "hiraganaKatakana": null,
@@ -169,7 +169,7 @@
         "time": 82394
     },
     {
-        "time": 90693,
+        "time": 88297,
         "japanese": null,
         "romanized": null,
         "hiraganaKatakana": null,
@@ -284,6 +284,13 @@
         "time": 154128
     },
     {
+        "time": 159987,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
         "start": 150,
         "end": 155,
         "japanese": "自分が思うより",
@@ -356,7 +363,7 @@
         "time": 201007
     },
     {
-        "time": 206312,
+        "time": 207527,
         "japanese": null,
         "romanized": null,
         "hiraganaKatakana": null,
@@ -435,7 +442,7 @@
         "time": 239426
     },
     {
-        "time": 242426,
+        "time": 246085,
         "japanese": null,
         "romanized": null,
         "hiraganaKatakana": null,
