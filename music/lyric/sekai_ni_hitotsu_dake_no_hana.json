@@ -1,0 +1,383 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "japanese": "NO 1にならなくてもいい",
+        "romanized": "",
+        "hiraganaKatakana": "NO 1にならなくてもいい",
+        "myanmar": "နံပါတ်တစ် မဖြစ်လည်းပဲ အဆင်ပြေပါတယ်",
+        "time": 2213
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "japanese": "元々特別な Only one",
+        "romanized": "",
+        "hiraganaKatakana": "もともととくべつな Only one",
+        "myanmar": "အရင်ကတည်းက တမူထူးခြားတဲ့ Only one",
+        "time": 7403
+    },
+    {
+        "time": 12859,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "start": 0,
+        "end": 5,
+        "japanese": "花屋の店先に並んだ",
+        "romanized": "",
+        "hiraganaKatakana": "はなやのみせさきにならんだ",
+        "myanmar": "ပန်းဆိုင်ရဲ့ရှေ့မှာ တန်းစီခဲ့တယ်",
+        "time": 31085
+    },
+    {
+        "start": 5,
+        "end": 10,
+        "japanese": "いろんな花を見ていた",
+        "romanized": "",
+        "hiraganaKatakana": "いろんなはなをみていた",
+        "myanmar": "ပန်းမျိုးစုံကို ကြည့်နေခဲ့တယ်",
+        "time": 36341
+    },
+    {
+        "start": 10,
+        "end": 15,
+        "japanese": "人それぞれ好みはあるけど",
+        "romanized": "",
+        "hiraganaKatakana": "ひとそれぞれこのみはあるけれど",
+        "myanmar": "လူတွေက အကြိုက်မျိုးစုံ ရှိကြတယ်ဆိုပေမယ့်",
+        "time": 40838
+    },
+    {
+        "start": 15,
+        "end": 20,
+        "japanese": "どれもみんな綺麗だね",
+        "romanized": "",
+        "hiraganaKatakana": "どれもみんなきれいだね",
+        "myanmar": "ဘယ်ပန်းဖြစ်ဖြစ် လှကြတာပဲနော်",
+        "time": 45508
+    },
+    {
+        "start": 20,
+        "end": 25,
+        "japanese": "この中で誰が一番だなんて",
+        "romanized": "",
+        "hiraganaKatakana": "このなかでだれがいちばんだなんて",
+        "myanmar": "အဲ့ဒီထဲမှာ ဘယ်သူကအလှဆုံးဆိုတာမျိုး",
+        "time": 50673
+    },
+    {
+        "start": 25,
+        "end": 30,
+        "japanese": "争うこともしないで",
+        "romanized": "",
+        "hiraganaKatakana": "あらそうこともしないで",
+        "myanmar": "ယှဥ်ပြိုင်တိုက်ခိုက်တာတောင် မရှိဘဲ",
+        "time": 55543
+    },
+    {
+        "start": 30,
+        "end": 35,
+        "japanese": "バケツの中誇らしげに",
+        "romanized": "",
+        "hiraganaKatakana": "ばけつのなかほこらしげに",
+        "myanmar": "ပုံးထဲမှာ ဂုဏ်ယူဝင့်ကြွားပြီး",
+        "time": 60521
+    },
+    {
+        "start": 35,
+        "end": 40,
+        "japanese": "しゃんと胸を張っている",
+        "romanized": "",
+        "hiraganaKatakana": "しゃんとむねをはっている",
+        "myanmar": "ခေါင်းမော့ရင်ကော့နေတယ်",
+        "time": 65169
+    },
+    {
+        "start": 40,
+        "end": 45,
+        "japanese": "それなのに僕ら人間は",
+        "romanized": "",
+        "hiraganaKatakana": "それなのにぼくらにんげんは",
+        "myanmar": "အဲ့တာတောင် ကျွန်တော်တို့လူသားတွေက",
+        "time": 70018
+    },
+    {
+        "start": 45,
+        "end": 50,
+        "japanese": "どうしてこうも比べたがる？",
+        "romanized": "",
+        "hiraganaKatakana": "どうしてこうもくらべたがる？",
+        "myanmar": "ဘာလို့နှိုင်းယှဥ်ချင်စိတ် ပြင်းပြနေကြရတာလဲ",
+        "time": 74946
+    },
+    {
+        "start": 50,
+        "end": 55,
+        "japanese": "一人一人違うのにその中で",
+        "romanized": "",
+        "hiraganaKatakana": "ひとりひとりちがうのにそのなかで",
+        "myanmar": "လူတစ်ယောက်နဲ့ တစ်ယောက် မတူညီကြတာကို အဲ့ဒီထဲမှာ",
+        "time": 79791
+    },
+    {
+        "start": 55,
+        "end": 60,
+        "japanese": "一番になりたがる？",
+        "romanized": "",
+        "hiraganaKatakana": "いちばんになりたがる？",
+        "myanmar": "နံပါတ် ၁ ဖြစ်ချင်ကြတာလား",
+        "time": 84550
+    },
+    {
+        "start": 60,
+        "end": 65,
+        "japanese": "そうさ僕らは",
+        "romanized": "",
+        "hiraganaKatakana": "そうさぼくらは",
+        "myanmar": "ဟုတ်သား၊ ကျွန်တော်တို့တွေက",
+        "time": 89598
+    },
+    {
+        "start": 65,
+        "end": 70,
+        "japanese": "世界にひとつだけの花",
+        "romanized": "",
+        "hiraganaKatakana": "せかいにひとつだけのはな",
+        "myanmar": "ကမ္ဘာပေါ်မှာ တစ်ခုတည်းရှိတဲ့ ပန်း",
+        "time": 92219
+    },
+    {
+        "start": 70,
+        "end": 75,
+        "japanese": "一人一人違う種を持つ",
+        "romanized": "",
+        "hiraganaKatakana": "ひとりひとりちがうたねをもつ",
+        "myanmar": "လူတစ်ယောက်စီတိုင်း မတူညီတဲ့သစ်စေ့ကို ပိုင်ဆိုင်ကြတယ်",
+        "time": 97009
+    },
+    {
+        "start": 75,
+        "end": 80,
+        "japanese": "その花を咲かせることだけに",
+        "romanized": "",
+        "hiraganaKatakana": "そのはなをさかせることだけに",
+        "myanmar": "အဲ့ပန်းကို ပွင့်စေဖို့အတွက်တင်",
+        "time": 101981
+    },
+    {
+        "start": 80,
+        "end": 85,
+        "japanese": "一生懸命になればいい",
+        "romanized": "",
+        "hiraganaKatakana": "いっしょうけんめいになればいい",
+        "myanmar": "မဆုတ်မနစ်နဲ့ ကြိုးစားရင်ရပြီ",
+        "time": 106860
+    },
+    {
+        "time": 111722,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    },
+    {
+        "start": 85,
+        "end": 90,
+        "japanese": "困ったように笑いながら",
+        "romanized": "",
+        "hiraganaKatakana": "こまったようにわらいながら",
+        "myanmar": "စိတ်ဒုက္ခရောက်နေသလို ပြုံးရယ်ရင်း",
+        "time": 131599
+    },
+    {
+        "start": 90,
+        "end": 95,
+        "japanese": "ずっと迷ってる人がいる",
+        "romanized": "",
+        "hiraganaKatakana": "ずっとまよっているひとがいる",
+        "myanmar": "တောက်လျှောက်လမ်းပျောက်နေတဲ့သူတွေရှိတယ်",
+        "time": 136506
+    },
+    {
+        "start": 95,
+        "end": 100,
+        "japanese": "頑張って咲いた花はどれも",
+        "romanized": "",
+        "hiraganaKatakana": "がんばってさいたはなはどれも",
+        "myanmar": "ကြိုးစားပြီးပွင့်လန်းတဲ့ ဘယ်ပန်းမဆို",
+        "time": 141425
+    },
+    {
+        "start": 100,
+        "end": 105,
+        "japanese": "綺麗だから仕方ないね",
+        "romanized": "",
+        "hiraganaKatakana": "きれいだからしかたないね",
+        "myanmar": "လှကြတာမိုလို့ မတတ်နိုင်ဘူးလေနော်",
+        "time": 146385
+    },
+    {
+        "start": 105,
+        "end": 110,
+        "japanese": "やっと店から出てきた",
+        "romanized": "",
+        "hiraganaKatakana": "やっとみせからでてきた",
+        "myanmar": "နောက်ဆုံးတော့ ဆိုင်ထဲကထွက်လာခဲ့တယ်",
+        "time": 151243
+    },
+    {
+        "start": 110,
+        "end": 115,
+        "japanese": "その人が抱えていた",
+        "romanized": "",
+        "hiraganaKatakana": "そのひとがかかえていた",
+        "myanmar": "အဲ့လူက ပွေ့ပိုက်ထားတဲ့",
+        "time": 156137
+    },
+    {
+        "start": 115,
+        "end": 120,
+        "japanese": "色取りどりの花束と",
+        "romanized": "",
+        "hiraganaKatakana": "いろとりどりのはなたばと",
+        "myanmar": "ရောင်စုံပန်းစည်းတစ်ခုနဲ့",
+        "time": 160814
+    },
+    {
+        "start": 120,
+        "end": 125,
+        "japanese": "嬉しそうな横顔",
+        "romanized": "",
+        "hiraganaKatakana": "うれしそうなよこがお",
+        "myanmar": "ဝမ်းသာပုံပေါ်နေတဲ့ မျက်နှာ",
+        "time": 165757
+    },
+    {
+        "start": 125,
+        "end": 130,
+        "japanese": "名前も知らなかったけれど",
+        "romanized": "",
+        "hiraganaKatakana": "なまえもしらなかったけれど",
+        "myanmar": "နာမည်တောင် မသိပေမယ့်",
+        "time": 170715
+    },
+    {
+        "start": 130,
+        "end": 135,
+        "japanese": "あの日僕に笑顔をくれた",
+        "romanized": "",
+        "hiraganaKatakana": "あのひぼくにえがおをくれた",
+        "myanmar": "အဲ့နေ့တုန်းက ကျွန်တော့်ကို ပြုံးပြခဲ့တယ်",
+        "time": 175467
+    },
+    {
+        "start": 135,
+        "end": 140,
+        "japanese": "誰も気づかないような場所で",
+        "romanized": "",
+        "hiraganaKatakana": "だれもきづかないようなばしょで",
+        "myanmar": "ဘယ်သူမှ သတိမထားမိနိုင်လောက်မဲ့နေရာမှာ",
+        "time": 180341
+    },
+    {
+        "start": 140,
+        "end": 145,
+        "japanese": "咲いてた花のように",
+        "romanized": "",
+        "hiraganaKatakana": "さいてたはなのように",
+        "myanmar": "ပွင့်လန်းနေခဲ့တဲ့ ပန်းလိုမျိုး",
+        "time": 185198
+    },
+    {
+        "start": 145,
+        "end": 150,
+        "japanese": "そうさ僕らも",
+        "romanized": "",
+        "hiraganaKatakana": "そうさぼくらも",
+        "myanmar": "ဟုတ်သား၊ ကျွန်တော်တို့လည်း",
+        "time": 190377
+    },
+    {
+        "start": 150,
+        "end": 155,
+        "japanese": "世界にひとつだけの花",
+        "romanized": "",
+        "hiraganaKatakana": "せかいにひとつだけのはな",
+        "myanmar": "ကမ္ဘာပေါ်မှာ တစ်ခုတည်းရှိတဲ့ ပန်း",
+        "time": 192770
+    },
+    {
+        "start": 155,
+        "end": 160,
+        "japanese": "一人一人違う種を持つ",
+        "romanized": "",
+        "hiraganaKatakana": "ひとりひとりちがうたねをもつ",
+        "myanmar": "လူတစ်ယောက်စီတိုင်း မတူညီတဲ့သစ်စေ့ကို ပိုင်ဆိုင်ကြတယ်",
+        "time": 197782
+    },
+    {
+        "start": 160,
+        "end": 165,
+        "japanese": "その花を咲かせることだけに",
+        "romanized": "",
+        "hiraganaKatakana": "そのはなをさかせることだけに",
+        "myanmar": "အဲ့ပန်းကို ပွင့်စေဖို့အတွက်တင်",
+        "time": 202428
+    },
+    {
+        "start": 165,
+        "end": 170,
+        "japanese": "一生懸命になればいい",
+        "romanized": "",
+        "hiraganaKatakana": "いっしょうけんめいに　なればいい",
+        "myanmar": "မဆုတ်မနစ်နဲ့ ကြိုးစားရင်ရပြီ",
+        "time": 207317
+    },
+    {
+        "start": 170,
+        "end": 175,
+        "japanese": "小さい花や大きな花",
+        "romanized": "",
+        "hiraganaKatakana": "ちいさいはなやおおきなはな",
+        "myanmar": "သေးငယ်တဲ့ ပန်းနဲ့ ကြီးမားတဲ့ ပန်း",
+        "time": 211926
+    },
+    {
+        "start": 175,
+        "end": 180,
+        "japanese": "ひとつとして同じものはないから",
+        "romanized": "",
+        "hiraganaKatakana": "ひとつとしておなじものはないから",
+        "myanmar": "တစ်ခုတည်းဆိုပြီး တူညီတာမျိုးက မရှိတာကြောင့်",
+        "time": 217423
+    },
+    {
+        "start": 180,
+        "end": 185,
+        "japanese": "Number oneにならなくてもいい",
+        "romanized": "",
+        "hiraganaKatakana": "Number oneにならなくてもいい",
+        "myanmar": "နံပါတ် ၁ မဖြစ်လာလည်း အဆင်ပြေပါတယ်",
+        "time": 221756
+    },
+    {
+        "start": 185,
+        "end": 190,
+        "japanese": "もともと特別なOnly one",
+        "romanized": "",
+        "hiraganaKatakana": "もともととくべつなOnly one",
+        "myanmar": "အရင်ကတည်းက တမူထူးခြားတဲ့ Only one",
+        "time": 226710
+    },
+    {
+        "time": 232512,
+        "japanese": null,
+        "romanized": null,
+        "hiraganaKatakana": null,
+        "myanmar": null
+    }
+]
